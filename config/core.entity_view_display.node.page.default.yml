@@ -20,13 +20,13 @@ content:
   body:
     label: hidden
     type: text_default
-    weight: 100
+    weight: 0
     region: content
     settings: {  }
     third_party_settings: {  }
   field_image:
-    weight: 102
-    label: above
+    weight: 1
+    label: hidden
     settings:
       image_style: ''
       image_link: ''
@@ -34,6 +34,8 @@ content:
     type: image
     region: content
   links:
-    weight: 101
+    weight: 2
     region: content
+    settings: {  }
+    third_party_settings: {  }
 hidden: {  }
