@@ -16,9 +16,13 @@
     ],
     "require": {
         "composer/installers": "^1.9",
+        "drupal/captcha": "^1.2",
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
+        "drupal/field_group": "^3.2",
+        "drupal/paragraphs": "^1.12",
+        "drupal/pathauto": "^1.8",
         "drupal/structure_sync": "^2.0",
         "drush/drush": "^10.5"
     },
