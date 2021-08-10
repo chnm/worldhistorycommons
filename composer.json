@@ -24,6 +24,7 @@
         "drupal/paragraphs": "^1.12",
         "drupal/pathauto": "^1.8",
         "drupal/structure_sync": "^2.0",
+        "drupal/video_embed_field": "^2.4",
         "drush/drush": "^10.5"
     },
     "conflict": {

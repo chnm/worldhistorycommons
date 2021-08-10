@@ -1,0 +1,27 @@
+uuid: 3529a5d4-5745-45ef-8630-97d93061f109
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_video_clip
+    - paragraphs.paragraphs_type.video
+  module:
+    - file
+id: paragraph.video.field_video_clip
+field_name: field_video_clip
+entity_type: paragraph
+bundle: video
+label: 'Video Clip'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  file_directory: '[date:custom:Y]-[date:custom:m]'
+  file_extensions: 'mov mp4'
+  max_filesize: ''
+  description_field: false
+  handler: 'default:file'
+  handler_settings: {  }
+field_type: file

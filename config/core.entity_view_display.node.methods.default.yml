@@ -3,7 +3,6 @@ langcode: en
 status: true
 dependencies:
   config:
-    - field.field.node.methods.body
     - field.field.node.methods.field_author
     - field.field.node.methods.field_bibliography
     - field.field.node.methods.field_credits
@@ -15,8 +14,10 @@ dependencies:
     - field.field.node.methods.field_sample_analysis
     - field.field.node.methods.field_subject
     - field.field.node.methods.field_time_period
+    - field.field.node.methods.field_video_clip
     - node.type.methods
   module:
+    - entity_reference_revisions
     - image
     - text
     - user
@@ -25,13 +26,6 @@ targetEntityType: node
 bundle: methods
 mode: default
 content:
-  body:
-    label: hidden
-    type: text_default
-    weight: 101
-    settings: {  }
-    third_party_settings: {  }
-    region: content
   field_author:
     weight: 102
     label: above
@@ -115,6 +109,15 @@ content:
       link: true
     third_party_settings: {  }
     type: entity_reference_label
+    region: content
+  field_video_clip:
+    type: entity_reference_revisions_entity_view
+    weight: 113
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
     region: content
   links:
     weight: 100

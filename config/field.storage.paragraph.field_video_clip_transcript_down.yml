@@ -1,0 +1,23 @@
+uuid: 6038efe8-6cd7-4788-a905-bade9dc69395
+langcode: en
+status: true
+dependencies:
+  module:
+    - file
+    - paragraphs
+id: paragraph.field_video_clip_transcript_down
+field_name: field_video_clip_transcript_down
+entity_type: paragraph
+type: file
+settings:
+  display_field: false
+  display_default: false
+  uri_scheme: public
+  target_type: file
+module: file
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

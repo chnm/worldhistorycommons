@@ -4,7 +4,6 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
-    - field.field.node.methods.body
     - field.field.node.methods.field_author
     - field.field.node.methods.field_bibliography
     - field.field.node.methods.field_credits
@@ -16,23 +15,15 @@ dependencies:
     - field.field.node.methods.field_sample_analysis
     - field.field.node.methods.field_subject
     - field.field.node.methods.field_time_period
+    - field.field.node.methods.field_video_clip
     - node.type.methods
   module:
-    - text
     - user
 id: node.methods.teaser
 targetEntityType: node
 bundle: methods
 mode: teaser
 content:
-  body:
-    label: hidden
-    type: text_summary_or_trimmed
-    weight: 101
-    settings:
-      trim_length: 600
-    third_party_settings: {  }
-    region: content
   links:
     weight: 100
     settings: {  }
@@ -50,3 +41,4 @@ hidden:
   field_sample_analysis: true
   field_subject: true
   field_time_period: true
+  field_video_clip: true
