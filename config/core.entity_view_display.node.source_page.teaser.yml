@@ -4,27 +4,47 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
-    - field.field.node.source_page.body
+    - field.field.node.source_page.field_annotation
+    - field.field.node.source_page.field_audio
+    - field.field.node.source_page.field_credits
+    - field.field.node.source_page.field_image
+    - field.field.node.source_page.field_region
+    - field.field.node.source_page.field_source_metadata
+    - field.field.node.source_page.field_subject
+    - field.field.node.source_page.field_text
+    - field.field.node.source_page.field_text_file
+    - field.field.node.source_page.field_time_period
+    - field.field.node.source_page.field_transcription
+    - field.field.node.source_page.field_translation
+    - field.field.node.source_page.field_type
+    - field.field.node.source_page.field_video
+    - field.field.node.source_page.field_youtube_video
     - node.type.source_page
   module:
-    - text
     - user
 id: node.source_page.teaser
 targetEntityType: node
 bundle: source_page
 mode: teaser
 content:
-  body:
-    label: hidden
-    type: text_summary_or_trimmed
-    weight: 101
-    settings:
-      trim_length: 600
-    third_party_settings: {  }
-    region: content
   links:
     weight: 100
     settings: {  }
     third_party_settings: {  }
     region: content
-hidden: {  }
+hidden:
+  field_annotation: true
+  field_audio: true
+  field_credits: true
+  field_image: true
+  field_region: true
+  field_source_metadata: true
+  field_subject: true
+  field_text: true
+  field_text_file: true
+  field_time_period: true
+  field_transcription: true
+  field_translation: true
+  field_type: true
+  field_video: true
+  field_youtube_video: true
