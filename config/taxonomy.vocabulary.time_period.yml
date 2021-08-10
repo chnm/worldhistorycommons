@@ -1,0 +1,8 @@
+uuid: bca1c729-ea81-4cef-b8a6-06625e312bb0
+langcode: en
+status: true
+dependencies: {  }
+name: 'Time Period'
+vid: time_period
+description: ''
+weight: 0

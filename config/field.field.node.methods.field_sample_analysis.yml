@@ -1,0 +1,21 @@
+uuid: 5c1ab01a-dc5f-453c-8297-73e85c9d39e6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_sample_analysis
+    - node.type.methods
+  module:
+    - text
+id: node.methods.field_sample_analysis
+field_name: field_sample_analysis
+entity_type: node
+bundle: methods
+label: 'Sample Analysis'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

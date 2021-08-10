@@ -1,0 +1,28 @@
+uuid: b065f892-1752-4ca7-9cff-60fbc2df1707
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.source_page.body
+    - node.type.source_page
+  module:
+    - text
+    - user
+id: node.source_page.default
+targetEntityType: node
+bundle: source_page
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }

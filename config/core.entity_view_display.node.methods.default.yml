@@ -1,0 +1,124 @@
+uuid: a1fac629-c8e5-4534-97d1-aa81e5ed87ed
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.methods.body
+    - field.field.node.methods.field_author
+    - field.field.node.methods.field_bibliography
+    - field.field.node.methods.field_credits
+    - field.field.node.methods.field_essay
+    - field.field.node.methods.field_image
+    - field.field.node.methods.field_overview
+    - field.field.node.methods.field_primary_sources
+    - field.field.node.methods.field_region
+    - field.field.node.methods.field_sample_analysis
+    - field.field.node.methods.field_subject
+    - field.field.node.methods.field_time_period
+    - node.type.methods
+  module:
+    - image
+    - text
+    - user
+id: node.methods.default
+targetEntityType: node
+bundle: methods
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_author:
+    weight: 102
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_bibliography:
+    weight: 108
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_credits:
+    weight: 109
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_essay:
+    weight: 104
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_image:
+    weight: 106
+    label: above
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+    region: content
+  field_overview:
+    weight: 103
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_primary_sources:
+    weight: 107
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_region:
+    weight: 110
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_sample_analysis:
+    weight: 105
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_subject:
+    weight: 111
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_time_period:
+    weight: 112
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }

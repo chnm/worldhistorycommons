@@ -1,0 +1,52 @@
+uuid: 1c9fa1a5-0a92-4366-97bd-6d41cab5eef3
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.methods.body
+    - field.field.node.methods.field_author
+    - field.field.node.methods.field_bibliography
+    - field.field.node.methods.field_credits
+    - field.field.node.methods.field_essay
+    - field.field.node.methods.field_image
+    - field.field.node.methods.field_overview
+    - field.field.node.methods.field_primary_sources
+    - field.field.node.methods.field_region
+    - field.field.node.methods.field_sample_analysis
+    - field.field.node.methods.field_subject
+    - field.field.node.methods.field_time_period
+    - node.type.methods
+  module:
+    - text
+    - user
+id: node.methods.teaser
+targetEntityType: node
+bundle: methods
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_author: true
+  field_bibliography: true
+  field_credits: true
+  field_essay: true
+  field_image: true
+  field_overview: true
+  field_primary_sources: true
+  field_region: true
+  field_sample_analysis: true
+  field_subject: true
+  field_time_period: true

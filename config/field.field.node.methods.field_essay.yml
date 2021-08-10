@@ -1,0 +1,21 @@
+uuid: 4f1fbed9-8b51-4ae1-85a8-a56c91fdd4b4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_essay
+    - node.type.methods
+  module:
+    - text
+id: node.methods.field_essay
+field_name: field_essay
+entity_type: node
+bundle: methods
+label: Essay
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

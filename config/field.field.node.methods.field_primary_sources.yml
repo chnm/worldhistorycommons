@@ -1,0 +1,29 @@
+uuid: 7f54b46b-5d75-4983-8eb8-c21535e6d48a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_primary_sources
+    - node.type.methods
+    - node.type.source_page
+id: node.methods.field_primary_sources
+field_name: field_primary_sources
+entity_type: node
+bundle: methods
+label: 'Primary Sources'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      source_page: source_page
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,0 +1,19 @@
+uuid: de9d3a2f-865c-4f6e-8c4b-ffccbb3faecc
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_essay
+field_name: field_essay
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

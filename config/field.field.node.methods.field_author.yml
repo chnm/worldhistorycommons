@@ -1,0 +1,19 @@
+uuid: a680fe33-67be-4fc3-a3ad-6d353926a84d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_author
+    - node.type.methods
+id: node.methods.field_author
+field_name: field_author
+entity_type: node
+bundle: methods
+label: Author
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
