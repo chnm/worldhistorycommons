@@ -1,0 +1,21 @@
+uuid: d96c4949-584a-48e9-b3d4-23b596455044
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_transcription
+    - node.type.source_page
+  module:
+    - text
+id: node.source_page.field_transcription
+field_name: field_transcription
+entity_type: node
+bundle: source_page
+label: Transcription
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

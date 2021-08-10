@@ -1,0 +1,19 @@
+uuid: d2c344a5-c40a-4241-ad5c-ded741e4f90b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_website_reviewer
+    - node.type.review
+id: node.review.field_website_reviewer
+field_name: field_website_reviewer
+entity_type: node
+bundle: review
+label: 'Website Reviewer'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,21 @@
+uuid: a6cdf34b-7006-48a5-b259-3bfd88a3969c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_credits
+    - node.type.review
+  module:
+    - text
+id: node.review.field_credits
+field_name: field_credits
+entity_type: node
+bundle: review
+label: Credits
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

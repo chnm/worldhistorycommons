@@ -1,0 +1,21 @@
+uuid: b25aced0-11b5-4135-bab0-7602ea0094bc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_annotation
+    - node.type.source_page
+  module:
+    - text
+id: node.source_page.field_annotation
+field_name: field_annotation
+entity_type: node
+bundle: source_page
+label: Annotation
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

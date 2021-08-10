@@ -1,0 +1,19 @@
+uuid: 5a31ef05-5ec7-42b8-915e-b295eff01b36
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_website_creator
+    - node.type.review
+id: node.review.field_website_creator
+field_name: field_website_creator
+entity_type: node
+bundle: review
+label: 'Website Creator'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

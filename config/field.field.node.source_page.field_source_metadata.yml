@@ -1,0 +1,19 @@
+uuid: 1000789d-2296-4b85-86a1-d057643aea1f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_source_metadata
+    - node.type.source_page
+id: node.source_page.field_source_metadata
+field_name: field_source_metadata
+entity_type: node
+bundle: source_page
+label: 'Source Metadata'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

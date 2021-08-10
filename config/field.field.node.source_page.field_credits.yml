@@ -1,0 +1,21 @@
+uuid: 84c6082b-bd4f-441c-86e8-d6609076b053
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_credits
+    - node.type.source_page
+  module:
+    - text
+id: node.source_page.field_credits
+field_name: field_credits
+entity_type: node
+bundle: source_page
+label: Credits
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

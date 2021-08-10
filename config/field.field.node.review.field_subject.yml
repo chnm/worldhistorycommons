@@ -1,0 +1,29 @@
+uuid: 1d0a96d2-992c-40c3-996d-7c93cd40847f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_subject
+    - node.type.review
+    - taxonomy.vocabulary.subject
+id: node.review.field_subject
+field_name: field_subject
+entity_type: node
+bundle: review
+label: Subject
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      subject: subject
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

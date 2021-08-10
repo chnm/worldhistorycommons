@@ -1,0 +1,19 @@
+uuid: 57d4406b-d056-4211-8a4b-15d3a08d75bb
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_annotation
+field_name: field_annotation
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

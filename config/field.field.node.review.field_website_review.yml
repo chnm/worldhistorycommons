@@ -1,0 +1,21 @@
+uuid: de37e09d-0993-4bc5-93cd-be49f8582f41
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_website_review
+    - node.type.review
+  module:
+    - text
+id: node.review.field_website_review
+field_name: field_website_review
+entity_type: node
+bundle: review
+label: 'Website Review'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

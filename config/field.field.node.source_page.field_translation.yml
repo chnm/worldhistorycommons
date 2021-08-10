@@ -1,0 +1,21 @@
+uuid: 61d554f5-34b2-4637-a9a9-9d4f329b8c32
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_translation
+    - node.type.source_page
+  module:
+    - text
+id: node.source_page.field_translation
+field_name: field_translation
+entity_type: node
+bundle: source_page
+label: Translation
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

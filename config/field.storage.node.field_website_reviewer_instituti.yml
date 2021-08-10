@@ -1,0 +1,21 @@
+uuid: 97187fce-57d6-4891-8ef0-e3272c1645b3
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_website_reviewer_instituti
+field_name: field_website_reviewer_instituti
+entity_type: node
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

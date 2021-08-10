@@ -1,0 +1,19 @@
+uuid: eac30445-664e-4a16-96d4-3e3501bb970c
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_website_review
+field_name: field_website_review
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
