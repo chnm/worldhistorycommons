@@ -1,0 +1,29 @@
+uuid: 343cb3aa-477f-4f77-b8ee-1852efdb11ee
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_primary_sources
+    - node.type.source_page
+    - node.type.teaching
+id: node.teaching.field_primary_sources
+field_name: field_primary_sources
+entity_type: node
+bundle: teaching
+label: 'Primary Sources'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      source_page: source_page
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

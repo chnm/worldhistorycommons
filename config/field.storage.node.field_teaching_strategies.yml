@@ -1,0 +1,19 @@
+uuid: d7ab4a17-30d3-4605-bdf7-8da0f209ac50
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_teaching_strategies
+field_name: field_teaching_strategies
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

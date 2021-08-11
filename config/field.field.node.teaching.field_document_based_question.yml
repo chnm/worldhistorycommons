@@ -1,0 +1,21 @@
+uuid: 6f88b749-5727-47c8-8462-9dca67928af5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_document_based_question
+    - node.type.teaching
+  module:
+    - text
+id: node.teaching.field_document_based_question
+field_name: field_document_based_question
+entity_type: node
+bundle: teaching
+label: 'Document Based Question'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

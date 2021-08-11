@@ -1,0 +1,18 @@
+uuid: 22060828-d1b8-4324-8842-d12fb77f40d3
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Teaching
+type: teaching
+description: 'Content type for Teaching'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

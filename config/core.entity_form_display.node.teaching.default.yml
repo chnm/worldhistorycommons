@@ -1,0 +1,275 @@
+uuid: 7c21305b-ffb7-42d6-bfb2-6859be324d86
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.teaching.field_author
+    - field.field.node.teaching.field_bibliography
+    - field.field.node.teaching.field_credits
+    - field.field.node.teaching.field_document_based_question
+    - field.field.node.teaching.field_downloads
+    - field.field.node.teaching.field_essay
+    - field.field.node.teaching.field_lesson_plan
+    - field.field.node.teaching.field_overview
+    - field.field.node.teaching.field_primary_sources
+    - field.field.node.teaching.field_region
+    - field.field.node.teaching.field_subject
+    - field.field.node.teaching.field_teaching_strategies
+    - field.field.node.teaching.field_time_period
+    - node.type.teaching
+  module:
+    - field_group
+    - file
+    - path
+    - text
+third_party_settings:
+  field_group:
+    group_tabs:
+      children:
+        - group_main
+        - group_sources
+        - group_tags
+      parent_name: ''
+      weight: 1
+      format_type: tabs
+      region: content
+      format_settings:
+        show_empty_fields: false
+        id: ''
+        classes: ''
+        direction: vertical
+        width_breakpoint: 640
+      label: Tabs
+    group_main:
+      children:
+        - title
+        - field_author
+        - field_overview
+        - field_essay
+        - field_teaching_strategies
+        - field_lesson_plan
+        - field_document_based_question
+        - field_downloads
+        - field_bibliography
+        - field_credits
+      parent_name: group_tabs
+      weight: 21
+      format_type: tab
+      region: content
+      format_settings:
+        show_empty_fields: false
+        id: ''
+        classes: ''
+        description: ''
+        formatter: closed
+        required_fields: true
+      label: Main
+    group_tags:
+      children:
+        - field_region
+        - field_subject
+        - field_time_period
+      parent_name: group_tabs
+      weight: 23
+      format_type: tab
+      region: content
+      format_settings:
+        show_empty_fields: false
+        id: ''
+        classes: ''
+        description: ''
+        formatter: closed
+        required_fields: true
+      label: Tags
+    group_publishing_options:
+      children:
+        - uid
+        - created
+        - promote
+        - sticky
+        - path
+        - status
+      parent_name: ''
+      weight: 0
+      format_type: details_sidebar
+      region: content
+      format_settings:
+        show_empty_fields: false
+        id: ''
+        classes: ''
+        description: ''
+        open: false
+        required_fields: true
+        weight: 0
+      label: 'Publishing Options'
+    group_sources:
+      children:
+        - field_primary_sources
+      parent_name: group_tabs
+      weight: 22
+      format_type: tab
+      region: content
+      format_settings:
+        show_empty_fields: false
+        id: ''
+        classes: ''
+        description: ''
+        formatter: closed
+        required_fields: true
+      label: Sources
+id: node.teaching.default
+targetEntityType: node
+bundle: teaching
+mode: default
+content:
+  created:
+    type: datetime_timestamp
+    weight: 28
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_author:
+    weight: 3
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_bibliography:
+    weight: 10
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_credits:
+    weight: 11
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_document_based_question:
+    weight: 8
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_downloads:
+    weight: 9
+    settings:
+      progress_indicator: throbber
+    third_party_settings: {  }
+    type: file_generic
+    region: content
+  field_essay:
+    weight: 5
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_lesson_plan:
+    weight: 7
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_overview:
+    weight: 4
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_primary_sources:
+    weight: 11
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+  field_region:
+    weight: 18
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_subject:
+    weight: 19
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_teaching_strategies:
+    weight: 6
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_time_period:
+    weight: 20
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  path:
+    type: path
+    weight: 31
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  promote:
+    type: boolean_checkbox
+    settings:
+      display_label: true
+    weight: 29
+    region: content
+    third_party_settings: {  }
+  status:
+    type: boolean_checkbox
+    settings:
+      display_label: true
+    weight: 32
+    region: content
+    third_party_settings: {  }
+  sticky:
+    type: boolean_checkbox
+    settings:
+      display_label: true
+    weight: 30
+    region: content
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: 2
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 27
+    settings:
+      match_operator: CONTAINS
+      size: 60
+      placeholder: ''
+      match_limit: 10
+    region: content
+    third_party_settings: {  }
+hidden: {  }

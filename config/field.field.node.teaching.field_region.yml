@@ -1,0 +1,29 @@
+uuid: 61c14a3a-4f3f-413c-8c5e-688bc98f9bc9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_region
+    - node.type.teaching
+    - taxonomy.vocabulary.region
+id: node.teaching.field_region
+field_name: field_region
+entity_type: node
+bundle: teaching
+label: Region
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      region: region
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

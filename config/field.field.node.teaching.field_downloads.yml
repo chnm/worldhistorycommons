@@ -1,0 +1,27 @@
+uuid: 8e8b5932-15fc-4dca-84d4-a7566477b1d4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_downloads
+    - node.type.teaching
+  module:
+    - file
+id: node.teaching.field_downloads
+field_name: field_downloads
+entity_type: node
+bundle: teaching
+label: Downloads
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  file_directory: '[date:custom:Y]-[date:custom:m]'
+  file_extensions: 'txt pdf doc'
+  max_filesize: ''
+  description_field: false
+  handler: 'default:file'
+  handler_settings: {  }
+field_type: file

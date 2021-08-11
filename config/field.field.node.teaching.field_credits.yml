@@ -1,0 +1,21 @@
+uuid: 15f9ecd1-5121-4e50-9759-884126e2fc79
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_credits
+    - node.type.teaching
+  module:
+    - text
+id: node.teaching.field_credits
+field_name: field_credits
+entity_type: node
+bundle: teaching
+label: Credits
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

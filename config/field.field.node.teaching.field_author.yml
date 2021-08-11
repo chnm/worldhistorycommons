@@ -1,0 +1,19 @@
+uuid: 083871b5-b330-464a-9056-f866dc97ebeb
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_author
+    - node.type.teaching
+id: node.teaching.field_author
+field_name: field_author
+entity_type: node
+bundle: teaching
+label: Author
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

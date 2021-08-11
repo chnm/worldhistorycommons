@@ -1,0 +1,46 @@
+uuid: 40619036-7623-4fe0-be27-b2fa906f8a51
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.teaching.field_author
+    - field.field.node.teaching.field_bibliography
+    - field.field.node.teaching.field_credits
+    - field.field.node.teaching.field_document_based_question
+    - field.field.node.teaching.field_downloads
+    - field.field.node.teaching.field_essay
+    - field.field.node.teaching.field_lesson_plan
+    - field.field.node.teaching.field_overview
+    - field.field.node.teaching.field_primary_sources
+    - field.field.node.teaching.field_region
+    - field.field.node.teaching.field_subject
+    - field.field.node.teaching.field_teaching_strategies
+    - field.field.node.teaching.field_time_period
+    - node.type.teaching
+  module:
+    - user
+id: node.teaching.teaser
+targetEntityType: node
+bundle: teaching
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_author: true
+  field_bibliography: true
+  field_credits: true
+  field_document_based_question: true
+  field_downloads: true
+  field_essay: true
+  field_lesson_plan: true
+  field_overview: true
+  field_primary_sources: true
+  field_region: true
+  field_subject: true
+  field_teaching_strategies: true
+  field_time_period: true
