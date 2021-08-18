@@ -5,11 +5,13 @@ dependencies:
   config:
     - field.field.node.page.body
     - field.field.node.page.field_image
+    - field.field.node.page.field_youtube_video
     - node.type.page
   module:
     - image
     - text
     - user
+    - video_embed_field
 _core:
   default_config_hash: g1S3_GLaxq4l3I9RIca5Mlz02MxI2KmOquZpHw59akM
 id: node.page.default
@@ -32,6 +34,17 @@ content:
       image_link: ''
     third_party_settings: {  }
     type: image
+    region: content
+  field_youtube_video:
+    weight: 3
+    label: above
+    settings:
+      responsive: true
+      width: 854
+      height: 480
+      autoplay: true
+    third_party_settings: {  }
+    type: video_embed_field_video
     region: content
   links:
     weight: 2

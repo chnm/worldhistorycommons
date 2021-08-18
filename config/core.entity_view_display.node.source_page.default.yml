@@ -6,6 +6,7 @@ dependencies:
     - field.field.node.source_page.field_annotation
     - field.field.node.source_page.field_audio
     - field.field.node.source_page.field_credits
+    - field.field.node.source_page.field_image
     - field.field.node.source_page.field_image_thumbnail
     - field.field.node.source_page.field_region
     - field.field.node.source_page.field_source_metadata
@@ -52,6 +53,15 @@ content:
     settings: {  }
     third_party_settings: {  }
     type: text_default
+    region: content
+  field_image:
+    weight: 117
+    label: above
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
     region: content
   field_image_thumbnail:
     weight: 116

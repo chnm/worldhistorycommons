@@ -5,12 +5,14 @@ dependencies:
   config:
     - field.field.node.page.body
     - field.field.node.page.field_image
+    - field.field.node.page.field_youtube_video
     - image.style.thumbnail
     - node.type.page
   module:
     - image
     - path
     - text
+    - video_embed_field
 _core:
   default_config_hash: AD_lefuYmjsKeH3OQApsyP_nLj6ZnGaALznLQSQ0Z_o
 id: node.page.default
@@ -41,6 +43,12 @@ content:
       preview_image_style: thumbnail
     third_party_settings: {  }
     type: image_image
+    region: content
+  field_youtube_video:
+    weight: 122
+    settings: {  }
+    third_party_settings: {  }
+    type: video_embed_field_textfield
     region: content
   path:
     type: path
