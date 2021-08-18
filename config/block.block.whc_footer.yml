@@ -1,4 +1,4 @@
-uuid: 67fc6d51-b8dc-4c6a-b317-df1f5536be22
+uuid: 53367388-6d48-418a-ac17-5fb99ee47f52
 langcode: en
 status: true
 dependencies:
@@ -7,13 +7,13 @@ dependencies:
   module:
     - system
   theme:
-    - bartik
+    - whc
 _core:
   default_config_hash: 8zRjTNbfNAJ94lQpZDu6MkyD87GYJ2zpH9VQPVmRbcM
-id: bartik_footer
-theme: bartik
-region: footer_fifth
-weight: 0
+id: whc_footer
+theme: whc
+region: footer
+weight: -5
 provider: null
 plugin: 'system_menu_block:footer'
 settings:

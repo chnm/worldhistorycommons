@@ -1,15 +1,15 @@
-uuid: a446bf9f-4c3d-42e6-9c4b-d9089bca3980
+uuid: 5fb54792-3fff-4f1f-b5ad-c99564602bee
 langcode: en
 status: true
 dependencies:
   theme:
-    - bartik
+    - whc
 _core:
   default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
-id: bartik_page_title
-theme: bartik
+id: whc_page_title
+theme: whc
 region: content
-weight: -50
+weight: -3
 provider: null
 plugin: page_title_block
 settings:

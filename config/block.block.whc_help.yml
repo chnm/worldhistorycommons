@@ -1,17 +1,17 @@
-uuid: be79cefe-3f19-4b96-8e18-bdd30b54a9fe
+uuid: b7877956-561d-4266-a56b-515edcc7494e
 langcode: en
 status: true
 dependencies:
   module:
     - help
   theme:
-    - bartik
+    - whc
 _core:
   default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
-id: bartik_help
-theme: bartik
+id: whc_help
+theme: whc
 region: content
-weight: -30
+weight: -4
 provider: null
 plugin: help_block
 settings:

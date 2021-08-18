@@ -1,4 +1,4 @@
-uuid: c1b37cc9-7823-45b8-945e-9f1846bc93e3
+uuid: bb726a54-7b5d-4100-a15b-5ffeabf18137
 langcode: en
 status: true
 dependencies:
@@ -7,13 +7,13 @@ dependencies:
   module:
     - system
   theme:
-    - bartik
+    - whc
 _core:
   default_config_hash: ChCx7DYNUrPTt5uiRdQAPDKJQMc-_SyAQTrZh8H0o-c
-id: bartik_main_menu
-theme: bartik
-region: primary_menu
-weight: 0
+id: whc_main_menu
+theme: whc
+region: header
+weight: -4
 provider: null
 plugin: 'system_menu_block:main'
 settings:

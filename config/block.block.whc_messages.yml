@@ -1,17 +1,17 @@
-uuid: 5512345e-ce52-4d16-ad80-ed56e573895a
+uuid: 5313e272-8ce2-4c20-9e81-243117f9bf81
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - whc
 _core:
   default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
-id: bartik_messages
-theme: bartik
-region: highlighted
-weight: 0
+id: whc_messages
+theme: whc
+region: content
+weight: -5
 provider: null
 plugin: system_messages_block
 settings:

@@ -1,17 +1,17 @@
-uuid: f840705c-03e8-4273-afb2-e72505fceca3
+uuid: 6de86e31-1771-4e7b-b0f3-4ec9efe7c5d7
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - whc
 _core:
   default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
-id: bartik_breadcrumbs
-theme: bartik
-region: breadcrumb
-weight: 0
+id: whc_breadcrumbs
+theme: whc
+region: header
+weight: -3
 provider: null
 plugin: system_breadcrumb_block
 settings:
