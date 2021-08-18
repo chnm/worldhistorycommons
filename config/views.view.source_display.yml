@@ -571,7 +571,10 @@ display:
     display_title: Sources
     position: 1
     display_options:
-      display_extenders: {  }
+      display_extenders:
+        metatag_display_extender:
+          metatags:
+            description: 'Locate primary sources, including images, objects, media, and texts. Annotations by scholars contextualize sources.'
       path: primary-sources
       display_description: ''
       filters:
@@ -839,7 +842,10 @@ display:
     display_title: Teaching
     position: 1
     display_options:
-      display_extenders: {  }
+      display_extenders:
+        metatag_display_extender:
+          metatags:
+            description: 'Explore commonly taught topics along with related primary sources, discussion questions, teaching strategies, and annotated bibliographies.'
       path: teaching
       display_description: ''
       title: 'Browse Teaching'
@@ -1310,7 +1316,10 @@ display:
     display_title: Method
     position: 1
     display_options:
-      display_extenders: {  }
+      display_extenders:
+        metatag_display_extender:
+          metatags:
+            description: 'Investigate world history approaches to analyzing different kinds of primary sources.'
       path: method
       display_description: ''
       title: 'Browse Methods'
@@ -1781,7 +1790,10 @@ display:
     display_title: Review
     position: 1
     display_options:
-      display_extenders: {  }
+      display_extenders:
+        metatag_display_extender:
+          metatags:
+            description: 'Discover quality websites on a range of topics and time periods.'
       path: website-reviews
       display_description: ''
       filters:

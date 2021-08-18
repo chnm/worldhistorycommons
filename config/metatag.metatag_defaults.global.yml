@@ -1,0 +1,12 @@
+uuid: c891c48f-4742-4131-b9f5-1cc880bafe3f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sL588ui1E_8-2c_UupwyYxcqX2OVyMFp3HTLbbFqvPc
+id: global
+label: Global
+tags:
+  title: '[current-page:title] | [site:name]'
+  canonical_url: '[current-page:url]'
+  description: 'An open educational resource with over 2000+ peer-reviewed content for world and global history teachers, scholars, and students. '

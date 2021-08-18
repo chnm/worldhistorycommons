@@ -26,6 +26,8 @@ module:
   maxlength: 0
   menu_link_content: 0
   menu_ui: 0
+  metatag: 0
+  metatag_views: 0
   node: 0
   options: 0
   page_cache: 0
