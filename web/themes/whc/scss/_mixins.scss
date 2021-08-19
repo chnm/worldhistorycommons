@@ -17,11 +17,11 @@
       }
 
       &:first-child {
-        margin-right: 0;
+        margin-left: 0;
       }
 
-
       &:last-child {
+        margin-right: 0;
         &:after {
           content: '';
           margin: unset;
@@ -38,4 +38,19 @@
       }
     }
   }
+}
+
+@mixin container() {
+  max-width: $max-width;
+  margin: auto;
+  width: 95%;
+}
+
+@mixin image-block($url) {
+  background-image: url($url);
+  display: block;
+  margin: auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }

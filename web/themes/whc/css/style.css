@@ -20,10 +20,23 @@ html, body {
   color: #3f5966;
 }
 
-main {
-  max-width: 1200px;
-  width: 95%;
+main,
+.conatiner {
+  max-width: 1050px;
   margin: auto;
+  width: 95%;
+}
+
+.logo {
+  background-image: url("../img/whc_logo.png");
+  display: block;
+  margin: auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 0;
+  max-width: 630px;
+  height: 56px;
 }
 
 .header {
@@ -33,10 +46,17 @@ main {
   border-bottom: 0.2em solid #fff;
   box-shadow: 4px 1px 6px 3px #c5c5c5;
   font-weight: 600;
+  margin-bottom: 2rem;
 }
 .header .header--well {
-  max-width: 1200px;
+  max-width: 1250px;
   margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 0.75fr;
+  align-items: center;
+}
+.header .header--well nav {
+  text-align: right;
 }
 .header .header--well nav ul {
   margin: 0;
@@ -54,6 +74,12 @@ main {
   font-size: large;
   position: relative;
 }
+.header .header--well nav ul li:first-child {
+  margin-left: 0;
+}
+.header .header--well nav ul li:last-child {
+  margin-right: 0;
+}
 .header .header--well nav ul li:last-child:after {
   content: "";
   margin: unset;
@@ -66,17 +92,28 @@ main {
 .header .header--well nav ul li a:hover {
   color: #fdbd06;
 }
+.header .search-block-form {
+  text-align: right;
+  margin-bottom: 1rem;
+}
 .header .search-block-form input {
   background-color: #edf4f7;
   padding: 0.5rem;
   color: #4f90b8;
   border: hidden;
   border-radius: 3px;
-  min-width: 150px;
+  width: 200px;
   font-size: 1rem;
 }
 .header .search-block-form #edit-submit {
   display: none;
+}
+
+.breadcrumbs {
+  max-width: 1250px;
+  display: block;
+  margin: auto;
+  margin-top: 2rem;
 }
 
 /*# sourceMappingURL=style.css.map */

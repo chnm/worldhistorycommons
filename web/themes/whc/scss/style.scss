@@ -10,10 +10,17 @@ html, body {
   color: $black;
 }
 
-main {
-  max-width: $max-width;
-  width: 95%;
-  margin: auto;
+main, 
+.conatiner {
+  @include container();
+}
+
+.logo {
+  @include image-block('../img/whc_logo.png');
+  margin-left: 0;
+  max-width: 630px;
+  height: 56px;
+
 }
 
 .header {
@@ -23,17 +30,24 @@ main {
   border-bottom: 0.2em solid #fff;
   box-shadow: 4px 1px 6px 3px #c5c5c5;
   font-weight: 600;
+  margin-bottom: 2rem;
 
   .header--well {
-    max-width: 1200px;
+    max-width: 1250px;
     margin: auto;
+    display: grid;
+    grid-template-columns: 1fr .75fr;
+    align-items: center;
 
     nav {
      @include nav-links(white, $yellow);
+     text-align: right;
     }
   }
 
   .search-block-form {
+    text-align: right;
+    margin-bottom: 1rem;
 
     input {
       background-color: $blue--light;
@@ -41,7 +55,7 @@ main {
       color: $blue;
       border: hidden;
       border-radius: 3px;
-      min-width: 150px;
+      width: 200px;
       font-size: 1rem;
     }
 
@@ -50,4 +64,11 @@ main {
     }
   }
 
+}
+
+.breadcrumbs {
+  max-width: 1250px;
+  display: block;
+  margin: auto;
+  margin-top: 2rem;
 }
