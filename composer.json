@@ -20,6 +20,7 @@
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
+        "drupal/devel": "^4.1",
         "drupal/field_group": "^3.2",
         "drupal/maxlength": "^1.0@RC",
         "drupal/metatag": "^1.16",
