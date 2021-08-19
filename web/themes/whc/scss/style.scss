@@ -1,5 +1,6 @@
 @import 'vars';
 @import 'type-style';
+@import 'mixins';
 
 html, body {
   @include font-normal;
@@ -21,20 +22,32 @@ main {
   padding: 2rem 0;
   border-bottom: 0.2em solid #fff;
   box-shadow: 4px 1px 6px 3px #c5c5c5;
+  font-weight: 600;
 
-  a {
-    color: white;
-    text-transform: uppercase;
-    text-decoration: none;
-    &:hover {
-      color: $yellow;
-    }
-  }
-  
   .header--well {
     max-width: 1200px;
     margin: auto;
+
+    nav {
+     @include nav-links(white, $yellow);
+    }
   }
 
+  .search-block-form {
+
+    input {
+      background-color: $blue--light;
+      padding: .5rem;
+      color: $blue;
+      border: hidden;
+      border-radius: 3px;
+      min-width: 150px;
+      font-size: 1rem;
+    }
+
+    #edit-submit {
+      display: none;
+    }
+  }
 
 }

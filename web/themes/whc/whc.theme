@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * hook_form_alter().
+ * Used to add placeholder to search.
+ */
+function whc_form_search_block_form_alter(&$form, &$form_state) {
+  $form['keys']['#attributes']['placeholder'][] = t('Search');
+}

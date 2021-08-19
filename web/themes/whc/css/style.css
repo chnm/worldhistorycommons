@@ -32,18 +32,51 @@ main {
   padding: 2rem 0;
   border-bottom: 0.2em solid #fff;
   box-shadow: 4px 1px 6px 3px #c5c5c5;
-}
-.header a {
-  color: white;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.header a:hover {
-  color: #fdbd06;
+  font-weight: 600;
 }
 .header .header--well {
   max-width: 1200px;
   margin: auto;
+}
+.header .header--well nav ul {
+  margin: 0;
+  padding: 0;
+}
+.header .header--well nav ul li {
+  display: inline;
+  margin-left: 1rem;
+  margin-right: 0.5rem;
+}
+.header .header--well nav ul li:after {
+  color: white;
+  content: "|";
+  margin-left: 1rem;
+  font-size: large;
+  position: relative;
+}
+.header .header--well nav ul li:last-child:after {
+  content: "";
+  margin: unset;
+}
+.header .header--well nav ul li a {
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.header .header--well nav ul li a:hover {
+  color: #fdbd06;
+}
+.header .search-block-form input {
+  background-color: #edf4f7;
+  padding: 0.5rem;
+  color: #4f90b8;
+  border: hidden;
+  border-radius: 3px;
+  min-width: 150px;
+  font-size: 1rem;
+}
+.header .search-block-form #edit-submit {
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */
