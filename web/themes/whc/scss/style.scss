@@ -10,10 +10,10 @@ html, body {
   color: $black;
 }
 
-main, 
-.conatiner {
-  @include container();
-}
+// main, 
+// .conatiner {
+//   @include container();
+// }
 
 .logo {
   @include image-block('../img/whc_logo.png');
@@ -62,7 +62,6 @@ main,
       display: none;
     }
   }
-
 }
 
 .breadcrumbs {
@@ -85,4 +84,13 @@ main,
     margin-top: 1rem;
   }
 
+}
+
+.views-exposed-form {
+  background-color: $blue--light;
+  padding: 2rem;
+
+  label {
+    text-transform: uppercase;
+  }
 }

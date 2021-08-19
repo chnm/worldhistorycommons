@@ -20,13 +20,6 @@ html, body {
   color: #3f5966;
 }
 
-main,
-.conatiner {
-  max-width: 1050px;
-  margin: auto;
-  width: 95%;
-}
-
 .logo {
   background-image: url("../img/whc_logo.png");
   display: block;
@@ -156,6 +149,14 @@ main,
 }
 .footer nav ul li a:hover {
   color: #fdbd06;
+}
+
+.views-exposed-form {
+  background-color: #edf4f7;
+  padding: 2rem;
+}
+.views-exposed-form label {
+  text-transform: uppercase;
 }
 
 /*# sourceMappingURL=style.css.map */
