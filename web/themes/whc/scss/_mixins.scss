@@ -5,14 +5,12 @@
 
     li {
       display: inline;
-      margin-left: 1rem;
+      margin-left: .5rem;
       margin-right: .5rem;
 
       &:after {
-        color: white;
         content: '|';
         margin-left: 1rem;
-        font-size: large;
         position: relative;
       }
 

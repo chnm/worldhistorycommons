@@ -64,14 +64,12 @@ main,
 }
 .header .header--well nav ul li {
   display: inline;
-  margin-left: 1rem;
+  margin-left: 0.5rem;
   margin-right: 0.5rem;
 }
 .header .header--well nav ul li:after {
-  color: white;
   content: "|";
   margin-left: 1rem;
-  font-size: large;
   position: relative;
 }
 .header .header--well nav ul li:first-child {
@@ -114,6 +112,50 @@ main,
   display: block;
   margin: auto;
   margin-top: 2rem;
+}
+
+.footer {
+  max-width: 1100px;
+  margin: auto;
+  border-top: 0.2em solid gray;
+  margin-top: 2rem;
+}
+.footer nav {
+  color: #ccc;
+  text-align: center;
+  margin-top: 1rem;
+}
+.footer nav ul {
+  margin: 0;
+  padding: 0;
+}
+.footer nav ul li {
+  display: inline;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.footer nav ul li:after {
+  content: "|";
+  margin-left: 1rem;
+  position: relative;
+}
+.footer nav ul li:first-child {
+  margin-left: 0;
+}
+.footer nav ul li:last-child {
+  margin-right: 0;
+}
+.footer nav ul li:last-child:after {
+  content: "";
+  margin: unset;
+}
+.footer nav ul li a {
+  color: #4f90b8;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.footer nav ul li a:hover {
+  color: #fdbd06;
 }
 
 /*# sourceMappingURL=style.css.map */
