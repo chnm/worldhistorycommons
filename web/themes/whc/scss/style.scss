@@ -1,9 +1,40 @@
 @import 'vars';
 @import 'type-style';
 
-
 html, body {
   @include font-normal;
+  padding: 0;
+  margin: 0;
   line-height: 1.35;
   color: $black;
+}
+
+main {
+  max-width: $max-width;
+  width: 95%;
+  margin: auto;
+}
+
+.header {
+  background-color: $blue;
+  color: white;
+  padding: 2rem 0;
+  border-bottom: 0.2em solid #fff;
+  box-shadow: 4px 1px 6px 3px #c5c5c5;
+
+  a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    &:hover {
+      color: $yellow;
+    }
+  }
+  
+  .header--well {
+    max-width: 1200px;
+    margin: auto;
+  }
+
+
 }
