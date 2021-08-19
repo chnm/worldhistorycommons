@@ -492,19 +492,19 @@ menus:
     description: null
     enabled: '1'
     expanded: '0'
-    weight: '0'
+    weight: '-50'
     langcode: en
     uuid: 2de93a7e-b29a-4ff7-a63f-172c9e1ff122
   -
     menu_name: footer
     title: 'World History Association'
-    parent: null
+    parent: 'menu_link_content:2de93a7e-b29a-4ff7-a63f-172c9e1ff122'
     uri: 'https://www.thewha.org'
     link_title: ''
     description: null
     enabled: '1'
     expanded: '0'
-    weight: '0'
+    weight: '-50'
     langcode: en
     uuid: cfd21717-dde5-4adf-aff4-d411316f21dc
   -
@@ -516,7 +516,7 @@ menus:
     description: null
     enabled: '1'
     expanded: '0'
-    weight: '0'
+    weight: '-49'
     langcode: en
     uuid: 6f705264-dc5d-4839-8e76-545fc320eb37
   -
@@ -528,7 +528,7 @@ menus:
     description: null
     enabled: '1'
     expanded: '0'
-    weight: '0'
+    weight: '-48'
     langcode: en
     uuid: 4aa868f2-9c86-4bba-b52a-7475d28e1a24
   -
