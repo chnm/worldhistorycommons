@@ -18,6 +18,6 @@ settings:
   id: search_form_block
   label: Search
   provider: search
-  label_display: visible
+  label_display: '0'
   page_id: node_search
 visibility: {  }
