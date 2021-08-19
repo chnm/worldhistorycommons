@@ -1,3 +1,21 @@
-body {
-  background-color: red;
+@font-face {
+  font-family: "DIN";
+  src: url("../fonts/DIN-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
+@font-face {
+  font-family: "DIN-Bold";
+  src: url("../fonts/DIN-Bold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+html, body {
+  font-family: "DIN", Helvetica Neue, Helvetica, Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.35;
+  color: #3f5966;
+}
+
+/*# sourceMappingURL=style.css.map */

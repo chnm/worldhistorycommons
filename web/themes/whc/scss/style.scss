@@ -1,0 +1,9 @@
+@import 'vars';
+@import 'type-style';
+
+
+html, body {
+  @include font-normal;
+  line-height: 1.35;
+  color: $black;
+}
