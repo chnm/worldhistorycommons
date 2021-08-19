@@ -482,3 +482,100 @@ taxonomies:
       weight: '0'
       parent: '0'
       uuid: 79e05716-44b7-4914-8aa8-e803f8e2d5fe
+menus:
+  -
+    menu_name: footer
+    title: 'Roy Rosenzweig Center for History and New Media'
+    parent: null
+    uri: 'https://rrchnm.org/'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: 2de93a7e-b29a-4ff7-a63f-172c9e1ff122
+  -
+    menu_name: footer
+    title: 'World History Association'
+    parent: null
+    uri: 'https://www.thewha.org'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: cfd21717-dde5-4adf-aff4-d411316f21dc
+  -
+    menu_name: footer
+    title: About
+    parent: null
+    uri: 'internal:/about'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: 6f705264-dc5d-4839-8e76-545fc320eb37
+  -
+    menu_name: footer
+    title: 'CC By-NC 4.0'
+    parent: null
+    uri: 'https://creativecommons.org/licenses/by/4.0/'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: 4aa868f2-9c86-4bba-b52a-7475d28e1a24
+  -
+    menu_name: main
+    title: Sources
+    parent: null
+    uri: 'internal:/sources'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: 0d7cab01-c01b-4f5f-b2dc-c8bb8647057c
+  -
+    menu_name: main
+    title: Teaching
+    parent: null
+    uri: 'internal:/teaching'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: fbcb7f4a-d7e6-4f2c-a067-72c828ecc598
+  -
+    menu_name: main
+    title: Methods
+    parent: null
+    uri: 'internal:/method'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: 8f5e76c9-d4b8-4b35-a19d-87ca2bdfa94c
+  -
+    menu_name: main
+    title: Reviews
+    parent: null
+    uri: 'internal:/website-reviews'
+    link_title: ''
+    description: null
+    enabled: '1'
+    expanded: '0'
+    weight: '0'
+    langcode: en
+    uuid: 63fe4cd4-2bac-48d2-9dce-3c93a72986ff
