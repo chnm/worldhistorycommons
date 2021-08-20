@@ -1,5 +1,3 @@
-{{devel_dump()}}
-
 <div class="content-header">
   <div class="content-header--label">Primary Source</div>
   <h1>{{node.label}}</h1>
@@ -8,7 +6,7 @@
 <div class="two-cols">
   <div>
   {% if elements.field_text_file.0 %}
-    <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="thumbnail-icon">Test</a>
+    <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
   {% else %}
     <div class="image-wrap">{{content.field_image}}</div>
   {% endif %}
