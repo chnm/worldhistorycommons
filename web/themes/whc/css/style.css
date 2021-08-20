@@ -165,33 +165,34 @@ html, body {
 .views-exposed-form .form-item {
   margin-bottom: 1.2rem;
 }
-.views-exposed-form select {
-  width: 100%;
-  font-size: 1.1rem;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  width: 100%;
-  color: #3f5966;
-  border: none;
-  box-shadow: 1px 2px 4px #c5c5c5;
-  border-radius: 0;
-  padding: 0.5rem;
-}
-.views-exposed-form select:after {
+.views-exposed-form .form-item:after {
   font-family: "Arial";
   content: "< >";
   background-color: #4f90b8;
+  display: inline-block;
+  float: right;
   color: #fff;
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
+  position: relative;
   right: -1px;
-  top: 1px;
+  top: -32px;
   padding: 4px;
-  position: absolute;
   pointer-events: none;
+}
+.views-exposed-form .form-select {
+  width: 100%;
+  font-size: 0.8rem;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  color: #3f5966;
+  border: none;
+  box-shadow: 1px 2px 4px #c5c5c5;
+  border-radius: 0;
+  padding: 0.5rem;
 }
 
 /*# sourceMappingURL=style.css.map */
