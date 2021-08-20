@@ -66,6 +66,10 @@ h1, h2, h3, h4, h5, h6, p {
   margin-top: 0;
 }
 
+h3 {
+  margin: 0;
+}
+
 a {
   color: #4f90b8;
 }
@@ -165,7 +169,7 @@ a:hover {
   margin: auto;
   border-top: 0.2em solid gray;
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 .footer nav {
   color: #ccc;
@@ -282,6 +286,32 @@ a:hover {
   padding: 0.5rem;
 }
 
+.citation {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-top: 1px solid #edf4f7;
+  border-bottom: 1px solid #edf4f7;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.tags div {
+  display: inline;
+}
+.tags a {
+  display: inline-block;
+  margin-left: 0.2rem;
+  background-color: #4f90b8;
+  padding: 4px 10px 2px 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.tags a:hover {
+  background-color: #fdbd06;
+  color: #3f5966;
+}
+
 #block-whc-page-title {
   max-width: 1150px;
   margin: auto;
@@ -322,6 +352,13 @@ a:hover {
   width: 95%;
 }
 
+.content-meta {
+  margin-top: 2rem;
+  text-align: center;
+  font-style: italic;
+  display: block;
+}
+
 .content-details {
   margin-top: 2rem;
 }
@@ -332,7 +369,6 @@ a:hover {
   grid-gap: 3%;
   max-width: 1150px;
   margin: auto;
-  margin-bottom: 2rem;
 }
 
 .italic {
@@ -351,6 +387,8 @@ a:hover {
 .box-border {
   border: 1px solid #4f90b8;
   padding: 1.5rem;
+  margin-left: 0.6rem;
+  margin-right: 0.6rem;
 }
 
 details {

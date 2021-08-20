@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6, p {
   margin-top: 0;
 }
 
+h3 {
+  margin: 0;
+} 
+
 a {
   color: $blue;
 
@@ -85,7 +89,7 @@ a {
   margin: auto;
   border-top: 0.2em solid gray;
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 
   nav {
     @include nav-links($blue, $yellow);
@@ -170,6 +174,38 @@ a {
   }
 }
 
+.citation {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-top: 1px solid $blue--light;
+  border-bottom: 1px solid $blue--light;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.tags {
+
+  div {
+    display: inline;
+  }
+
+  a {
+    display: inline-block;
+    margin-left: .2rem;
+    background-color: $blue;
+    padding: 4px 10px 2px 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+    &:hover {
+      background-color: $yellow;
+      color: $black;
+    }
+  }
+
+}
+
 #block-whc-page-title {
   @include container;
   text-align: center
@@ -194,6 +230,13 @@ a {
   @include container;
 }
 
+.content-meta {
+  margin-top: 2rem;
+  text-align: center;
+  font-style: italic;
+  display: block;
+}
+
 .content-details {
   margin-top: 2rem;
 }
@@ -205,7 +248,7 @@ a {
   grid-gap: 3%;
   max-width: $content-width;
   margin: auto;
-  margin-bottom: 2rem;
+  // margin-bottom: 2rem;
 }
 
 .italic {
@@ -227,6 +270,8 @@ a {
 .box-border {
   border: 1px solid $blue;
   padding: 1.5rem;
+  margin-left: .6rem;
+  margin-right: .6rem;
 }
 
 details {

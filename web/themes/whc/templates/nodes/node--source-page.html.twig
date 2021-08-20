@@ -1,4 +1,4 @@
-{{devel_dump()}}
+{# {{devel_dump()}} #}
 
 <div class="content-header">
   <div class="content-header--label">Primary Source</div>
@@ -19,7 +19,7 @@
 
 <div class="content-well">
 
-  <div class="italic center">{{content.field_source_metadata}}</div>
+  <div class="content-meta">{{content.field_source_metadata}}</div>
 
   <div class="content-details">
     
@@ -51,5 +51,18 @@
     </details>
     {% endif %}
   <div>
+
+
+  <div class="citation">
+    <h3>How to Cite This Source</h3>
+    <span>"{{node.label}}," in in World History Commons, {{ url('<current>') }} [ {{ "now"|date("F j, Y") }} ]</span>
+  </div>
+
+  <div class="tags">
+    <h3>Tags</h3>
+    {{content.field_region}}
+    {{content.field_subject}}
+    {{content.field_time_period}}
+  </div>
 
 </div>

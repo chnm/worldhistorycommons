@@ -23,7 +23,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
 // Text Styles
 @mixin box-text() {
   font-family: "DIN", "Arial Narrow", Arial, sans-serif;
@@ -38,10 +37,8 @@
   font-weight: 700;
 }
 
-
 @mixin title-text() {
   color: $blue;
-  // margin: 1em 0 0.1em;
   font-size: 2em;
   font-weight: 100;
   padding: 0 0.1em;
@@ -60,6 +57,18 @@
   font-weight: 600;
   margin: 0.5em 0;
   padding: 0;
+}
+
+@mixin box-link() {
+  display: inline-block;
+  margin-left: .2rem;
+  background-color: $blue;
+  padding: 5px 10px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $yellow;
+  }
 }
 
 

@@ -65,7 +65,7 @@ content:
     region: content
   field_region:
     weight: 11
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -81,7 +81,7 @@ content:
     region: content
   field_subject:
     weight: 12
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -104,7 +104,7 @@ content:
     region: content
   field_time_period:
     weight: 13
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -126,7 +126,7 @@ content:
     region: content
   field_type:
     weight: 14
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     type: list_default
