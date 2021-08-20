@@ -84,6 +84,32 @@ html, body {
     margin-top: 1rem;
   }
 
+  .footer--funding {
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: small;
+    margin-top: 1rem;
+
+    .neh--logo {
+      @include image-block('../img/neh_logo_black.jpg');
+      display: inline-block;
+      width: 230px;
+      height: 64px;
+      margin-bottom: -25px;
+    }
+
+    .acls--logo {
+      @include image-block('../img/neh_logo_black.jpg');
+      display: inline-block;
+      width: 230px;
+      height: 64px;
+      margin-bottom: -25px;
+    }
+  }
+
 }
 
 .views-exposed-form {

@@ -150,6 +150,39 @@ html, body {
 .footer nav ul li a:hover {
   color: #fdbd06;
 }
+.footer .footer--funding {
+  max-width: 600px;
+  margin: auto;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: small;
+  margin-top: 1rem;
+}
+.footer .footer--funding .neh--logo {
+  background-image: url("../img/neh_logo_black.jpg");
+  display: block;
+  margin: auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+  width: 230px;
+  height: 64px;
+  margin-bottom: -25px;
+}
+.footer .footer--funding .acls--logo {
+  background-image: url("../img/neh_logo_black.jpg");
+  display: block;
+  margin: auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+  width: 230px;
+  height: 64px;
+  margin-bottom: -25px;
+}
 
 .views-exposed-form {
   background-color: #edf4f7;
