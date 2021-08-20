@@ -1,4 +1,4 @@
-{# {{devel_dump()}} #}
+{{devel_dump()}}
 
 <div class="content-header">
   <div class="content-header--label">Primary Source</div>
@@ -7,7 +7,11 @@
 
 <div class="two-cols">
   <div>
+  {% if elements.field_text_file.0 %}
+    <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="thumbnail-icon">Test</a>
+  {% else %}
     <div class="image-wrap">{{content.field_image}}</div>
+  {% endif %}
   </div>
   <div>
     <div class="box-border">
@@ -55,7 +59,7 @@
 
   <div class="citation">
     <h3>How to Cite This Source</h3>
-    <span>"{{node.label}}," in in World History Commons, {{ url('<current>') }} [ {{ "now"|date("F j, Y") }} ]</span>
+    <span>"{{node.label}}," in in World History Commons, {{ url('<current>') }} [accessed {{ "now"|date("F j, Y") }}]</span>
   </div>
 
   <div class="tags">

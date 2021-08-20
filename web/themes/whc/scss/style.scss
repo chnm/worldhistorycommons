@@ -251,6 +251,12 @@ a {
   // margin-bottom: 2rem;
 }
 
+.thumbnail-icon {
+  @include image-block('../img/')
+  width: 10rem;
+  height: 10rem;
+}
+
 .italic {
   font-style: italic;
 }
