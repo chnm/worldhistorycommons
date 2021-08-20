@@ -287,14 +287,16 @@ a:hover {
 }
 
 .citation {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
   border-top: 1px solid #edf4f7;
-  border-bottom: 1px solid #edf4f7;
+  margin-top: 2rem;
   padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
+.tags {
+  border-top: 1px solid #edf4f7;
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
 .tags div {
   display: inline;
 }
@@ -324,6 +326,7 @@ a:hover {
   margin: auto;
   width: 95%;
   text-align: center;
+  margin-bottom: 2rem;
 }
 .content-header .content-header--label {
   font-family: "DIN", "Arial Narrow", Arial, sans-serif;
@@ -336,7 +339,14 @@ a:hover {
   padding: 0.3em 0.5em 0.1em;
   margin: auto;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
+}
+.content-header .content-header--author {
+  max-width: 700px;
+  margin: auto;
+  border-top: 1px solid #edf4f7;
+  text-transform: uppercase;
+  padding-top: 1rem;
 }
 .content-header h1 {
   color: #4f90b8;
@@ -344,6 +354,7 @@ a:hover {
   font-weight: 100;
   padding: 0 0.1em;
   letter-spacing: 1px;
+  margin-bottom: 0;
 }
 
 .content-well {
@@ -381,14 +392,6 @@ a:hover {
   background-position: top center;
   width: 100%;
   height: 100%;
-}
-
-.italic {
-  font-style: italic;
-}
-
-.center {
-  text-align: center;
 }
 
 .image-wrap img {
