@@ -15,3 +15,11 @@ function whc_preprocess_views_view(&$variables) {
     '#markup' => $view->getTitle(),
   ];
 }
+
+
+function whc_preprocess_html(&$variables) {
+  if (isset($variables['node_type'])) {
+    // Add node-TYPE class to the <body> element.
+    $variables['attributes']['class'][] = 'node-' . $variables['node_type'];
+  }
+}

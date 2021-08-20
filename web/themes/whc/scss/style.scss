@@ -1,19 +1,28 @@
 @import 'vars';
 @import 'type-style';
 @import 'mixins';
+@import 'admin';
 
 html, body {
   @include font-normal;
   padding: 0;
   margin: 0;
-  line-height: 1.35;
   color: $black;
+  font-size: 17px;
+  line-height: 1.7;
 }
 
-// main, 
-// .conatiner {
-//   @include container();
-// }
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 0;
+}
+
+a {
+  color: $blue;
+
+  &:hover {
+    color: $yellow;
+  }
+}
 
 .logo {
   @include image-block('../img/whc_logo.png');
@@ -72,10 +81,11 @@ html, body {
 }
 
 .footer {
-  max-width: 1100px;
+  max-width: $content-width;
   margin: auto;
   border-top: 0.2em solid gray;
   margin-top: 2rem;
+  margin-bottom: 2rem;
 
   nav {
     @include nav-links($blue, $yellow);
@@ -157,14 +167,88 @@ html, body {
     box-shadow: 1px 2px 4px #c5c5c5;
     border-radius: 0;
     padding: .5rem;
-
-   
   }
 }
 
 #block-whc-page-title {
   @include container;
   text-align: center
+}
+
+// General styles for content.
+.content-header {
+  @include container;
+  text-align: center;
+
+  .content-header--label {
+    @include box-text;
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    @include title-text;
+  }
+}
+
+.content-well {
+  @include container;
+}
+
+.content-details {
+  margin-top: 2rem;
+}
+
+// Utilities
+.two-cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+  grid-gap: 3%;
+  max-width: $content-width;
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.center {
+  text-align: center;
+}
+
+.image-wrap {
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.box-border {
+  border: 1px solid $blue;
+  padding: 1.5rem;
+}
+
+details {
+  margin-bottom: .5rem;
+  
+  summary {
+    background-color: $blue--light;
+    padding: .5rem;
+    cursor: pointer;
+
+    h3 {
+      display: inline;
+    }
+  }
+
+  div {
+    display: block;
+    width: 95%;
+    margin: auto;
+    margin-top: 1rem
+  }
+
 }
 
 // General Styles for directories.

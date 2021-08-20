@@ -1,0 +1,7 @@
+#block-whc-local-tasks {
+  @include nav-links($blue, $yellow);
+  @include container;
+  border-bottom: 1px solid lightgray;
+  display: block;
+  margin-bottom: 1rem;
+}

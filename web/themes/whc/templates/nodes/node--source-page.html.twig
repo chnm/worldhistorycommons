@@ -1,0 +1,55 @@
+{{devel_dump()}}
+
+<div class="content-header">
+  <div class="content-header--label">Primary Source</div>
+  <h1>{{node.label}}</h1>
+</div>
+
+<div class="two-cols">
+  <div>
+    <div class="image-wrap">{{content.field_image}}</div>
+  </div>
+  <div>
+    <div class="box-border">
+      <h2 class="box-border--title">Annotation</h2>
+      {{content.field_annotation}}
+    </div>
+  </div>
+</div>
+
+<div class="content-well">
+
+  <div class="italic center">{{content.field_source_metadata}}</div>
+
+  <div class="content-details">
+    
+    {% if content.field_text.0 %}
+    <details>
+      <summary><h3>Text</h3></summary>
+      <div>{{content.field_text}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_transcription.0 %}
+    <details>
+      <summary><h3>Transcription</h3></summary>
+      <div>{{content.field_transcription}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_translation.0 %}
+    <details>
+      <summary><h3>Translation</h3></summary>
+      <div>{{content.field_translation}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_credits.0 %}
+    <details open>
+      <summary><h3>Credits</h3></summary>
+      <div>{{content.field_credits}}</div>
+    </details>
+    {% endif %}
+  <div>
+
+</div>

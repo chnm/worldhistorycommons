@@ -28,25 +28,20 @@
 @mixin box-text() {
   font-family: "DIN", "Arial Narrow", Arial, sans-serif;
   background-color: $yellow;
-  color: hsl(0, 0%, 100%);
+  color: white;
   display: inline-block;
   font-size: 1.25em;
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 0.3em 0.5em 0.1em;
-  margin: 0.5em 0;
+  margin: auto;
   font-weight: 700;
 }
 
-@mixin featured-text() {
-  font-size: 1.3em;
-  font-weight: 600;
-  margin: 0.5em 0;
-  padding: 0;
-}
 
 @mixin title-text() {
-  margin: 1em 0 0.1em;
+  color: $blue;
+  // margin: 1em 0 0.1em;
   font-size: 2em;
   font-weight: 100;
   padding: 0 0.1em;
@@ -59,6 +54,16 @@
   font-weight: 200;
   padding:0;
 }
+
+@mixin featured-text() {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin: 0.5em 0;
+  padding: 0;
+}
+
+
+
 
 // h1 {
 //   // @include breakpoint($tablet) {
