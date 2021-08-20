@@ -195,4 +195,21 @@ html, body {
   padding: 0.5rem;
 }
 
+#block-whc-page-title {
+  max-width: 1050px;
+  margin: auto;
+  width: 95%;
+  text-align: center;
+}
+
+.directory header {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin: 0.5em 0;
+  padding: 0;
+  max-width: 1050px;
+  margin: auto;
+  text-align: center;
+}
+
 /*# sourceMappingURL=style.css.map */

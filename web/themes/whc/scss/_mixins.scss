@@ -39,7 +39,7 @@
 }
 
 @mixin container() {
-  max-width: $max-width;
+  max-width: $content-width;
   margin: auto;
   width: 95%;
 }

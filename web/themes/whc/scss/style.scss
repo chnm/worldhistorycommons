@@ -32,7 +32,7 @@ html, body {
   margin-bottom: 2rem;
 
   .header--well {
-    max-width: 1250px;
+    max-width: $well-width;
     margin: auto;
     display: grid;
     grid-template-columns: 1fr .75fr;
@@ -65,7 +65,7 @@ html, body {
 }
 
 .breadcrumbs {
-  max-width: 1250px;
+  max-width: $well-width;
   display: block;
   margin: auto;
   margin-top: 2rem;
@@ -134,4 +134,22 @@ html, body {
 
    
   }
+}
+
+#block-whc-page-title {
+  @include container;
+  text-align: center
+}
+
+// General Styles for directories.
+.directory {
+
+  header {
+    @include featured-text;
+    max-width: $content-width;
+    margin: auto;
+    text-align: center;
+  }
+
+
 }
