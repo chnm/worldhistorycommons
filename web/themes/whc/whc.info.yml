@@ -4,6 +4,7 @@ description: 'Main theme for WHC'
 core_version_requirement: ^8 || ^9
 libraries:
   - whc/global
+  - whc/splidejs
 base theme: stable
 regions:
   header: Header

@@ -2,5 +2,12 @@ global:
   css:
     theme:
       css/style.css: {}
-  # js:
-  #   js/scripts.js: {}
+  js:
+    js/scripts.js: {}
+
+splidejs:
+  js:
+    https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js: { type: external, minified: true  }
+  css:
+    theme:
+      https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css: { type: external, minified: true }
