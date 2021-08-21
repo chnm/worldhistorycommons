@@ -267,6 +267,53 @@ details {
 
 }
 
+.content-videos {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid $blue--light;
+
+  h3 {
+    margin-bottom: .5rem;
+  }
+
+  h4, h5 {
+    margin-bottom: 0;
+    font-size: 1rem;
+  }
+
+  .youtube-video {
+    margin-bottom: 1rem;
+  }
+
+  .dl-link {
+    background-color: $blue;
+    color: white;
+    margin-bottom: 1rem;
+    display: inline-block;
+    padding-top: .2rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    text-decoration: none;
+
+    &:hover {
+      background-color: $yellow;
+      color: $black;
+    }
+  }
+
+  .content-videos--well {
+    display: grid;
+    grid-template-columns: 1.5fr .8fr;
+    grid-gap: 2%;
+
+    .b1 {
+      border-right: 1px solid $blue--light;
+      padding-right: 2rem;
+    }
+  }
+
+}
+
 .slideshow {
   // width: 85%;
   margin: auto;
