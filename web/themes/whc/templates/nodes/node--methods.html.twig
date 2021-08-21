@@ -10,8 +10,16 @@
 
 <div class="two-cols">
   <div>
-    <div class="box-border">
-      {% for source in node.field_primary_sources %}
+    <div class="box-border box-tile">
+
+      {% set primary_source_count = node.field_primary_sources | length %}
+      {% if primary_source_count >= 4 %}
+        {% set count = 4 %}
+      {% else %}
+        {% set count = 1 %}
+      {% endif %}
+
+      {% for source in node.field_primary_sources |slice(0,count) %}
 
         {% set img_url = file_url(source.entity.field_image_thumbnail.0.entity.uri.value) %}
         {% set img_alt = source.entity.field_image_thumbnail.0.alt %}
