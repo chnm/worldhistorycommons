@@ -1,0 +1,16 @@
+{{devel_dump()}}
+
+{% for source in items %}
+
+
+{% set img_url = file_url(source.content['#node'].field_image_thumbnail.0.entity.uri.value) %}
+{% set img_alt = source.content['#node'].field_image_thumbnail.0.alt %}
+  {# {{devel_dump(img_alt)}}
+  {{devel_dump(img_url)}} #}
+
+  {{devel_dump()}}
+  <a href=""><img src="{{img_url}}" alt="{{img_alt}}"></a>
+
+{{ devel_dump(source.node) }}
+
+{% endfor %}

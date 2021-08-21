@@ -77,13 +77,6 @@ a {
   }
 }
 
-.breadcrumbs {
-  max-width: $well-width;
-  display: block;
-  margin: auto;
-  margin-top: 2rem;
-}
-
 .footer {
   max-width: $content-width;
   margin: auto;
@@ -126,54 +119,6 @@ a {
 
 }
 
-.views-exposed-form {
-  background-color: $blue--light;
-  padding: 2rem;
-
-  label {
-    text-transform: uppercase;
-    font-weight: bold;
-    color: $blue;
-    font-size: 15px;
-    display: block;
-  }
-
-  .form-item {
-    margin-bottom: 1.2rem;
-
-    &:after {
-      font-family: "Arial";
-      content: '< >';
-      background-color: $blue;
-      display: inline-block;
-      float: right;
-      color: #fff;
-      -webkit-transform: rotate(90deg);
-      -moz-transform: rotate(90deg);
-      -ms-transform: rotate(90deg);
-      transform: rotate(90deg);
-      position: relative;
-      right: -1px;
-      top: -32px;
-      padding: 4px;
-      pointer-events: none;
-    }
-  }
-
-  .form-select {
-    width: 100%;
-    font-size: .8rem;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    color: $black;
-    border: none;
-    box-shadow: 1px 2px 4px #c5c5c5;
-    border-radius: 0;
-    padding: .5rem;
-  }
-}
-
 .citation {
   border-top: 1px solid $blue--light;
   margin-top: 2rem;
@@ -203,7 +148,6 @@ a {
       color: $black;
     }
   }
-
 }
 
 #block-whc-page-title {
@@ -315,4 +259,52 @@ details {
   }
 
 
+}
+
+.views-exposed-form {
+  background-color: $blue--light;
+  padding: 2rem;
+
+  label {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: $blue;
+    font-size: 15px;
+    display: block;
+  }
+
+  .form-item {
+    margin-bottom: 1.2rem;
+
+    &:after {
+      font-family: "Arial";
+      content: '< >';
+      background-color: $blue;
+      display: inline-block;
+      float: right;
+      color: #fff;
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+      transform: rotate(90deg);
+      position: relative;
+      right: -1px;
+      top: -32px;
+      padding: 4px;
+      pointer-events: none;
+    }
+  }
+
+  .form-select {
+    width: 100%;
+    font-size: .8rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    color: $black;
+    border: none;
+    box-shadow: 1px 2px 4px #c5c5c5;
+    border-radius: 0;
+    padding: .5rem;
+  }
 }
