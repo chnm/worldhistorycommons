@@ -390,6 +390,27 @@ details div {
   margin-top: 1rem;
 }
 
+.slideshow {
+  width: 85%;
+  margin: auto;
+}
+.slideshow .slideshow-slide--title {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4f90b8;
+  margin-top: 1.5rem;
+}
+.slideshow .slideshow-slide--img {
+  display: block;
+  text-align: center;
+  max-width: 300px;
+  margin: auto;
+}
+.slideshow h5 {
+  margin-left: 1.3rem;
+  margin-bottom: -0.5rem;
+}
+
 .directory header {
   font-size: 1.3em;
   font-weight: 600;

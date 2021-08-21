@@ -267,6 +267,29 @@ details {
 
 }
 
+.slideshow {
+  width: 85%;
+  margin: auto;
+
+  .slideshow-slide--title {
+    text-align: center;
+    text-transform: uppercase;
+    color: $blue;
+    margin-top: 1.5rem;
+  }
+  .slideshow-slide--img {
+    display: block;
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+  }
+
+  h5 {
+    margin-left: 1.3rem;
+    margin-bottom: -.5rem;
+  }
+}
+
 // General Styles for directories.
 .directory {
 
