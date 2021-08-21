@@ -1,5 +1,3 @@
-{{devel_dump()}}
-
 <div class="content-header">
   <div class="content-header--label">Methods</div>
   <h1>{{node.label}}</h1>
@@ -38,6 +36,9 @@
 
 <div class="content-well">
 
+  {{devel_dump(content.field_video_clip)}}
+
+
   <div class="content-details">
     
     {% if content.field_essay.0 %}
@@ -61,6 +62,13 @@
     </details>
     {% endif %}
 
+    {% if content.field_primary_sources.0 %}
+    <details>
+      <summary><h3>Primary Sources</h3></summary>
+      <div></div>
+    </details>
+    {% endif %}
+
     {% if content.field_credits.0 %}
     <details open>
       <summary><h3>Credits</h3></summary>
@@ -68,12 +76,6 @@
     </details>
     {% endif %}
   <div>
-
-
-  {# <div class="citation">
-    <h3>How to Cite This Source</h3>
-    <span>"{{node.label}}," in in World History Commons, {{ url('<current>') }} [accessed {{ "now"|date("F j, Y") }}]</span>
-  </div> #}
 
   <div class="tags">
     <h3>Tags</h3>
