@@ -11,7 +11,13 @@
 <div class="two-cols">
   <div>
     <div class="box-border">
-      {{content.field_primary_sources}}
+      {% for source in node.field_primary_sources %}
+
+        {% set img_url = file_url(source.entity.field_image_thumbnail.0.entity.uri.value) %}
+        {% set img_alt = source.entity.field_image_thumbnail.0.alt %}
+        <a href="{{ path('entity.node.canonical', {'node': source.entity.id}) }}"><img src="{{img_url}}" alt="{{img_alt}}"></a>
+
+      {% endfor %}
     </div>
   </div>
   <div>
