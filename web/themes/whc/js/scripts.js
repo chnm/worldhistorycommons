@@ -5,7 +5,12 @@ document.addEventListener( 'DOMContentLoaded', function () {
 
 (function($) {
 
+  // Quick hack to allow slideshow to render.
+  $(window).one('scroll', function() {
+    $( "#slideclick" ).removeAttr("open");
+  });
 
+  // Function to loop through classes and add ids.
   function addVideoAttr(classToFind, attribute, valToAdd) {
 
     var video_thumb = $(classToFind);
@@ -19,7 +24,7 @@ document.addEventListener( 'DOMContentLoaded', function () {
 
   $(document).ready(function(){
 
-  
+    // JS that controlls the tabs.
     // Go through and add Ids
     addVideoAttr('.video_thumb', 'href', '#video_box_');
     addVideoAttr('.content-videos--info', 'id', 'video_box_');
