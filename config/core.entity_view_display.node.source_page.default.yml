@@ -19,6 +19,7 @@ dependencies:
     - field.field.node.source_page.field_type
     - field.field.node.source_page.field_video
     - field.field.node.source_page.field_youtube_video
+    - image.style.medium
     - node.type.source_page
   module:
     - file
@@ -63,6 +64,15 @@ content:
     third_party_settings: {  }
     type: image
     region: content
+  field_image_thumbnail:
+    type: image
+    weight: 16
+    region: content
+    label: above
+    settings:
+      image_style: medium
+      image_link: ''
+    third_party_settings: {  }
   field_region:
     weight: 11
     label: hidden
@@ -155,5 +165,4 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-hidden:
-  field_image_thumbnail: true
+hidden: {  }
