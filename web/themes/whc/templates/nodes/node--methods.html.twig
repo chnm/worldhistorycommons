@@ -43,7 +43,17 @@
           {{content.field_video_clip }}
       </div>
       <div>
-        {{devel_dump(content.field_video_clip)}}
+        <div class="content-videos--nav">
+          <h3>Videos</h3>
+          {% for video_thumb in content.field_video_clip|field_target_entity %}
+
+            {% if video_thumb.field_video_thumbnail.0 %}
+              {% set video_thumb_img = file_url(video_thumb.field_video_thumbnail.0.entity.uri.value) %}
+              {% set video_thumb_img_alt = video_thumb.field_video_thumbnail.0.alt %}
+              <a href="#!" class="video_thumb"><img src="{{video_thumb_img}}" alt="{{video_thumb_img_alt}}"></a>
+            {% endif %}
+
+          {% endfor %}
       </div>
     </div>
   </div>

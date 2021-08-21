@@ -1,3 +1,5 @@
+{% if content.field_youtube_link.0 %}
+
 <div class="content-videos--info">
   
   {% if content.field_youtube_link.0 %}
@@ -13,7 +15,9 @@
     {{content.field_video_clip_transcript}}
   {% endif %}
 
-  {% if content.field_video_clip.0 %}
+  {% if content.field_video_clip_transcript_down.0 %}
     <a href="{{file_url(content.field_video_clip_transcript_down.0['#file'].uri.value)}}" class="dl-link">Download Full Transcript</a>
   {% endif %}
 </div>
+
+{% endif %}

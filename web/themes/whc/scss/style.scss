@@ -303,7 +303,7 @@ details {
 
   .content-videos--well {
     display: grid;
-    grid-template-columns: 1.5fr .8fr;
+    grid-template-columns: 1.5fr .5fr;
     grid-gap: 2%;
 
     .b1 {
@@ -312,10 +312,18 @@ details {
     }
   }
 
+  .content-videos--nav {
+    a {
+      margin-bottom: .5rem;
+    }
+
+    .active img {
+      border: 2px solid $blue;
+    }
+  }
 }
 
 .slideshow {
-  // width: 85%;
   margin: auto;
 
   .slideshow-slide--title {

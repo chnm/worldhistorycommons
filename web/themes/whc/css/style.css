@@ -421,12 +421,18 @@ details div {
 }
 .content-videos .content-videos--well {
   display: grid;
-  grid-template-columns: 1.5fr 0.8fr;
+  grid-template-columns: 1.5fr 0.5fr;
   grid-gap: 2%;
 }
 .content-videos .content-videos--well .b1 {
   border-right: 1px solid #edf4f7;
   padding-right: 2rem;
+}
+.content-videos .content-videos--nav a {
+  margin-bottom: 0.5rem;
+}
+.content-videos .content-videos--nav .active img {
+  border: 2px solid #4f90b8;
 }
 
 .slideshow {

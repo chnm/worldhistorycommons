@@ -4,6 +4,9 @@ global:
       css/style.css: {}
   js:
     js/scripts.js: {}
+  dependencies:
+    - core/jquery
+
 
 splidejs:
   js:
