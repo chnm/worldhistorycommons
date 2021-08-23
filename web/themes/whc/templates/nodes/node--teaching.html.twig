@@ -1,0 +1,146 @@
+<div class="content-header">
+  <div class="content-header--label">Methods</div>
+  <h1>{{node.label}}</h1>
+  <div class="content-header--author">
+    {{content.field_author}}
+  </div>
+</div>
+
+<div class="two-cols">
+  <div>
+    <div class="box-border box-tile">
+
+      {% set primary_source_count = node.field_primary_sources | length %}
+      {% if primary_source_count >= 4 %}
+        {% set count = 4 %}
+      {% else %}
+        {% set count = 1 %}
+      {% endif %}
+
+      {% for source in node.field_primary_sources |slice(0,count) %}
+
+        {% set img_url = file_url(source.entity.field_image_thumbnail.0.entity.uri.value) %}
+        {% set img_alt = source.entity.field_image_thumbnail.0.alt %}
+        <a href="{{ path('entity.node.canonical', {'node': source.entity.id}) }}"><img src="{{img_url}}" alt="{{img_alt}}"></a>
+
+      {% endfor %}
+    </div>
+  </div>
+  <div>
+    <div class="box-border">
+      <h2 class="box-border--title">Overview</h2>
+      {{content.field_overview}}
+    </div>
+  </div>
+</div>
+
+<div class="content-well">
+  
+  {% if content.field_video_clip.0 %}
+  <div class="content-videos">
+    <div class="content-videos--well">
+      <div class="b1">
+          {{content.field_video_clip }}
+      </div>
+      <div>
+        <div class="content-videos--nav">
+          <h3>Videos</h3>
+          {% for video_thumb in content.field_video_clip|field_target_entity %}
+
+            {% if video_thumb.field_video_thumbnail.0 %}
+              {% set video_thumb_img = file_url(video_thumb.field_video_thumbnail.0.entity.uri.value) %}
+              {% set video_thumb_img_alt = video_thumb.field_video_thumbnail.0.alt %}
+              <a href="#!" class="video_thumb"><img src="{{video_thumb_img}}" alt="{{video_thumb_img_alt}}"></a>
+            {% endif %}
+
+          {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %} 
+
+  <div class="content-details">
+    
+    {% if content.field_essay.0 %}
+    <details>
+      <summary><h3>Eassy</h3></summary>
+      <div>{{content.field_essay}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_primary_sources.0 %}
+    <details id="slideclick" open>
+      <summary><h3>Primary Sources</h3></summary>
+      <div>
+
+      <div class="slideshow">
+        <div class="splide">
+        <div class="splide__track">
+        <ul class="splide__list">
+        {% for source in node.field_primary_sources %}
+
+          {% set img_url = file_url(source.entity.field_image_thumbnail.0.entity.uri.value) %}
+          {% set img_alt = source.entity.field_image_thumbnail.0.alt %}
+
+          <li class="splide__slide">
+            <div class="slideshow-slide">
+              <h4 class="slideshow-slide--title">{{source.entity.label}}</h4>
+              <a class="slideshow-slide--img" href="{{ path('entity.node.canonical', {'node': source.entity.id}) }}"><img src="{{img_url}}" alt="{{img_alt}}" style="width:100%; height: auto;"></a>
+              <h5>Annotation</h5>
+              <div class="slideshow-slide--text">{{source.entity.field_annotation.value | raw}}</div>
+            </div>
+          </li>
+
+        {% endfor %}
+        </div>
+        </div>
+        </div>
+      </div>
+      </div>
+    </details>
+    {% endif %}
+
+   {% if content.field_teaching_strategies.0 %}
+    <details>
+      <summary><h3>Teaching Strategies</h3></summary>
+      <div>{{content.field_teaching_strategies}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_lesson_plan.0 %}
+    <details>
+      <summary><h3>Lesson Plan</h3></summary>
+      <div>{{content.field_lesson_plan}}</div>
+    </details>
+    {% endif %}
+
+   {% if content.field_document_based_question.0 %}
+    <details>
+      <summary><h3>Document Based Question</h3></summary>
+      <div>{{content.field_document_based_question}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_bibliography.0 %}
+    <details>
+      <summary><h3>Bibliography</h3></summary>
+      <div>{{content.field_bibliography}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_credits.0 %}
+    <details open>
+      <summary><h3>Credits</h3></summary>
+      <div>{{content.field_credits}}</div>
+    </details>
+    {% endif %}
+  <div>
+
+  <div class="tags">
+    <h3>Tags</h3>
+    {{content.field_region}}
+    {{content.field_subject}}
+    {{content.field_time_period}}
+  </div>
+
+</div>

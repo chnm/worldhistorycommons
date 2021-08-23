@@ -12,7 +12,7 @@ field_name: field_downloads
 entity_type: node
 bundle: teaching
 label: Downloads
-description: ''
+description: 'Use this field to upload worksheets and other teaching guide materials.'
 required: false
 translatable: false
 default_value: {  }
