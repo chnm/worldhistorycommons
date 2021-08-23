@@ -820,10 +820,14 @@ display:
       defaults:
         filters: false
         filter_groups: false
+        cache: false
       filter_groups:
         operator: AND
         groups:
           1: AND
+      cache:
+        type: none
+        options: {  }
     cache_metadata:
       max-age: -1
       contexts:
@@ -856,6 +860,7 @@ display:
         filter_groups: false
         header: false
         fields: false
+        cache: false
       filters:
         status:
           value: '1'
@@ -1298,6 +1303,9 @@ display:
           absolute: false
           entity_type: node
           plugin_id: entity_link
+      cache:
+        type: none
+        options: {  }
     cache_metadata:
       max-age: -1
       contexts:
@@ -1330,6 +1338,7 @@ display:
         filter_groups: false
         header: false
         fields: false
+        cache: false
       filters:
         status:
           value: '1'
@@ -1772,6 +1781,9 @@ display:
           absolute: false
           entity_type: node
           plugin_id: entity_link
+      cache:
+        type: none
+        options: {  }
     cache_metadata:
       max-age: -1
       contexts:
@@ -2000,6 +2012,7 @@ display:
         title: false
         header: false
         fields: false
+        cache: false
       filter_groups:
         operator: AND
         groups:
@@ -2246,6 +2259,9 @@ display:
           absolute: false
           entity_type: node
           plugin_id: entity_link
+      cache:
+        type: none
+        options: {  }
     cache_metadata:
       max-age: -1
       contexts:
