@@ -1,0 +1,47 @@
+{{devel_dump()}}
+
+<div class="content-well">
+
+  <div class="col--2-3">
+    <div>
+      <a href="" class="content-header review-header">
+        <div class="content-header--label">Website Review</div>
+        <h1>{{node.label}}</h1>
+        <div class="content-header--author">
+        {{content.field_website_creator}}
+        </div>
+      </a>
+
+      {{content.field_website_review}}
+
+      <div class="content-details">
+        {% if content.field_credits.0 %}
+        <details open>
+          <summary><h3>Credits</h3></summary>
+          <div>{{content.field_credits}}</div>
+        </details>
+        {% endif %}
+      <div>
+
+      <div class="citation">
+        <div class="credit">Reviewed by {{content.field_website_reviewer.0 | raw}}, {{content.field_website_reviewer_instituti.0 | raw }} </div>
+        <h3>How to Cite This Source</h3>
+        <span>"{{node.label}}," in in World History Commons, {{ url('<current>') }} [accessed {{ "now"|date("F j, Y") }}]</span>
+      </div>
+
+      <div class="tags">
+        <h3>Tags</h3>
+        {{content.field_region}}
+        {{content.field_subject}}
+        {{content.field_time_period}}
+      </div>
+
+    </div>
+
+    <div class="pull-quote">
+      {{content.field_image_thumbnail}}
+      {{content.field_pull_quote.0 | raw}}
+    </div>
+  </div>
+
+</div>
