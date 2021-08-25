@@ -479,6 +479,7 @@ details div {
   padding-left: 2rem;
   padding-right: 2rem;
   max-width: 700px;
+  margin-top: 0.5rem;
 }
 .review-header .content-header--author {
   color: unset;
