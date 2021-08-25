@@ -1,10 +1,8 @@
-{{devel_dump()}}
-
 <div class="content-well">
 
   <div class="col--2-3">
     <div>
-      <a href="" class="content-header review-header">
+      <a href="{{content.field_url.0['#url'].uri}}" class="content-header review-header">
         <div class="content-header--label">Website Review</div>
         <h1>{{node.label}}</h1>
         <div class="content-header--author">
@@ -21,7 +19,7 @@
           <div>{{content.field_credits}}</div>
         </details>
         {% endif %}
-      <div>
+      </div>
 
       <div class="citation">
         <div class="credit">Reviewed by {{content.field_website_reviewer.0 | raw}}, {{content.field_website_reviewer_instituti.0 | raw }} </div>
@@ -38,9 +36,9 @@
 
     </div>
 
-    <div class="pull-quote">
+    <div class="pull-quote--sidebar">
       {{content.field_image_thumbnail}}
-      {{content.field_pull_quote.0 | raw}}
+      <div class="quote">“{{content.field_pull_quote.0 | raw}}”</div>
     </div>
   </div>
 
