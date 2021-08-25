@@ -471,6 +471,9 @@ details div {
   padding-bottom: 1rem;
   margin-bottom: 1rem;
 }
+.review-header .content-header--label {
+  background-color: #4f90b8;
+}
 .review-header h1 {
   color: unset;
   padding-left: 2rem;
@@ -481,7 +484,12 @@ details div {
   color: unset;
 }
 .review-header:hover {
-  color: black;
+  color: #3f5966;
+  border-color: #fdbd06;
+}
+.review-header:hover .content-header--label {
+  background-color: #fdbd06;
+  color: #3f5966;
 }
 
 .pull-quote--sidebar {

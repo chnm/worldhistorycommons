@@ -361,6 +361,10 @@ details {
   margin-right: auto;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
+
+  .content-header--label {
+    background-color: $blue;
+  }
   
   h1 {
     color: unset;
@@ -374,7 +378,13 @@ details {
   }
 
   &:hover {
-    color: black;
+    color: $black;
+    border-color: $yellow;
+
+    .content-header--label {
+      background-color: $yellow;
+      color: $black;
+    }
   }
 }
 
