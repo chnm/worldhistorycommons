@@ -28,14 +28,14 @@ mode: default
 content:
   field_credits:
     weight: 112
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_image:
     weight: 107
-    label: above
+    label: hidden
     settings:
       image_style: ''
       image_link: ''
@@ -44,7 +44,7 @@ content:
     region: content
   field_image_thumbnail:
     weight: 101
-    label: above
+    label: hidden
     settings:
       image_style: ''
       image_link: ''
@@ -53,14 +53,14 @@ content:
     region: content
   field_pull_quote:
     weight: 108
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     type: basic_string
     region: content
   field_region:
     weight: 109
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -68,7 +68,7 @@ content:
     region: content
   field_subject:
     weight: 111
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -76,7 +76,7 @@ content:
     region: content
   field_time_period:
     weight: 110
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -84,7 +84,7 @@ content:
     region: content
   field_url:
     weight: 102
-    label: above
+    label: hidden
     settings:
       trim_length: 80
       url_only: false
@@ -96,7 +96,7 @@ content:
     region: content
   field_website_creator:
     weight: 103
-    label: above
+    label: hidden
     settings:
       link_to_entity: false
     third_party_settings: {  }
@@ -104,14 +104,14 @@ content:
     region: content
   field_website_review:
     weight: 104
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_website_reviewer:
     weight: 105
-    label: above
+    label: hidden
     settings:
       link_to_entity: false
     third_party_settings: {  }
@@ -119,7 +119,7 @@ content:
     region: content
   field_website_reviewer_instituti:
     weight: 106
-    label: above
+    label: hidden
     settings:
       link_to_entity: false
     third_party_settings: {  }
@@ -127,7 +127,7 @@ content:
     region: content
   links:
     weight: 100
+    region: content
     settings: {  }
     third_party_settings: {  }
-    region: content
 hidden: {  }
