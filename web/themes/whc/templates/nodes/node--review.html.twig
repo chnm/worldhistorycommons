@@ -1,15 +1,15 @@
 <div class="content-well">
-
-  <div class="col--2-3">
-    <div>
-      <a href="{{content.field_url.0['#url'].uri}}" class="content-header review-header">
-        <div class="content-header--label">Website Review <i class="fas fa-arrow-right"></i></div>
+ <div class="content-header">
+        <div class="content-header--label">Website Review</div>
         <h1>{{node.label}}</h1>
         <div class="content-header--author">
         {{content.field_website_creator}}
         </div>
-      </a>
+      </div>
 
+  <div class="col--2-3">
+    <div>
+     
       {{content.field_website_review}}
 
       <div class="content-details">
@@ -22,6 +22,7 @@
       </div>
 
       <div class="citation">
+        <div><strong>Url:</strong> <a href="{{content.field_url.0['#url'].uri}}">{{content.field_url.0['#url'].uri}}</a></div>
         <div class="credit">Reviewed by {{content.field_website_reviewer.0 | raw}}, {{content.field_website_reviewer_instituti.0 | raw }} </div>
         <h3>How to Cite This Source</h3>
         <span>"{{node.label}}," in in World History Commons, {{ url('<current>') }} [accessed {{ "now"|date("F j, Y") }}]</span>
