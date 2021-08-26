@@ -368,7 +368,7 @@ details {
   
   h1 {
     color: unset;
-    padding-left: 2rem;
+    margin-left: 2rem;
     padding-right: 2rem;
     max-width: 700px;
     margin-top: .5rem;
@@ -376,6 +376,7 @@ details {
 
   .content-header--author {
     color: unset;
+    margin-left: 2rem;
   }
 
   &:hover {
@@ -471,6 +472,9 @@ details {
   display: grid;
   grid-template-columns: 2fr 300px;
   grid-gap: 4%;
+  @media screen and (max-width: $breakpoint-mid) {
+    grid-template-columns: 1fr;
+  }
 }
 
 .col-1-3 {
