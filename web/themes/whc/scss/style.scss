@@ -3,6 +3,8 @@
 @import 'mixins';
 @import 'admin';
 
+
+// Global Items.
 html, body {
   @include font-normal;
   padding: 0;
@@ -119,6 +121,8 @@ a {
 
 }
 
+
+/* Content General Items. */
 .citation {
   border-top: 1px solid $blue--light;
   margin-top: 2rem;
@@ -156,12 +160,11 @@ a {
   }
 }
 
-#block-whc-page-title {
-  @include container;
-  text-align: center
-}
+// #block-whc-page-title {
+//   @include container;
+//   text-align: center
+// }
 
-// General styles for content.
 .content-header {
   @include container;
   text-align: center;
@@ -199,15 +202,6 @@ a {
 
 .content-details {
   margin-top: 2rem;
-}
-
-// Utilities
-.two-cols {
-  display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
-  grid-gap: 2%;
-  max-width: $content-width;
-  margin: auto;
 }
 
 .doc-icon {
@@ -250,6 +244,7 @@ a {
     height: 100%;
   }
 }
+
 
 details {
   margin-bottom: .5rem;
@@ -351,6 +346,7 @@ details {
   }
 }
 
+/* Reviews Content type */
 .review-header {
   border: 3px solid $blue;
   text-decoration: none;
@@ -406,7 +402,8 @@ details {
   }
 }
 
-// General Styles for directories.
+
+/* Directory Views */
 .directory {
 
   header {
@@ -415,8 +412,6 @@ details {
     margin: auto;
     text-align: center;
   }
-
-
 }
 
 .views-exposed-form {
@@ -467,7 +462,15 @@ details {
   }
 }
 
-// Cols
+/* Layouts. */
+.two-cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+  grid-gap: 2%;
+  max-width: $content-width;
+  margin: auto;
+}
+
 .col--2-3 {
   display: grid;
   grid-template-columns: 2fr 300px;

@@ -235,6 +235,7 @@ a:hover {
   margin-bottom: -25px;
 }
 
+/* Content General Items. */
 .citation {
   border-top: 1px solid #edf4f7;
   margin-top: 2rem;
@@ -266,13 +267,6 @@ a:hover {
 .tags a:hover {
   background-color: #fdbd06;
   color: #3f5966;
-}
-
-#block-whc-page-title {
-  max-width: 1150px;
-  margin: auto;
-  width: 95%;
-  text-align: center;
 }
 
 .content-header {
@@ -326,14 +320,6 @@ a:hover {
 
 .content-details {
   margin-top: 2rem;
-}
-
-.two-cols {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-gap: 2%;
-  max-width: 1150px;
-  margin: auto;
 }
 
 .doc-icon {
@@ -460,6 +446,7 @@ details div {
   margin-bottom: -0.5rem;
 }
 
+/* Reviews Content type */
 .review-header {
   border: 3px solid #4f90b8;
   text-decoration: none;
@@ -508,6 +495,7 @@ details div {
   line-height: 1.3;
 }
 
+/* Directory Views */
 .directory header {
   font-size: 1.3em;
   font-weight: 600;
@@ -560,6 +548,15 @@ details div {
   box-shadow: 1px 2px 4px #c5c5c5;
   border-radius: 0;
   padding: 0.5rem;
+}
+
+/* Layouts. */
+.two-cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 2%;
+  max-width: 1150px;
+  margin: auto;
 }
 
 .col--2-3 {
