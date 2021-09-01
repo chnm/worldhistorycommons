@@ -11,7 +11,7 @@ id: node.source_page.field_image_thumbnail
 field_name: field_image_thumbnail
 entity_type: node
 bundle: source_page
-label: 'Image Thumbnail'
+label: 'Source Thumbnail'
 description: ''
 required: false
 translatable: true

@@ -1,4 +1,4 @@
-uuid: 2baa3dce-0774-49fe-80da-7c7d68ea5f3d
+uuid: de8928c8-9ce3-48e5-9073-d6962af9bc30
 langcode: en
 status: true
 dependencies:
@@ -19,7 +19,7 @@ default_value: {  }
 default_value_callback: ''
 settings:
   file_directory: '[date:custom:Y]-[date:custom:m]'
-  file_extensions: 'mp4 ogg mov'
+  file_extensions: 'mp4 mov'
   max_filesize: ''
   description_field: false
   handler: 'default:file'
