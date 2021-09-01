@@ -122,11 +122,10 @@ content:
     region: content
   field_video_series_transcript:
     weight: 114
-    label: above
-    settings:
-      use_description_as_link_text: true
+    label: hidden
+    settings: {  }
     third_party_settings: {  }
-    type: file_default
+    type: file_url_plain
     region: content
   links:
     weight: 100
