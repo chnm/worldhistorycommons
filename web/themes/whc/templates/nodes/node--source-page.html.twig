@@ -5,11 +5,35 @@
 
 <div class="two-cols">
   <div>
-  {% if elements.field_text_file.0 %}
-    <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
-  {% else %}
-    <div class="image-wrap">{{content.field_image}}</div>
+  {% set type = content.field_type.0['#markup'] %}
+  {% if type == 'Audio' %}
+    <div aria-label="Audio Icon" class="audio-icon"></div>
+    <div class="audio-wrap">
+      {{content.field_audio}}
+      <a href="{{file_url(content.field_audio.0['#files'].0.file.uri.value)}}">Download Audio</a>
+    </div>
   {% endif %}
+
+  {% if type == 'Image' or type == 'Object' %}
+    <div class="image-wrap">
+      {{content.field_image}}
+    </div>
+  {% endif %}
+
+  {% if type == 'Text' %}
+    <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
+  {% endif %}
+
+  {% if type == 'Video' %}
+
+    {% if content.field_youtube_video.0 %}
+        {{content.field_youtube_video}}
+    {% else %}
+        {{content.field_video}}
+    {% endif %}
+
+  {% endif %}
+
   </div>
   <div>
     <div class="box-border">
