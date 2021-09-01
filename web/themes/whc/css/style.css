@@ -223,16 +223,19 @@ a:hover {
   margin-bottom: -25px;
 }
 .footer .footer--funding .acls--logo {
-  background-image: url("../img/neh_logo_black.jpg");
+  background-image: url("../img/acls_logo.png");
   display: block;
   margin: auto;
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
+  background-position: left;
+  background-size: 52%;
   display: inline-block;
-  width: 230px;
+  width: 200px;
   height: 64px;
   margin-bottom: -25px;
+  margin-left: 1rem;
 }
 
 /* Content General Items. */
@@ -447,40 +450,6 @@ details div {
 }
 
 /* Reviews Content type */
-.review-header {
-  border: 3px solid #4f90b8;
-  text-decoration: none;
-  color: #3f5966;
-  text-align: left;
-  display: block;
-  margin-left: 0;
-  margin-right: auto;
-  padding-bottom: 1rem;
-  margin-bottom: 1rem;
-}
-.review-header .content-header--label {
-  background-color: #4f90b8;
-}
-.review-header h1 {
-  color: unset;
-  margin-left: 2rem;
-  padding-right: 2rem;
-  max-width: 700px;
-  margin-top: 0.5rem;
-}
-.review-header .content-header--author {
-  color: unset;
-  margin-left: 2rem;
-}
-.review-header:hover {
-  color: #3f5966;
-  border-color: #fdbd06;
-}
-.review-header:hover .content-header--label {
-  background-color: #fdbd06;
-  color: #3f5966;
-}
-
 .pull-quote--sidebar {
   background-color: #edf4f7;
   font-size: 2rem;

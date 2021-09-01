@@ -82,12 +82,11 @@ content:
     type: entity_reference_label
     region: content
   field_source_metadata:
-    weight: 2
-    label: hidden
-    settings:
-      link_to_entity: false
+    weight: 17
+    label: above
+    settings: {  }
     third_party_settings: {  }
-    type: string
+    type: text_default
     region: content
   field_subject:
     weight: 12

@@ -1,18 +1,17 @@
-uuid: f475dc0d-42ac-4fa1-9d0a-f4cbac1ca25b
+uuid: 17fef883-b460-4508-a4f8-521de8b1c451
 langcode: en
 status: true
 dependencies:
   module:
     - node
+    - text
 id: node.field_source_metadata
 field_name: field_source_metadata
 entity_type: node
-type: string
+type: text
 settings:
   max_length: 255
-  is_ascii: false
-  case_sensitive: false
-module: core
+module: text
 locked: false
 cardinality: 1
 translatable: true

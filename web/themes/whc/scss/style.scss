@@ -111,11 +111,14 @@ a {
     }
 
     .acls--logo {
-      @include image-block('../img/neh_logo_black.jpg');
+      @include image-block('../img/acls_logo.png');
+      background-position: left;
+      background-size: 52%;
       display: inline-block;
-      width: 230px;
+      width: 200px;
       height: 64px;
       margin-bottom: -25px;
+      margin-left: 1rem;
     }
   }
 
