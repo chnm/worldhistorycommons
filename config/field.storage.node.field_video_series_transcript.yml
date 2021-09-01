@@ -1,0 +1,23 @@
+uuid: 6a9cb422-1345-4747-a6c1-a984682be7fc
+langcode: en
+status: true
+dependencies:
+  module:
+    - file
+    - node
+id: node.field_video_series_transcript
+field_name: field_video_series_transcript
+entity_type: node
+type: file
+settings:
+  display_field: false
+  display_default: false
+  uri_scheme: public
+  target_type: file
+module: file
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -15,10 +15,12 @@ dependencies:
     - field.field.node.methods.field_subject
     - field.field.node.methods.field_time_period
     - field.field.node.methods.field_video_clip
+    - field.field.node.methods.field_video_series_transcript
     - image.style.thumbnail
     - node.type.methods
   module:
     - field_group
+    - file
     - image
     - paragraphs
     - path
@@ -99,6 +101,7 @@ third_party_settings:
     group_videos:
       children:
         - field_video_clip
+        - field_video_series_transcript
       parent_name: group_tabs
       weight: 23
       format_type: tab
@@ -238,6 +241,13 @@ content:
       form_display_mode: default
       default_paragraph_type: _none
     third_party_settings: {  }
+    region: content
+  field_video_series_transcript:
+    weight: 3
+    settings:
+      progress_indicator: throbber
+    third_party_settings: {  }
+    type: file_generic
     region: content
   path:
     type: path

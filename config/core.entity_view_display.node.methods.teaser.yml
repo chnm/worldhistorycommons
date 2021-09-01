@@ -16,6 +16,7 @@ dependencies:
     - field.field.node.methods.field_subject
     - field.field.node.methods.field_time_period
     - field.field.node.methods.field_video_clip
+    - field.field.node.methods.field_video_series_transcript
     - node.type.methods
   module:
     - user
@@ -42,3 +43,4 @@ hidden:
   field_subject: true
   field_time_period: true
   field_video_clip: true
+  field_video_series_transcript: true

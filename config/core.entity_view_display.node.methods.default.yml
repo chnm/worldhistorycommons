@@ -15,9 +15,11 @@ dependencies:
     - field.field.node.methods.field_subject
     - field.field.node.methods.field_time_period
     - field.field.node.methods.field_video_clip
+    - field.field.node.methods.field_video_series_transcript
     - node.type.methods
   module:
     - entity_reference_revisions
+    - file
     - image
     - text
     - user
@@ -117,6 +119,14 @@ content:
       view_mode: default
       link: ''
     third_party_settings: {  }
+    region: content
+  field_video_series_transcript:
+    weight: 114
+    label: above
+    settings:
+      use_description_as_link_text: true
+    third_party_settings: {  }
+    type: file_default
     region: content
   links:
     weight: 100
