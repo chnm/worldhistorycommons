@@ -473,6 +473,30 @@ details div {
 }
 
 /* Reviews Content type */
+.review-header {
+  border: 3px solid #4f90b8;
+  text-decoration: none;
+  color: #3f5966;
+  text-align: left;
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+.review-header .content-header--label {
+  background-color: #4f90b8;
+}
+.review-header h1 {
+  color: unset;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 700px;
+}
+.review-header .content-header--author {
+  color: unset;
+}
+
 .pull-quote--sidebar {
   background-color: #edf4f7;
   font-size: 2rem;
