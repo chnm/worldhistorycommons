@@ -436,7 +436,7 @@ details {
 
 .views-exposed-form {
   background-color: $blue--light;
-  padding: 2rem;
+  padding: 1.5rem;
 
   label {
     text-transform: uppercase;
@@ -461,10 +461,12 @@ details {
       -ms-transform: rotate(90deg);
       transform: rotate(90deg);
       position: relative;
-      right: -1px;
+      right: -4px;
       top: -32px;
-      padding: 4px;
+      padding: 3px 8px;
       pointer-events: none;
+      font-weight: bold;
+      font-size: small;
     }
   }
 
@@ -479,6 +481,17 @@ details {
     box-shadow: 1px 2px 4px #c5c5c5;
     border-radius: 0;
     padding: .5rem;
+  }
+
+  input[type=submit] {
+    border: transparent;
+    @include box-link;
+    color: white;
+    text-transform: uppercase;
+    font-size: medium;
+    cursor: pointer;
+    padding: .5rem 1rem;
+    font-weight: bold;
   }
 }
 
@@ -502,7 +515,11 @@ details {
 
 .col-1-3 {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 250px 2fr;
+  grid-gap: 2%;
+  @media screen and (max-width: $breakpoint-mid) {
+    grid-template-columns: 1fr;
+  }
 }
 
 .align-left {
