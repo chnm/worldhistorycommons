@@ -1,0 +1,39 @@
+uuid: cf192a53-73b3-4711-950f-07a687324ebf
+langcode: en
+status: true
+dependencies: {  }
+id: admin
+label: Admin
+weight: -8
+is_admin: null
+permissions:
+  - 'access contextual links'
+  - 'access files overview'
+  - 'administer account settings'
+  - 'administer menu'
+  - 'administer meta tags'
+  - 'administer nodes'
+  - 'administer pathauto'
+  - 'administer users'
+  - 'delete all revisions'
+  - 'delete any methods content'
+  - 'delete any page content'
+  - 'delete any review content'
+  - 'delete any source_page content'
+  - 'delete any teaching content'
+  - 'delete methods revisions'
+  - 'delete own teaching content'
+  - 'delete page revisions'
+  - 'delete review revisions'
+  - 'delete source_page revisions'
+  - 'delete teaching revisions'
+  - 'delete terms in subject'
+  - 'delete terms in time_period'
+  - 'edit terms in region'
+  - 'edit terms in subject'
+  - 'edit terms in time_period'
+  - 'notify of path changes'
+  - 'revert all revisions'
+  - 'use text format full_html'
+  - 'view unpublished paragraphs'
+  - 'view user email addresses'

@@ -1,487 +1,3 @@
-taxonomies:
-  region:
-    -
-      vid: region
-      tid: '37'
-      langcode: en
-      name: Africa
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: eb38fd05-a90f-423e-9dac-d869dd17bf16
-    -
-      vid: region
-      tid: '36'
-      langcode: en
-      name: 'Arctic/ Antarctica'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 7760bda4-9950-4043-a2d3-554c36c7135d
-    -
-      vid: region
-      tid: '35'
-      langcode: en
-      name: Asia
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 8e656f22-ef6a-4c0e-bdab-160620b3010c
-    -
-      vid: region
-      tid: '38'
-      langcode: en
-      name: Comparative
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: e7494c71-ee29-4a42-bbc2-ba6197d48588
-    -
-      vid: region
-      tid: '34'
-      langcode: en
-      name: Europe
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 7c6161b9-c05b-4015-b121-f9ca1bf542cc
-    -
-      vid: region
-      tid: '39'
-      langcode: en
-      name: Global
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: d97923b1-6201-42a8-ab6c-ca6d81cb0ced
-    -
-      vid: region
-      tid: '43'
-      langcode: en
-      name: 'Middle East'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: bc3e2724-a81f-411e-85f4-721a362d077d
-    -
-      vid: region
-      tid: '42'
-      langcode: en
-      name: 'North/Central America'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 850d8d2f-d9a2-426d-8233-e4988fedea9e
-    -
-      vid: region
-      tid: '41'
-      langcode: en
-      name: Oceania
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: e91518fd-17dc-41e8-8149-be8709becf0b
-    -
-      vid: region
-      tid: '40'
-      langcode: en
-      name: 'South America'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: d90e61af-0d76-40f3-81d4-85687b3f1b18
-  subject:
-    -
-      vid: subject
-      tid: '11'
-      langcode: en
-      name: Archaeology
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 5bc88d7c-1234-426b-8581-5f253d150ae4
-    -
-      vid: subject
-      tid: '10'
-      langcode: en
-      name: Children
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 2e85c4cf-5d14-4fb3-8569-170b88be51db
-    -
-      vid: subject
-      tid: '12'
-      langcode: en
-      name: Culture
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 86df7ffc-da56-44e2-8911-45879a2fec63
-    -
-      vid: subject
-      tid: '13'
-      langcode: en
-      name: Decolonization
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 26ce2d03-913d-4a49-bd8c-acb42ee7490a
-    -
-      vid: subject
-      tid: '9'
-      langcode: en
-      name: Economics
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 2402c457-6545-4d60-9e94-f7fede522b9f
-    -
-      vid: subject
-      tid: '14'
-      langcode: en
-      name: Education
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 54a515c6-7c8b-4ea9-a2f6-83933563b5eb
-    -
-      vid: subject
-      tid: '16'
-      langcode: en
-      name: Enlightenment
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 015bac70-76b0-4a20-af7c-9adff6c26b04
-    -
-      vid: subject
-      tid: '6'
-      langcode: en
-      name: Environment
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 964084b1-fcf8-4bd6-a3c8-36df0802a3a5
-    -
-      vid: subject
-      tid: '4'
-      langcode: en
-      name: 'Family Life'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: ec3dc238-f7e7-4d77-aeaf-686fd034cf50
-    -
-      vid: subject
-      tid: '2'
-      langcode: en
-      name: Gender
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: ab58d3d5-e264-411c-832a-df973438f773
-    -
-      vid: subject
-      tid: '1'
-      langcode: en
-      name: Geography
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 87d7c20c-532b-4560-b00b-4563dcce6fd1
-    -
-      vid: subject
-      tid: '3'
-      langcode: en
-      name: 'Global Contact'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: fa4f7fdb-2505-4b4c-a088-2d7878e11297
-    -
-      vid: subject
-      tid: '8'
-      langcode: en
-      name: Government
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 5113c67a-2962-49e5-9ab0-02561f2f9438
-    -
-      vid: subject
-      tid: '7'
-      langcode: en
-      name: 'Health/ Disease'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 67945c5f-e067-4f56-842f-b0106eabecf9
-    -
-      vid: subject
-      tid: '5'
-      langcode: en
-      name: 'Imperial/ Colonial'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 3b4467ef-eae7-4d3a-b33d-3411983efdd9
-    -
-      vid: subject
-      tid: '15'
-      langcode: en
-      name: 'Industrial Revolution'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: c03ffd7b-bbbb-4801-96fa-806ab97d9f45
-    -
-      vid: subject
-      tid: '33'
-      langcode: en
-      name: Law
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 628e06aa-870a-42f4-9f01-bd012b38cdd5
-    -
-      vid: subject
-      tid: '17'
-      langcode: en
-      name: Migration/Diaspora
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 9407deee-9f9d-4a31-bc8d-02d4fb90b4c3
-    -
-      vid: subject
-      tid: '27'
-      langcode: en
-      name: Military
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: d6890f33-c1d4-4fe5-a3cc-566648760d84
-    -
-      vid: subject
-      tid: '26'
-      langcode: en
-      name: Nationalism
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: bc10ede0-bbea-4221-9c62-1189405bf60e
-    -
-      vid: subject
-      tid: '25'
-      langcode: en
-      name: Politics
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: f84bc9fe-3f7d-4d41-8af6-e11b286132c3
-    -
-      vid: subject
-      tid: '24'
-      langcode: en
-      name: 'Popular Culture'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 8606caab-70c8-4a50-bf18-815499b39bdc
-    -
-      vid: subject
-      tid: '28'
-      langcode: en
-      name: Population
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 447a75a8-a333-4038-b13c-a75c68b95433
-    -
-      vid: subject
-      tid: '29'
-      langcode: en
-      name: Religion
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 843d54be-0a69-4a4a-8500-60ce74131f48
-    -
-      vid: subject
-      tid: '32'
-      langcode: en
-      name: Revolutions
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 514a296e-7432-49d4-a0b6-28ccf2535c5e
-    -
-      vid: subject
-      tid: '31'
-      langcode: en
-      name: 'Science/ Technology'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 02e373da-ce81-4373-a4a0-30673c672a56
-    -
-      vid: subject
-      tid: '30'
-      langcode: en
-      name: Slavery
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: e52414fd-78e7-4700-8c0a-8c357796ec9f
-    -
-      vid: subject
-      tid: '23'
-      langcode: en
-      name: 'Social Structure'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 14d063fe-5d86-4537-8810-243783d33b84
-    -
-      vid: subject
-      tid: '22'
-      langcode: en
-      name: Trade
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: f3591286-e8b0-4d35-b9a5-9e895e5a642d
-    -
-      vid: subject
-      tid: '21'
-      langcode: en
-      name: Transportation
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 96193928-86ab-41c5-8de1-83d6009dc178
-    -
-      vid: subject
-      tid: '20'
-      langcode: en
-      name: Travel
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 14ad9c22-acd0-4e03-b00c-ec95adec95cf
-    -
-      vid: subject
-      tid: '19'
-      langcode: en
-      name: War
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: cd812536-7dbf-4adf-8255-e6343ec8963a
-    -
-      vid: subject
-      tid: '18'
-      langcode: en
-      name: Women
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: f25f90eb-5562-4afe-9886-744188b27104
-  time_period:
-    -
-      vid: time_period
-      tid: '44'
-      langcode: en
-      name: 'Ancient (before 500 CE)'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 505358b2-aa0b-4419-aa0d-0dcbb1562357
-    -
-      vid: time_period
-      tid: '48'
-      langcode: en
-      name: 'Contemporary (1950 CE - Present)'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 5bbf511b-b382-428a-8a08-9666789ae705
-    -
-      vid: time_period
-      tid: '46'
-      langcode: en
-      name: 'Early Modern (1450 CE - 1800 CE)'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 52f0e31e-1aee-4d72-b4be-d93b05a7d705
-    -
-      vid: time_period
-      tid: '47'
-      langcode: en
-      name: 'Modern (1800 CE - 1950 CE)'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 2fda89b8-f71c-4e1e-af84-cf15f17a3e77
-    -
-      vid: time_period
-      tid: '45'
-      langcode: en
-      name: 'Post-Classical (500 CE - 1450 CE)'
-      description__value: null
-      description__format: null
-      weight: '0'
-      parent: '0'
-      uuid: 79e05716-44b7-4914-8aa8-e803f8e2d5fe
 menus:
   -
     menu_name: main
@@ -579,3 +95,487 @@ menus:
     weight: '-47'
     langcode: en
     uuid: 4aa868f2-9c86-4bba-b52a-7475d28e1a24
+taxonomies:
+  region:
+    -
+      vid: region
+      tid: '4'
+      langcode: en
+      name: Africa
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: eb38fd05-a90f-423e-9dac-d869dd17bf16
+    -
+      vid: region
+      tid: '3'
+      langcode: en
+      name: 'Arctic/ Antarctica'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7760bda4-9950-4043-a2d3-554c36c7135d
+    -
+      vid: region
+      tid: '2'
+      langcode: en
+      name: Asia
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8e656f22-ef6a-4c0e-bdab-160620b3010c
+    -
+      vid: region
+      tid: '5'
+      langcode: en
+      name: Comparative
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e7494c71-ee29-4a42-bbc2-ba6197d48588
+    -
+      vid: region
+      tid: '1'
+      langcode: en
+      name: Europe
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 7c6161b9-c05b-4015-b121-f9ca1bf542cc
+    -
+      vid: region
+      tid: '6'
+      langcode: en
+      name: Global
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d97923b1-6201-42a8-ab6c-ca6d81cb0ced
+    -
+      vid: region
+      tid: '10'
+      langcode: en
+      name: 'Middle East'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bc3e2724-a81f-411e-85f4-721a362d077d
+    -
+      vid: region
+      tid: '9'
+      langcode: en
+      name: 'North/Central America'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 850d8d2f-d9a2-426d-8233-e4988fedea9e
+    -
+      vid: region
+      tid: '8'
+      langcode: en
+      name: Oceania
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e91518fd-17dc-41e8-8149-be8709becf0b
+    -
+      vid: region
+      tid: '7'
+      langcode: en
+      name: 'South America'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d90e61af-0d76-40f3-81d4-85687b3f1b18
+  subject:
+    -
+      vid: subject
+      tid: '21'
+      langcode: en
+      name: Archaeology
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5bc88d7c-1234-426b-8581-5f253d150ae4
+    -
+      vid: subject
+      tid: '20'
+      langcode: en
+      name: Children
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2e85c4cf-5d14-4fb3-8569-170b88be51db
+    -
+      vid: subject
+      tid: '22'
+      langcode: en
+      name: Culture
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 86df7ffc-da56-44e2-8911-45879a2fec63
+    -
+      vid: subject
+      tid: '23'
+      langcode: en
+      name: Decolonization
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 26ce2d03-913d-4a49-bd8c-acb42ee7490a
+    -
+      vid: subject
+      tid: '19'
+      langcode: en
+      name: Economics
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2402c457-6545-4d60-9e94-f7fede522b9f
+    -
+      vid: subject
+      tid: '24'
+      langcode: en
+      name: Education
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 54a515c6-7c8b-4ea9-a2f6-83933563b5eb
+    -
+      vid: subject
+      tid: '26'
+      langcode: en
+      name: Enlightenment
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 015bac70-76b0-4a20-af7c-9adff6c26b04
+    -
+      vid: subject
+      tid: '16'
+      langcode: en
+      name: Environment
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 964084b1-fcf8-4bd6-a3c8-36df0802a3a5
+    -
+      vid: subject
+      tid: '14'
+      langcode: en
+      name: 'Family Life'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ec3dc238-f7e7-4d77-aeaf-686fd034cf50
+    -
+      vid: subject
+      tid: '12'
+      langcode: en
+      name: Gender
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: ab58d3d5-e264-411c-832a-df973438f773
+    -
+      vid: subject
+      tid: '11'
+      langcode: en
+      name: Geography
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 87d7c20c-532b-4560-b00b-4563dcce6fd1
+    -
+      vid: subject
+      tid: '13'
+      langcode: en
+      name: 'Global Contact'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fa4f7fdb-2505-4b4c-a088-2d7878e11297
+    -
+      vid: subject
+      tid: '18'
+      langcode: en
+      name: Government
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5113c67a-2962-49e5-9ab0-02561f2f9438
+    -
+      vid: subject
+      tid: '17'
+      langcode: en
+      name: 'Health/ Disease'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 67945c5f-e067-4f56-842f-b0106eabecf9
+    -
+      vid: subject
+      tid: '15'
+      langcode: en
+      name: 'Imperial/ Colonial'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 3b4467ef-eae7-4d3a-b33d-3411983efdd9
+    -
+      vid: subject
+      tid: '25'
+      langcode: en
+      name: 'Industrial Revolution'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c03ffd7b-bbbb-4801-96fa-806ab97d9f45
+    -
+      vid: subject
+      tid: '43'
+      langcode: en
+      name: Law
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 628e06aa-870a-42f4-9f01-bd012b38cdd5
+    -
+      vid: subject
+      tid: '27'
+      langcode: en
+      name: Migration/Diaspora
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9407deee-9f9d-4a31-bc8d-02d4fb90b4c3
+    -
+      vid: subject
+      tid: '37'
+      langcode: en
+      name: Military
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d6890f33-c1d4-4fe5-a3cc-566648760d84
+    -
+      vid: subject
+      tid: '36'
+      langcode: en
+      name: Nationalism
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: bc10ede0-bbea-4221-9c62-1189405bf60e
+    -
+      vid: subject
+      tid: '35'
+      langcode: en
+      name: Politics
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f84bc9fe-3f7d-4d41-8af6-e11b286132c3
+    -
+      vid: subject
+      tid: '34'
+      langcode: en
+      name: 'Popular Culture'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8606caab-70c8-4a50-bf18-815499b39bdc
+    -
+      vid: subject
+      tid: '38'
+      langcode: en
+      name: Population
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 447a75a8-a333-4038-b13c-a75c68b95433
+    -
+      vid: subject
+      tid: '39'
+      langcode: en
+      name: Religion
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 843d54be-0a69-4a4a-8500-60ce74131f48
+    -
+      vid: subject
+      tid: '42'
+      langcode: en
+      name: Revolutions
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 514a296e-7432-49d4-a0b6-28ccf2535c5e
+    -
+      vid: subject
+      tid: '41'
+      langcode: en
+      name: 'Science/ Technology'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 02e373da-ce81-4373-a4a0-30673c672a56
+    -
+      vid: subject
+      tid: '40'
+      langcode: en
+      name: Slavery
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e52414fd-78e7-4700-8c0a-8c357796ec9f
+    -
+      vid: subject
+      tid: '33'
+      langcode: en
+      name: 'Social Structure'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 14d063fe-5d86-4537-8810-243783d33b84
+    -
+      vid: subject
+      tid: '32'
+      langcode: en
+      name: Trade
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f3591286-e8b0-4d35-b9a5-9e895e5a642d
+    -
+      vid: subject
+      tid: '31'
+      langcode: en
+      name: Transportation
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 96193928-86ab-41c5-8de1-83d6009dc178
+    -
+      vid: subject
+      tid: '30'
+      langcode: en
+      name: Travel
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 14ad9c22-acd0-4e03-b00c-ec95adec95cf
+    -
+      vid: subject
+      tid: '29'
+      langcode: en
+      name: War
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: cd812536-7dbf-4adf-8255-e6343ec8963a
+    -
+      vid: subject
+      tid: '28'
+      langcode: en
+      name: Women
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f25f90eb-5562-4afe-9886-744188b27104
+  time_period:
+    -
+      vid: time_period
+      tid: '44'
+      langcode: en
+      name: 'Ancient (before 500 CE)'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 505358b2-aa0b-4419-aa0d-0dcbb1562357
+    -
+      vid: time_period
+      tid: '48'
+      langcode: en
+      name: 'Contemporary (1950 CE - Present)'
+      description__value: null
+      description__format: null
+      weight: '4'
+      parent: '0'
+      uuid: 5bbf511b-b382-428a-8a08-9666789ae705
+    -
+      vid: time_period
+      tid: '46'
+      langcode: en
+      name: 'Early Modern (1450 CE - 1800 CE)'
+      description__value: null
+      description__format: null
+      weight: '2'
+      parent: '0'
+      uuid: 52f0e31e-1aee-4d72-b4be-d93b05a7d705
+    -
+      vid: time_period
+      tid: '47'
+      langcode: en
+      name: 'Modern (1800 CE - 1950 CE)'
+      description__value: null
+      description__format: null
+      weight: '3'
+      parent: '0'
+      uuid: 2fda89b8-f71c-4e1e-af84-cf15f17a3e77
+    -
+      vid: time_period
+      tid: '45'
+      langcode: en
+      name: 'Post-Classical (500 CE - 1450 CE)'
+      description__value: null
+      description__format: null
+      weight: '1'
+      parent: '0'
+      uuid: 79e05716-44b7-4914-8aa8-e803f8e2d5fe
