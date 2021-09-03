@@ -9,7 +9,7 @@
   {% if type == 'Audio' %}
     <div aria-label="Audio Icon" class="audio-icon"></div>
     <div class="audio-wrap">
-      {{content.field_audio}}
+      <div>{{content.field_audio}}</div>
       <a href="{{file_url(content.field_audio.0['#files'].0.file.uri.value)}}">Download Audio</a>
     </div>
   {% endif %}

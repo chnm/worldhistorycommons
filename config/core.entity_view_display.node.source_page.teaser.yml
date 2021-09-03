@@ -20,6 +20,7 @@ dependencies:
     - field.field.node.source_page.field_type
     - field.field.node.source_page.field_video
     - field.field.node.source_page.field_youtube_video
+    - image.style.medium
     - node.type.source_page
   module:
     - image
@@ -35,7 +36,7 @@ content:
     region: content
     label: hidden
     settings:
-      image_style: ''
+      image_style: medium
       image_link: ''
     third_party_settings: {  }
 hidden:
