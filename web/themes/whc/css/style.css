@@ -641,6 +641,11 @@ details div {
   margin-bottom: 1.5rem;
 }
 
+.no-results {
+  width: 75%;
+  margin: auto;
+}
+
 /* Layouts. */
 .two-cols {
   display: grid;

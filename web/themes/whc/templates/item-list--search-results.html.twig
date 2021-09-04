@@ -4,6 +4,21 @@
   </div>
 
   <div class="content-well">
+    
+    {% if items is empty %}
+
+      <div class="no-results">
+        <strong>Sorry! Your search yielded no results.</strong>
+        <ul>
+          <li>Check if your spelling is correct.</li>
+          <li>Remove quotes around phrases to search for each word individually. <em>bike shed</em> will often show more results than <em>"bike shed"</em>.</li>
+          <li>Consider loosening your query with <em>OR</em>. <em>bike OR shed</em> will often show more results than <em>bike shed</em>.</li>
+        </ul>
+      </div>
+
+    {% else %}
+    
+
     {% for item in items %}
       <div class="search-items">
         <div><strong>{{item.value['#result'].type}}</strong></div>
@@ -11,5 +26,7 @@
         <div>{{item.value['#result'].snippet['#markup']|raw}}</div>
       </div>
     {% endfor %}
+
+    {% endif %}
   </div>
 </div>

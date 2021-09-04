@@ -138,7 +138,6 @@ a {
   }
 }
 
-
 /* Content General Items. */
 .citation {
   border-top: 1px solid $blue--light;
@@ -549,6 +548,11 @@ details {
   .search-items {
     margin-bottom: 1.5rem;
   }
+}
+
+.no-results {
+  width: 75%;
+  margin: auto;
 }
 
 /* Layouts. */
