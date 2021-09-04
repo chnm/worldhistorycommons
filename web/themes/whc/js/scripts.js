@@ -66,6 +66,8 @@ document.addEventListener( 'DOMContentLoaded', function () {
     });
 
 
+    $('h2:contains("Search results")').css("display", "none");
+
     
   });
 }(jQuery));

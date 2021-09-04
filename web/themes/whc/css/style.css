@@ -153,7 +153,7 @@ a:hover {
   width: 200px;
   font-size: 1rem;
 }
-.header .search-block-form #edit-submit {
+.header .search-block-form #edit-submit, .header .search-block-form #edit-actions {
   display: none;
 }
 
@@ -236,6 +236,20 @@ a:hover {
   height: 64px;
   margin-bottom: -25px;
   margin-left: 1rem;
+}
+
+.rrchnm_bar {
+  text-align: center;
+  padding: 0.3rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 5px solid #fdbd06;
+}
+.rrchnm_bar .donate-button {
+  position: relative;
+  display: inline-block;
+  width: 7rem;
+  top: 8px;
+  margin-left: 0.5rem;
 }
 
 /* Content General Items. */
@@ -531,19 +545,28 @@ details div {
 .directory h2 a:hover {
   text-decoration: underline;
 }
-.directory .views-row {
+.directory .views-row,
+.directory .result-row {
   display: grid;
   grid-template-columns: 145px 2fr;
   margin-bottom: 1.5rem;
   align-items: top;
 }
 .directory .views-row .views-field-field-image-thumbnail,
-.directory .views-row .views-field-field-primary-sources {
+.directory .views-row .views-field-field-primary-sources,
+.directory .views-row .result--thumbnial,
+.directory .result-row .views-field-field-image-thumbnail,
+.directory .result-row .views-field-field-primary-sources,
+.directory .result-row .result--thumbnial {
   width: 129px;
   height: 129px;
 }
 .directory .views-row .views-field-field-image-thumbnail img,
-.directory .views-row .views-field-field-primary-sources img {
+.directory .views-row .views-field-field-primary-sources img,
+.directory .views-row .result--thumbnial img,
+.directory .result-row .views-field-field-image-thumbnail img,
+.directory .result-row .views-field-field-primary-sources img,
+.directory .result-row .result--thumbnial img {
   width: 100%;
   height: auto;
 }
@@ -611,6 +634,13 @@ details div {
   background-color: #fdbd06;
 }
 
+.search-results .content-header {
+  margin-bottom: 1rem;
+}
+.search-results .search-items {
+  margin-bottom: 1.5rem;
+}
+
 /* Layouts. */
 .two-cols {
   display: grid;
@@ -650,6 +680,11 @@ details div {
 .align-right {
   margin-left: 1rem;
   margin-bottom: 1rem;
+}
+
+.search-form,
+.block-whc-local-tasks {
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */

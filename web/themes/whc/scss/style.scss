@@ -73,7 +73,7 @@ a {
       font-size: 1rem;
     }
 
-    #edit-submit {
+    #edit-submit, #edit-actions {
       display: none;
     }
   }
@@ -124,6 +124,20 @@ a {
 
 }
 
+.rrchnm_bar {
+  text-align: center;
+  padding: .3rem;
+  padding-bottom: .7rem;
+  border-bottom: 5px solid $yellow;
+  .donate-button {
+    position: relative;
+    display: inline-block;
+    width: 7rem;
+    top: 8px;
+    margin-left: .5rem;
+  }
+}
+
 
 /* Content General Items. */
 .citation {
@@ -162,11 +176,6 @@ a {
     }
   }
 }
-
-// #block-whc-page-title {
-//   @include container;
-//   text-align: center
-// }
 
 .content-header {
   @include container;
@@ -446,14 +455,16 @@ details {
 
   }
 
-  .views-row {
+  .views-row, 
+  .result-row {
     display: grid;
     grid-template-columns: 145px 2fr;
     margin-bottom: 1.5rem;
     align-items: top;
 
     .views-field-field-image-thumbnail,
-    .views-field-field-primary-sources {
+    .views-field-field-primary-sources,
+    .result--thumbnial {
       width: 129px;
       height: 129px;
 
@@ -529,6 +540,17 @@ details {
   }
 }
 
+.search-results {
+
+  .content-header {
+    margin-bottom: 1rem;
+  }
+
+  .search-items {
+    margin-bottom: 1.5rem;
+  }
+}
+
 /* Layouts. */
 .two-cols {
   display: grid;
@@ -564,4 +586,10 @@ details {
 .align-right {
   margin-left: 1rem;
   margin-bottom: 1rem;
+}
+
+// Hacks
+.search-form,
+.block-whc-local-tasks {
+  display: none;
 }
