@@ -4,6 +4,7 @@ status: true
 dependencies:
   module:
     - ctools
+    - system
   theme:
     - whc
 _core:
@@ -31,3 +32,7 @@ visibility:
     negate: true
     context_mapping:
       node: '@node.node_route_context:node'
+  request_path:
+    id: request_path
+    pages: '/search/*'
+    negate: true

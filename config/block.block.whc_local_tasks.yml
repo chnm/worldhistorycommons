@@ -2,6 +2,8 @@ uuid: 699b28cd-4d03-4373-a8bd-0710c1bcabda
 langcode: en
 status: true
 dependencies:
+  module:
+    - user
   theme:
     - whc
 _core:
@@ -19,4 +21,13 @@ settings:
   label_display: '0'
   primary: true
   secondary: true
-visibility: {  }
+visibility:
+  user_role:
+    id: user_role
+    roles:
+      authenticated: authenticated
+      admin: admin
+      administrator: administrator
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'
