@@ -471,6 +471,12 @@ details {
     .views-row {
       background-color: red;
       height: 145px;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: auto;
+      }
 
       @media screen and (max-width: $tablet) {
         height: 85px;
@@ -552,9 +558,6 @@ details {
       }
     }
   }
-
-
-
 }
 
 .views-exposed-form {

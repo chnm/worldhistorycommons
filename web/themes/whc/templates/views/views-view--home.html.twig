@@ -2,21 +2,21 @@
   <div class="featured-banner">
     <div class="content-well">{{header}}</div>
   </div>
-  <div class="content-well box-wrapper">
 
   {% set data = rows.0['#rows']%}
+
+  <div class="content-well box-wrapper">
+
+    
     {% for item in data %}
 
-      <div class="views-row">1</div>
+    {# {{devel_dump(item['#view'].entity)}}
+    {{devel_dump(item['#row'])}} #}
 
+      <div class="views-row">{{item}}</div>
     {% endfor %}
 
   </div>
   
 </div>
 
-{{devel_dump()}}
-
-{{rows}}
-
-{{devel_dump(rows.0['#rows'])}}

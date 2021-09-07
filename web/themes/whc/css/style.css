@@ -560,6 +560,11 @@ details div {
 .front-page .box-wrapper .views-row {
   background-color: red;
   height: 145px;
+  overflow: hidden;
+}
+.front-page .box-wrapper .views-row img {
+  width: 100%;
+  height: auto;
 }
 @media screen and (max-width: 1050px) {
   .front-page .box-wrapper .views-row {
