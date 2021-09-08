@@ -7,7 +7,6 @@
 
   <div class="content-well box-wrapper">
 
-    
     {% for item in data %}
 
       {% if item['#row']._entity.field_primary_sources.entity.field_image_thumbnail.0 is not null %}
@@ -17,10 +16,12 @@
       {% endif %}
 
       <div class="views-row" style="background-image: url({{thumbnail}})">
-        <div class="box-hover">
-          <div class="box-hover--title"> {{item['#row']._entity.title.value}}</div>
-          <a class="box-hover--link" href="{{path('entity.node.canonical', {'node': item['#row']._entity.nid.value  })}}">Learn More</a>
-        </div>
+        <a href="{{path('entity.node.canonical', {'node': item['#row']._entity.nid.value  })}}" class="box-hover">
+          <div class="box-info">
+            <div class="box-info--title"> {{item['#row']._entity.title.value}}</div>
+            <span class="box-info--link">Learn More</span>
+          </div>
+        </a>
       </div>
     {% endfor %}
 

@@ -562,6 +562,41 @@ details div {
   overflow: hidden;
   background-size: 100%;
 }
+.front-page .box-wrapper .views-row .box-hover {
+  overflow: hidden;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  align-items: end;
+  text-decoration: none;
+}
+.front-page .box-wrapper .views-row .box-hover:hover {
+  background-color: rgba(124, 173, 200, 0.8);
+  opacity: 1;
+}
+.front-page .box-wrapper .views-row .box-info {
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+}
+.front-page .box-wrapper .views-row .box-info .box-info--title {
+  font-size: 1.1em;
+  line-height: 1.1;
+  margin-bottom: 5px;
+}
+.front-page .box-wrapper .views-row .box-info .box-info--link {
+  background-color: #fdbd06;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 0.3rem;
+  padding-bottom: 0.2rem;
+  color: #3f5966;
+  font-weight: bold;
+  font-size: small;
+  margin-top: 0.5rem;
+  letter-spacing: 1px;
+}
 .front-page .box-wrapper .views-row img {
   width: 100%;
   height: auto;
