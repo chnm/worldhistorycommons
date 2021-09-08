@@ -10,10 +10,18 @@
     
     {% for item in data %}
 
-    {# {{devel_dump(item['#view'].entity)}}
-    {{devel_dump(item['#row'])}} #}
+      {% if item['#row']._entity.field_primary_sources.entity.field_image_thumbnail.0 is not null %}
+        {% set thumbnail = file_url(item['#row']._entity.field_primary_sources.entity.field_image_thumbnail.0.entity.uri.value) %}
+      {% else %}
+        {% set thumbnail = file_url(item['#row']._entity.field_image_thumbnail.0.entity.uri.value) %}
+      {% endif %}
 
-      <div class="views-row">{{item}}</div>
+      <div class="views-row" style="background-image: url({{thumbnail}})">
+        <div class="box-hover">
+          <div class="box-hover--title"> {{item['#row']._entity.title.value}}</div>
+          <a class="box-hover--link" href="{{path('entity.node.canonical', {'node': item['#row']._entity.nid.value  })}}">Learn More</a>
+        </div>
+      </div>
     {% endfor %}
 
   </div>
