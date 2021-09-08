@@ -558,9 +558,9 @@ details div {
   }
 }
 .front-page .box-wrapper .views-row {
-  background-color: red;
   height: 145px;
   overflow: hidden;
+  background-size: 100%;
 }
 .front-page .box-wrapper .views-row img {
   width: 100%;
