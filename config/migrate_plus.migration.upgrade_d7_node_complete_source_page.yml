@@ -187,12 +187,52 @@ process:
         sa: 7
   field_subject:
     -
-      plugin: get
+      plugin: static_map
       source: field_subject
+      map:
+        arc: 21
+        chil: 20
+        cult: 22
+        decol: 23
+        econ: 19
+        edu: 24
+        enlight: 26
+        env: 16
+        fml: 14
+        gend: 12
+        geo: 11
+        glct: 13
+        gov: 18
+        hde: 17
+        icl: 15
+        inrev: 25
+        mida: 27
+        la: 43
+        mili: 37
+        nat: 36
+        poli: 35
+        pc: 34
+        popul: 38
+        reg: 39
+        revol: 42
+        scitech: 41
+        slvr: 40
+        sse: 33
+        trd: 32
+        transp: 31
+        trv: 30
+        wr: 29
+        wm: 28
   field_time_period:
     -
-      plugin: get
+      plugin: static_map
       source: field_time_period
+      map:
+        anc: 44
+        pcl: 45
+        em: 46
+        mod: 47
+        cont: 48
   field_type:
     -
       plugin: get
