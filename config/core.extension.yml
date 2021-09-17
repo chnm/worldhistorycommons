@@ -54,8 +54,8 @@ module:
   twig_field_value: 0
   user: 0
   video_embed_field: 0
-  whc_migration: 0
   views_ui: 0
+  whc_migration: 0
   pathauto: 1
   views: 10
   paragraphs: 11

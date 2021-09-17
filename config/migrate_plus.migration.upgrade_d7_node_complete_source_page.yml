@@ -85,8 +85,7 @@ process:
         format:
           plugin: default_value
           default_value: basic_html
-  field_transcription:
-  field_text:
+  field_text_file:
     -
       plugin: sub_process
       source: field_text
@@ -94,10 +93,15 @@ process:
         target_id: fid
         display: display
         description: description
-  field_text3:
+  field_text:
     -
-      plugin: get
+      plugin: sub_process
       source: field_text3
+      process:
+        value: value
+        format:
+          plugin: default_value
+          default_value: basic_html
   field_audio:
     -
       plugin: sub_process
@@ -121,13 +125,18 @@ process:
           default_value: basic_html
   field_transcription:
     -
-      plugin: get
+      plugin: sub_process
       source: field_transcription
+      process:
+        value: value
+        format:
+          plugin: default_value
+          default_value: basic_html
   field_translation:
     -
       plugin: get
       source: field_translation
-      process:
+      process: null
       value: value
       format:
         plugin: default_value
@@ -250,8 +259,5 @@ destination:
   translations: true
   default_bundle: source_page
 migration_dependencies:
-  # required:
-  #   - upgrade_d7_user
-  #   - upgrade_d7_node_type
   optional:
     - upgrade_d7_field_instance
