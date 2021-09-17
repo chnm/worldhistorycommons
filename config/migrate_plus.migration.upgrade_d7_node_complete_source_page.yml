@@ -170,15 +170,9 @@ process:
         title: title
         width: width
         height: height
-  field_tags:
-    -
-      plugin: sub_process
-      source: field_tags
-      process:
-        target_id: tid
   field_youtube_video:
     -
-      plugin: get
+      plugin: whclistmap
       source: field_youtube_video
   field_region:
     -
