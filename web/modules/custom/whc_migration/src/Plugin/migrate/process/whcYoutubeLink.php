@@ -11,10 +11,10 @@ use Drupal\migrate\Row;
  * This plugin converts a string to uppercase.
  *
  * @MigrateProcessPlugin(
- *   id = "whclistmap"
+ *   id = "whcyoutubelink"
  * )
  */
-class whcListMap extends ProcessPluginBase {
+class whcYoutubeLink extends ProcessPluginBase {
   /**
    * {@inheritdoc}
    */

@@ -172,7 +172,7 @@ process:
         height: height
   field_youtube_video:
     -
-      plugin: whclistmap
+      plugin: whcyoutubelink
       source: field_youtube_video
   field_region:
     -
