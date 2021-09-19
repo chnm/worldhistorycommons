@@ -8,7 +8,7 @@ use Drupal\migrate\MigrateExecutableInterface;
 use Drupal\migrate\Row;
 
 /**
- * This plugin converts a string to uppercase.
+ * This plugin checks to see if node should be featured to the homepage.
  *
  * @MigrateProcessPlugin(
  *   id = "whcpromote"

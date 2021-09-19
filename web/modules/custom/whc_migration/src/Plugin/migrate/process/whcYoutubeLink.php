@@ -8,7 +8,7 @@ use Drupal\migrate\MigrateExecutableInterface;
 use Drupal\migrate\Row;
 
 /**
- * This plugin converts a string to uppercase.
+ * This plugin extracts raw youtube link value.
  *
  * @MigrateProcessPlugin(
  *   id = "whcyoutubelink"
