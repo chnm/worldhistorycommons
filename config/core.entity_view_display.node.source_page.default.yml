@@ -71,7 +71,7 @@ content:
     type: image
     weight: 14
     region: content
-    label: above
+    label: hidden
     settings:
       image_style: medium
       image_link: ''
@@ -86,7 +86,7 @@ content:
     region: content
   field_source_metadata:
     weight: 15
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
