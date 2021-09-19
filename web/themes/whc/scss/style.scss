@@ -280,12 +280,17 @@ details {
   margin-bottom: .5rem;
   
   summary {
-    background-color: $blue--light;
+    background-color: $blue--meidum;
     padding: .5rem;
     cursor: pointer;
 
     h3 {
+      @include font-bold;
+      font-size: 1.3rem;
       display: inline;
+      position: relative;
+      top: 1px;
+
     }
   }
 
