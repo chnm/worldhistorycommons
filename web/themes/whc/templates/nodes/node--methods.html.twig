@@ -70,20 +70,6 @@
     </details>
     {% endif %}
 
-    {% if content.field_sample_analysis.0 %}
-    <details>
-      <summary><h3>Analysis</h3></summary>
-      <div>{{content.field_sample_analysis}}</div>
-    </details>
-    {% endif %}
-
-    {% if content.field_bibliography.0 %}
-    <details>
-      <summary><h3>Bibliography</h3></summary>
-      <div>{{content.field_bibliography}}</div>
-    </details>
-    {% endif %}
-
     {% if content.field_primary_sources.0 %}
     <details id="slideclick" open>
       <summary><h3>Primary Sources</h3></summary>
@@ -116,6 +102,20 @@
     </details>
     {% endif %}
 
+    {% if content.field_bibliography.0 %}
+    <details>
+      <summary><h3>Bibliography</h3></summary>
+      <div>{{content.field_bibliography}}</div>
+    </details>
+    {% endif %}
+
+    {% if content.field_sample_analysis.0 %}
+    <details>
+      <summary><h3>Analysis</h3></summary>
+      <div>{{content.field_sample_analysis}}</div>
+    </details>
+    {% endif %}
+
     {% if content.field_credits.0 %}
     <details open>
       <summary><h3>Credits</h3></summary>
@@ -123,6 +123,11 @@
     </details>
     {% endif %}
   <div>
+
+  <div class="citation">
+    <h3>How to Cite This Source</h3>
+    <span>"{{node.label}}," in World History Commons, {{ url('<current>') }} [accessed {{ "now"|date("F j, Y") }}]</span>
+  </div>
 
   <div class="tags">
     <h3>Tags</h3>
