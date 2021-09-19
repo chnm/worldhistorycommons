@@ -21,15 +21,15 @@ class whcPromote extends ProcessPluginBase {
 
   public function transform($value, MigrateExecutableInterface $migrate_executable, Row $row, $destination_property) {
 
-  if ($value == 1) {
+    $status = $value['value'];
 
-    $promote = '0' ;
+    if ($status == 1) {
+      $promote =  0;
+    } else {
+      $promote =  1;
+    }
 
-  } else  {
-    $promote = '1';
-  }
-
-  return $promote;
+    return $value['value'] = $promote;
 
   }
 }
