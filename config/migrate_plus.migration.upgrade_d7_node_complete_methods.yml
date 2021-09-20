@@ -193,9 +193,15 @@ process:
         wm: 28
   field_time_period:
     -
-      plugin: get
+      plugin: static_map
       source: field_time_period
-  field_image_upload:
+      map:
+        anc: 44
+        pcl: 45
+        em: 46
+        mod: 47
+        cont: 48
+  field_image:
     -
       plugin: sub_process
       source: field_image_upload
@@ -219,7 +225,4 @@ destination:
   default_bundle: methods
 migration_dependencies:
   required:
-    - upgrade_d7_user
-    - upgrade_d7_node_type
-  optional:
-    - upgrade_d7_field_instance
+    - upgrade_d7_node_complete_source_page
