@@ -31,16 +31,13 @@ foreach ($video_series_data as $key => $record) {
 
   // Build array.
   $l['transcript_dl_fid'] = $transcript_dl_data['field_video_clip_transcripts_dow_fid'];
-  // $l[$key] = array();
   $l[$key]['thumbnail_fid'] = $thumbnail_data['field_video_thumbnail_fid'];
   $l[$key]['youtube_link'] = $youtube_data['field_youtube_link_input'];
   $l[$key]['video_clip_fid'] = $video_clip_data['field_video_clips_fid'];
   $l[$key]['transcript'] =  $transcript_data['field_video_clip_transcripts_value'];
 
-
   $video_series = $l;
 
-  // print_r($record);
 }
 
 print_r($video_series);
