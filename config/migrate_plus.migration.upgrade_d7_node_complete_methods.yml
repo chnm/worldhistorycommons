@@ -127,7 +127,7 @@ process:
           default_value: basic_html
   field_video_clip:
     -
-      plugin: get
+      plugin: whcvideo
       source: field_video_clip
   field_does_this_have_video_:
     -
