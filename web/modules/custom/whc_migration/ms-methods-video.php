@@ -1,19 +1,11 @@
 <?php
 
-
 use Drupal\node\Entity\Node;
-use Drupal\media\Entity\Media;
-use Drupal\file\Entity\File;
 use Drupal\paragraphs\Entity\Paragraph;
-use Drupal\taxonomy\Entity\Term;
-use Drupal\block\Entity\Block;
-use Drupal\block_content\Entity\BlockContent;
-use Symfony\Component\Validator\Constraints\NotNull;
 
 #TODO: copy this to make paragraph with values.
 # https://drupal.stackexchange.com/questions/278476/paragraphs-from-sub-process
 # https://drupal.stackexchange.com/questions/144947/how-do-i-access-a-field-value-for-an-entity-e-g-node-object
-
 
 // Function that uses the legacy entity id and builds an array.
 function getVideoData($entity_id) {
@@ -49,10 +41,10 @@ function getVideoData($entity_id) {
     // Build array.
     $l['transcript_dl_fid'] = $transcript_dl_data['field_video_clip_transcripts_dow_fid'];
     $l['entity_id'] = $entity_id;
-    $l[$key]['thumbnail_fid'] = $thumbnail_data['field_video_thumbnail_fid'];
-    $l[$key]['youtube_link'] = $youtube_data['field_youtube_link_input'];
-    $l[$key]['video_clip_fid'] = $video_clip_data['field_video_clips_fid'];
-    $l[$key]['transcript'] =  $transcript_data['field_video_clip_transcripts_value'];
+    $l['data'][$key]['thumbnail_fid'] = $thumbnail_data['field_video_thumbnail_fid'];
+    $l['data'][$key]['youtube_link'] = $youtube_data['field_youtube_link_input'];
+    $l['data'][$key]['video_clip_fid'] = $video_clip_data['field_video_clips_fid'];
+    $l['data'][$key]['transcript'] =  $transcript_data['field_video_clip_transcripts_value'];
 
     $video_series = $l;
 
@@ -60,13 +52,6 @@ function getVideoData($entity_id) {
 
   return $video_series;
 }
-
-// --- Notes
-// Logic here will need to be to create
-// First go through all nodes (methods) and find that have a value in field_legacy_vid. 
-// That becomes our entity ID, we then loop through each of that and we are good. 
-// to which we then run the following script, build the array and save to paragraph.
-// -- End Notes.
 
 // Get list of nodes with a value in field_legacy_vid.
 $query = \Drupal::entityQuery('node')
@@ -81,24 +66,32 @@ foreach ($nids as $nid) {
   $legacy_id = $node->get('field_legacy_vid')->getString();
   $video_data = getVideoData($legacy_id);
 
-  // Create paragraph.
-  \Drupal\Core\Database\Database::setActiveConnection();
+  if ($video_data) {
+    foreach ($video_data['data'] as $video) {
 
-  // save paragarph
-  // save node.
-  
+      // Create paragraph.
+      \Drupal\Core\Database\Database::setActiveConnection();
 
+      $paragraph = Paragraph::create(['type' => 'video',]);
+      $paragraph->set('field_video_thumbnail', $video['thumbnail_fid']);
+      $paragraph->set('field_youtube_link', $video['youtube_link']);
+      $paragraph->set('field_video_clip', $video['video_clip_fid']);
+      $paragraph->set('field_video_clip_transcript', $video['transcript']); 
+      $paragraph->save();
 
-  print_r($video_data);
+      $data = $node->get('field_video_clip')->getValue();
+      $data[] = array(
+        'target_id' => $paragraph->id(),
+        'target_revision_id' => $paragraph->getRevisionId(),
+      );
+      $node->set('field_video_clip', $data);
+    }
+
+    // Save Node.
+    echo 'Node: ' . $nid . ' was updated' . PHP_EOL;
+    $node->set('field_video_series_transcript', $video_data['transcript_dl_fid']);
+    $node->save();
+  }
 
 }
-
-// Loop through each nid and load the node.
-
-// print_r($nids);
-
-
-
-// print_r($video_series);
-
 

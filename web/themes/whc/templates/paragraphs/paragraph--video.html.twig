@@ -12,7 +12,7 @@
   
   {% if content.field_video_clip_transcript.0 %}
     <h3>Video Clip Transcripts:</h3>
-    {{content.field_video_clip_transcript}}
+    {{content.field_video_clip_transcript.0['#text'] | raw}}
   {% endif %}
 
   {% if content.field_video_clip_transcript_down.0 %}
