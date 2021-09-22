@@ -1,0 +1,21 @@
+uuid: 8cad23cb-73fe-44ab-87e1-07ecf846461f
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_legacy_vid
+field_name: field_legacy_vid
+entity_type: node
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

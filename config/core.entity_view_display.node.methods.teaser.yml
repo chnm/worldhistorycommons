@@ -9,6 +9,7 @@ dependencies:
     - field.field.node.methods.field_credits
     - field.field.node.methods.field_essay
     - field.field.node.methods.field_image
+    - field.field.node.methods.field_legacy_vid
     - field.field.node.methods.field_overview
     - field.field.node.methods.field_primary_sources
     - field.field.node.methods.field_region
@@ -36,6 +37,7 @@ hidden:
   field_credits: true
   field_essay: true
   field_image: true
+  field_legacy_vid: true
   field_overview: true
   field_primary_sources: true
   field_region: true

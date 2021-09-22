@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.methods.field_credits
     - field.field.node.methods.field_essay
     - field.field.node.methods.field_image
+    - field.field.node.methods.field_legacy_vid
     - field.field.node.methods.field_overview
     - field.field.node.methods.field_primary_sources
     - field.field.node.methods.field_region
@@ -185,6 +186,14 @@ content:
       preview_image_style: thumbnail
     third_party_settings: {  }
     type: image_image
+    region: content
+  field_legacy_vid:
+    weight: 26
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
     region: content
   field_overview:
     weight: 2

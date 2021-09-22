@@ -125,9 +125,9 @@ process:
         format:
           plugin: default_value
           default_value: basic_html
-  field_video_clip:
+  field_legacy_vid:
     -
-      plugin: whcvideo
+      plugin: get
       source: field_video_clip
   field_does_this_have_video_:
     -
@@ -140,19 +140,19 @@ process:
       process:
         target_id: nid
   field_region:
-  -
-    plugin: static_map
-    source: field_region
-    map:
-      afr: 4
-      asia: 2
-      comp: 5
-      eurp: 1
-      glob: 6
-      me: 10
-      nca: 9
-      ocea: 8
-      sa: 7
+    -
+      plugin: static_map
+      source: field_region
+      map:
+        afr: 4
+        asia: 2
+        comp: 5
+        eurp: 1
+        glob: 6
+        me: 10
+        nca: 9
+        ocea: 8
+        sa: 7
   field_subject:
     -
       plugin: static_map

@@ -1,4 +1,18 @@
 <?php
+
+#TODO: copy this to make paragraph with values.
+# https://drupal.stackexchange.com/questions/278476/paragraphs-from-sub-process
+
+// Logic here will need to be to create
+
+// First go through all nodes (methods) and find that have a value in field_legacy_vid. 
+// That becomes our entity ID, we then loop through each of that and we are good. 
+
+
+// to which we then run the following script, build the array and save to paragraph. 
+
+
+
 \Drupal\Core\Database\Database::setActiveConnection('drupal_7');
 $db = \Drupal\Core\Database\Database::getConnection();
 
@@ -31,6 +45,7 @@ foreach ($video_series_data as $key => $record) {
 
   // Build array.
   $l['transcript_dl_fid'] = $transcript_dl_data['field_video_clip_transcripts_dow_fid'];
+  $l['entity_id'] = $entity_id;
   $l[$key]['thumbnail_fid'] = $thumbnail_data['field_video_thumbnail_fid'];
   $l[$key]['youtube_link'] = $youtube_data['field_youtube_link_input'];
   $l[$key]['video_clip_fid'] = $video_clip_data['field_video_clips_fid'];
@@ -41,3 +56,6 @@ foreach ($video_series_data as $key => $record) {
 }
 
 print_r($video_series);
+
+// Create paragraph.
+\Drupal\Core\Database\Database::setActiveConnection();
