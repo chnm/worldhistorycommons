@@ -50,8 +50,8 @@ process:
       source: timestamp
   promote:
     -
-      plugin: get
-      source: promote
+      plugin: whcpromote
+      source: field_do_not_display_on_homepage
   sticky:
     -
       plugin: get
@@ -86,8 +86,13 @@ process:
       source: field_website_creator
   field_website_review:
     -
-      plugin: get
+      plugin: sub_process
       source: field_website_review
+      process:
+        value: value
+        format:
+          plugin: default_value
+          default_value: basic_html
   field_website_reviewer:
     -
       plugin: get
@@ -108,8 +113,13 @@ process:
         height: height
   field_credits:
     -
-      plugin: get
+      plugin: sub_process
       source: field_credits
+      process:
+        value: value
+        format:
+          plugin: default_value
+          default_value: basic_html
   field_image:
     -
       plugin: sub_process
@@ -120,28 +130,72 @@ process:
         title: title
         width: width
         height: height
-  field_tags:
-    -
-      plugin: sub_process
-      source: field_tags
-      process:
-        target_id: tid
-  field_pull_quote_new:
+  field_pull_quote:
     -
       plugin: get
       source: field_pull_quote_new
   field_region:
     -
-      plugin: get
+      plugin: static_map
       source: field_region
+      map:
+        afr: 4
+        asia: 2
+        comp: 5
+        eurp: 1
+        glob: 6
+        me: 10
+        nca: 9
+        ocea: 8
+        sa: 7
   field_time_period:
     -
-      plugin: get
+      plugin: static_map
       source: field_time_period
+      map:
+        anc: 44
+        pcl: 45
+        em: 46
+        mod: 47
+        cont: 48
   field_subject:
     -
-      plugin: get
+      plugin: static_map
       source: field_subject
+      map:
+        arc: 21
+        chil: 20
+        cult: 22
+        decol: 23
+        econ: 19
+        edu: 24
+        enlight: 26
+        env: 16
+        fml: 14
+        gend: 12
+        geo: 11
+        glct: 13
+        gov: 18
+        hde: 17
+        icl: 15
+        inrev: 25
+        mida: 27
+        la: 43
+        mili: 37
+        nat: 36
+        poli: 35
+        pc: 34
+        popul: 38
+        reg: 39
+        revol: 42
+        scitech: 41
+        slvr: 40
+        sse: 33
+        trd: 32
+        transp: 31
+        trv: 30
+        wr: 29
+        wm: 28
   field_metatag:
     -
       plugin: d7_metatag_entities
@@ -149,10 +203,4 @@ process:
 destination:
   plugin: 'entity_complete:node'
   translations: true
-  default_bundle: review_page
-migration_dependencies:
-  required:
-    - upgrade_d7_user
-    - upgrade_d7_node_type
-  optional:
-    - upgrade_d7_field_instance
+  default_bundle: review
