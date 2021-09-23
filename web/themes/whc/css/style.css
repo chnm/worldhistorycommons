@@ -535,6 +535,10 @@ details div {
   font-style: italic;
   text-align: center;
 }
+.pull-quote--sidebar img {
+  width: 300px;
+  height: auto;
+}
 .pull-quote--sidebar .quote {
   padding: 2rem;
   color: #4f90b8;
@@ -828,6 +832,27 @@ details div {
   white-space: nowrap;
   /* added line */
   border: 0;
+}
+
+.pager {
+  font-weight: bold;
+  text-transform: lowercase;
+  text-align: right;
+}
+.pager a {
+  text-decoration: none;
+}
+.pager .is-active a {
+  color: #3f5966;
+}
+.pager ul {
+  margin: 0;
+  padding: 0;
+}
+.pager ul li {
+  display: inline;
+  list-style: none;
+  padding: 0.3rem;
 }
 
 /*# sourceMappingURL=style.css.map */

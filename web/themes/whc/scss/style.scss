@@ -438,6 +438,11 @@ details {
   font-style: italic;
   text-align: center;
 
+  img {
+    width: 300px;
+    height: auto;
+  }
+
   .quote {
     padding: 2rem;
     color: $blue;
@@ -747,4 +752,30 @@ details {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap; /* added line */
   border: 0;
+}
+
+.pager {
+  font-weight: bold;
+  text-transform: lowercase;
+  text-align: right;
+
+  a {
+    text-decoration: none;
+  }
+
+  .is-active a {
+    color: $black;
+  }
+  
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline;
+      list-style: none;
+      padding: .3rem;
+    }
+  }
 }

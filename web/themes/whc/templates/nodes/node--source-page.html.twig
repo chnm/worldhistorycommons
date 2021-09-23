@@ -21,7 +21,11 @@
   {% endif %}
 
   {% if type == 'Text' %}
-    <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
+    {% if content.field_text_file.0['#file'].uri.value  is null %}
+      <div aria-label="View Document" class="doc-icon"></div>
+    {% else %}
+      <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
+    {% endif %}
   {% endif %}
 
   {% if type == 'Video' %}
