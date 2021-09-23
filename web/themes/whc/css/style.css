@@ -474,8 +474,13 @@ details div {
 .content-videos .content-videos--nav a {
   margin-bottom: 0.5rem;
 }
+.content-videos .content-videos--nav img {
+  filter: grayscale(1);
+  border: 3px solid transparent;
+}
 .content-videos .content-videos--nav .active img {
-  border: 2px solid #4f90b8;
+  border: 3px solid #4f90b8;
+  filter: grayscale(0);
 }
 
 .slideshow {

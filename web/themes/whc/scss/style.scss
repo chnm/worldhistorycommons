@@ -364,8 +364,14 @@ details {
       margin-bottom: .5rem;
     }
 
+    img {
+      filter: grayscale(1);
+      border: 3px solid transparent;
+    }
+
     .active img {
-      border: 2px solid $blue;
+      border: 3px solid $blue;
+      filter: grayscale(0);
     }
   }
 }
