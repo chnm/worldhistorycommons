@@ -259,8 +259,13 @@ a:hover {
   padding-top: 1.5rem;
 }
 .citation .credit {
-  text-transform: uppercase;
   margin-bottom: 1rem;
+}
+.citation .credit .text {
+  text-transform: uppercase;
+}
+.citation .credit .link {
+  text-transform: unset;
 }
 
 .tags {
@@ -309,9 +314,10 @@ a:hover {
 .content-header .content-header--author {
   max-width: 700px;
   margin: auto;
-  border-top: 1px solid #edf4f7;
+  border-top: 1px solid #4f90b8;
   text-transform: uppercase;
   padding-top: 1rem;
+  font-weight: bold;
 }
 .content-header h1 {
   color: #4f90b8;
@@ -515,6 +521,12 @@ details div {
 }
 .review-header .content-header--author {
   color: unset;
+}
+.review-header:hover {
+  color: #4f90b8;
+}
+.review-header:hover .content-header--label {
+  background-color: #4f90b8;
 }
 
 .pull-quote--sidebar {

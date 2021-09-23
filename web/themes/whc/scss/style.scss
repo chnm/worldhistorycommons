@@ -147,10 +147,19 @@ a {
   padding-top: 1.5rem;
 
   .credit {
-    text-transform: uppercase;
     margin-bottom: 1rem;
+
+    .text {
+      text-transform: uppercase;
+    }
+
+    .link {
+      text-transform: unset;
+    }
   }
-}
+  }
+
+  
 
 .tags {
   border-top: 1px solid $blue--light;
@@ -191,9 +200,10 @@ a {
   .content-header--author {
     max-width: 700px;
     margin: auto;
-    border-top: 1px solid $blue--light;
+    border-top: 1px solid $blue;
     text-transform: uppercase;
     padding-top: 1rem;
+    font-weight: bold;
   }
 
   h1 {
@@ -410,15 +420,15 @@ details {
     color: unset;
   }
 
-  // &:hover {
-  //   color: $black;
-  //   border-color: $yellow;
+  &:hover {
+    color: $blue;
+    // border-color: $yellow;
 
-  //   .content-header--label {
-  //     background-color: $yellow;
-  //     color: $black;
-  //   }
-  // }
+    .content-header--label {
+      background-color: $blue;
+      // color: $black;
+    }
+  }
 }
 
 .pull-quote--sidebar {
