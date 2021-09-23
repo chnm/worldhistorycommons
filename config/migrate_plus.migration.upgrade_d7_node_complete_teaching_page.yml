@@ -227,3 +227,4 @@ destination:
   plugin: 'entity_complete:node'
   translations: true
   default_bundle: teaching
+migration_dependencies: null

@@ -92,3 +92,4 @@ process:
       source: pseudo_metatag_entities
 destination:
   plugin: 'entity:user'
+migration_dependencies: null

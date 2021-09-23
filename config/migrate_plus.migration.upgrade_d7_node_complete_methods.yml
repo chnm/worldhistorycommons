@@ -48,10 +48,6 @@ process:
     -
       plugin: get
       source: timestamp
-  # promote:
-  #   -
-  #     plugin: whcpromote
-  #     source: field_do_not_display_on_homepage
   sticky:
     -
       plugin: get

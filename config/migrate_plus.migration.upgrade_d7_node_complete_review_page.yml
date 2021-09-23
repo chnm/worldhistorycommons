@@ -204,3 +204,4 @@ destination:
   plugin: 'entity_complete:node'
   translations: true
   default_bundle: review
+migration_dependencies: null
