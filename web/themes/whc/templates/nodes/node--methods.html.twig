@@ -41,6 +41,7 @@
       <div class="b1">
           {{content.field_video_clip }}
           {% if content.field_video_series_transcript.0 %}
+          <br>
             <a href="{{content.field_video_series_transcript.0['#markup']}}" class="dl-link">Download Full Video Transcript</a>
           {% endif %}
       </div>
