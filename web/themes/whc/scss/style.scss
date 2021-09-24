@@ -32,12 +32,22 @@ a {
 
 .logo {
   @include image-block('../img/whc_logo.png');
-  margin-left: 0;
   max-width: 630px;
   height: 56px;
+  margin-left: 0;
+
+  @media screen and (max-width: $breakpoint-mid) {
+    @include image-block('../img/logo_mobile.png');
+    width: 235px;
+    height: 235px;
+    margin-left: 0;
+  }
 }
 
 .header {
+  @media screen and (max-width: $breakpoint-mid) {
+    background-color: unset;
+  }
   background-color: $blue;
   color: white;
   padding: 1rem 0;
@@ -48,23 +58,55 @@ a {
 
   .header--well {
     max-width: $well-width;
+    width: 95%;
     margin: auto;
     display: grid;
-    grid-template-columns: 1fr .75fr;
+    grid-template-columns: 1fr 1fr;
     align-items: center;
 
     nav {
-     @include nav-links(white, $yellow);
-     text-align: right;
+      text-align: right;
+      font-size: 14px;
+      text-transform: uppercase;
+
+      a {
+        text-decoration: none;
+      }
+
+      li {
+        display: block;
+        margin-bottom: 5px;
+
+        a {
+          border-bottom: 1px solid $blue;
+          padding-bottom: 2px;
+        }
+
+        &:last-child  a {
+          border-bottom: hidden;
+        }
+      }
+
+      @media screen and (min-width: $breakpoint-mid) {
+        @include nav-links(white, $yellow);
+      }
     }
   }
 
   .search-block-form {
     text-align: right;
     margin-bottom: 1rem;
+    @media screen and (max-width: $breakpoint-mid ) {
+      margin-top: -3rem;
+    }
 
     input {
       background-color: $blue--light;
+
+      @media screen and (max-width: $breakpoint-mid ) {
+        background-color: white;
+        box-shadow: 1px 2px 4px #c5c5c5;
+      }
       padding: .5rem;
       color: $blue;
       border: hidden;
@@ -83,6 +125,7 @@ a {
 
 .footer {
   max-width: $content-width;
+  width: 95%;
   margin: auto;
   border-top: 0.2em solid gray;
   margin-top: 2rem;
@@ -93,6 +136,9 @@ a {
     color: #ccc;
     text-align: center;
     margin-top: 1rem;
+    @media screen and (max-width: $breakpoint-mid) {
+      font-size: 14px;
+    }
   }
 
   .footer--funding {
@@ -110,6 +156,10 @@ a {
       width: 230px;
       height: 64px;
       margin-bottom: -25px;
+      @media screen and (max-width: $breakpoint-mid) {
+        display: block;
+        background-position: center;
+      }
     }
 
     .acls--logo {
@@ -121,6 +171,12 @@ a {
       height: 64px;
       margin-bottom: -25px;
       margin-left: 1rem;
+      @media screen and (max-width: $breakpoint-mid) {
+        display: block;
+        background-position: center;
+        margin: auto;
+        margin-top: 1rem;
+      }
     }
   }
 
@@ -469,6 +525,9 @@ details {
 
     .content-well {
       width: 80%;
+      @media screen and (max-width: $mobile){
+        width: 95%;
+      }
     }
   }
 
@@ -745,6 +804,13 @@ details {
 .search-form,
 .block-whc-local-tasks {
   display: none;
+}
+
+.vdh {
+  @media screen and (max-width: $breakpoint-mid) {
+    margin-top: -5rem;
+    margin-bottom: 10rem;
+  }
 }
 
 // 508 & Accessiblity

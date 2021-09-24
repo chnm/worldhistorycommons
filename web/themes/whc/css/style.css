@@ -84,9 +84,22 @@ a:hover {
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
-  margin-left: 0;
   max-width: 630px;
   height: 56px;
+  margin-left: 0;
+}
+@media screen and (max-width: 800px) {
+  .logo {
+    background-image: url("../img/logo_mobile.png");
+    display: block;
+    margin: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 235px;
+    height: 235px;
+    margin-left: 0;
+  }
 }
 
 .header {
@@ -98,51 +111,80 @@ a:hover {
   font-weight: 600;
   margin-bottom: 2rem;
 }
+@media screen and (max-width: 800px) {
+  .header {
+    background-color: unset;
+  }
+}
 .header .header--well {
   max-width: 1250px;
+  width: 95%;
   margin: auto;
   display: grid;
-  grid-template-columns: 1fr 0.75fr;
+  grid-template-columns: 1fr 1fr;
   align-items: center;
 }
 .header .header--well nav {
   text-align: right;
-}
-.header .header--well nav ul {
-  margin: 0;
-  padding: 0;
-}
-.header .header--well nav ul li {
-  display: inline;
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
-}
-.header .header--well nav ul li:after {
-  content: "|";
-  margin-left: 1rem;
-  position: relative;
-}
-.header .header--well nav ul li:first-child {
-  margin-left: 0;
-}
-.header .header--well nav ul li:last-child {
-  margin-right: 0;
-}
-.header .header--well nav ul li:last-child:after {
-  content: "";
-  margin: unset;
-}
-.header .header--well nav ul li a {
-  color: white;
+  font-size: 14px;
   text-transform: uppercase;
+}
+.header .header--well nav a {
   text-decoration: none;
 }
-.header .header--well nav ul li a:hover {
-  color: #fdbd06;
+.header .header--well nav li {
+  display: block;
+  margin-bottom: 5px;
+}
+.header .header--well nav li a {
+  border-bottom: 1px solid #4f90b8;
+  padding-bottom: 2px;
+}
+.header .header--well nav li:last-child a {
+  border-bottom: hidden;
+}
+@media screen and (min-width: 800px) {
+  .header .header--well nav ul {
+    margin: 0;
+    padding: 0;
+  }
+  .header .header--well nav ul li {
+    display: inline;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+  .header .header--well nav ul li:after {
+    content: "|";
+    margin-left: 1rem;
+    position: relative;
+  }
+  .header .header--well nav ul li:first-child {
+    margin-left: 0;
+  }
+  .header .header--well nav ul li:last-child {
+    margin-right: 0;
+  }
+  .header .header--well nav ul li:last-child:after {
+    content: "";
+    margin: unset;
+  }
+  .header .header--well nav ul li a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .header .header--well nav ul li a:hover {
+    color: #fdbd06;
+  }
 }
 .header .search-block-form {
   text-align: right;
   margin-bottom: 1rem;
+}
+@media screen and (max-width: 800px) {
+  .header .search-block-form {
+    margin-top: -3rem;
+  }
 }
 .header .search-block-form input {
   background-color: #edf4f7;
@@ -153,12 +195,19 @@ a:hover {
   width: 200px;
   font-size: 1rem;
 }
+@media screen and (max-width: 800px) {
+  .header .search-block-form input {
+    background-color: white;
+    box-shadow: 1px 2px 4px #c5c5c5;
+  }
+}
 .header .search-block-form #edit-submit, .header .search-block-form #edit-actions {
   display: none;
 }
 
 .footer {
   max-width: 1150px;
+  width: 95%;
   margin: auto;
   border-top: 0.2em solid gray;
   margin-top: 2rem;
@@ -201,6 +250,11 @@ a:hover {
 .footer nav ul li a:hover {
   color: #fdbd06;
 }
+@media screen and (max-width: 800px) {
+  .footer nav {
+    font-size: 14px;
+  }
+}
 .footer .footer--funding {
   max-width: 600px;
   margin: auto;
@@ -222,6 +276,12 @@ a:hover {
   height: 64px;
   margin-bottom: -25px;
 }
+@media screen and (max-width: 800px) {
+  .footer .footer--funding .neh--logo {
+    display: block;
+    background-position: center;
+  }
+}
 .footer .footer--funding .acls--logo {
   background-image: url("../img/acls_logo.png");
   display: block;
@@ -236,6 +296,14 @@ a:hover {
   height: 64px;
   margin-bottom: -25px;
   margin-left: 1rem;
+}
+@media screen and (max-width: 800px) {
+  .footer .footer--funding .acls--logo {
+    display: block;
+    background-position: center;
+    margin: auto;
+    margin-top: 1rem;
+  }
 }
 
 .rrchnm_bar {
@@ -562,6 +630,11 @@ details div {
 .front-page .featured-banner .content-well {
   width: 80%;
 }
+@media screen and (max-width: 600px) {
+  .front-page .featured-banner .content-well {
+    width: 95%;
+  }
+}
 .front-page .box-wrapper {
   display: grid;
   grid-template-columns: 145px 145px 145px 145px 145px 145px;
@@ -824,6 +897,13 @@ details div {
 .search-form,
 .block-whc-local-tasks {
   display: none;
+}
+
+@media screen and (max-width: 800px) {
+  .vdh {
+    margin-top: -5rem;
+    margin-bottom: 10rem;
+  }
 }
 
 .sr-only {
