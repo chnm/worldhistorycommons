@@ -532,6 +532,7 @@ display:
       arguments: {  }
       display_extenders: {  }
       css_class: directory
+      group_by: false
     cache_metadata:
       max-age: -1
       contexts:
@@ -841,6 +842,7 @@ display:
         fields: false
         cache: false
         relationships: false
+        group_by: false
       filters:
         status:
           value: '1'
@@ -1112,7 +1114,7 @@ display:
           group_column: target_id
           group_columns: {  }
           group_rows: true
-          delta_limit: 0
+          delta_limit: 1
           delta_offset: 0
           delta_reversed: false
           delta_first_last: false
@@ -1173,7 +1175,8 @@ display:
           settings:
             link_to_entity: true
           group_column: value
-          group_columns: {  }
+          group_columns:
+            value: value
           group_rows: true
           delta_limit: 0
           delta_offset: 0
@@ -1252,6 +1255,7 @@ display:
         type: none
         options: {  }
       relationships: {  }
+      group_by: false
     cache_metadata:
       max-age: -1
       contexts:
@@ -1285,6 +1289,7 @@ display:
         header: false
         fields: false
         cache: false
+        group_by: false
       filters:
         status:
           value: '1'
@@ -1553,10 +1558,10 @@ display:
           type: entity_reference_entity_view
           settings:
             view_mode: teaser
-          group_column: target_id
+          group_column: entity_id
           group_columns: {  }
           group_rows: true
-          delta_limit: 0
+          delta_limit: 1
           delta_offset: 0
           delta_reversed: false
           delta_first_last: false
@@ -1695,6 +1700,7 @@ display:
       cache:
         type: none
         options: {  }
+      group_by: false
     cache_metadata:
       max-age: -1
       contexts:
