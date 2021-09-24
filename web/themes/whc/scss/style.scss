@@ -61,7 +61,8 @@ a {
     width: 95%;
     margin: auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1.5fr;
+    grid-gap: 5%;
     align-items: center;
 
     nav {
