@@ -108,7 +108,7 @@ process:
         description: description
   field_video:
     -
-      plugin: get
+      plugin: whcvideosrc
       source: field_video
   field_annotation:
     -
