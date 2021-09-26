@@ -50,7 +50,11 @@ process:
       source: timestamp
   promote:
     -
-      plugin: whcpromote
+      plugin: get
+      source: promote
+  field_leg_promote:
+    -
+      plugin: get
       source: field_do_not_display_on_homepage
   sticky:
     -
