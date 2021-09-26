@@ -1,0 +1,23 @@
+uuid: 58606670-7e24-4bae-b454-188360bb5ca1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_leg_promote
+    - node.type.source_page
+id: node.source_page.field_leg_promote
+field_name: field_leg_promote
+entity_type: node
+bundle: source_page
+label: leg_promote
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

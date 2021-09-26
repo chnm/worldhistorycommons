@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.source_page.field_credits
     - field.field.node.source_page.field_image
     - field.field.node.source_page.field_image_thumbnail
+    - field.field.node.source_page.field_leg_promote
     - field.field.node.source_page.field_region
     - field.field.node.source_page.field_source_metadata
     - field.field.node.source_page.field_subject
@@ -173,4 +174,5 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  field_leg_promote: true
