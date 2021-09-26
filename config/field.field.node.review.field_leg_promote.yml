@@ -1,0 +1,23 @@
+uuid: c9a80f47-8cea-4420-8273-0d4bb72697d2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_leg_promote
+    - node.type.review
+id: node.review.field_leg_promote
+field_name: field_leg_promote
+entity_type: node
+bundle: review
+label: leg_promote
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

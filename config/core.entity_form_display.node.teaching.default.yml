@@ -9,6 +9,7 @@ dependencies:
     - field.field.node.teaching.field_document_based_question
     - field.field.node.teaching.field_downloads
     - field.field.node.teaching.field_essay
+    - field.field.node.teaching.field_leg_promote
     - field.field.node.teaching.field_lesson_plan
     - field.field.node.teaching.field_overview
     - field.field.node.teaching.field_primary_sources
@@ -174,6 +175,13 @@ content:
       placeholder: ''
     third_party_settings: {  }
     type: text_textarea
+    region: content
+  field_leg_promote:
+    weight: 33
+    settings:
+      display_label: true
+    third_party_settings: {  }
+    type: boolean_checkbox
     region: content
   field_lesson_plan:
     weight: 7

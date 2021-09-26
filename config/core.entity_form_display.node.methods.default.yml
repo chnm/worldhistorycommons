@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.methods.field_credits
     - field.field.node.methods.field_essay
     - field.field.node.methods.field_image
+    - field.field.node.methods.field_leg_promote
     - field.field.node.methods.field_legacy_vid
     - field.field.node.methods.field_overview
     - field.field.node.methods.field_primary_sources
@@ -186,6 +187,13 @@ content:
       preview_image_style: thumbnail
     third_party_settings: {  }
     type: image_image
+    region: content
+  field_leg_promote:
+    weight: 27
+    settings:
+      display_label: true
+    third_party_settings: {  }
+    type: boolean_checkbox
     region: content
   field_legacy_vid:
     weight: 26

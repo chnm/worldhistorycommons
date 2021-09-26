@@ -9,6 +9,7 @@ dependencies:
     - field.field.node.teaching.field_document_based_question
     - field.field.node.teaching.field_downloads
     - field.field.node.teaching.field_essay
+    - field.field.node.teaching.field_leg_promote
     - field.field.node.teaching.field_lesson_plan
     - field.field.node.teaching.field_overview
     - field.field.node.teaching.field_primary_sources
@@ -27,7 +28,7 @@ bundle: teaching
 mode: default
 content:
   field_author:
-    weight: 113
+    weight: 13
     label: hidden
     settings:
       link_to_entity: false
@@ -35,28 +36,28 @@ content:
     type: string
     region: content
   field_bibliography:
-    weight: 108
+    weight: 8
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_credits:
-    weight: 109
+    weight: 9
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_document_based_question:
-    weight: 106
+    weight: 6
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_downloads:
-    weight: 107
+    weight: 7
     label: hidden
     settings:
       use_description_as_link_text: true
@@ -64,28 +65,28 @@ content:
     type: file_default
     region: content
   field_essay:
-    weight: 102
+    weight: 2
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_lesson_plan:
-    weight: 105
+    weight: 5
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_overview:
-    weight: 101
+    weight: 1
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_primary_sources:
-    weight: 103
+    weight: 3
     label: hidden
     settings:
       link: true
@@ -93,7 +94,7 @@ content:
     type: entity_reference_label
     region: content
   field_region:
-    weight: 110
+    weight: 10
     label: hidden
     settings:
       link: true
@@ -101,7 +102,7 @@ content:
     type: entity_reference_label
     region: content
   field_subject:
-    weight: 111
+    weight: 11
     label: hidden
     settings:
       link: true
@@ -109,14 +110,14 @@ content:
     type: entity_reference_label
     region: content
   field_teaching_strategies:
-    weight: 104
+    weight: 4
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_time_period:
-    weight: 112
+    weight: 12
     label: hidden
     settings:
       link: true
@@ -124,8 +125,9 @@ content:
     type: entity_reference_label
     region: content
   links:
-    weight: 100
+    weight: 0
     region: content
     settings: {  }
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  field_leg_promote: true

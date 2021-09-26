@@ -10,6 +10,7 @@ dependencies:
     - field.field.node.teaching.field_document_based_question
     - field.field.node.teaching.field_downloads
     - field.field.node.teaching.field_essay
+    - field.field.node.teaching.field_leg_promote
     - field.field.node.teaching.field_lesson_plan
     - field.field.node.teaching.field_overview
     - field.field.node.teaching.field_primary_sources
@@ -37,6 +38,7 @@ hidden:
   field_document_based_question: true
   field_downloads: true
   field_essay: true
+  field_leg_promote: true
   field_lesson_plan: true
   field_overview: true
   field_primary_sources: true

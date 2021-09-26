@@ -6,6 +6,7 @@ dependencies:
     - field.field.node.review.field_credits
     - field.field.node.review.field_image
     - field.field.node.review.field_image_thumbnail
+    - field.field.node.review.field_leg_promote
     - field.field.node.review.field_pull_quote
     - field.field.node.review.field_region
     - field.field.node.review.field_subject
@@ -27,14 +28,14 @@ bundle: review
 mode: default
 content:
   field_credits:
-    weight: 112
+    weight: 12
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_image:
-    weight: 107
+    weight: 7
     label: hidden
     settings:
       image_style: ''
@@ -43,7 +44,7 @@ content:
     type: image
     region: content
   field_image_thumbnail:
-    weight: 101
+    weight: 1
     label: hidden
     settings:
       image_style: ''
@@ -52,14 +53,14 @@ content:
     type: image
     region: content
   field_pull_quote:
-    weight: 108
+    weight: 8
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: basic_string
     region: content
   field_region:
-    weight: 109
+    weight: 9
     label: hidden
     settings:
       link: true
@@ -67,7 +68,7 @@ content:
     type: entity_reference_label
     region: content
   field_subject:
-    weight: 111
+    weight: 11
     label: hidden
     settings:
       link: true
@@ -75,7 +76,7 @@ content:
     type: entity_reference_label
     region: content
   field_time_period:
-    weight: 110
+    weight: 10
     label: hidden
     settings:
       link: true
@@ -83,7 +84,7 @@ content:
     type: entity_reference_label
     region: content
   field_url:
-    weight: 102
+    weight: 2
     label: hidden
     settings:
       trim_length: 80
@@ -95,7 +96,7 @@ content:
     type: link
     region: content
   field_website_creator:
-    weight: 103
+    weight: 3
     label: hidden
     settings:
       link_to_entity: false
@@ -103,14 +104,14 @@ content:
     type: string
     region: content
   field_website_review:
-    weight: 104
+    weight: 4
     label: hidden
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: content
   field_website_reviewer:
-    weight: 105
+    weight: 5
     label: hidden
     settings:
       link_to_entity: false
@@ -118,7 +119,7 @@ content:
     type: string
     region: content
   field_website_reviewer_instituti:
-    weight: 106
+    weight: 6
     label: hidden
     settings:
       link_to_entity: false
@@ -126,8 +127,9 @@ content:
     type: string
     region: content
   links:
-    weight: 100
+    weight: 0
     region: content
     settings: {  }
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  field_leg_promote: true

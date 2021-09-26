@@ -7,6 +7,7 @@ dependencies:
     - field.field.node.review.field_credits
     - field.field.node.review.field_image
     - field.field.node.review.field_image_thumbnail
+    - field.field.node.review.field_leg_promote
     - field.field.node.review.field_pull_quote
     - field.field.node.review.field_region
     - field.field.node.review.field_subject
@@ -33,6 +34,7 @@ hidden:
   field_credits: true
   field_image: true
   field_image_thumbnail: true
+  field_leg_promote: true
   field_pull_quote: true
   field_region: true
   field_subject: true

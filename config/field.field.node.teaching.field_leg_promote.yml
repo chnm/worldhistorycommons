@@ -1,0 +1,23 @@
+uuid: fe2a6278-bae8-4b25-826e-bc7010318b99
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_leg_promote
+    - node.type.teaching
+id: node.teaching.field_leg_promote
+field_name: field_leg_promote
+entity_type: node
+bundle: teaching
+label: leg_promote
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

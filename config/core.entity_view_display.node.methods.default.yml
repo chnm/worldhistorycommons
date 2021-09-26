@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.methods.field_credits
     - field.field.node.methods.field_essay
     - field.field.node.methods.field_image
+    - field.field.node.methods.field_leg_promote
     - field.field.node.methods.field_legacy_vid
     - field.field.node.methods.field_overview
     - field.field.node.methods.field_primary_sources
@@ -134,4 +135,5 @@ content:
     settings: {  }
     third_party_settings: {  }
 hidden:
+  field_leg_promote: true
   field_legacy_vid: true
