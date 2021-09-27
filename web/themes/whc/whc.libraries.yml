@@ -9,10 +9,11 @@ global:
 
 slickjs:
   js:
-    https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js: { type: external, minified: true  }
+    slick/slick.min.js: { }
   css:
     theme:
-      https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css: { type: external, minified: true }
+      slick/slick.css: {}
+      slick/slick-theme.css: {}
 
 font-awesome:
   css:

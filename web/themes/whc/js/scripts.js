@@ -1,12 +1,6 @@
-// document.addEventListener( 'DOMContentLoaded', function () {
-//   new Splide( '.splide', {pagination: false} ).mount();
-// } );
-
-
-
 (function($) {
 
-  // Quick hack to allow slideshow to render.
+  //Quick hack to allow slideshow to render.
   // $(window).one('scroll', function() {
   //   $( "#slideclick" ).removeAttr("open");
   // });
@@ -26,7 +20,11 @@
   $(document).ready(function(){
 
     $('.slideshow').slick({
-      arrows: true
+      arrows: true,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      dots: false,
+      infinite: true,
     });
 
 
