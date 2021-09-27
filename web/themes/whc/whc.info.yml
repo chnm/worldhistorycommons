@@ -4,7 +4,7 @@ description: 'Main theme for WHC'
 core_version_requirement: ^8 || ^9
 libraries:
   - whc/global
-  - whc/splidejs
+  - whc/slickjs
   - whc/font-awesome
 base theme: stable
 regions:

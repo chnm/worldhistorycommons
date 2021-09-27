@@ -47,6 +47,7 @@ a {
 .header {
   @media screen and (max-width: $breakpoint-mid) {
     background-color: unset;
+    box-shadow: unset;
   }
   background-color: $blue;
   color: white;
@@ -318,27 +319,31 @@ a {
 
 .box-border {
   border: 1px solid $blue;
-  padding: 1.5rem;
-  margin-left: .6rem;
-  margin-right: .6rem;
+  padding: 1rem;
 }
 
 .box-tile {
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
-  grid-gap: 2%;
+  grid-gap: 1rem;
+
+  @media screen and (min-width: $breakpoint-mid){
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+  }
   align-items: center;
   min-height: 450px;
 
   a {
     display: block;
     margin: auto;
+    overflow: hidden;
     width: 100%;
+    margin-bottom: -.5rem;
   }
 
   img {
     width: 100%;
-    height: 100%;
+    height: auto;
   }
 }
 
@@ -852,3 +857,8 @@ details {
     }
   }
 }
+
+
+// .slick-prev:before, .slick-next:before { 
+//   color:grey !important;
+// }

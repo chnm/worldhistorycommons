@@ -1,14 +1,15 @@
-document.addEventListener( 'DOMContentLoaded', function () {
-  new Splide( '.splide', {pagination: false} ).mount();
-} );
+// document.addEventListener( 'DOMContentLoaded', function () {
+//   new Splide( '.splide', {pagination: false} ).mount();
+// } );
+
 
 
 (function($) {
 
   // Quick hack to allow slideshow to render.
-  $(window).one('scroll', function() {
-    $( "#slideclick" ).removeAttr("open");
-  });
+  // $(window).one('scroll', function() {
+  //   $( "#slideclick" ).removeAttr("open");
+  // });
 
   // Function to loop through classes and add ids.
   function addVideoAttr(classToFind, attribute, valToAdd) {
@@ -23,6 +24,11 @@ document.addEventListener( 'DOMContentLoaded', function () {
   }
 
   $(document).ready(function(){
+
+    $('.slideshow').slick({
+      arrows: true
+    });
+
 
     // JS that controlls the tabs.
     // Go through and add Ids

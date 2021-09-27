@@ -114,6 +114,7 @@ a:hover {
 @media screen and (max-width: 800px) {
   .header {
     background-color: unset;
+    box-shadow: unset;
   }
 }
 .header .header--well {
@@ -455,26 +456,31 @@ a:hover {
 
 .box-border {
   border: 1px solid #4f90b8;
-  padding: 1.5rem;
-  margin-left: 0.6rem;
-  margin-right: 0.6rem;
+  padding: 1rem;
 }
 
 .box-tile {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  grid-gap: 2%;
+  grid-gap: 1rem;
   align-items: center;
   min-height: 450px;
+}
+@media screen and (min-width: 800px) {
+  .box-tile {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
 }
 .box-tile a {
   display: block;
   margin: auto;
+  overflow: hidden;
   width: 100%;
+  margin-bottom: -0.5rem;
 }
 .box-tile img {
   width: 100%;
-  height: 100%;
+  height: auto;
 }
 
 details {

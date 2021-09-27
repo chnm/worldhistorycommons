@@ -7,12 +7,12 @@ global:
   dependencies:
     - core/jquery
 
-splidejs:
+slickjs:
   js:
-    https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js: { type: external, minified: true  }
+    https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js: { type: external, minified: true  }
   css:
     theme:
-      https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css: { type: external, minified: true }
+      https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css: { type: external, minified: true }
 
 font-awesome:
   css:
