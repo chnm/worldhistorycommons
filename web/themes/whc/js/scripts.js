@@ -25,6 +25,7 @@
       slidesToScroll: 1,
       dots: false,
       infinite: true,
+      adaptiveHeight: true
     });
 
 
