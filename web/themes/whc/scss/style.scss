@@ -784,6 +784,7 @@ details {
   grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
   grid-gap: 2%;
   max-width: $content-width;
+  width: 95%;
   margin: auto;
 }
 
