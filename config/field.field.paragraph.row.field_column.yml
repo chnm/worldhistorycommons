@@ -1,0 +1,48 @@
+uuid: d3fcad15-4c17-498a-865e-2e8fa2d73b55
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_column
+    - paragraphs.paragraphs_type.column
+    - paragraphs.paragraphs_type.featured_blocks
+    - paragraphs.paragraphs_type.row
+  module:
+    - entity_reference_revisions
+id: paragraph.row.field_column
+field_name: field_column
+entity_type: paragraph
+bundle: row
+label: Column
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      column: column
+      featured_blocks: featured_blocks
+    target_bundles_drag_drop:
+      column:
+        enabled: true
+        weight: 6
+      featured_blocks:
+        enabled: true
+        weight: 8
+      profile_box:
+        weight: 7
+        enabled: false
+      row:
+        weight: 8
+        enabled: false
+      text_box:
+        weight: 9
+        enabled: false
+      video:
+        weight: 10
+        enabled: false
+field_type: entity_reference_revisions

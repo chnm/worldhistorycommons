@@ -1,0 +1,18 @@
+{{devel_dump()}}
+
+<div class="content-header">
+  <h1 class="content-header--label">{{node.label}}</h1>
+</div>
+
+
+<div class="content-well">
+
+{{content.body}}
+
+{% for row in content.field_row | field_value %}
+
+  {{row}}
+
+{% endfor %}
+
+</div>

@@ -1,0 +1,10 @@
+uuid: 18848bb8-c071-4c8c-abb2-5e791752fef9
+langcode: en
+status: true
+dependencies: {  }
+id: featured_blocks
+label: 'Featured Block'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

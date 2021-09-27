@@ -1,0 +1,34 @@
+uuid: 5e808d1e-016c-43be-9377-516ffc8ed088
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.text_box.field_text
+    - field.field.paragraph.text_box.field_title
+    - paragraphs.paragraphs_type.text_box
+  module:
+    - text
+id: paragraph.text_box.default
+targetEntityType: paragraph
+bundle: text_box
+mode: default
+content:
+  field_text:
+    weight: 1
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_title:
+    weight: 0
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+hidden:
+  created: true
+  status: true

@@ -1,0 +1,23 @@
+uuid: 9803ab26-0cda-46e5-b4c0-102adc208197
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_vertical_style
+    - paragraphs.paragraphs_type.basic_box
+id: paragraph.basic_box.field_vertical_style
+field_name: field_vertical_style
+entity_type: paragraph
+bundle: basic_box
+label: 'Vertical Style'
+description: 'Mark if you would like this to render the vertical style where the image is on the top vs the standard on the side.'
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,50 @@
+uuid: d67d20a9-f918-4b87-ae6c-314ac85f6633
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_box
+    - paragraphs.paragraphs_type.basic_box
+    - paragraphs.paragraphs_type.column
+    - paragraphs.paragraphs_type.text_box
+    - paragraphs.paragraphs_type.video
+  module:
+    - entity_reference_revisions
+id: paragraph.column.field_box
+field_name: field_box
+entity_type: paragraph
+bundle: column
+label: Box
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      basic_box: basic_box
+      text_box: text_box
+      video: video
+    target_bundles_drag_drop:
+      basic_box:
+        enabled: true
+        weight: 7
+      column:
+        weight: 5
+        enabled: false
+      featured_blocks:
+        weight: 9
+        enabled: false
+      row:
+        weight: 8
+        enabled: false
+      text_box:
+        enabled: true
+        weight: 7
+      video:
+        enabled: true
+        weight: 8
+field_type: entity_reference_revisions

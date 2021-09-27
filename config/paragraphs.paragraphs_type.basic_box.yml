@@ -1,0 +1,10 @@
+uuid: ae0e5265-261b-4c82-a274-7f4db718379a
+langcode: en
+status: true
+dependencies: {  }
+id: basic_box
+label: 'Basic Box'
+icon_uuid: null
+icon_default: null
+description: 'Box that features an image field, title, link, and text'
+behavior_plugins: {  }

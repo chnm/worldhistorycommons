@@ -953,4 +953,27 @@ details div {
   padding: 0.3rem;
 }
 
+.about-cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(540px, 1fr));
+}
+
+.profile-box {
+  display: grid;
+  grid-template-columns: 155px 1fr;
+  grid-column-gap: 15px;
+}
+.profile-box .img-wrap img {
+  width: 100%;
+  height: auto;
+}
+
+.box-link {
+  color: #3f5966;
+  text-decoration: none;
+}
+.box-link:hover {
+  color: unset;
+}
+
 /*# sourceMappingURL=style.css.map */

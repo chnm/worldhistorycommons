@@ -1,0 +1,58 @@
+uuid: f5cf0c2c-c9d0-4139-a220-e749b246ec6b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.basic_box.field_image
+    - field.field.paragraph.basic_box.field_link
+    - field.field.paragraph.basic_box.field_text
+    - field.field.paragraph.basic_box.field_title
+    - field.field.paragraph.basic_box.field_vertical_style
+    - paragraphs.paragraphs_type.basic_box
+  module:
+    - image
+    - link
+    - text
+id: paragraph.basic_box.default
+targetEntityType: paragraph
+bundle: basic_box
+mode: default
+content:
+  field_image:
+    weight: 0
+    label: hidden
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+    region: content
+  field_link:
+    weight: 2
+    label: hidden
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  field_text:
+    weight: 3
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_title:
+    weight: 1
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+hidden:
+  field_vertical_style: true

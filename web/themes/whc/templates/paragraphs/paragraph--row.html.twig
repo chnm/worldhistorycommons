@@ -1,0 +1,9 @@
+{# {{devel_dump()}} #}
+
+<div class="about-cols">
+{% for col in content.field_column | field_value %}
+
+  {{col}}
+
+{% endfor %}
+</div>

@@ -1,0 +1,21 @@
+uuid: db5ca922-6b7a-4e8f-9592-9417031e4598
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_text
+    - paragraphs.paragraphs_type.basic_box
+  module:
+    - text
+id: paragraph.basic_box.field_text
+field_name: field_text
+entity_type: paragraph
+bundle: basic_box
+label: Text
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long
