@@ -871,7 +871,7 @@ details {
 .about-cols {
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(540px,1fr));
-
+  grid-column-gap: 5%;
 
 }
 
@@ -893,4 +893,26 @@ details {
   &:hover {
     color: unset;
   }
+}
+
+.vertical-box {
+  text-align: center;
+
+  .title {
+    font-size: 24px;
+  }
+
+  .img-wrap {
+    display: block;
+    width: 302px;
+    height: 102px;
+    margin: auto;
+    margin-bottom: 1rem;
+    border: 1px solid $blue;
+    img{
+      width: 100%;
+      height: auto;
+    }
+  }
+
 }

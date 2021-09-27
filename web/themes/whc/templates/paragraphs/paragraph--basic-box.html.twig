@@ -1,15 +1,18 @@
-{{devel_dump()}}
-
 {% if content.field_link.0 %}
   <a href="{{content.field_link.0['#title'] }}" class="box-link">
 {% endif %}
+
+{% if content.field_vertical_style.0['#markup'] == 'On' %}
+<div class="vertical-box">
+{% else %}
 <div class="profile-box">
+{% endif %}
   <div>
     <div class="img-wrap">{{content.field_image}}</div>
   </div>
   <div>
     {% if content.field_title.0 %}
-      <strong>{{content.field_title}}</strong>
+      <strong class="title">{{content.field_title}}</strong>
     {% endif %}
     {{content.field_text}}
   </div>

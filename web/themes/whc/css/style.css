@@ -956,6 +956,7 @@ details div {
 .about-cols {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(540px, 1fr));
+  grid-column-gap: 5%;
 }
 
 .profile-box {
@@ -974,6 +975,25 @@ details div {
 }
 .box-link:hover {
   color: unset;
+}
+
+.vertical-box {
+  text-align: center;
+}
+.vertical-box .title {
+  font-size: 24px;
+}
+.vertical-box .img-wrap {
+  display: block;
+  width: 302px;
+  height: 102px;
+  margin: auto;
+  margin-bottom: 1rem;
+  border: 1px solid #4f90b8;
+}
+.vertical-box .img-wrap img {
+  width: 100%;
+  height: auto;
 }
 
 /*# sourceMappingURL=style.css.map */
