@@ -1,16 +1,16 @@
-uuid: 9d00a9ec-414f-4d38-9851-8feb39656e1e
+uuid: 402c7e65-b887-4b70-b1ae-844a004e1f82
 langcode: en
 status: true
 dependencies:
   config:
     - field.storage.paragraph.field_image
-    - paragraphs.paragraphs_type.featured_blocks
+    - paragraphs.paragraphs_type.featured_tile
   module:
     - image
-id: paragraph.featured_blocks.field_image
+id: paragraph.featured_tile.field_image
 field_name: field_image
 entity_type: paragraph
-bundle: featured_blocks
+bundle: featured_tile
 label: Image
 description: ''
 required: false

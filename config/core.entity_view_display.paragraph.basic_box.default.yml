@@ -54,5 +54,14 @@ content:
     third_party_settings: {  }
     type: string
     region: content
-hidden:
-  field_vertical_style: true
+  field_vertical_style:
+    type: boolean
+    weight: 4
+    region: content
+    label: hidden
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+hidden: {  }

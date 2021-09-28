@@ -1,9 +1,9 @@
-uuid: 18848bb8-c071-4c8c-abb2-5e791752fef9
+uuid: c6d5da4c-f75d-4e6a-9e67-104fe5789e47
 langcode: en
 status: true
 dependencies: {  }
-id: featured_blocks
-label: 'Featured Block'
+id: featured_tile
+label: 'Featured Tile'
 icon_uuid: null
 icon_default: null
 description: ''

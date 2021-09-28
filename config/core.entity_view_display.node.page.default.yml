@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.page.body
+    - field.field.node.page.field_featured_tiles
     - field.field.node.page.field_row
     - node.type.page
   module:
@@ -24,18 +25,23 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_row:
+  field_featured_tiles:
     type: entity_reference_revisions_entity_view
-    weight: 3
+    weight: 1
     label: hidden
     settings:
       view_mode: default
       link: ''
     third_party_settings: {  }
     region: content
-  links:
+  field_row:
+    type: entity_reference_revisions_entity_view
     weight: 2
-    region: content
-    settings: {  }
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
     third_party_settings: {  }
-hidden: {  }
+    region: content
+hidden:
+  links: true

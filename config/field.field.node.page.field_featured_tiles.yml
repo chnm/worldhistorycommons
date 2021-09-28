@@ -1,18 +1,18 @@
-uuid: d3fcad15-4c17-498a-865e-2e8fa2d73b55
+uuid: 1b16b0bf-f3b5-44c9-89d3-5b1cc47bf692
 langcode: en
 status: true
 dependencies:
   config:
-    - field.storage.paragraph.field_column
-    - paragraphs.paragraphs_type.column
-    - paragraphs.paragraphs_type.row
+    - field.storage.node.field_featured_tiles
+    - node.type.page
+    - paragraphs.paragraphs_type.featured_tile
   module:
     - entity_reference_revisions
-id: paragraph.row.field_column
-field_name: field_column
-entity_type: paragraph
-bundle: row
-label: Column
+id: node.page.field_featured_tiles
+field_name: field_featured_tiles
+entity_type: node
+bundle: page
+label: 'Featured Tiles'
 description: ''
 required: false
 translatable: false
@@ -23,27 +23,24 @@ settings:
   handler_settings:
     negate: 0
     target_bundles:
-      column: column
+      featured_tile: featured_tile
     target_bundles_drag_drop:
       basic_box:
-        weight: 8
+        weight: 7
         enabled: false
       column:
-        enabled: true
-        weight: 6
-      featured_tile:
-        weight: 10
-        enabled: false
-      featured_tiles:
-        enabled: true
-        weight: 11
-      row:
         weight: 8
         enabled: false
-      text_box:
+      featured_tile:
+        enabled: true
         weight: 9
+      row:
+        weight: 10
+        enabled: false
+      text_box:
+        weight: 11
         enabled: false
       video:
-        weight: 10
+        weight: 12
         enabled: false
 field_type: entity_reference_revisions

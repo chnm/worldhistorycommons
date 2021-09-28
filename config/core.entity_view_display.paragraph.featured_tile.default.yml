@@ -1,18 +1,18 @@
-uuid: 451d2e97-66c4-44a7-bda1-e44eef8368f8
+uuid: f123815f-63b1-4b3f-972c-0141c5365999
 langcode: en
 status: true
 dependencies:
   config:
-    - field.field.paragraph.featured_blocks.field_image
-    - field.field.paragraph.featured_blocks.field_link
-    - field.field.paragraph.featured_blocks.field_title
-    - paragraphs.paragraphs_type.featured_blocks
+    - field.field.paragraph.featured_tile.field_image
+    - field.field.paragraph.featured_tile.field_link
+    - field.field.paragraph.featured_tile.field_title
+    - paragraphs.paragraphs_type.featured_tile
   module:
     - image
     - link
-id: paragraph.featured_blocks.default
+id: paragraph.featured_tile.default
 targetEntityType: paragraph
-bundle: featured_blocks
+bundle: featured_tile
 mode: default
 content:
   field_image:
@@ -25,7 +25,7 @@ content:
     type: image
     region: content
   field_link:
-    weight: 1
+    weight: 2
     label: hidden
     settings:
       trim_length: 80
@@ -37,7 +37,7 @@ content:
     type: link
     region: content
   field_title:
-    weight: 2
+    weight: 1
     label: hidden
     settings:
       link_to_entity: false

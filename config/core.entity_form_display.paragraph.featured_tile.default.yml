@@ -1,23 +1,23 @@
-uuid: 0b46cb26-e248-467a-9a4c-2b22e55ce8ca
+uuid: eba0bb21-68d4-48af-9423-bc50b7a332a2
 langcode: en
 status: true
 dependencies:
   config:
-    - field.field.paragraph.featured_blocks.field_image
-    - field.field.paragraph.featured_blocks.field_link
-    - field.field.paragraph.featured_blocks.field_title
+    - field.field.paragraph.featured_tile.field_image
+    - field.field.paragraph.featured_tile.field_link
+    - field.field.paragraph.featured_tile.field_title
     - image.style.thumbnail
-    - paragraphs.paragraphs_type.featured_blocks
+    - paragraphs.paragraphs_type.featured_tile
   module:
     - image
     - link
-id: paragraph.featured_blocks.default
+id: paragraph.featured_tile.default
 targetEntityType: paragraph
-bundle: featured_blocks
+bundle: featured_tile
 mode: default
 content:
   field_image:
-    weight: 1
+    weight: 0
     settings:
       progress_indicator: throbber
       preview_image_style: thumbnail
@@ -33,7 +33,7 @@ content:
     type: link_default
     region: content
   field_title:
-    weight: 0
+    weight: 1
     settings:
       size: 60
       placeholder: ''

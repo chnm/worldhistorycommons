@@ -1,18 +1,18 @@
-uuid: dc2808f7-bed2-4a79-a044-459c1964f5a5
+uuid: 377a6c01-45c5-44cb-b19e-8215a2dc9818
 langcode: en
 status: true
 dependencies:
   config:
     - field.storage.paragraph.field_title
-    - paragraphs.paragraphs_type.featured_blocks
-id: paragraph.featured_blocks.field_title
+    - paragraphs.paragraphs_type.featured_tile
+id: paragraph.featured_tile.field_title
 field_name: field_title
 entity_type: paragraph
-bundle: featured_blocks
+bundle: featured_tile
 label: Title
 description: ''
 required: false
-translatable: false
+translatable: true
 default_value: {  }
 default_value_callback: ''
 settings: {  }
