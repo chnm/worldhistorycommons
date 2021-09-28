@@ -1,18 +1,28 @@
-{{devel_dump()}}
-
 <div class="content-header">
   <h1 class="content-header--label">{{node.label}}</h1>
 </div>
 
-
 <div class="content-well">
 
-{{content.body}}
+  {{content.body}}
 
-{% for row in content.field_row | field_value %}
+  {% if content.field_featured_tiles.0 %}
+    <div class="line-bar"></div>
+    <div class="featured-tiles">
+      {% for tile in content.field_featured_tiles | field_value %}
 
-  {{row}}
+        {{tile}}
 
-{% endfor %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if content.field_row.0 %}
+    {% for row in content.field_row | field_value %}
+
+      {{row}}
+
+    {% endfor %}
+  {% endif %}
 
 </div>

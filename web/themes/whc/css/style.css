@@ -955,8 +955,13 @@ details div {
 
 .about-cols {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(540px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
   grid-column-gap: 5%;
+}
+@media screen and (max-width: 600px) {
+  .about-cols {
+    grid-template-columns: 1fr;
+  }
 }
 
 .profile-box {
@@ -978,6 +983,7 @@ details div {
 }
 
 .vertical-box {
+  width: 100%;
   text-align: center;
 }
 .vertical-box .title {
@@ -994,6 +1000,58 @@ details div {
 .vertical-box .img-wrap img {
   width: 100%;
   height: auto;
+}
+
+.line-bar {
+  width: 100px;
+  height: 3px;
+  display: block;
+  background-color: #4f90b8;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.featured-tiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 15px;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+}
+@media screen and (max-width: 600px) {
+  .featured-tiles {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+.featured-tiles .tile {
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  color: #3f5966;
+}
+@media screen and (max-width: 600px) {
+  .featured-tiles .tile .img-wrap {
+    width: 75px;
+    height: 75px;
+  }
+}
+.featured-tiles .tile .img-wrap img {
+  width: 100%;
+  height: auto;
+}
+.featured-tiles .tile .tile--title {
+  font-weight: 600;
+  font-size: 1.2em;
+  text-align: center;
+  color: #3f5966;
+  line-height: 1;
+}
+@media screen and (max-width: 600px) {
+  .featured-tiles .tile .tile--title {
+    font-size: 14px;
+    margin-top: 0.5rem;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
