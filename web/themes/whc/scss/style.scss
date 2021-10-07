@@ -10,7 +10,7 @@ html, body {
   padding: 0;
   margin: 0;
   color: $black;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.7;
 }
 
@@ -68,13 +68,13 @@ a {
     width: 95%;
     margin: auto;
     display: grid;
-    grid-template-columns: 1fr 1.5fr;
+    grid-template-columns: 1.2fr 1.5fr;
     grid-gap: 5%;
     align-items: center;
 
     nav {
       text-align: right;
-      font-size: 14px;
+      font-size: 15px;
       text-transform: uppercase;
 
       a {
@@ -258,7 +258,12 @@ a {
 
   .content-header--label {
     @include box-text;
-    margin-bottom: .5rem;
+    margin-bottom: 1rem;
+    font-size: unset;
+  }
+
+  .content-header--text {
+    @include impact-text();
   }
 
   .content-header--author {
@@ -268,6 +273,7 @@ a {
     text-transform: uppercase;
     padding-top: 1rem;
     font-weight: bold;
+    margin-top: .5rem;
   }
 
   h1 {
@@ -535,11 +541,12 @@ details {
   .featured-banner {
     margin-top: -1.9rem;
     background-color: $blue--light;
-    font-weight: bold;
+    @include impact-text();
+    text-align: center;
     padding: 1rem;
 
     .content-well {
-      width: 80%;
+      width: 65%;
       @media screen and (max-width: $mobile){
         width: 95%;
       }
