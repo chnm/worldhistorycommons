@@ -16,6 +16,16 @@ dependencies:
     - taxonomy.vocabulary.region
     - taxonomy.vocabulary.subject
     - taxonomy.vocabulary.time_period
+  content:
+    - 'taxonomy_term:region:7c6161b9-c05b-4015-b121-f9ca1bf542cc'
+    - 'taxonomy_term:region:850d8d2f-d9a2-426d-8233-e4988fedea9e'
+    - 'taxonomy_term:region:8e656f22-ef6a-4c0e-bdab-160620b3010c'
+    - 'taxonomy_term:region:bc3e2724-a81f-411e-85f4-721a362d077d'
+    - 'taxonomy_term:region:d90e61af-0d76-40f3-81d4-85687b3f1b18'
+    - 'taxonomy_term:region:d97923b1-6201-42a8-ab6c-ca6d81cb0ced'
+    - 'taxonomy_term:region:e7494c71-ee29-4a42-bbc2-ba6197d48588'
+    - 'taxonomy_term:region:e91518fd-17dc-41e8-8149-be8709becf0b'
+    - 'taxonomy_term:region:eb38fd05-a90f-423e-9dac-d869dd17bf16'
   module:
     - image
     - node
@@ -580,7 +590,16 @@ display:
           group_type: group
           admin_label: ''
           operator: or
-          value: {  }
+          value:
+            4: 4
+            2: 2
+            5: 5
+            1: 1
+            6: 6
+            10: 10
+            9: 9
+            8: 8
+            7: 7
           group: 1
           exposed: true
           expose:
@@ -598,8 +617,9 @@ display:
             remember_roles:
               authenticated: authenticated
               anonymous: '0'
+              admin: '0'
               administrator: '0'
-            reduce: false
+            reduce: true
           is_grouped: false
           group_info:
             label: ''
@@ -865,7 +885,16 @@ display:
           group_type: group
           admin_label: ''
           operator: or
-          value: {  }
+          value:
+            4: 4
+            2: 2
+            5: 5
+            1: 1
+            6: 6
+            10: 10
+            9: 9
+            8: 8
+            7: 7
           group: 1
           exposed: true
           expose:
@@ -883,8 +912,9 @@ display:
             remember_roles:
               authenticated: authenticated
               anonymous: '0'
+              admin: '0'
               administrator: '0'
-            reduce: false
+            reduce: true
           is_grouped: false
           group_info:
             label: ''
@@ -1312,7 +1342,16 @@ display:
           group_type: group
           admin_label: ''
           operator: or
-          value: {  }
+          value:
+            4: 4
+            2: 2
+            5: 5
+            1: 1
+            6: 6
+            10: 10
+            9: 9
+            8: 8
+            7: 7
           group: 1
           exposed: true
           expose:
@@ -1330,8 +1369,9 @@ display:
             remember_roles:
               authenticated: authenticated
               anonymous: '0'
+              admin: '0'
               administrator: '0'
-            reduce: false
+            reduce: true
           is_grouped: false
           group_info:
             label: ''
@@ -1748,7 +1788,16 @@ display:
           group_type: group
           admin_label: ''
           operator: or
-          value: {  }
+          value:
+            4: 4
+            2: 2
+            5: 5
+            1: 1
+            6: 6
+            10: 10
+            9: 9
+            8: 8
+            7: 7
           group: 1
           exposed: true
           expose:
@@ -1766,8 +1815,9 @@ display:
             remember_roles:
               authenticated: authenticated
               anonymous: '0'
+              admin: '0'
               administrator: '0'
-            reduce: false
+            reduce: true
           is_grouped: false
           group_info:
             label: ''
