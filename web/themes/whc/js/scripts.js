@@ -5,6 +5,7 @@
   //   $( "#slideclick" ).removeAttr("open");
   // });
 
+
   // Function to loop through classes and add ids.
   function addVideoAttr(classToFind, attribute, valToAdd) {
 
@@ -18,6 +19,11 @@
   }
 
   $(document).ready(function(){
+
+
+  $('#doc-text-icon').on('click', function(){
+    $( "#doc-text" ).click();
+  });
 
     $('.slideshow').slick({
       arrows: true,

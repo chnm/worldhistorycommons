@@ -22,7 +22,7 @@
 
   {% if type == 'Text' %}
     {% if content.field_text_file.0['#file'].uri.value  is null %}
-      <div aria-label="View Document" class="doc-icon"></div>
+      <a href="#doc-text" aria-label="View Document" class="doc-icon" id="doc-text-icon"></a>
     {% else %}
       <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
     {% endif %}
@@ -54,8 +54,8 @@
   <div class="content-details">
     
     {% if content.field_text.0 %}
-    <details id="doc-text">
-      <summary><h3>Text</h3></summary>
+    <details>
+      <summary id="doc-text"><h3>Text</h3></summary>
       <div>{{content.field_text}}</div>
     </details>
     {% endif %}
