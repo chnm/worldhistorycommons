@@ -387,7 +387,7 @@ a:hover {
   margin: auto;
   font-weight: 700;
   margin-bottom: 1rem;
-  font-size: unset;
+  line-height: 1.2;
 }
 .content-header .content-header--text {
   font-weight: 600;
@@ -756,6 +756,13 @@ details div {
 }
 
 /* Directory Views */
+.directory .direcotry--label {
+  font-weight: 600;
+  font-size: 1.15rem;
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
 .directory header {
   font-size: 1.3em;
   font-weight: 600;
