@@ -52,3 +52,15 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
+
+@mixin btn() {
+    @include box-link;
+    border: transparent;
+    color: white;
+    text-transform: uppercase;
+    font-size: medium;
+    cursor: pointer;
+    padding: .5rem 1rem;
+    font-weight: bold;
+}

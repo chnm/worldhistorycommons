@@ -123,7 +123,7 @@ a {
       font-size: 1rem;
     }
 
-    #edit-submit, #edit-actions {
+    #edit-submit, #edit-actions, #edit-actions--2 {
       display: none;
     }
   }
@@ -984,3 +984,31 @@ details {
     }
   }
 }
+
+.user-login-form {
+  display: block;
+  max-width: 700px;
+  margin: auto;
+
+  .description {
+    font-size: small;
+    font-weight: bold;
+  }
+
+  .form-item-name {
+    margin-bottom: 1rem;
+  }
+
+  #edit-submit {
+    @include btn;
+  }
+
+  .form-item-captcha-response {
+    background-color: $blue--light;
+    border: 1px solid $blue;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
