@@ -21,7 +21,7 @@
   {% endif %}
 
   {% if type == 'Text' %}
-    {% if content.field_text_file.0['#file'].uri.value  is null %}
+    {% if content.field_text_file.0['#file'].uri.value is null %}
       <a href="#doc-text" aria-label="View Document" class="doc-icon" id="doc-text-icon"></a>
     {% else %}
       <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>

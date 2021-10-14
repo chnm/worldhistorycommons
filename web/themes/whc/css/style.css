@@ -59,7 +59,7 @@ html, body {
   margin: 0;
   color: #3f5966;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.3;
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -578,7 +578,7 @@ details div {
   filter: grayscale(0);
 }
 
-.slideshow {
+.slideshow .slick-initialized .slick-slide {
   margin: auto;
 }
 .slideshow .slideshow-slide--title {
@@ -593,8 +593,10 @@ details div {
   margin: auto;
 }
 .slideshow h5 {
+  font-size: 1.5em;
   margin-left: 1.3rem;
   margin-bottom: -0.5rem;
+  margin-top: 1rem;
 }
 
 /* Reviews Content type */
