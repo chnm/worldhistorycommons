@@ -74,7 +74,7 @@ a {
 
     nav {
       text-align: right;
-      font-size: 15px;
+      font-size: 16px;
       text-transform: uppercase;
 
       a {
@@ -110,12 +110,18 @@ a {
 
     input {
       background-color: $blue--light;
-
+      background-image: url('../img/search.png');
+      background-repeat: no-repeat;
+      background-size: 18px;
+      background-position-y: 8px;
+      background-position-x: 8px;
       @media screen and (max-width: $breakpoint-mid ) {
         background-color: white;
         box-shadow: 1px 2px 4px #c5c5c5;
       }
-      padding: .5rem;
+      padding-top: .3rem;
+      padding-bottom: .3rem;
+      padding-left: 2rem;
       color: $blue;
       border: hidden;
       border-radius: 3px;
@@ -144,9 +150,11 @@ a {
     color: #ccc;
     text-align: center;
     margin-top: 1rem;
-    @media screen and (max-width: $breakpoint-mid) {
-      font-size: 14px;
-    }
+    font-size: 15px;
+    font-weight: bold;
+    // @media screen and (max-width: $breakpoint-mid) {
+    //   font-size: 14px;
+    // }
   }
 
   .footer--funding {
@@ -539,13 +547,14 @@ details {
   
   .featured-banner {
     margin-top: -1.9rem;
-    background-color: $blue--light;
+    background-color: rgba(216, 241, 252, 0.5);;
     @include impact-text();
     text-align: center;
     padding: 1rem;
 
     .content-well {
-      width: 65%;
+      width: 60%;
+      max-width: 820px;
       @media screen and (max-width: $mobile){
         width: 95%;
       }
@@ -682,6 +691,7 @@ details {
   h2 {
     margin-bottom: 0;
     margin-top: -.5rem;
+    line-height: 1.5;
 
     a {
       text-decoration: none;

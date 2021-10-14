@@ -73,8 +73,9 @@
 }
 
 @mixin impact-text() {
+  @include font-bold();
   font-weight: 600;
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 
