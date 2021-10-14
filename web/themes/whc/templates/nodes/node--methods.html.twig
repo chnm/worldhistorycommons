@@ -77,9 +77,6 @@
       <div>
 
       <div class="slideshow">
-        {# <div class="splide">
-        <div class="splide__track">
-        <div class="splide__list"> #}
         {% for source in node.field_primary_sources %}
 
           {% set img_url = file_url(source.entity.field_image_thumbnail.0.entity.uri.value) %}
@@ -93,11 +90,15 @@
             </div>
 
         {% endfor %}
-        {# </div>
-        </div>
-        </div> #}
       </div>
       </div>
+    </details>
+    {% endif %}
+
+      {% if content.field_sample_analysis.0 %}
+    <details>
+      <summary><h3>Sample Analysis</h3></summary>
+      <div>{{content.field_sample_analysis}}</div>
     </details>
     {% endif %}
 
@@ -105,13 +106,6 @@
     <details>
       <summary><h3>Bibliography</h3></summary>
       <div>{{content.field_bibliography}}</div>
-    </details>
-    {% endif %}
-
-    {% if content.field_sample_analysis.0 %}
-    <details>
-      <summary><h3>Analysis</h3></summary>
-      <div>{{content.field_sample_analysis}}</div>
     </details>
     {% endif %}
 
