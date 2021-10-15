@@ -489,9 +489,6 @@ details {
 }
 
 .slideshow {
-  // margin: auto;
-  // // margin-bottom: 1rem;
-
   .slick-initialized .slick-slide {
     margin: auto;
   }
@@ -1062,11 +1059,11 @@ details {
 
 .imgleft{
   margin: 1em 1em 1em 0;
-  clear: both;
+  float: left;
 }
 .imgright{
   margin: 1em 0 1em 1em;
-  clear: both;
+  float: right;
 }
 .bibwrap{
   border-bottom: 1px solid gray;

@@ -1151,12 +1151,12 @@ details div {
 
 .imgleft {
   margin: 1em 1em 1em 0;
-  clear: both;
+  float: left;
 }
 
 .imgright {
   margin: 1em 0 1em 1em;
-  clear: both;
+  float: right;
 }
 
 .bibwrap {
