@@ -11,11 +11,17 @@ html, body {
   margin: 0;
   color: $black;
   font-size: 18px;
-  line-height: 1.3;
+  line-height: 1.35;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: .8rem;
 }
 
 h3 {
@@ -381,13 +387,19 @@ details {
 
   .well--data {
     margin-top: 1rem;
+
+    h5 {
+      font-size: 1.3rem;
+      margin-bottom: .5rem;
+      margin-top: .5rem;
+
+      &:first {
+        margin-top: 0;
+      }
+    }
   }
 
-  h5 {
-    font-size: 1.5em;
-    margin-bottom: .5rem;
-    // margin-top: 1rem;
-  }
+ 
   
   summary {
     background-color: $blue--meidum;
@@ -483,11 +495,6 @@ details {
   .slick-initialized .slick-slide {
     margin: auto;
   }
-
-//  .slick-current {
-//    max-width: 700px;
-//    margin: auto;
-//  }
 
   .slideshow-slide--title {
     text-align: center;
@@ -1053,3 +1060,28 @@ details {
   }
 }
 
+.imgleft{
+  margin: 1em 1em 1em 0;
+  clear: both;
+}
+.imgright{
+  margin: 1em 0 1em 1em;
+  clear: both;
+}
+.bibwrap{
+  border-bottom: 1px solid gray;
+
+  &:last-child {
+    border-bottom: hidden;
+  }
+
+  .bibinfo{
+    width: 100%;
+    .name{
+      font-weight:800;
+    }
+    .title{
+      font-style:italic;
+    }
+  }
+}

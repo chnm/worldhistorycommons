@@ -80,7 +80,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_text_file:
     -
       plugin: sub_process
@@ -97,7 +97,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_audio:
     -
       plugin: sub_process
@@ -118,7 +118,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_transcription:
     -
       plugin: sub_process
@@ -127,7 +127,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_translation:
     -
       plugin: get
@@ -136,7 +136,7 @@ process:
       value: value
       format:
         plugin: default_value
-        default_value: basic_html
+        default_value: full_html
   field_credits:
     -
       plugin: sub_process
@@ -145,7 +145,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_image:
     -
       plugin: sub_process

@@ -1,6 +1,6 @@
 (function($) {
 
-  //Quick hack to allow slideshow to render.
+  // //Quick hack to allow slideshow to render.
   // $(window).one('scroll', function() {
   //   $( "#slideclick" ).removeAttr("open");
   // });
@@ -21,9 +21,9 @@
   $(document).ready(function(){
 
 
-  $('#doc-text-icon').on('click', function(){
-    $( "#doc-text" ).click();
-  });
+    $('#doc-text-icon').on('click', function(){
+      $( "#doc-text" ).click();
+    });
 
     $('.slideshow').slick({
       arrows: true,
@@ -33,7 +33,7 @@
       infinite: true,
       adaptiveHeight: true
     });
-
+    $( "#slideclick" ).removeAttr("open");
 
     // JS that controlls the tabs.
     // Go through and add Ids
@@ -81,4 +81,8 @@
 
     
   });
+
+  $(document).load(function () {
+    $( "#slideclick" ).removeAttr("open");
+   });
 }(jQuery));

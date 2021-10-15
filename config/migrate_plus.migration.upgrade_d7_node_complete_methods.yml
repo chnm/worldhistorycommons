@@ -92,7 +92,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_essay:
     -
       plugin: sub_process
@@ -101,7 +101,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_sample_analysis:
     -
       plugin: sub_process
@@ -110,7 +110,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_bibliography:
     -
       plugin: sub_process
@@ -119,7 +119,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_credits:
     -
       plugin: sub_process
@@ -128,7 +128,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_legacy_vid:
     -
       plugin: get

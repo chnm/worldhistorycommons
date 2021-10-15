@@ -96,7 +96,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_website_reviewer:
     -
       plugin: get
@@ -123,7 +123,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: basic_html
+          default_value: full_html
   field_image:
     -
       plugin: sub_process
