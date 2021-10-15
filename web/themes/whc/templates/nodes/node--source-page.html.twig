@@ -56,28 +56,28 @@
     {% if content.field_text.0 %}
     <details>
       <summary id="doc-text"><h3>Text</h3></summary>
-      <div>{{content.field_text}}</div>
+      <div class="well--data">{{content.field_text}}</div>
     </details>
     {% endif %}
 
     {% if content.field_transcription.0 %}
     <details>
       <summary><h3>Transcription</h3></summary>
-      <div>{{content.field_transcription}}</div>
+      <div class="well--data">{{content.field_transcription}}</div>
     </details>
     {% endif %}
 
     {% if content.field_translation.0 %}
     <details>
       <summary><h3>Translation</h3></summary>
-      <div>{{content.field_translation}}</div>
+      <div class="well--data">{{content.field_translation}}</div>
     </details>
     {% endif %}
 
     {% if content.field_credits.0 %}
     <details open>
       <summary><h3>Credits</h3></summary>
-      <div>{{content.field_credits}}</div>
+      <div class="well--data">{{content.field_credits}}</div>
     </details>
     {% endif %}
   <div>

@@ -227,6 +227,11 @@ a {
 
     .link {
       text-transform: unset;
+      font-size: 1.17em;
+      
+      a {
+        font-weight: bold;
+      }
     }
   }
   }
@@ -373,6 +378,16 @@ a {
 
 details {
   margin-bottom: .5rem;
+
+  .well--data {
+    margin-top: 1rem;
+  }
+
+  h5 {
+    font-size: 1.5em;
+    margin-bottom: .5rem;
+    // margin-top: 1rem;
+  }
   
   summary {
     background-color: $blue--meidum;
@@ -514,13 +529,18 @@ details {
   
   h1 {
     color: unset;
-    padding-left: 2rem;
-    padding-right: 2rem;
+
     max-width: 700px;
+    // margin: auto;
+    margin-left: 2rem;
+    margin-right: 2rem;
   }
 
   .content-header--author {
-    color: unset;
+
+    max-width: 700px;
+    margin-left: 2rem;
+    margin-right: 2rem;
   }
 
   &:hover {

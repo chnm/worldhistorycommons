@@ -67,14 +67,14 @@
     {% if content.field_essay.0 %}
     <details>
       <summary><h3>Essay</h3></summary>
-      <div>{{content.field_essay}}</div>
+      <div class="well--data">{{content.field_essay}}</div>
     </details>
     {% endif %}
 
     {% if content.field_primary_sources.0 %}
     <details id="slideclick" open>
       <summary><h3>Primary Sources</h3></summary>
-      <div>
+      <div class="well--data">
 
       <div class="slideshow">
         {% for source in node.field_primary_sources %}
@@ -98,21 +98,21 @@
       {% if content.field_sample_analysis.0 %}
     <details>
       <summary><h3>Sample Analysis</h3></summary>
-      <div>{{content.field_sample_analysis}}</div>
+      <div class="well--data">{{content.field_sample_analysis}}</div>
     </details>
     {% endif %}
 
     {% if content.field_bibliography.0 %}
     <details>
       <summary><h3>Bibliography</h3></summary>
-      <div>{{content.field_bibliography}}</div>
+      <div class="well--data">{{content.field_bibliography}}</div>
     </details>
     {% endif %}
 
     {% if content.field_credits.0 %}
     <details open>
       <summary><h3>Credits</h3></summary>
-      <div>{{content.field_credits}}</div>
+      <div class="well--data">{{content.field_credits}}</div>
     </details>
     {% endif %}
   <div>
