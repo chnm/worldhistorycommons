@@ -1,10 +1,8 @@
 (function($) {
 
-  // //Quick hack to allow slideshow to render.
-  // $(window).one('scroll', function() {
-  //   $( "#slideclick" ).removeAttr("open");
-  // });
-
+$(window).on('beforeunload', function() {
+    $(window).scrollTop(0);
+});
 
   // Function to loop through classes and add ids.
   function addVideoAttr(classToFind, attribute, valToAdd) {
@@ -20,7 +18,6 @@
 
   $(document).ready(function(){
 
-
     $('#doc-text-icon').on('click', function(){
       $( "#doc-text" ).click();
     });
@@ -31,9 +28,8 @@
       slidesToScroll: 1,
       dots: false,
       infinite: true,
-      adaptiveHeight: true
+      adaptiveHeight: false,
     });
-    $( "#slideclick" ).removeAttr("open");
 
     // JS that controlls the tabs.
     // Go through and add Ids
@@ -76,13 +72,30 @@
       });
     });
 
+    setTimeout(function() {
+      $( "#slideclick" ).click();
+    }, 1500);
 
     $('h2:contains("Search results")').css("display", "none");
+    // acordian click
 
-    
-  });
+    setTimeout(function() {
+      $('details').on('click', function(e){
+        var allDetails = $( "details" );
 
-  $(document).load(function () {
-    $( "#slideclick" ).removeAttr("open");
-   });
+        $(".slick-next, .slick-prev").click(function(e){
+          e.stopPropagation(); 
+        });
+
+        if($(this).is("[open]")) {
+          e.preventDefault();
+          $(this).removeAttr("open");
+        } else {
+          $( ".content-details" ).find( allDetails ).removeAttr("open");
+        }
+      });
+    }, 705);
+
+});
+
 }(jQuery));
