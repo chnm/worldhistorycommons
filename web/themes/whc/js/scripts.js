@@ -1,8 +1,9 @@
 (function($) {
 
-$(window).on('beforeunload', function() {
-    $(window).scrollTop(0);
-});
+  // This is to intalize slideshow.
+  $(window).on('beforeunload', function() {
+      $(window).scrollTop(0);
+  });
 
   // Function to loop through classes and add ids.
   function addVideoAttr(classToFind, attribute, valToAdd) {
@@ -17,10 +18,6 @@ $(window).on('beforeunload', function() {
   }
 
   $(document).ready(function(){
-
-    $('#doc-text-icon').on('click', function(){
-      $( "#doc-text" ).click();
-    });
 
     $('.slideshow').slick({
       arrows: true,
@@ -95,6 +92,21 @@ $(window).on('beforeunload', function() {
         }
       });
     }, 705);
+
+    // Jump link auto expand.
+    $('#doc-text-img').on('click', function(){
+      if ($('#doc_transcription').length) {
+        $("#doc_transcription").click();
+      } else {
+        $("#doc-text").click();
+        location.hash = "doc-text";
+      }
+    });
+    
+    $('#doc-text-icon').on('click', function(){
+      $("#doc-text").click();
+    });
+
 
 });
 

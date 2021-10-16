@@ -16,15 +16,26 @@
 
   {% if type == 'Image' or type == 'Object' %}
     <div class="image-wrap">
-      {{content.field_image}}
+       {{content.field_image}}
     </div>
   {% endif %}
 
   {% if type == 'Text' %}
-    {% if content.field_text_file.0['#file'].uri.value is null %}
-      <a href="#doc-text" aria-label="View Document" class="doc-icon" id="doc-text-icon"></a>
+    {# Check if thumbnail is set, jump link to trascrip #}
+    {% if content.field_image.0 is not null %}
+       <a href="#doc_transcription" id="doc-text-img"><div class="image-wrap">
+       {{content.field_image}}
+      </div></a>
+      {% if content.field_text_file.0 %}
+        <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
+      {% endif %}
     {% else %}
-      <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
+      {% if content.field_text_file.0['#file'].uri.value is null %}
+        <a href="#doc-text" aria-label="View Document" class="doc-icon" id="doc-text-icon"></a>
+      {% else %}
+        <a href="{{file_url(content.field_text_file.0['#file'].uri.value)}}" aria-label="View Document" class="doc-icon"></a>
+      {% endif %}
+
     {% endif %}
   {% endif %}
 
@@ -62,7 +73,7 @@
 
     {% if content.field_transcription.0 %}
     <details>
-      <summary><h3>Transcription</h3></summary>
+      <summary id="doc_transcription"><h3>Transcription</h3></summary>
       <div class="well--data">{{content.field_transcription}}</div>
     </details>
     {% endif %}
