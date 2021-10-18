@@ -25,7 +25,7 @@
       slidesToScroll: 1,
       dots: false,
       infinite: true,
-      adaptiveHeight: false,
+      adaptiveHeight: true,
     });
 
     // JS that controlls the tabs.

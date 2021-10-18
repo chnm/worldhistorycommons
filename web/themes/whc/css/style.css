@@ -57,7 +57,7 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
   padding: 0;
   margin: 0;
-  color: #333;
+  color: #1b1b1b;
   font-size: 18px;
   line-height: 1.35;
 }
@@ -81,6 +81,11 @@ a {
 }
 a:hover {
   color: #fdbd06;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .logo {
@@ -379,7 +384,7 @@ a:hover {
 }
 .tags a:hover {
   background-color: #fdbd06;
-  color: #333;
+  color: #1b1b1b;
 }
 
 .content-header {
@@ -576,7 +581,7 @@ details div {
 }
 .content-videos .dl-link:hover {
   background-color: #fdbd06;
-  color: #333;
+  color: #1b1b1b;
 }
 .content-videos .content-videos--well {
   display: grid;
@@ -624,7 +629,7 @@ details div {
 .review-header {
   border: 3px solid #4f90b8;
   text-decoration: none;
-  color: #333;
+  color: #1b1b1b;
   text-align: left;
   display: block;
   margin-left: 0;
@@ -838,15 +843,6 @@ details div {
   width: 129px;
   height: 129px;
 }
-.directory .views-row .views-field-field-image-thumbnail img,
-.directory .views-row .views-field-field-primary-sources img,
-.directory .views-row .result--thumbnial img,
-.directory .result-row .views-field-field-image-thumbnail img,
-.directory .result-row .views-field-field-primary-sources img,
-.directory .result-row .result--thumbnial img {
-  width: 100%;
-  height: auto;
-}
 
 .views-exposed-form {
   background-color: #edf4f7;
@@ -887,7 +883,7 @@ details div {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  color: #333;
+  color: #1b1b1b;
   border: none;
   box-shadow: 1px 2px 4px #c5c5c5;
   border-radius: 0;
@@ -999,7 +995,7 @@ details div {
   text-decoration: none;
 }
 .pager .is-active a {
-  color: #333;
+  color: #1b1b1b;
 }
 .pager ul {
   margin: 0;
@@ -1033,7 +1029,7 @@ details div {
 }
 
 .box-link {
-  color: #333;
+  color: #1b1b1b;
   text-decoration: none;
 }
 .box-link:hover {
@@ -1086,7 +1082,7 @@ details div {
   margin: auto;
   text-align: center;
   text-decoration: none;
-  color: #333;
+  color: #1b1b1b;
 }
 @media screen and (max-width: 600px) {
   .featured-tiles .tile .img-wrap {
@@ -1152,11 +1148,13 @@ details div {
 .imgleft {
   margin: 1em 1em 1em 0;
   float: left;
+  clear: both;
 }
 
 .imgright {
   margin: 1em 0 1em 1em;
   float: right;
+  clear: both;
 }
 
 .bibwrap {

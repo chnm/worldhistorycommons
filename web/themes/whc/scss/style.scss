@@ -36,6 +36,12 @@ a {
   }
 }
 
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .logo {
   @include image-block('../img/whc_logo.png');
   max-width: 630px;
@@ -749,11 +755,6 @@ details {
     .result--thumbnial {
       width: 129px;
       height: 129px;
-
-      img {
-        width: 100%;
-        height: auto;
-      }
     }
   }
 }
@@ -1060,10 +1061,12 @@ details {
 .imgleft{
   margin: 1em 1em 1em 0;
   float: left;
+  clear: both;
 }
 .imgright{
   margin: 1em 0 1em 1em;
   float: right;
+  clear: both;
 }
 .bibwrap{
   border-bottom: 1px solid gray;
