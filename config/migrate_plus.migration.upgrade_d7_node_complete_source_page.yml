@@ -130,13 +130,13 @@ process:
           default_value: full_html
   field_translation:
     -
-      plugin: get
+      plugin: sub_process
       source: field_translation
-      process: null
-      value: value
-      format:
-        plugin: default_value
-        default_value: full_html
+      process:
+        value: value
+        format:
+          plugin: default_value
+          default_value: full_html
   field_credits:
     -
       plugin: sub_process
