@@ -80,7 +80,7 @@
       $('details').on('click', function(e){
         var allDetails = $( "details" );
 
-        $(".slick-next, .slick-prev").click(function(e){
+        $(".slick-next, .slick-prev, .well--data").click(function(e){
           e.stopPropagation(); 
         });
 
