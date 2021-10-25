@@ -110,13 +110,15 @@ img {
     width: 235px;
     height: 235px;
     margin-left: 0;
+    margin-top: -2rem;
   }
 }
 @media screen and (max-width: 600px) {
   .logo {
-    width: 135px;
-    height: 135px;
+    width: 145px;
+    height: 145px;
     margin-left: 0;
+    margin-top: -4rem;
   }
 }
 
@@ -201,7 +203,7 @@ img {
   text-align: right;
   margin-bottom: 1rem;
 }
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 800px) {
   .header .search-block-form {
     margin-top: -3rem;
   }
