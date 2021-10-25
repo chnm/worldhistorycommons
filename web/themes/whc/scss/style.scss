@@ -118,9 +118,9 @@ img {
   .search-block-form {
     text-align: right;
     margin-bottom: 1rem;
-    @media screen and (min-width: $breakpoint-mid ) {
-      margin-top: -3rem;
-    }
+    // @media screen and (min-width: $breakpoint-mid ) {
+    //   margin-top: -3rem;
+    // }
 
     input {
       background-color: $blue--light;
