@@ -118,7 +118,7 @@ process:
         value: value
         format:
           plugin: default_value
-          default_value: full_html
+          default_value: basic_html
   field_transcription:
     -
       plugin: sub_process
