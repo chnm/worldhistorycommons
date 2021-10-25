@@ -870,12 +870,22 @@ details div {
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
   position: relative;
-  right: -4px;
-  top: -32px;
-  padding: 3px 8px;
+  right: -7px;
+  top: -30px;
+  padding: 3px 9px 3px 8px;
   pointer-events: none;
   font-weight: bold;
   font-size: small;
+}
+@-moz-document url-prefix() {
+  .views-exposed-form .form-item:after {
+    padding: 3px 9px;
+  }
+}
+@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: 0.001dpcm) {
+  .views-exposed-form .form-item:after {
+    top: -29px;
+  }
 }
 .views-exposed-form .form-select {
   width: 100%;

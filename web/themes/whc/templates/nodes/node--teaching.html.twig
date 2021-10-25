@@ -72,22 +72,21 @@
     <details id="slideclick" open>
       <summary><h3>Primary Sources</h3></summary>
       <div class="well--data">
+        <div class="slideshow">
+          {% for source in node.field_primary_sources %}
 
-      <div class="slideshow">
-        {% for source in node.field_primary_sources %}
+            {% set img_url = file_url(source.entity.field_image_thumbnail.0.entity.uri.value) %}
+            {% set img_alt = source.entity.field_image_thumbnail.0.alt %}
 
-          {% set img_url = file_url(source.entity.field_image_thumbnail.0.entity.uri.value) %}
-          {% set img_alt = source.entity.field_image_thumbnail.0.alt %}
+              <div class="slideshow-slide">
+                <h4 class="slideshow-slide--title">{{source.entity.label}}</h4>
+                <a class="slideshow-slide--img" href="{{ path('entity.node.canonical', {'node': source.entity.id}) }}"><img src="{{img_url}}" alt="{{img_alt}}" style="width:100%; height: auto;"></a>
+                <h5>Annotation</h5>
+                <div class="slideshow-slide--text">{{source.entity.field_annotation.value | raw}}</div>
+              </div>
 
-            <div class="slideshow-slide">
-              <h4 class="slideshow-slide--title">{{source.entity.label}}</h4>
-              <a class="slideshow-slide--img" href="{{ path('entity.node.canonical', {'node': source.entity.id}) }}"><img src="{{img_url}}" alt="{{img_alt}}" style="width:100%; height: auto;"></a>
-              <h5>Annotation</h5>
-              <div class="slideshow-slide--text">{{source.entity.field_annotation.value | raw}}</div>
-            </div>
-
-        {% endfor %}
-      </div>
+          {% endfor %}
+        </div>
       </div>
     </details>
     {% endif %}
