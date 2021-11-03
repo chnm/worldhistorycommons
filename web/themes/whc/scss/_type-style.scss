@@ -79,75 +79,14 @@
   line-height: 1.5;
 }
 
+// Used for WYSIYWG Styles
+.box-heading {
+  @include box-text();
+  position: relative;
+  left: 50%; 
+  transform: translateX(-50%);
+}
 
-
-// h1 {
-//   // @include breakpoint($tablet) {
-//   //   font-size: 2.1em;
-//   // }
-//   font-family: "DIN", "Arial Narrow", Arial, sans-serif;
-//   font-size:2.5em;
-//   font-weight: 400;
-//   padding: 0 0.1em;
-// }
-
-//Page Title
-// h2{
-//   // @include breakpoint($tablet) {
-//   //   font-size: 1.8em;
-//   // }
-//   font-family: "DIN";
-//   color:$textblack;
-//   margin: 1em 0 0.1em;
-//   font-size: 2em;
-//   font-weight: 100;
-//   padding: 0 0.1em;
-//   letter-spacing: 1px;
-// }
-
-// //Accordion Header
-// h3 {
-//   // @include breakpoint($tablet) {
-//   //   font-size: 1.3em;
-//   // }
-//   font-weight: 400;
-//   font-size: 1.6em;
-//   text-transform: uppercase;
-//   padding: 0 0.2em;
-// }
-
-// //Thin Header
-// h4 {
-//   // @include breakpoint($tablet) {
-//   //   font-size: 1.3em;
-//   //   padding:0 0.3em;
-//   // }
-//   font-size: 1.8em;
-//   margin: 0;
-//   font-weight: 200;
-//   padding:0;
-// }
-
-// h5 {
-//   // @include breakpoint($tablet) {
-//   //   font-size: 1.1em;
-//   // }
-//   font-size: 1.3em;
-//   font-weight: 400;
-//   margin: 0.5em 0;
-//   padding: 0;
-// }
-
-
-// //Tags and Credit Information
-// h6{
-//   font-size: 1.1em;
-//   margin: 1em 0 0.1em;
-// }
-
-// p{
-//   padding:0 0.3em 1em;
-//   margin:0;
-//   line-height: 1.35;
-//   color:$textblack;
-// }
+.center {
+  text-align: center;
+}

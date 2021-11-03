@@ -19,6 +19,7 @@ settings:
           items:
             - Bold
             - Italic
+            - '-'
         -
           name: Linking
           items:
@@ -38,13 +39,14 @@ settings:
           name: 'Block Formatting'
           items:
             - Format
+            - Styles
         -
           name: Tools
           items:
             - Source
   plugins:
     stylescombo:
-      styles: ''
+      styles: 'h2.box-heading|Box Heading'
     language:
       language_list: un
 image_upload:

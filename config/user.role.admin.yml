@@ -37,6 +37,7 @@ permissions:
   - 'edit terms in time_period'
   - 'notify of path changes'
   - 'revert all revisions'
+  - 'use text format basic_html'
   - 'use text format full_html'
   - 'view unpublished paragraphs'
   - 'view user email addresses'

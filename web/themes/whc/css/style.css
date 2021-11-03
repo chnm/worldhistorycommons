@@ -10,6 +10,26 @@
   font-weight: 800;
   font-style: normal;
 }
+.box-heading {
+  font-family: "DIN", "Arial Narrow", Arial, sans-serif;
+  background-color: #fdbd06;
+  color: white;
+  display: inline-block;
+  font-size: 1.25em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 0.3em 0.5em 0.1em;
+  margin: auto;
+  font-weight: 700;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.center {
+  text-align: center;
+}
+
 #block-whc-local-tasks {
   max-width: 1150px;
   margin: auto;
@@ -58,7 +78,7 @@ html, body {
   padding: 0;
   margin: 0;
   color: #1b1b1b;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.35;
 }
 
@@ -356,9 +376,6 @@ img {
 .citation .credit .link {
   text-transform: unset;
   font-size: 1.17em;
-}
-.citation .credit .link a {
-  font-weight: bold;
 }
 
 .tags {
