@@ -11,7 +11,7 @@ html, body {
   margin: 0;
   color: $black;
   font-size: 17px;
-  line-height: 1.35;
+  line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -241,7 +241,7 @@ img {
 
     .link {
       text-transform: unset;
-      font-size: 1.17em;
+      // font-size: 1.17em;
       
       // a {
       //   font-weight: bold;
@@ -563,6 +563,10 @@ details {
   }
 }
 
+.review-well {
+  margin-left: 5px;
+}
+
 .pull-quote--sidebar {
   font-size: 2rem;
   font-style: italic;
@@ -855,7 +859,7 @@ details {
 
 .col--2-3 {
   display: grid;
-  grid-template-columns: 2fr 300px;
+  grid-template-columns: 2fr 284px;
   grid-gap: 4%;
   @media screen and (max-width: $breakpoint-mid) {
     grid-template-columns: 1fr;

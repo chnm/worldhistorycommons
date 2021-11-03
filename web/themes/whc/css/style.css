@@ -79,7 +79,7 @@ html, body {
   margin: 0;
   color: #1b1b1b;
   font-size: 17px;
-  line-height: 1.35;
+  line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -375,7 +375,6 @@ img {
 }
 .citation .credit .link {
   text-transform: unset;
-  font-size: 1.17em;
 }
 
 .tags {
@@ -672,6 +671,10 @@ details div {
   background-color: #4f90b8;
 }
 
+.review-well {
+  margin-left: 5px;
+}
+
 .pull-quote--sidebar {
   font-size: 2rem;
   font-style: italic;
@@ -955,7 +958,7 @@ details div {
 
 .col--2-3 {
   display: grid;
-  grid-template-columns: 2fr 300px;
+  grid-template-columns: 2fr 284px;
   grid-gap: 4%;
 }
 @media screen and (max-width: 800px) {
