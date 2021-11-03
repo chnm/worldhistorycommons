@@ -13,6 +13,7 @@ permissions:
   - 'administer menu'
   - 'administer meta tags'
   - 'administer nodes'
+  - 'administer paragraphs types'
   - 'administer pathauto'
   - 'administer permissions'
   - 'administer users'

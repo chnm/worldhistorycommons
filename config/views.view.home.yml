@@ -475,7 +475,7 @@ display:
           empty: true
           tokenize: false
           content:
-            value: 'An open educational resource with peer-reviewed content for world and global history teachers, scholars, and students. This website provides more than 1,700 annotated primary sources, 100 teaching guides, 30 overviews of methods and approaches, and 250 website reviews. To learn more, consult this guide to using the site.'
+            value: 'An open educational resource with peer-reviewed content for world and global history teachers, scholars, and students. This website provides more than 1,700 annotated primary sources, 100 teaching guides, 30 overviews of methods and approaches, and 250 website reviews. To learn more, consult <a href="/guide-using-world-history-commons">this guide</a> to using the site.'
             format: full_html
           plugin_id: text
       footer: {  }
