@@ -19,6 +19,10 @@ settings:
           items:
             - Bold
             - Italic
+            - JustifyLeft
+            - JustifyCenter
+            - JustifyRight
+            - JustifyBlock
             - '-'
         -
           name: Linking
@@ -46,10 +50,10 @@ settings:
             - HorizontalRule
             - Source
   plugins:
-    stylescombo:
-      styles: "h2.box-heading|Box Heading\r\np.bib-text| Bibliography Indent"
     language:
       language_list: un
+    stylescombo:
+      styles: "h2.box-heading|Box Heading\r\np.bib-text| Bibliography Indent"
 image_upload:
   status: true
   scheme: public

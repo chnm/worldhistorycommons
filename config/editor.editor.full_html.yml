@@ -24,6 +24,10 @@ settings:
             - Subscript
             - '-'
             - RemoveFormat
+            - JustifyLeft
+            - JustifyCenter
+            - JustifyRight
+            - JustifyBlock
         -
           name: Linking
           items:
@@ -52,10 +56,10 @@ settings:
             - ShowBlocks
             - Source
   plugins:
-    stylescombo:
-      styles: "h2.box-heading|Box Heading\r\np.bib-text| Bibliography Indent"
     language:
       language_list: un
+    stylescombo:
+      styles: "h2.box-heading|Box Heading\r\np.bib-text| Bibliography Indent"
 image_upload:
   status: true
   scheme: public
