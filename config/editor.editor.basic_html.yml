@@ -43,10 +43,11 @@ settings:
         -
           name: Tools
           items:
+            - HorizontalRule
             - Source
   plugins:
     stylescombo:
-      styles: 'h2.box-heading|Box Heading'
+      styles: "h2.box-heading|Box Heading\r\np.bib-text| Bibliography Indent"
     language:
       language_list: un
 image_upload:

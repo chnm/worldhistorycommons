@@ -568,12 +568,12 @@ details {
 }
 
 .pull-quote--sidebar {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-style: italic;
   text-align: center;
 
   img {
-    width: 300px;
+    width: 100%;
     height: auto;
   }
 
@@ -734,6 +734,11 @@ details {
     text-align: center;
   }
 
+  strong {
+    display: block;
+    margin-bottom: .5rem;
+  }
+
   h2 {
     margin-bottom: 0;
     margin-top: -.5rem;
@@ -745,7 +750,6 @@ details {
         text-decoration: underline;
       }
     }
-
   }
 
   .views-row, 

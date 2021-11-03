@@ -30,6 +30,11 @@
   text-align: center;
 }
 
+.bib-text {
+  margin-left: 1rem;
+  margin-top: -0.5rem;
+}
+
 #block-whc-local-tasks {
   max-width: 1150px;
   margin: auto;
@@ -676,12 +681,12 @@ details div {
 }
 
 .pull-quote--sidebar {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-style: italic;
   text-align: center;
 }
 .pull-quote--sidebar img {
-  width: 300px;
+  width: 100%;
   height: auto;
 }
 .pull-quote--sidebar .quote {
@@ -832,6 +837,10 @@ details div {
   max-width: 1150px;
   margin: auto;
   text-align: center;
+}
+.directory strong {
+  display: block;
+  margin-bottom: 0.5rem;
 }
 .directory h2 {
   margin-bottom: 0;
