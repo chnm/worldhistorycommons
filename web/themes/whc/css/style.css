@@ -1027,6 +1027,8 @@ details div {
   font-weight: bold;
   text-transform: lowercase;
   text-align: right;
+  max-width: 1150px;
+  margin: auto;
 }
 .pager a {
   text-decoration: none;
@@ -1208,6 +1210,10 @@ details div {
 }
 .bibwrap .bibinfo .title {
   font-style: italic;
+}
+
+.search-results strong {
+  display: unset;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -919,6 +919,8 @@ details {
   font-weight: bold;
   text-transform: lowercase;
   text-align: right;
+  max-width: $content-width;
+  margin: auto;
 
   a {
     text-decoration: none;
@@ -1098,5 +1100,10 @@ details {
     .title{
       font-style:italic;
     }
+  }
+}
+.search-results {
+  strong {
+    display: unset;
   }
 }
