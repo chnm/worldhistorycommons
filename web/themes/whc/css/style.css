@@ -251,6 +251,9 @@ img {
     box-shadow: 1px 2px 4px #c5c5c5;
   }
 }
+.header .search-block-form input[type=search] {
+  -webkit-appearance: textfield;
+}
 .header .search-block-form #edit-submit, .header .search-block-form #edit-actions, .header .search-block-form #edit-actions--2 {
   display: none;
 }
@@ -720,6 +723,7 @@ details div {
 @media screen and (max-width: 600px) {
   .front-page .featured-banner .content-well {
     width: 95%;
+    font-size: 80%;
   }
 }
 .front-page .box-wrapper {
