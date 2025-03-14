@@ -22,6 +22,7 @@
         "drupal/core-recommended": "^9.2",
         "drupal/devel": "^4.1",
         "drupal/field_group": "^3.2",
+        "drupal/matomo": "1.11.0",
         "drupal/maxlength": "^1.0@RC",
         "drupal/metatag": "^1.16",
         "drupal/migrate_tools": "5.x-dev@dev",
@@ -39,7 +40,12 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "composer/installers": true,
+            "drupal/core-composer-scaffold": true,
+            "drupal/core-project-message": true
+        }
     },
     "extra": {
         "drupal-scaffold": {
