@@ -45,3 +45,8 @@ web/modules/contrib/*
 # simpletest
 /.editorconfig
 /.gitattributes
+
+# Dev Items
+/bin 
+/db
+.DS*
