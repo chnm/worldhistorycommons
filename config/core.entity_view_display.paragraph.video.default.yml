@@ -20,39 +20,41 @@ bundle: video
 mode: default
 content:
   field_video_clip:
-    weight: 1
+    type: file_default
     label: hidden
     settings:
       use_description_as_link_text: true
     third_party_settings: {  }
-    type: file_default
+    weight: 1
     region: content
   field_video_clip_transcript:
-    weight: 3
+    type: text_default
     label: hidden
     settings: {  }
     third_party_settings: {  }
-    type: text_default
+    weight: 3
     region: content
   field_video_clip_transcript_down:
-    weight: 4
+    type: file_default
     label: hidden
     settings:
       use_description_as_link_text: true
     third_party_settings: {  }
-    type: file_default
+    weight: 4
     region: content
   field_video_thumbnail:
-    weight: 0
+    type: image
     label: hidden
     settings:
-      image_style: ''
       image_link: ''
+      image_style: ''
+      image_loading:
+        attribute: lazy
     third_party_settings: {  }
-    type: image
+    weight: 0
     region: content
   field_youtube_link:
-    weight: 2
+    type: video_embed_field_video
     label: hidden
     settings:
       autoplay: true
@@ -60,6 +62,6 @@ content:
       width: 854
       height: 480
     third_party_settings: {  }
-    type: video_embed_field_video
+    weight: 2
     region: content
 hidden: {  }

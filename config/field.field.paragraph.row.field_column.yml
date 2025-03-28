@@ -21,22 +21,22 @@ default_value_callback: ''
 settings:
   handler: 'default:paragraph'
   handler_settings:
-    negate: 0
     target_bundles:
       column: column
+    negate: 0
     target_bundles_drag_drop:
       basic_box:
         weight: 8
         enabled: false
       column:
-        enabled: true
         weight: 6
+        enabled: true
       featured_tile:
         weight: 10
         enabled: false
       featured_tiles:
-        enabled: true
         weight: 11
+        enabled: true
       row:
         weight: 8
         enabled: false

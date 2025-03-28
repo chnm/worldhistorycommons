@@ -1,7 +1,28 @@
 uuid: cf192a53-73b3-4711-950f-07a687324ebf
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  config:
+    - filter.format.basic_html
+    - filter.format.full_html
+    - node.type.methods
+    - node.type.page
+    - node.type.review
+    - node.type.source_page
+    - node.type.teaching
+    - taxonomy.vocabulary.region
+    - taxonomy.vocabulary.subject
+    - taxonomy.vocabulary.time_period
+  module:
+    - contextual
+    - file
+    - filter
+    - metatag
+    - node
+    - paragraphs
+    - pathauto
+    - system
+    - taxonomy
 id: admin
 label: Admin
 weight: -8
@@ -24,6 +45,7 @@ permissions:
   - 'delete any source_page content'
   - 'delete any teaching content'
   - 'delete methods revisions'
+  - 'delete own files'
   - 'delete own teaching content'
   - 'delete page revisions'
   - 'delete review revisions'

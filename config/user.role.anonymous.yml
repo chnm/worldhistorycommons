@@ -1,7 +1,10 @@
 uuid: 8f6fbad4-629a-4783-a1de-8503b347e44a
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  module:
+    - search
+    - system
 _core:
   default_config_hash: pq_mEIu_B4widZN7Ap81iCJSjShFFdcL0jEiCi8VrDk
 id: anonymous
@@ -9,8 +12,5 @@ label: 'Anonymous user'
 weight: -10
 is_admin: false
 permissions:
-  - 'access comments'
   - 'access content'
-  - 'access site-wide contact form'
   - 'search content'
-  - 'use exclude node title'

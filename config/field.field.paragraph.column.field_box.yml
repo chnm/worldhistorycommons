@@ -23,15 +23,15 @@ default_value_callback: ''
 settings:
   handler: 'default:paragraph'
   handler_settings:
-    negate: 0
     target_bundles:
       basic_box: basic_box
       text_box: text_box
       video: video
+    negate: 0
     target_bundles_drag_drop:
       basic_box:
-        enabled: true
         weight: 7
+        enabled: true
       column:
         weight: 5
         enabled: false
@@ -42,9 +42,9 @@ settings:
         weight: 8
         enabled: false
       text_box:
-        enabled: true
         weight: 7
-      video:
         enabled: true
+      video:
         weight: 8
+        enabled: true
 field_type: entity_reference_revisions

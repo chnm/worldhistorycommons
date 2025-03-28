@@ -12,14 +12,14 @@ pattern: '[term:vocabulary:name]/[term:name]'
 selection_criteria:
   95f98123-da90-4840-9bc8-1ffbab3adff7:
     id: 'entity_bundle:taxonomy_term'
+    negate: false
+    uuid: 95f98123-da90-4840-9bc8-1ffbab3adff7
+    context_mapping:
+      taxonomy_term: taxonomy_term
     bundles:
       region: region
       subject: subject
       time_period: time_period
-    negate: false
-    context_mapping:
-      taxonomy_term: taxonomy_term
-    uuid: 95f98123-da90-4840-9bc8-1ffbab3adff7
 selection_logic: and
 weight: -5
 relationships: {  }

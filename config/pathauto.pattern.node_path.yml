@@ -10,17 +10,17 @@ type: 'canonical_entities:node'
 pattern: '[node:title]'
 selection_criteria:
   0e778c6f-b69b-4366-bcf8-a9eac70b6f9a:
-    id: node_type
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: 0e778c6f-b69b-4366-bcf8-a9eac70b6f9a
+    context_mapping:
+      node: node
     bundles:
       methods: methods
       page: page
       review: review
       source_page: source_page
       teaching: teaching
-    negate: false
-    context_mapping:
-      node: node
-    uuid: 0e778c6f-b69b-4366-bcf8-a9eac70b6f9a
 selection_logic: and
 weight: -5
 relationships: {  }

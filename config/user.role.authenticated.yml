@@ -1,7 +1,29 @@
 uuid: 90a4b25b-e8d7-44d9-b829-a605c535afcd
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  config:
+    - filter.format.basic_html
+    - filter.format.restricted_html
+    - node.type.methods
+    - node.type.page
+    - node.type.review
+    - node.type.source_page
+    - node.type.teaching
+    - taxonomy.vocabulary.region
+    - taxonomy.vocabulary.subject
+    - taxonomy.vocabulary.time_period
+  module:
+    - file
+    - filter
+    - help
+    - node
+    - path
+    - search
+    - shortcut
+    - system
+    - taxonomy
+    - toolbar
 _core:
   default_config_hash: btW6TFHajhy7Eo6YUvdFiPh4TcPggo8GBXYctjV6zag
 id: authenticated
@@ -10,11 +32,10 @@ weight: -9
 is_admin: false
 permissions:
   - 'access administration pages'
-  - 'access comments'
   - 'access content'
   - 'access content overview'
+  - 'access help pages'
   - 'access shortcuts'
-  - 'access site-wide contact form'
   - 'access toolbar'
   - 'access user profiles'
   - 'administer nodes'
@@ -39,6 +60,7 @@ permissions:
   - 'delete any source_page content'
   - 'delete any teaching content'
   - 'delete methods revisions'
+  - 'delete own files'
   - 'delete own methods content'
   - 'delete own page content'
   - 'delete own review content'
@@ -58,7 +80,6 @@ permissions:
   - 'edit own review content'
   - 'edit own source_page content'
   - 'edit own teaching content'
-  - 'post comments'
   - 'revert all revisions'
   - 'revert methods revisions'
   - 'revert page revisions'
@@ -66,8 +87,6 @@ permissions:
   - 'revert source_page revisions'
   - 'revert teaching revisions'
   - 'search content'
-  - 'skip comment approval'
-  - 'use exclude node title'
   - 'use text format basic_html'
   - 'use text format restricted_html'
   - 'view all revisions'
