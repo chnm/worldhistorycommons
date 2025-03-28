@@ -6,7 +6,7 @@ libraries:
   - whc/global
   - whc/slickjs
   - whc/font-awesome
-# base theme: stable
+base theme: stable
 regions:
   header: Header
   content: Content

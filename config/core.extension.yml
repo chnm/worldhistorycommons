@@ -63,7 +63,6 @@ module:
   paragraphs: 11
   minimal: 1000
 theme:
-  seven: 0
   stable: 0
   whc: 0
   claro: 0

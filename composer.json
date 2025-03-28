@@ -30,6 +30,7 @@
         "drupal/migrate_upgrade": "^4.0",
         "drupal/paragraphs": "^1.12",
         "drupal/pathauto": "^1.8",
+        "drupal/stable": "^2.1",
         "drupal/structure_sync": "^2.0",
         "drupal/twig_field_value": "^2.0",
         "drupal/video_embed_field": "^2.4",
