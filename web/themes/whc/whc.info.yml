@@ -1,7 +1,7 @@
 name: World History Commons Theme 
 type: theme
 description: 'Main theme for WHC'
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^9 || ^10
 libraries:
   - whc/global
   - whc/slickjs
