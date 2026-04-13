@@ -1,0 +1,51 @@
+---
+title: "Puerto Rican Labor Movement: Official Document, Sterilization"
+doc_type: source
+drupal_node_id: 1299
+source_type: "Text"
+url: /puerto-rican-labor-movement-official-document-sterilization-0
+image: /images/Icons-Document_125.jpg
+regions: 
+  - "North/Central America"
+subjects: 
+  - "Gender"
+  - "Health/ Disease"
+  - "Imperial/ Colonial"
+  - "Politics"
+  - "Population"
+  - "Women"
+time_periods: 
+  - "Contemporary (1950 CE - Present)"
+source_citation: "Rafael Torrogrosa, Confidential Cabinet Meeting Decisions, October 6, 1960, Women in World History"
+credits: ""
+how_to_cite: |
+  "Puerto Rican Labor Movement: Official Document, Sterilization," in World History Commons, https://worldhistorycommons.org/puerto-rican-labor-movement-official-document-sterilization-0 [accessed April 8, 2026]
+---
+
+Thirty years after Mrs. Roosevelt visited the island of Puerto Rico, working women were still subject to exploitation in the industrial setting—in particular, to coerced sterilization. In this excerpt from a meeting between the Governor of Puerto Rico Luis Muñoz-Marín and his cabinet, one of his advisors informed him that in some companies sponsored by the government women were hired only if they agreed to undergo surgical sterilization. The governor ordered a complete investigation. This push for coerced sterilization was in part prompted by concerns about population growth, but it also raises questions about racial discrimination, and whether working women have been forced to cede their reproductive rights in order to secure their participation in the labor force. Source: “Cabinet Meeting Decisions” (Puerto Rico). Oct. 6, 1960.
+
+## Text
+
+CONFIDENTIAL  
+CABINET MEETING DECISIONS, OCTOBER 6  
+Prepare statistics on the government revenue collected by taxes with revenue from the decade of 1930-40, and also the savings resulting from when the Republicans lowered the salaries of teachers and other public functionaries.  
+Compare the 1940 budget made by the PER with the 1941 budget made under the PPD.  
+Sierra will write an explanation on the diverse methods of collecting statistics about unemployment and how the system used in Puerto Rico differs from that used in the United States.  
+Sierra will send facts about unemployment among 4th year graduates.  
+Cancio will report on the laws that cover sterilization.  
+[Department of] Health will report on what has been the practice and regulation of this issue [sterilization] and the ways to provide information on contraceptives, specifically on who to give it to.  
+The Department of Justice should prepare legislation prohibiting job discrimination against un-sterilized women.  
+[Department of] Justice will prepare an amendment to the Law about electoral funds so that rich candidates cannot spend their own funds in excess of $300.  
+Agriculture will send many facts to refute the allegation that the PPD has abandoned and persecuted agriculture.  
+Moscoso will send statements of experts to the sugar industry claiming negligence on the part of Puerto Rican sugar producers in not dedicating more funds to investigation efforts.  
+Rafael Torrogrosa  
+Following are some of the issues that arose or were mentioned in debate:  
+1. The argument of the PER that they did not have sufficient funds in their 8 years of governing.  
+The Governor indicated that the PER has been using this argument as an excuse for what happened during their time in government. The counterarguments are they had more money in special funds than they claim, and furthermore, they didn’t collect what they could have from personal income taxes. He asked for statistics on the government revenue collected through said taxes and also about the savings resulting from when they lowered the salaries of teachers and other public functionaries.  
+As a demonstration of the way in which one could govern favoring economic development and protecting the poor, he mentioned that it would be interesting to compare the revenue made in 1940 by the PER and the 1941 revenue under the PPD.  
+2. Unemployment  
+Ferré alleges that there are currently 90,000 unemployed, and the Governor asked about the certainty of that number. Sierra said that allegation was false, and explained the many ways of collection statistics on unemployment and how the system used in Puerto Rico differs from the system used in the United States. The Governor asked him to write an explanation on this topic.  
+He also asked Sierra for facts about unemployment among 4th year graduates, because he had the impression that these young people had the least opportunities for work, and for that reason, they emigrate.  
+3. Sterilization  
+The Governor asked Moscoso about the allegation of Ferré that some of the industries of Cayey refused to employ women that were not sterilized. Moscoso informed him that the Industrial Association has proposed to respond to Ferré in the newspapers.  
+Independently of what the Industrial Association does, the Governor asked Cancio for a report on sterilization laws, and Salud for a report on the practice and regulation on this issue. Salud should also report on ways to gain information on.

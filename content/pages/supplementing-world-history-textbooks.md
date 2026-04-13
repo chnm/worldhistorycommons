@@ -1,0 +1,6 @@
+---
+title: "Supplementing World History Textbooks"
+url: /supplementing-world-history-textbooks
+---
+
+One of the things that I like to do when I'm using either OER textbooks, or even publisher textbooks, is look to World History Commons and find different primary sources and perhaps even an entire lesson that I can either reuse or revise and integrate that into the classroom. Because a lot of times when we are looking at open educational resources or even publisher materials they may not have the the rich primary sources that we as history educators are looking to use. We want to get our students excited about digging into archives or looking at some of those those primary sources and World History Commons really has just a lot of different opportunities for instructors to do that. One example that I have used in western civilization and early world history classes is looking at girls in early Greece. And so in World History Commons there are some actual images of Greek adolescence at play and a Greek girl athlete so you can actually compare and contrast girlhood and adolescence in Athens versus Sparta. And so using those resources I've come up with prompts so that students look at the images and answer a series of questions so that they're actually you know without having to go into a museum they're able to analyze these primary sources

@@ -1,0 +1,83 @@
+---
+title: "Miscellaneous Jokes: GDR Jokes C"
+doc_type: source
+drupal_node_id: 1859
+source_type: "Text"
+url: /miscellaneous-jokes-gdr-jokes-c-0
+image: /images/Icons-Document_567.jpg
+regions: 
+  - "Europe"
+subjects: 
+  - "Culture"
+  - "Law"
+  - "Politics"
+  - "Popular Culture"
+  - "Social Structure"
+time_periods: 
+  - "Contemporary (1950 CE - Present)"
+source_citation: |
+  Anonymous,  *"Miscellaneous Jokes: GDR Jokes C"*
+credits: |
+  "Hannes DDR-Page," trans. Elizabeth Ten Dyke, http://ewh.hosting.padberg-it.de/ddr-page/index.php (accessed June 17, 2007) and So lachte man in der DDR, trans. Elizabeth Ten Dyke, (Munich: Eulenspiegel Verlag, 1999) and Elizabeth A. Ten Dyke, Dresden: Paradoxes of Memory (New York: Routledge, 2001).
+how_to_cite: |
+  "Miscellaneous Jokes: GDR Jokes C," in World History Commons, https://worldhistorycommons.org/miscellaneous-jokes-gdr-jokes-c-0 [accessed April 8, 2026]
+---
+
+George Orwell once wrote, "Every joke is a tiny revolution." In state-socialist societies that had (or have) totalitarian characteristics, individuals found clever ways to carve out areas of freedom for themselves. These may have been areas of social freedom (with family and close friends), physical freedom (at one's small garden cottage), or mental freedom (through humor). There were risks associated with telling and listening to jokes that ridiculed the party or politicians, or criticized the failures of state socialism. Thus, cautious individuals shared jokes only within small circles of trusted friends. The risk associated with jokes intensified the pleasure gained from hearing and sharing them. These jokes reference a variety of political, material, and social characteristics of GDR society. Necessary prerequisite knowledge precedes each joke.
+
+This source is a part of the [*Humor as Resistance*](https://worldhistorycommons.org/short-teaching-module-humor-resistance) teaching module.
+
+## Text
+
+1. Frage: Welche drei großen Staaten der Welt fangen mit U an?  
+Antwort: USA, UDSSR und Unsere DDR
+
+2. Frage: Warum ist das DDR - Klopapier so rauh?  
+Antwort: Damit auch das letzte A- - loch noch rot wird.
+
+3. Erich Honecker war beunruhigt, weil er jeden Tag immer weniger Menschen in Berlin sah. Er entsandte einen Mitarbeiter dies zu untersuchen. Der Mitarbeiter kam zurück und sagte: " Es ist ein Loch in der Mauer. Die Leute schlüpfen hindurch." Daraufhin sagte Honecker: " Das ist ja furchtbar. Wir müssen sie schleunigst reparieren." Der Mitarbeiter erwiderte" Aber es kommt noch viel schlimmer! Über dem Loch befindet sich eine Guillotine. Immer wenn jemand hindurchschlüpft, schlägt sie zu. Der Westen bekommt die Gehirne und wir bleiben auf den Arschlöchern sitzen."
+
+4. Ein DDR-Bürger geht spät in der Nacht durch Ostberlin und ruft lauten Halses immer wieder: "Scheißstaat, Scheißregierung!" Plötzlich taucht ein Stasi-Offizier auf und verhaftet ihn. Der Mann will den Grund dafür wissen, der von der Stasi erinnert ihn an seine lautstarken Äußerungen. Der Mann verteidigt sich und sagt: "Ich habe ja gar nicht gesagt, welchen Scheißstaat und welche Scheißregierung ich meine." Der Stasioffizier denkt kurz nach und läßt den Mann gehen. Dieser verschwindet, wird aber zwei Minuten später von dem Stasioffizier wieder eingeholt und erneut verhaftet. Darauf der Mann: "Wieso dieses?" Da sagt der Stasimensch: "Es gibt ja nur einen Scheißstaat und eine Scheißregierung...."
+
+5. Wann erreicht der Trabbi seine Höchstgeschwindigkeit? Wenn er abgeschleppt wird!  
+Wieviele Arbeiter braucht man, um einen Trabbi zu bauen? Zwei: Einer faltet, einer klebt!  
+Wie verdoppelt man den Wert des Trabbi? Einmal volltanken!
+
+6. Honecker will bei den Bürgern erkunden, wie beliebt er denn nun ist. Er besucht also eine Hochhaussiedlung und klingelt an einer Tür. Ein kleines Mädchen öffnet: "Wer bist Du denn, Onkel?" "Ich, meine Kleine, bin der Mann, der dafür sorgt, dass es Euch gut geht. Ich sorge für Essen und Wohnung...." "Mami, Mami, komm' mal ganz schnell, Onkel Peter aus München ist da!"
+
+7. Alle kennen die 7 Weltwunder, aber die 7 Wunder der DDR sind weniger bekannt:  
+Wunder 1: In der DDR gab es keine Arbeitslosigkeit!  
+Wunder 2: Obwohl keiner arbeitslos war, hat nur die Hälfte gearbeitet.  
+Wunder 3: Obwohl nur die Hälfte gearbeitet hat, wurde das Plan-Soll immer erfüllt.  
+Wunder 4: Obwohl das Plan-Soll immer erfüllt wurde, gab es nichts zu kaufen.  
+Wunder 5: Obwohl es nichts zu kaufen gab, waren alle glücklich und zufrieden.  
+Wunder 6: Obwohl alle zufrieden waren, gab es regelmäßig Demonstrationen.  
+Wunder 7: Obwohl regelmäßig demonstriert wurde, wurde immer mit 99,9% die alte Regierung wiedergewählt.
+
+8. Geschichtsunterricht. Der Lehrer fragt: "Warum lieben wir unsere sowjetischen Freunde?" Fritzchen antwortet: "Weil sie uns vom Hitlerfaschismus befreit haben." "Sehr gut. Und warum," fragt der Lehrer weiter, "hassen wir die Amerikaner?" Fritzchen: "Weil sie uns nicht befreit haben."
+
+9. Zeitungsmeldung im ND:  
+"Letzte Nacht frecher Einbruch im Innenministerium!"  
+Honecker ruft seinen Polizeichef an: "Wurde etwas Wichtiges gestohlen?"  
+"Nur die Wahlergebnisse für die nächsten 30 Jahre..."
+
+10. Ein Schlachthof in Dresden erfüllt seinen Plan nur zu fünfzig Prozent. Der Direktor meldet fünfundsechzig Prozent an die SED-Kreisleitung. Der Kreisleitungssekretär erhöht auf fünfundsiebzig Prozent. Die SED-Bezirksleitung telegrafiert gewohnheitsgemäss 99.8 Prozent nach Berlin weiter. Im Wirtschaftsministerium wird die Bilanz auf hundert Prozent gegrundet. Im Zentralkomitee entscheidet man: "Die Hälfte wird exportiert, der Rest bleibt für den Binnenhandel."
+
+11. Frage: Warum sollte in jedem Gemüsegeschäft ein Polizist stehen? Antwort: Damit wenigstens etwas Grünes im Laden ist.
+
+12. Ein DDR-Inlandsflug wird nach Köln-Bonn entführt. Das Flugzeug steht von der GSG 9 bewacht auf dem Rollfeld. Das ZK berät seit zwei Stunden, wie verfahren werden soll. Einer schlägt endlich vor, den Kidnapper zu fragen, welche Forderungen er stellt.
+
+Der Kidnapper, ein Familienvater von zwei Kindern stellt drei Forderungen:  
+1.Er möchte endlich seinen Trabant ausgeliefert haben, für den er schon 14 Jahre angemeldet ist.  
+2.Er möchte eine Drei-Zimmer-Wohnung für seine Familie.  
+3.Er möchte dieses Jahr einen Ferienplatz an der Ostsee.
+
+Der Unterhändler teilt dem ZK die Wünsche mit. Man berät wieder mehrere Stunden, ob man den Forderungen nachgeben soll. Mielke warnt, dass das Schule machen könnte, also besser nicht nachgeben. Irgendjemand meint, man solle zunächst noch in Erfahrung bringen, womit der Kidnapper droht, wenn man nicht auf seine Forderungen eingeht.
+
+Der Unterhändler wird wieder zum Flughafen Köln-Bonn geschickt. Die Antwort des Kidnappers lautet: "Dann lasse ich stündlich zwei Geiseln frei..."
+
+13. Ein altes Mütterchen in Ostberlin steht vor einem riesigen Stalin-Plakat. "Wer ist das?" fragt es einen Passanten. "Das ist unser Befreier!" "Sehr gut, ob der uns wohl auch von den Russen befreien kann?
+
+14. Beim Bau der Erdgasstraße finden Mitja und Peter einen klumpen Gold. "Das melden wir gar nichts," sagt Mitja, "den Erlös teilen wir uns brüderlich." Peter überlegt kurz und meint: "Weist du, lieber nicht brüderlich, lieber Halbe-Halbe!"
+
+15. Ein Amerikaner und ein Russe unterhalten sich. Der Amerikaner gibt an: "Die Einkäufe macht meine Frau mit dem Ford, in die Oper fahren wir mit dem Cadillac, und wenn wir unsere Freund besuchen, nehmen wir das Flugzeug." Daraufhin der Russe: "Die Einkäufe macht meine Frau zu Fuß, in die Oper fahren wir mit dem Traktor, und unsere Freunde besuchen wir mit dem Panzer!"

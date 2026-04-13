@@ -1,0 +1,44 @@
+---
+title: "Excerpt from Travels in Africa"
+doc_type: source
+drupal_node_id: 2531
+source_type: "Text"
+url: /excerpt-travels-africa
+image: /images/View_Document_Image_15.jpeg
+regions: 
+  - "Africa"
+  - "Comparative"
+  - "Europe"
+subjects: 
+  - "Imperial/ Colonial"
+  - "Travel"
+  - "Women"
+time_periods: 
+  - "Modern (1800 CE - 1950 CE)"
+source_citation: "Mary Henrietta Kingsley, Travels in Africa, 1897"
+credits: "Mary Henrietta Kingsley, *Travels in Africa*, 1897"
+how_to_cite: |
+  "Excerpt from Travels in Africa," in World History Commons, https://worldhistorycommons.org/excerpt-travels-africa [accessed April 8, 2026]
+---
+
+Imperialism is one of the most pertinent topics in relation to travel and exploration. By the end of the 19th century, the spread of European imperialism had made many areas of the world “safe” for women travelers. As a result the volume of women’s writing increased significantly, so there is a wide range of texts to choose from. One such example is Mary Kingsley, who traveled to West Africa in 1893 and 1895, and to compare it to male versions of earlier African exploration, such as the works of H.M. Stanley or J. H. Speke.The masculine tradition of travel writing was considered to reflect public and professional concerns, whereas the feminine tradition was considered to fall into the private and personal sphere. Mary Kingsley’s work belies this stereotype. She allied herself with the masculine tradition of producing scientific research, yet she was well aware of social expectations.
+
+Kingsley’s negative attitude toward British colonization and sympathy for the peoples of West Africa are amply demonstrated. This highlights the approach of many 19th-century travelers who were not opposed to imperialism or colonization, but were critical of the abuses engendered by the system. In this excerpt Kingsley describes an encounter with a herd of elephants. Students can be guided to note her attention to detail and what might be called the *female gaze*. How does the passage demonstrate a particularly female gaze, as opposed to a male gaze? This source is a part of the [*Women's Travel Writing*](https://worldhistorycommons.org/short-teaching-module-womens-travel-writing) teaching module.
+
+## Text
+
+I will not bore you with my diary in detail regarding our land journey, because the water-washed little volume attributive to this period is mainly full of reports of law cases, for reasons hereinafter to be stated; and at night, when passing through this bit of country, I was usually too tired to do anything more than make an entry such as: "5 S., 4 R. A., N.E Ebony. T. 1-50, etc., etc." - entries that require amplification to explain their significance, and I will proceed to explain.
+
+Our first day's march was a very long one. Path in the ordinary acceptance of the term there was none. Hour after hour, mile after mile, we passed on, in the under-gloom of the great forest. The pace made by the Fans, who are infinitely the most rapid Africans I have ever come across, severely tired the Ajumba, who are canoe men, and who had been as fresh as paint, after their exceedingly long day's paddling from Arevooma to M'fetta. Ngouta, the Igalwa interpreter, felt pumped, and said as much, very early in the day. I regretted very much having brought him; for, from a mixture of nervous exhaustion arising from our M'fetta experiences, and a touch of chill he had almost entirely lost his voice, and I feared would fall sick. The Fans were evidently quite at home in the forest, and strode on over fallen trees and rocks with an easy, graceful stride. What saved us weaklings was the Fans' appetites; every two hours they sat down, and had a snack of a pound or so of meat and aguma apiece, followed by a pipe of tobacco. We used to come up with them at these halts. Ngouta and the Ajumba used to sit down, and rest with them, and I also, for a few minutes, for a rest and chat, and then I would go on alone, thus getting a good start. I got a good start, in the other meaning of the word, on the afternoon of the first day when descending into a ravine.
+
+Article continues after sponsor message
+
+I saw in the bottom, wading and rolling in the mud, a herd of five elephants. I remembered, hastily, that your one chance when charged by several elephants is to dodge them round trees, working down wind all the time, until they lose smell and sight of you, then to lie quiet for a time, and go home. It was evident from the utter unconcern of these monsters that I was down wind now, so I had only to attend to dodging, and I promptly dodged round a tree, and lay down. Seeing they still displayed no emotion on my account, and fascinated by the novelty of the scene, I crept forward from one tree to another, until I was close enough to have hit the nearest one with a stone, and spats of mud, which they sent flying with their stamping and wallowing came flap, flap among the bushes covering me.
+
+One big fellow had a nice pair of 40 lb. or so tusks on him, singularly straight, and another had one big curved tusk and one broken one. Some of them lay right down like pigs in the deeper part of the swamp, some drew up trunkfuls of water and syringed themselves and each other, and every one of them indulged in a good rub against a tree. Presently when they had had enough of it they all strolled off up wind, through the bush in Indian file, now and then breaking off a branch, but leaving singularly little dead water for their tonnage and breadth of beam. When they had gone I rose up, turned round to find the men, and trod on Kiva's back then and there, full and fair, and fell sideways down the steep hillside until I fetched up among some roots.
+
+It seems Kiva had come on, after his meal, before the others, and seeing the elephants, and being a born hunter, had crawled like me down to look at them. He had not expected to find me there, he said. I do not believe he gave a thought of any sort to me in the presence of these fascinating creatures, and so he got himself trodden on. I suggested to him we should pile the baggage, and go and have an elephant hunt. He shook his head reluctantly, saying "Kor, kor," like a depressed rook, and explained we were not strong enough; there were only three Fans - the Ajumba, and Ngouta did not count - and moreover that we had not brought sufficient ammunition owing to the baggage having to be carried, and the ammunition that we had must be saved for other game than elephant, for we might meet war before we met the Rembwé River.
+
+We had by now joined the rest of the party, and were all soon squattering about on our own account in the elephant bath. It was shocking bad going - like a ploughed field exaggerated by a terrific nightmare. It pretty nearly pulled all the legs off me, and to this hour I cannot tell you if it is best to put your foot into a footmark - a young pond, I mean - about the size of the bottom of a Madeira work arm-chair, or whether you should poise yourself on the rim of the same, and stride forward to its other bank boldly and hopefully. The footmarks and the places where the elephants had been rolling were by now filled with water, and the mud underneath was in places hard and slippery. In spite of my determination to preserve an awesome and unmoved calm while among these dangerous savages, I had to give way and laugh explosively; to see the portly, powerful Pagan suddenly convert himself into a quadruped, while Gray Shirt poised himself on one heel and waved his other leg in the air to advertise to the assembled nations that he was about to sit down, was irresistible. No one made such palaver about taking a seat as Gray Shirt; I did it repeatedly without any fuss to speak of. That lordly elephant-hunter, the Great Wiki, would, I fancy, have strode over safely and with dignity, but the man who was in front of him spun round on his own axis and flung his arms round the Fan, and they went to earth together; the heavy load on Wiki's back drove them into the mud like a pile-driver. However we got through in time, and after I had got up the other side of the ravine I saw the Fan let the Ajumba go on, and were busy searching themselves for something.
+
+I followed the Ajumba, and before I joined them felt a fearful pricking irritation. Investigation of the affected part showed a tick of terrific size with its head embedded in the flesh; pursuing this interesting subject, I found three more, and had awfully hard work to get them off and painful too for they give one not only a feeling of irritation at their holding-on place, but a streak of rheumatic-feeling pain up from it. On completing operations I went on and came upon the Ajumba in a state more approved of by Praxiteles than by the general public nowadays. They had found out about elephant ticks, so I went on and got an excellent start for the next stage.

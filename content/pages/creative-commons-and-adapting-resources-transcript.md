@@ -1,0 +1,6 @@
+---
+title: "Creative Commons and Adapting Resources Transcript"
+url: /creative-commons-and-adapting-resources-transcript
+---
+
+So as you explore World History Commons, you'll find that it provides a wealth of teaching support services and primary sources. It is not an all-inclusive source and so you are, there are times when you will run up against, it doesn't have what you want. Sometimes you'll need to be more creative in finding the sources that you want and sometimes you'll just need to use it as a springboard. That is to say you'll be able to take other great teaching ideas and use them with sources that are outside of World History Commons. The beauty of World History Commons is it has a copyright that allows you to mix and match and so I'd encourage you to learn a little bit about Creative Commons. There is a Creative Commons license that's associated with World History Commons and so if you find something, anything in World History Commons, it's really nice because you don't have to worry about it being proprietary. You can use what you need from them and know that you are, you're not, you are in the in the clear when it comes to copyright and that is a, that's another clear benefit of using World History Commons in the, in the OER world that we live in today.

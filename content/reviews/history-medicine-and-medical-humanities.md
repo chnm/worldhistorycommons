@@ -1,0 +1,41 @@
+---
+title: "History of Medicine and Medical Humanities"
+doc_type: review
+drupal_node_id: 2548
+url: /history-medicine-and-medical-humanities
+image: /images/Screenshot_2021-06-04_History_of_Medicine_Medical_Humanities_1_.png
+website_authors: "McMaster University"
+reviewer: "Reviewed by Joanna Lee, Monash University"
+reviewed_url: "https://medhumanities.mcmaster.ca/"
+pull_quote: "“...the Portal team are doing an excellent job of making the site a one-stop resource for everyone interested in the medical humanities”"
+how_to_cite: |
+  "History of Medicine and Medical Humanities," in in World History Commons, https://worldhistorycommons.org/history-medicine-and-medical-humanities [accessed April 8, 2026]
+regions: 
+  - "Global"
+subjects: 
+  - "Health/ Disease"
+time_periods: 
+  - "Early Modern (1450 CE - 1800 CE)"
+  - "Modern (1800 CE - 1950 CE)"
+  - "Contemporary (1950 CE - Present)"
+---
+
+As noted succinctly in its About page, The History of Medicine and Medical Humanities Research Web Portal intends to "gather resources in medical humanities...for learning, exploration, and research." In going about this task, the Portal's team has collected and curated a truly impressive number of themed links that pertain to the medical humanities - this being an interdisciplinary field that sees "healthcare education and clinical practice" come into conversation with the arts, humanities, and social sciences.
+
+Upon arriving at the Portal's landing page, it's recommended that visitors first explore the [How to Use this Website](https://medhumanities.mcmaster.ca/index/how-to-use-this-website) tab on the far left as the initial amount of content that's being presented can be somewhat overwhelming. Briefly, however, the Portal can be divided into 5 major areas: Library collections, digital collections, funding/conferences, McMaster University events/programs, and learning modules.
+
+To begin with, we have the [McMaster Library Collections](https://medhumanities.mcmaster.ca/index/mcmaster-library-collections), which provides exactly what it notes on the tin. Links and brief overviews of specific collections aside, visitors can also access resource guides and thematic bibliographies. Importantly, the contact details of librarians with knowledge/expertise specific areas are also available - this being particularly helpful for those seeking to have a more in-depth conversation about the issues they're researching. For collections outside of the McMaster Library ecosystem, visitors can view the [Libraries, Archives, and Museum Collections in the History of Medicine](https://medhumanities.mcmaster.ca/index/libraries-archives-museums) tab. Here, the Portal team has put together an extensive list of sites, both physical and digital, that house material related to the history of medicine. The links for digital collections are particularly well-organised as they have been arranged thematically and also come with short blurbs that explain that particular archive's focus.
+
+Library collections aside, the Portal also offers curated lists of [Digital Exhibits](https://medhumanities.mcmaster.ca/index/history-of-medicine-digital-exhibits) and [Blogs](https://medhumanities.mcmaster.ca/index/medical-humanities-medical-history-blogs). Functioning very much in the same vein as the Library section, these links have been collected into thematic lists and often feature a few, short informative lines about their content. This is truly an excellent resource to have on hand, as the curated nature of these links mean that many (if not most) of them have been vetted by experts in the field. The list of blogs, especially, is an impressive feat, as the often personal and non-affiliated nature of these sites can make them quite hard to find.
+
+Adjacent to these sections is the Graphic Medicine and Art Sites tab, which links out an external site – this being [Graphic Medicine](http://www.graphicmedicine.org/), “a site that explores the interaction between the medium of comics and the discourse of healthcare”. While this is an excellent resource, it’s nevertheless somewhat jarring to suddenly be taken to another site. Considering that the tab notes and Art Sites, it appears that the team might be planning to include other websites in the near future. In this instance, a brief landing page describing the content/usage of these sites would have been useful to have. Alternatively, Graphic Medicine could have been incorporated into the list of Blogs, though given its sheer amount of content, it’s understandable that the Portal team might have wanted to highlight it.
+
+In contrast to the above, visitors who would like to seek funding for their medical humanities project can visit the [Research Grants](https://medhumanities.mcmaster.ca/index/research-grants) tab. Here, the Portal team have identified an impressive number of grants that both McMaster and non-McMaster students/academics can apply for, with each grant opportunity being accompanied by a short, informative write-up about it. Another useful tab to have open alongside this one is the [Conferences tab](https://medhumanities.mcmaster.ca/index/conferences), which lists a number of upcoming or annual conferences that researchers might want to participate in.
+
+Given that the initiative led by McMaster University, visitors will also find that there are quite a number of university-related resources on the Portal. These include but are not limited to: [upcoming events](https://medhumanities.mcmaster.ca/index/upcoming-events) (which could do with some updating), a list of [university programs related to medical humanities](https://medhumanities.mcmaster.ca/index/mcmaster-university-programs-related-to-the-medical-humanities), and information about the [Hannah Chair in the History of Medicine.](https://socialsciences.mcmaster.ca/people/amster-ellen)
+
+Being a work in progress, the Portal has a number of areas that are still under construction: namely, [Indigenous Health](https://medhumanities.mcmaster.ca/index/indigenous-health) and the six learning modules. While these sections have yet to be populated with useable content, each of the themes are more than intriguing and it will be interesting to see how the Portal team decide to go about creating/curating content for each. At present, the lack of content in the learning modules is a bit of a pity as it would have been useful for teachers to have pre-curated teaching/learning modules to draw on. Nevertheless, as the Portal currently stands, there is still more than enough content to incorporate into lessons. Teachers conducting digital humanities lessons, for instance, can consider asking students to examine a number of blogs from the lists available and determine how information has been presented in each. Alternatively, any of the numerous digital exhibits can be used to supplement pre-existing modules on specific geographic areas or even themes such as migration, war, or religion.
+
+Usage-wise, the site is fairly straightforward to navigate – though it must be pointed out that the landing page can feel a bit cluttered and confusing. The grouping of the tabs into three general columns could perhaps be reworked to have university-specific information in one section, learning modules in another, and other academic resources in the third. Currently, it’s only through reading the How to Use This Website page that visitors can gain a coherent overview of the site. Another very minor comment is that while the Portal uses some truly wonderful artwork and photos as banners for each page, there isn’t much indication of where these images are from. Given that the Portal is billing itself as a site for gathering resources, it would have been a nice touch for a short description and citation for each image to appear at the bottom of each page. Going on step further, the Portal team could also invite viewers to view similar images via specific collections or exhibits.
+
+Overall however, these are minor aesthetic quibbles and the Portal team are doing an excellent job of making the site a one-stop resource for everyone interested in the medical humanities. The idea is a novel, useful one, and it would be great to see other sub-areas try to emulate it if possible.

@@ -1,0 +1,87 @@
+---
+title: "Gender and Health in Latin America: Interview, Reproductive Rights (Brazil)"
+doc_type: source
+drupal_node_id: 1673
+source_type: "Text"
+url: /gender-and-health-latin-america-interview-reproductive-rights-brazil
+image: /images/Icons-Document_424.jpg
+regions: 
+  - "South America"
+subjects: 
+  - "Health/ Disease"
+  - "Population"
+  - "Women"
+time_periods: 
+  - "Contemporary (1950 CE - Present)"
+source_citation: |
+  Maria Amélia Teles, "*A feminist perspective on power and population control*," 1990, Children and Youth in History.
+credits: "Teles, Maria A.. “A feminist perspective on power and population control.” In Compañeras: Voices from the Latin American Women’s Movement. Edited by Gaby Keippers. Latin America Bureau; London, 1992."
+how_to_cite: |
+  "Gender and Health in Latin America: Interview, Reproductive Rights (Brazil)," in World History Commons, https://worldhistorycommons.org/gender-and-health-latin-america-interview-reproductive-rights-brazil [accessed April 8, 2026]
+---
+
+In the 1950s, when the first contraceptive pills were tested in Puerto Rico, politicians, health administrators, and Church officials worldwide began to discuss human reproduction in new ways. The understanding that pregnancy could be prevented by “scientific” means stimulated debates on the regulation and control of human reproduction. After World War II, Neo-Malthusian views and the fear of overpopulation entered the popular imagination and shaped policymaking. Population bombs were expected to explode, especially in the developing regions of the world. “Excess populations,” along the lines of this view, would potentially cause social unrest and revolutions, in which tidal waves of poor people would rise against authorities and threaten political and economic stability. Population control was clearly on the mind of policy makers and health care officials alike. Issues of gender equity and women’s bodily integrity played only secondary roles in most approaches to fertility regulation and family planning.
+
+In this source, an interview with human rights activist Maria Amélia Teles, the interviewee criticizes approaches to population control that exclude women’s rights and hopes to see reproductive rights take center stage. Teles is part of Brazil’s new women’s movement, which emerged between 1964 and 1985, during the period of military rule. She addresses some of the crucial obstacles that have prevented Brazilian women from living healthy and peaceful lives. Government policies, she asserts, have failed to protect women from becoming victims of violence and human rights abuses.
+
+This source is a part of the [*Gender and Health in Latin America, 1980-2010*](https://worldhistorycommons.org/long-teaching-module-gender-and-health-latin-america-1980-2010) teaching module.
+
+## Text
+
+Maria Amélia Teles (Brazil)  
+A feminist perspective on power and population control  
+At the Fifth Latin American and Caribbean Feminist Meeting in November 1990 in Argentina the Brazilians formed the largest group, with 700 participants. What kind of conclusions did you take home with you from this meeting?
+
+First of all we realised at the meeting how little cohesion there is among us all. The best example of that was perhaps the opening ceremony in which each country’s delegation did a joint presentation - except the Brazilians. The individual social movements and the women’s movement have very little contact with each other in Brazil. Can you imagine? It was only when I saw all the indigenous women meeting in Argentina that it occurred to me that we have indigenous roots in Brazil too. But we only ever think of the European and black elements.
+
+Is this lack of cohesion you speak of a reflection of problems or conflicts in the feminist movement or do you manage to work alongside each other quite happily
+
+No, we have a lot of problems. Just look at the situation in São Paulo. Ten years ago we founded the Women’s Alliance. There were all kinds of women’s groups in it; political parties, trade unions, independent groups etc. In 1990 we started having arguments over autonomy and our relationship to various institutions and the Alliance broke up over it. I think we should come together again and discuss this issue further. I’m optimistic that will happen.
+
+Some of us really wanted to keep a space open for debate, so we created a Feminist Forum for Reproductive Rights. This Forum will take part in the big environmental conference. We have contact with other very similar groups in other places like Pernambuco, Rio, Minas Gerais etc. But of course the Forum isn’t supposed to replace the Women’s Alliance which was much broader in scope.
+
+The other project we’re trying to collaborate on is a magazine which first came out in 1991 and which is supported by six women’s groups: União de Mulheres, Colectivo Feminista de Sexualidade e Saude, the women’s centres in three districts of the city and the Centro de Informacão da Mulher. The magazine is called Enfoque Feminista (Feminist Outlook). I’m telling you all this to show you just how difficult it is to work together. But, in my opinion, it’s necessary.
+
+You yourself work in the women’s movement as a feminist but you also work outside it, in a project run by São Paolo’s municipal government. How do you reconcile these two different political activities?
+
+I’ve always been active in lots of different areas so I don’t have any problems with it. I work for my living and my work has very little to do with the fact I’m a feminist. I’ve been working in the municipal government of São Paulo for eleven years. Of course these days I’m not just any old employee in the municipal bureaucracy because after the victory of the PT candidate, Luisa Erundina, in the city council elections, I became her political assistant. I see her victory as a very, very big victory for women in São Paulo. In the election campaign women created a women’s committee to support her candidature. At that time no one wanted to back her. Even the leaders of the PT didn’t want to support her. Her support came from women, especially grassroots women. The preferred party candidate was a man, but the PT grassroots spoke out against him.
+
+After her candidature was confirmed the party withdrew completely and didn’t canvass for her at all. Instead we women took to the streets and organised an election campaign for her. And why did we want her? Because she’s a woman, a woman who has always struggled. She doesn’t remotely resemble the cliché of a Brazilian woman who must always be young and beautiful, and a mother as well - a superwoman, in fact. Luisa is no superwoman. She’s not a mother, she’s never married and doesn’t intend to. She’s 56 years old and she’s not beautiful in the traditional sense. But she’s incredibly nice. She’s simply exceptional. She comes from the northeast, the Brazilian poorhouse. There are many prejudices here against people from the northeast. In other words, she was the anti-candidate. Everything was against her. But we women supported her unconditionally. For me it was the first time I’d completely identified with an election campaign and enjoyed it. My decision to work directly with Luisa Erundina was the result of all that.
+
+After her election, I was asked if I wanted to work on a newly created women’s commission which was to set up a women’s programme. The work was completely different from what I’d imagined. Factional politics made some of the women gang up on the women from the autonomous women’s movement. That was unacceptable to me, so I spoke out against the commission, even though I’d thought at first I could contribute in the way Luisa Erundina would have done. But most things were run on the basis of party in-fighting without any participation from the grassroots. Maybe I made a mistake and should’ve fought for the inclusion of the women from the autonomous women’s movement. But I decided to withdraw and hoped I might be able to help Luisa Erundina in another way.
+
+What kind of work did you do then?
+
+First I worked with so-called minority groups, with the handicapped, with blacks. Then when a secret mass grave with more than 1,000 bodies was found in Perus (a suburb of São Paulo), the municipal government decided to investigate every detail of the case, to exhume the murdered political prisoners, identify them and prosecute the murderers. Then, of course, the bodies had to be taken back to their families so that they could he properly buried again. I did this work on behalf of a commission of inquiry into the Perus case and other mass graves.
+
+We live in a country where impunity for murderers in state and quasi-state institutions still exists. For the first time in the history of the Brazilian government, one of its members - Luisa Erundina - spoke out against this impunity. That was a political expression of our identity. I value Luisa Erudina’s action very highly. Perhaps she moves me because she’s a woman, a woman from the northeast, discriminated against, and not supported by the PT. And it wasn’t an easy job she took on because it meant accusing the military. That’s a risky business and takes a lot of courage. I’m not sure whether a man would’ve done that.
+
+What does it mean for the women of São Paulo to have a woman at the head of the municipal government?
+
+Well, the current government has a woman’s face. In some ways that’s a big deal but it’s still regarded as a kind of oddity as far as the press is concerned, and the population expects a lot from it. You see, the municipal government doesn’t really support women, even though thousands of women live in this city and there’s a feminist movement here.
+
+How could that be achieved?
+
+I think there were at least two basic problems which prevented that from happening. Firstly, there was a lack of political will, not from Luisa Erudina herself, but in the municipal government as a whole and also from the other women in it. Secondly the PT, consciously or un-consciously, demobilised the popular movement. The vast majority of women belong to the popular movement and after the PT entered the government these women invested more in the party than in the movement. The municipal government isn’t offering any easy solutions to São Paulo’s problems now. It wouldn’t even have the necessary financial or political means. What they should’ve done is mobilise the people around existing problems to exert pressure. That was my great hope. The people who can be mobilised at the drop of a hat in São Paulo are the women; the men tag on behind. But this didn’t happen and in my opinion that’s a big failure.
+
+I’d like to move onto another subject. In June, 1992, the big UN Conference for the Environment and Development (UNCED) will take place in Brazil. Will you take part in any way?
+
+No, this conference is an official affair from start to finish. Neither the social movements nor the population as a whole are invited to participate in any way. We’re organising a parallel conference with other social movements and as women we have two specific interests in it: one concerns urbanisation, the other population control. We’re rejecting the official version and initiative as regards population control policies for reasons which I’ll explain: allegedly the earth and her natural resources can’t support a population increase. Women are tired of having babies so the rise in population must be controlled. We don’t agree with this argument. Firstly, the world is wracked by an extremely unjust distribution of resources. We believe that in future everyone should share resources. Secondly, women should be able to decide for themselves whether they want to have children.
+
+Over the last few years there’s been such a massive sterilisation programme in Brazil that many women don’t have this option anymore at all. Officially 25 million women have been sterilised, many of them between 15 and 19 years old. That represents a kind of preventative genocide. It really bothers us Brazilian women because it seems to us that there are many feminists in the so-called First World who support the view I’ve just described. They start from the principle that the earth has no more natural resources, that women don’t want to have children anymore and that institutionalised birth control is the solution. But it’s women who’ve borne the brunt of this birth control without any regard for their right to self-determination. What’s more, Brazilian women have just been guinea pigs for laboratories and pharmaceutical companies developing programmes in the First World. So we know from our own experience what’s behind these population control policies. It’s so drastic here that in fifteen years time it’s been calculated there’ll be two old people for every young person. I’m sure you’re aware of the official image of Brazil as a country of young, laughing people. That image just doesn’t wash anymore. Until the mid-eighties half the Brazilian population was under 18. But now, in the space of a few years, the age pyramid has gone into reverse.
+
+I also think it’s crazy to carry on demanding population control policies because they’ve been around for a long time. In the last few years they’ve even had a feminist gloss with lots of PR stuff about providing integrated healthcare for women. All lies! In reality massive sterilisation has been carried out in clinics financed by the First World where there’s no regard for the wishes of the women concerned, despite their claims. They also carried out experiments with hormones and dangerous drugs such as Norplant. None of this reduced poverty which was the main selling-point of the population control policies, nor did it improve the quality of life or make public services more accessible or create better working conditions. In other words: birth control hasn’t solved Brazil’s problems. That’s what we want to discuss at the parallel conference.
+
+There are a lot of right-wing ideas around in the ecology movement. Women are held directly responsible for the ecological imbalance because they have children. This argument ignores the facts. It’s not the poor who cause environmental pollution. I can see with my own eyes in my country who is polluting the environment; it’s the multinationals. They destroy Amazonia, they destroy Minas Gerais. Whole mountains are excavated to mine ore.
+
+The other issue we want to discuss at the parallel conference is urbanisation. The multinationals in Brazil today are treated like gods. For us they signify danger on the streets, fear, air pollution, and a lack of transport and infrastructure as a whole. It’s always the women who have to pay first. They don’t just have a double burden, they have a triple or quadruple burden to bear.
+
+Another aspect of this is land reform which doesn’t exist and poses a very serious problem for Brazil. Any solution to the problem has to begin with redistribution of the land. People are moving to the big cities because they’re driven from the land. Their traditional culture is being exposed to very big changes and people find themselves in a situation once again where violence is an everyday occurrence. The number of rapes is on the increase.
+
+So we women want to go to the conference to discuss two main issues, urbanisation and population control policies. We’ve already had preparatory meetings to draw up our own agenda for publication. It’s clear to us that we represent a minority among the participating groups and that the feminist perspective isn’t even on the agenda for most people.
+
+Is the position of the official conference as regards population control policies something qualitatively new, in your opinion, or do you see historical continuity
+
+Yes, I do see historical continuity. The Brazil you see today ultimately came about because white men conquered the area and assaulted the indigenous women. So the first Brazilian women were the product of rape, that’s well known. Then the Portugese brought in black slaves for cheap labour. The white men didn’t behave any differently towards the black women than they had done towards the Indian women. The conquerors’ policy was to populate the territory. The Portugese wanted to rule by populating the land. And what did populating mean for them? First of all they murdered the people who were already living in the country. But the new mestizas were not the population they wanted. There are letters written by sailors at the time who said that if it went on like this, Brazil would gradually become Africanised. So white women were brought over, irrespective of social background. In other words, a policy of population control was practised on all women, whether Indian, black or white, a policy of population control which served the colonisers, the elite, the imperialists right from the start, from 1500 right up to the present day. And they’re as racist today as they were in those days. During the dictatorship a study came out which warned of the ’danger’ of a black governor rising to office in 1990.
+
+Birth control in Brazil can be legitimised by ’dangers’ like these. Women’s sexuality was always a function of men and the Catholic church plays an extremely negative role in this. There was never any sexual freedom for women, never any right to desire, never any right to decide freely whether they wanted to have children or not. So the right to choose is our motto and a great dream of ours.

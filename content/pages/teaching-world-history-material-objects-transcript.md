@@ -1,0 +1,6 @@
+---
+title: "Teaching World History with Material Objects Transcript"
+url: /teaching-world-history-material-objects-transcript
+---
+
+“Material objects” can be any item with physical substance. They are primarily shaped or produced by human action, though objects created by nature can also play an important role in the history of human societies.  For example, a coin is the product of human action. An animal horn is not, but it takes on meaning for humans if used as a drinking cup or a decorative or ritual object. To analyze material evidence is to write an object's biography. Each object has a story to tell, a story shaped by human use. When historians analyze material objects, they begin by recording basic “facts,” starting with a verbal description and, if possible, photographs. The description might include measurements, material, and distinguishing features, such as ornamentation. This kind of information provides material for generalization about technology, economy, or social relations within a given society and how they changed over time. Starting from a basic description, historians look to fill in evidence with other kinds of sources. What time period did the object come from? How was it used? Who used it or who was associated with it? The many uses and meanings behind material objects make them valuable tools for exploring the past.
