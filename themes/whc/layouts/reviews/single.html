@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div class="content-well">
+  <div class="col--2-3">
+    <div>
+      <a href="{{ .Params.reviewed_url }}" class="content-header review-header">
+        <div class="content-header--label">Website Review</div>
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.website_authors }}
+        <div class="content-header--author">
+          <div>{{ . }}</div>
+        </div>
+        {{ end }}
+      </a>
+
+      <div class="review-well">
+        {{ .Content }}
+      </div>
+
+      <div class="content-details"></div>
+
+      {{ with .Params.reviewer }}
+      <div class="citation">
+        <div class="credit">
+          <div class="text">{{ . }}</div>
+          {{ with $.Params.reviewed_url }}
+          <div class="link"><strong>Url:</strong> <a href="{{ . }}">{{ . }}</a></div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      {{ partial "citation.html" $ }}
+
+      {{ partial "tags.html" . }}
+    </div>
+
+    <div class="pull-quote--sidebar">
+      {{ with .Params.image }}
+      <img src="{{ . }}" alt="">
+      {{ end }}
+      {{ with .Params.pull_quote }}
+      <div class="quote">{{ . }}</div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

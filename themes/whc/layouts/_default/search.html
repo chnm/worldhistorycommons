@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="content-header">
+  <h1 class="content-header--label">Search</h1>
+</div>
+<div class="content-well">
+  <div id="search"></div>
+</div>
+
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+(function() {
+  // Get query from URL params
+  var params = new URLSearchParams(window.location.search);
+  var query = params.get("q") || "";
+
+  var pf = new PagefindUI({
+    element: "#search",
+    showSubResults: false,
+    showImages: true,
+    resetStyles: false
+  });
+
+  if (query) {
+    pf.triggerSearch(query);
+  }
+})();
+</script>
+{{ end }}

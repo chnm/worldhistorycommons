@@ -1,0 +1,228 @@
+{{ define "main" }}
+<div class="views-element-container">
+  <div class="directory">
+    <div class="content-header">
+      <h1 class="content-header--label">{{ .Title }}</h1>
+      {{ with .Content }}<div class="content-header--text">{{ . }}</div>{{ end }}
+    </div>
+    <div class="content-well col-1-3">
+      <div>
+        <form class="views-exposed-form" id="filter-form" onsubmit="return false;">
+          <div class="form-item">
+            <label for="filter-region">Region</label>
+            <select id="filter-region" class="form-select">
+              <option value="">- Any -</option>
+            </select>
+          </div>
+          <div class="form-item">
+            <label for="filter-time">Time Period</label>
+            <select id="filter-time" class="form-select">
+              <option value="">- Any -</option>
+            </select>
+          </div>
+          <div class="form-item">
+            <label for="filter-subject">Subject</label>
+            <select id="filter-subject" class="form-select">
+              <option value="">- Any -</option>
+            </select>
+          </div>
+          <div class="form-item">
+            <label for="filter-type">Type</label>
+            <select id="filter-type" class="form-select">
+              <option value="">- Any -</option>
+              <option value="Audio">Audio</option>
+              <option value="Image">Image</option>
+              <option value="Object">Object</option>
+              <option value="Text">Text</option>
+              <option value="Video">Video</option>
+            </select>
+          </div>
+          <div class="form-actions">
+            <input type="submit" value="Apply" onclick="applyFilters()">
+            <input type="submit" value="Reset" onclick="resetFilters()">
+          </div>
+        </form>
+      </div>
+      <div class="vdh" id="content-list">
+        {{/* Hugo-rendered default listing */}}
+        {{ $sorted := sort .Pages "Params.drupal_node_id" "desc" }}
+        {{ $paginator := .Paginate $sorted }}
+        {{ range $paginator.Pages }}
+        <div class="views-row">
+          <div class="views-field views-field-field-image-thumbnail">
+            <div class="field-content">
+              {{ with .Params.image }}<img src="{{ . }}" alt="" loading="lazy">{{ end }}
+            </div>
+          </div>
+          <div class="views-field views-field-field-annotation">
+            <div class="field-content">
+              <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+              <p>{{ partial "first-sentence.html" . }}</p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <div id="hugo-pager">
+      {{ template "_internal/pagination.html" . }}
+    </div>
+    <nav class="pager" role="navigation" id="js-pager" style="display:none;">
+    </nav>
+  </div>
+</div>
+
+{{- $items := slice -}}
+{{- range .Pages -}}
+  {{- $item := dict
+    "title" .Title
+    "url" .RelPermalink
+    "image" (.Params.image | default "")
+    "summary" (partial "first-sentence.html" .)
+    "regions" (.Params.regions | default slice)
+    "subjects" (.Params.subjects | default slice)
+    "time_periods" (.Params.time_periods | default slice)
+    "source_type" (.Params.source_type | default "")
+    "nid" (.Params.drupal_node_id | default 0)
+  -}}
+  {{- $items = $items | append $item -}}
+{{- end -}}
+
+<script>
+var allItems = {{ $items | jsonify | safeJS }};
+allItems.sort(function(a, b) {
+  if (a.nid && b.nid) return b.nid - a.nid;
+  if (!a.nid && b.nid) return -1;
+  if (a.nid && !b.nid) return 1;
+  return 0;
+});
+
+var perPage = 20;
+var currentPage = 0;
+var filtered = null;
+var isFiltering = false;
+
+(function() {
+  var regions = {}, times = {}, subjects = {};
+  allItems.forEach(function(item) {
+    (item.regions || []).forEach(function(r) { regions[r] = true; });
+    (item.time_periods || []).forEach(function(t) { times[t] = true; });
+    (item.subjects || []).forEach(function(s) { subjects[s] = true; });
+  });
+
+  function populate(id, values) {
+    var sel = document.getElementById(id);
+    Object.keys(values).sort().forEach(function(v) {
+      var opt = document.createElement("option");
+      opt.value = v;
+      opt.textContent = v;
+      sel.appendChild(opt);
+    });
+  }
+
+  populate("filter-region", regions);
+  populate("filter-time", times);
+  populate("filter-subject", subjects);
+})();
+
+function applyFilters() {
+  var region = document.getElementById("filter-region").value;
+  var time = document.getElementById("filter-time").value;
+  var subject = document.getElementById("filter-subject").value;
+  var stype = document.getElementById("filter-type").value;
+
+  if (!region && !time && !subject && !stype) {
+    resetFilters();
+    return;
+  }
+
+  filtered = allItems.filter(function(item) {
+    if (region && (!item.regions || item.regions.indexOf(region) === -1)) return false;
+    if (time && (!item.time_periods || item.time_periods.indexOf(time) === -1)) return false;
+    if (subject && (!item.subjects || item.subjects.indexOf(subject) === -1)) return false;
+    if (stype && item.source_type !== stype) return false;
+    return true;
+  });
+
+  isFiltering = true;
+  currentPage = 0;
+  document.getElementById("hugo-pager").style.display = "none";
+  document.getElementById("js-pager").style.display = "";
+  renderPage();
+}
+
+function resetFilters() {
+  document.getElementById("filter-region").value = "";
+  document.getElementById("filter-time").value = "";
+  document.getElementById("filter-subject").value = "";
+  document.getElementById("filter-type").value = "";
+  isFiltering = false;
+  filtered = null;
+  window.location.href = window.location.pathname;
+}
+
+function renderPage() {
+  if (!isFiltering || !filtered) return;
+
+  var list = document.getElementById("content-list");
+  var start = currentPage * perPage;
+  var end = Math.min(start + perPage, filtered.length);
+  var html = "";
+
+  for (var i = start; i < end; i++) {
+    var item = filtered[i];
+    html += '<div class="views-row">';
+    html += '<div class="views-field views-field-field-image-thumbnail">' +
+      '<div class="field-content">' + (item.image ? '<img src="' + item.image + '" alt="" loading="lazy">' : '') + '</div></div>';
+    html += '<div class="views-field views-field-field-annotation"><div class="field-content">' +
+      '<h2><a href="' + item.url + '">' + item.title.replace(/</g, '&lt;') + '</a></h2>' +
+      '<p>' + item.summary.replace(/</g, '&lt;') + '</p>' +
+      '</div></div></div>';
+  }
+
+  list.innerHTML = html;
+  renderPager();
+}
+
+function renderPager() {
+  var totalPages = Math.ceil(filtered.length / perPage);
+  var nav = document.getElementById("js-pager");
+
+  if (totalPages <= 1) { nav.innerHTML = ""; return; }
+
+  var html = '<ul class="pager__items js-pager__items">';
+  if (currentPage > 0) {
+    html += '<li class="pager__item pager__item--previous"><a href="#" onclick="goPage(' + (currentPage - 1) + '); return false;"><span>previous</span></a></li>';
+  }
+  var startP = Math.max(0, currentPage - 3);
+  var endP = Math.min(totalPages, currentPage + 4);
+  if (startP > 0) {
+    html += '<li class="pager__item"><a href="#" onclick="goPage(0); return false;">1</a></li>';
+    if (startP > 1) html += '<li class="pager__item">\u2026</li>';
+  }
+  for (var p = startP; p < endP; p++) {
+    if (p === currentPage) {
+      html += '<li class="pager__item is-active"><a href="#" aria-current="page">' + (p + 1) + '</a></li>';
+    } else {
+      html += '<li class="pager__item"><a href="#" onclick="goPage(' + p + '); return false;">' + (p + 1) + '</a></li>';
+    }
+  }
+  if (endP < totalPages) {
+    if (endP < totalPages - 1) html += '<li class="pager__item">\u2026</li>';
+    html += '<li class="pager__item"><a href="#" onclick="goPage(' + (totalPages - 1) + '); return false;">' + totalPages + '</a></li>';
+  }
+  if (currentPage < totalPages - 1) {
+    html += '<li class="pager__item pager__item--next"><a href="#" onclick="goPage(' + (currentPage + 1) + '); return false;"><span>next</span></a></li>';
+  }
+  html += '</ul>';
+  nav.innerHTML = html;
+}
+
+function goPage(p) {
+  currentPage = p;
+  renderPage();
+  window.scrollTo(0, 0);
+}
+</script>
+{{ end }}

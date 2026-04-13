@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="views-element-container">
+  <div class="directory">
+    <div class="content-header">
+      <h1 class="content-header--label">{{ .Title }}</h1>
+    </div>
+    <div class="content-well">
+      <div class="vdh">
+        {{ $paginator := .Paginate .Pages }}
+        {{ range $paginator.Pages }}
+        <div class="views-row">
+          {{ with .Params.image }}
+          <div class="views-field views-field-field-image-thumbnail">
+            <div class="field-content">
+              <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+            </div>
+          </div>
+          {{ end }}
+          <div class="views-field views-field-field-annotation">
+            <div class="field-content">
+              <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+              <p>{{ .Summary }}</p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      {{ template "_internal/pagination.html" . }}
+    </div>
+  </div>
+</div>
+{{ end }}

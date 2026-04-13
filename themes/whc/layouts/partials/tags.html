@@ -1,0 +1,14 @@
+{{ if or .Params.regions .Params.subjects .Params.time_periods }}
+<div class="tags">
+  <h3>Tags</h3>
+  {{ range .Params.regions }}
+  <div><a href="{{ printf "/regions/%s/" (. | urlize) }}">{{ . }}</a></div>
+  {{ end }}
+  {{ range .Params.subjects }}
+  <div><a href="{{ printf "/subjects/%s/" (. | urlize) }}">{{ . }}</a></div>
+  {{ end }}
+  {{ range .Params.time_periods }}
+  <div><a href="{{ printf "/time_periods/%s/" (. | urlize) }}">{{ . }}</a></div>
+  {{ end }}
+</div>
+{{ end }}

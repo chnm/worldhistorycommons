@@ -1,0 +1,7 @@
+{{- $text := .Plain | replaceRE `\n+` " " | replaceRE `\s+` " " -}}
+{{- $first := index (findRE `^[^.!?]*[.!?]` $text) 0 -}}
+{{- if $first -}}
+  {{- $first -}}
+{{- else -}}
+  {{- $text | truncate 200 -}}
+{{- end -}}

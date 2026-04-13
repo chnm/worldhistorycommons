@@ -1,0 +1,57 @@
+{{ define "main" }}
+<div class="front-page">
+  <div class="featured-banner">
+    <div class="content-well">
+      <p>World History Commons is a digital resource for teachers, students, and anyone interested in exploring global history. Browse primary source documents, teaching modules, historical methods, and website reviews from across the world.</p>
+    </div>
+  </div>
+  <div class="content-well box-wrapper" id="featured-grid">
+  </div>
+</div>
+
+{{- $pages := where .Site.RegularPages "Params.image" "ne" nil -}}
+{{- $pool := slice -}}
+{{- range $pages -}}
+  {{- if not (findRE "Icons-|View_Document_Image|ViewDocumentImage|Text_Image" .Params.image) -}}
+    {{- $item := dict "title" (trim .Title "\n") "url" .RelPermalink "image" .Params.image -}}
+    {{- $pool = $pool | append $item -}}
+  {{- end -}}
+{{- end -}}
+
+<script>
+var pool = {{ $pool | jsonify | safeJS }};
+
+(function() {
+  // Fisher-Yates shuffle
+  for (var i = pool.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = pool[i];
+    pool[i] = pool[j];
+    pool[j] = tmp;
+  }
+
+  var grid = document.getElementById("featured-grid");
+  var count = Math.min(15, pool.length);
+
+  for (var k = 0; k < count; k++) {
+    var item = pool[k];
+    var row = document.createElement("div");
+    row.className = "views-row";
+    row.style.backgroundImage = "url(" + item.image + ")";
+
+    var link = document.createElement("a");
+    link.href = item.url;
+    link.className = "box-hover";
+
+    link.innerHTML =
+      '<div class="box-info">' +
+        '<div class="box-info--title">' + item.title.replace(/</g, '&lt;') + '</div>' +
+        '<span class="box-info--link">Learn More</span>' +
+      '</div>';
+
+    row.appendChild(link);
+    grid.appendChild(row);
+  }
+})();
+</script>
+{{ end }}

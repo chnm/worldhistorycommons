@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="/css/whc.css">
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+</head>
+<body{{ with .Params.doc_type }} class="node-{{ . }}"{{ end }}>
+  <div class="dialog-off-canvas-main-canvas">
+    <div class="layout-container">
+      {{ partial "header.html" . }}
+      <main role="main">
+        <div class="layout-content">
+          <div>
+            <div id="block-whc-content">
+              {{ block "main" . }}{{ end }}
+            </div>
+          </div>
+        </div>
+      </main>
+      {{ partial "footer.html" . }}
+    </div>
+  </div>
+<script>
+(function() {
+  var els = document.querySelectorAll(".cite-text");
+  if (!els.length) return;
+  var today = new Date();
+  var months = ["January","February","March","April","May","June",
+    "July","August","September","October","November","December"];
+  var dateStr = months[today.getMonth()] + " " + today.getDate() + ", " + today.getFullYear();
+  els.forEach(function(el) {
+    el.textContent = el.textContent.replace(/\[accessed [^\]]+\]/, "[accessed " + dateStr + "]");
+  });
+})();
+</script>
+</body>
+</html>
