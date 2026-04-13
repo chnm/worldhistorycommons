@@ -1,0 +1,8 @@
+public/
+.hugo_build.lock
+resources/_gen/
+drupal_urls.txt
+hugo_urls.txt
+missing_in_hugo.txt
+extra_in_hugo.txt
+.claude/

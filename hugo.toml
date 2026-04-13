@@ -1,0 +1,17 @@
+baseURL = 'https://worldhistorycommons.org/'
+languageCode = 'en-us'
+title = 'World History Commons'
+theme = 'whc'
+
+[pagination]
+  pagerSize = 20
+
+[taxonomies]
+  region = 'regions'
+  subject = 'subjects'
+  time_period = 'time_periods'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
