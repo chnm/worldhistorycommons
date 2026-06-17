@@ -9,7 +9,6 @@ on:
       - '**'
 
 jobs:
-
   hugo-build-release-deploy:
     uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
     secrets: inherit
