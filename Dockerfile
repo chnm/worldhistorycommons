@@ -12,15 +12,19 @@ ARG hugobuildargs
 ENV HUGO_BUILD_ARGS=$hugobuildargs
 
 WORKDIR /app
+
+# Install the pinned Pagefind toolchain first so this layer caches independently
+# of content changes. package-lock.json pins pagefind + its platform binary.
+COPY package.json package-lock.json ./
+RUN npm ci
+
 COPY . .
 
-RUN npm ci
 RUN hugo ${HUGO_BUILD_ARGS}
-# Build the pagefind search index. Restrict the walk to real item pages
-# (items/<id>/index.html — the single-segment glob skips the ~46k two-segment
-# /items/show/<id> alias redirect stubs that previously OOM-ed the indexer),
-# and the item template marks only its content with data-pagefind-body.
-RUN npx --no-install pagefind --site public --glob "items/*/index.html"
+# Build the Pagefind search index over the whole site. Content lives at the
+# site root (/{slug}) — there is no items/ subtree — so index everything Hugo
+# emitted under public/. --no-install uses the pagefind installed by `npm ci`.
+RUN npx --no-install pagefind --site public
 
 FROM stagex/user-caddy
 
@@ -36,10 +40,6 @@ COPY <<'EOF' /etc/caddy/Caddyfile
 :80 {
 	root * /srv
 	encode gzip zstd
-
-	# Backward compatibility: /img/* serves from /assets/img/*
-	rewrite /img/* /assets{uri}
-
 	file_server
 }
 EOF
