@@ -1,0 +1,26 @@
+# Caddyfile — serves the built Hugo site (./public) and owns the legacy 301s.
+#
+# The generated `redirects.caddy` snippet maps every legacy Drupal path
+# (/node/{id}, plus any `aliases:` for future page moves) to its current native
+# URL. `map` + `redir` run before `file_server`, so a legacy path 301s instead
+# of 404ing. Regenerate the snippet with `just redirects`. See docs/REDIRECTS.md.
+#
+# Local use:   just build && just redirects && caddy run --config Caddyfile
+#              (then browse http://localhost:8080)
+# Production:  replace the `:8080` address below with your site address
+#              (e.g. worldhistorycommons.org) and remove `auto_https off`.
+
+{
+	auto_https off
+	admin off
+}
+
+:8080 {
+	root * public
+	encode gzip zstd
+
+	# Legacy Drupal URL redirects (301). Evaluated before file_server.
+	import redirects.caddy
+
+	file_server
+}

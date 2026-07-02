@@ -1,0 +1,45 @@
+{{- /*
+  Redirect manifest — the deterministic legacy->native bridge for the Caddy
+  redirect pipeline (utils/redirect_mapper.py). Emitted at /redirects.json.
+
+  worldhistorycommons preserved its clean Drupal slugs by pinning `url:` in
+  front matter, so .RelPermalink already equals the original public URL. The
+  one legacy form Drupal also served — /node/{drupal_node_id} — was never
+  preserved; this manifest synthesizes it so Caddy can 301 it to the slug.
+
+  For every content page it records:
+    native        the native Hugo URL (.RelPermalink) — the current public URL.
+    legacy_paths  any old paths from `aliases:` (empty today; the seam for
+                  future URL moves), PLUS the synthesized /node/{drupal_node_id}.
+    nid           the Drupal node id, when present.
+    source_file   the content file path, for auditing.
+
+  valid_targets lists the container pages (home/section/taxonomy/term) that the
+  parent-section fallback may redirect unmatched URLs to.
+
+  Output is deterministic: pages sorted by native path, targets sorted+uniq,
+  no timestamps.
+*/ -}}
+{{- $regular := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- $legacy := slice -}}
+  {{- range .Aliases -}}{{ $legacy = $legacy | append . }}{{- end -}}
+  {{- with .Params.drupal_node_id -}}{{ $legacy = $legacy | append (printf "/node/%v" .) }}{{- end -}}
+  {{- $src := "" -}}{{- with .File -}}{{ $src = .Path }}{{- end -}}
+  {{- $regular = $regular | append (dict
+        "native" .RelPermalink
+        "legacy_paths" $legacy
+        "nid" .Params.drupal_node_id
+        "source_file" $src) -}}
+{{- end -}}
+{{- $targets := slice -}}
+{{- range .Site.Pages -}}
+  {{- if in (slice "home" "section" "taxonomy" "term") .Kind -}}
+    {{- $targets = $targets | append .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- dict
+      "count" (len $regular)
+      "pages" (sort $regular "native")
+      "valid_targets" (sort (uniq $targets))
+  | jsonify (dict "indent" "  ") -}}

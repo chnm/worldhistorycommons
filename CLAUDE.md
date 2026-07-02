@@ -38,6 +38,15 @@ Hugo section directories don't match the public URLs (preserved from Drupal):
 
 Each content file has `url:` in front matter to preserve the original Drupal path. **URL stability is critical** — educators link to these in lesson plans.
 
+### Legacy Redirects (`/node/{id}` → slug)
+
+Drupal also served every node at `/node/{id}`; the Hugo site doesn't, so those old links
+would 404. A content-derived pipeline generates `redirects.caddy` (a Caddy `map` of
+`/node/{drupal_node_id}` → the page's current slug, 301). It does **not** touch `url:` or
+any content. Regenerate with `just redirects` (after `just build`); serve via the repo-root
+`Caddyfile` / `Dockerfile`. Full details, verification, and the future-URL-change workflow
+(add old path to `aliases:`, regenerate): **`docs/REDIRECTS.md`**.
+
 ### Template Architecture
 
 - `themes/whc/layouts/_default/list.html` — Default listing with filters (region, time period, subject). Hybrid: Hugo-rendered HTML by default, JS takes over when filters are applied.
