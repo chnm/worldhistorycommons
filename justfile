@@ -44,7 +44,7 @@ redirects-build:
 redirects-reconcile:
     uv run utils/redirect_mapper.py reconcile
 
-# Generate redirects.caddy from the map
+# Generate static/redirects.caddy from the map (Hugo then copies it to public/redirects.caddy)
 redirects-generate:
     uv run utils/redirect_mapper.py generate
 

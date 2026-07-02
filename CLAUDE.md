@@ -41,10 +41,12 @@ Each content file has `url:` in front matter to preserve the original Drupal pat
 ### Legacy Redirects (`/node/{id}` → slug)
 
 Drupal also served every node at `/node/{id}`; the Hugo site doesn't, so those old links
-would 404. A content-derived pipeline generates `redirects.caddy` (a Caddy `map` of
-`/node/{drupal_node_id}` → the page's current slug, 301). It does **not** touch `url:` or
-any content. Regenerate with `just redirects` (after `just build`); serve via the repo-root
-`Caddyfile` / `Dockerfile`. Full details, verification, and the future-URL-change workflow
+would 404. A content-derived pipeline generates `static/redirects.caddy` (a Caddy `map` of
+`/node/{drupal_node_id}` → the page's current slug, 301) — Hugo then copies it to
+`public/redirects.caddy`, so it ships inside the build/release artifact. It does **not** touch
+`url:` or any content. Regenerate with `just redirects` (after `just build`); served by the
+repo-root `Caddyfile` (`import public/redirects.caddy`) locally and the `Dockerfile`
+(`import /srv/redirects.caddy`) in the container. Full details, verification, and the future-URL-change workflow
 (add old path to `aliases:`, regenerate): **`docs/REDIRECTS.md`**.
 
 ### Template Architecture

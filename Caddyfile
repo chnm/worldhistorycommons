@@ -20,7 +20,8 @@
 	encode gzip zstd
 
 	# Legacy Drupal URL redirects (301). Evaluated before file_server.
-	import redirects.caddy
+	# Generated into static/redirects.caddy, so Hugo copies it to public/redirects.caddy.
+	import public/redirects.caddy
 
 	file_server
 }

@@ -10,7 +10,8 @@ node_modules/
 images_bak/
 
 # Redirect pipeline: transient HTTP audit outputs (regenerated on demand).
-# redirects.caddy and utils/redirect_map.csv ARE committed.
+# static/redirects.caddy and utils/redirect_map.csv ARE committed.
+# (Hugo copies static/redirects.caddy -> public/redirects.caddy, which is git-ignored above.)
 utils/redirect_verify.csv
 utils/redirect_crosscheck.csv
 utils/redirect_parity.csv

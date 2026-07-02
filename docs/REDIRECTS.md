@@ -34,8 +34,8 @@ flowchart LR
   FM["content/**/*.md<br/>url: (pinned) + drupal_node_id:"] --> H["hugo build<br/>layouts/index.redirects.json"]
   H --> J["/redirects.json<br/>native + legacy_paths (/node/{id})"]
   J --> B["redirect_mapper build + reconcile<br/>utils/redirect_map.csv"]
-  B --> G["redirect_mapper generate<br/>redirects.caddy"]
-  G --> C["Caddyfile / Dockerfile: import redirects.caddy<br/>(map {path} → redir 301)"]
+  B --> G["redirect_mapper generate<br/>static/redirects.caddy → public/redirects.caddy"]
+  G --> C["Caddyfile / Dockerfile: import public/redirects.caddy<br/>(map {path} → redir 301)"]
   C --> S["Caddy: /node/{id} → 301 → /{slug}/"]
   B -. "verify / crosscheck / parity" .-> V["HTTP audits (utils/*.csv)"]
 ```
@@ -61,7 +61,7 @@ the page's current URL** automatically.
 |---|---|
 | `layouts/index.redirects.json` | Hugo template that emits `/redirects.json` (the manifest) |
 | `utils/redirect_mapper.py` | `build` · `reconcile` · `generate` · `verify` · `crosscheck` · `parity` · `crawl` |
-| `redirects.caddy` | GENERATED Caddy `map` of legacy → native 301s (committed) |
+| `static/redirects.caddy` | GENERATED Caddy `map` of legacy → native 301s (committed; Hugo copies it to `public/redirects.caddy`, so it ships in the release artifact) |
 | `utils/redirect_map.csv` | GENERATED authoritative map, human-diffable (committed) |
 
 ## 4. Running the pipeline (runbook)
@@ -74,11 +74,11 @@ just build
 just redirects
 
 # 3. Serve + verify locally
-caddy run --config Caddyfile        # serves ./public on :8080, imports redirects.caddy
+caddy run --config Caddyfile        # serves ./public on :8080, imports public/redirects.caddy
 just redirects-verify target=http://localhost:8080
 ```
 
-`just redirects` is the one command to regenerate everything. `redirects.caddy` and
+`just redirects` is the one command to regenerate everything. `static/redirects.caddy` and
 `utils/redirect_map.csv` are committed; re-run and commit whenever content or URLs change.
 
 ## 5. Preserving redirects when a Hugo URL changes (future-proofing)
@@ -121,6 +121,12 @@ Reports land in `utils/*.csv` (gitignored). All support `--resume` / `--limit`.
 site block. `map` + `redir` run before `file_server`, so a legacy `/node/{id}` 301s instead
 of 404ing; real slug URLs miss the map and are served directly.
 
+It is generated into `static/redirects.caddy`, so Hugo publishes it to `public/redirects.caddy` —
+this is what puts it in the build/release artifact. The container therefore imports it from
+`/srv/redirects.caddy` (no separate `COPY`). One side effect: the snippet is now also fetchable
+at `/redirects.caddy`. That's harmless (it's derived from public URLs); block it with a matcher
+if you'd rather not serve it.
+
 Generated snippet shape:
 
 ```caddy
@@ -136,11 +142,12 @@ redir @hasRedirect {redirect_target} 301
 
 Two ways to serve it, both committed:
 
-- **`Caddyfile`** (repo root, standalone) — `root * public`, `import redirects.caddy`.
+- **`Caddyfile`** (repo root, standalone) — `root * public`, `import public/redirects.caddy`.
   Local: `caddy run --config Caddyfile`. For production, set the real site address.
 - **`Dockerfile`** (two-stage) — stage 1 runs `hugo` + `npx --no-install pagefind` (Pagefind
-  pinned via `package.json`/`package-lock.json`); stage 2 (`stagex/user-caddy`) copies
-  `public/` → `/srv`, copies `redirects.caddy`, and imports it in the Caddyfile. `static/images/`
+  pinned via `package.json`/`package-lock.json`); because `redirects.caddy` is generated into
+  `static/`, Hugo emits it at `public/redirects.caddy`. Stage 2 (`stagex/user-caddy`) copies
+  `public/` → `/srv` and imports `/srv/redirects.caddy` (no separate `COPY` needed). `static/images/`
   is bundled into the image on purpose (see `.dockerignore`). This is the image the CI/CD
   workflow (`.github/workflows/cicd.yml`) builds and deploys.
 
@@ -152,7 +159,7 @@ and deterministic conflict resolution (matched > fallback, fewer segments, lexic
 - **Docker on moby (remote Docker over SSH):**
   ```bash
   export DOCKER_HOST=ssh://moby            # ~/.ssh/config Host moby -> 10.112.113.191
-  just build && just redirects             # produce public/ + redirects.caddy first
+  just build && just redirects             # produce public/ (incl. redirects.caddy) first
   docker build -t worldhistorycommons:latest .
   docker run -d --name whc -p 8137:80 worldhistorycommons:latest
   uv run utils/redirect_mapper.py verify --target http://10.112.113.191:8137
@@ -161,7 +168,7 @@ and deterministic conflict resolution (matched > fallback, fewer segments, lexic
 ### Committed vs generated
 
 - **Committed:** content, `layouts/index.redirects.json`, `hugo.toml`, `utils/redirect_mapper.py`,
-  `utils/redirect_map.csv`, `redirects.caddy`, `Caddyfile`, `Dockerfile`, `.dockerignore`, `justfile`.
-- **Gitignored (regenerated on demand):** `public/` (incl. `redirects.json`),
+  `utils/redirect_map.csv`, `static/redirects.caddy`, `Caddyfile`, `Dockerfile`, `.dockerignore`, `justfile`.
+- **Gitignored (regenerated on demand):** `public/` (incl. `redirects.json` and the copied `redirects.caddy`),
   `utils/redirect_verify.csv`, `utils/redirect_crosscheck.csv`, `utils/redirect_parity.csv`,
   `utils/old_urls.csv`.
