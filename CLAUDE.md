@@ -2,6 +2,12 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Repository
+
+- GitHub: `chnm/worldhistorycommons`
+- `preview` branch for staging/deploy preview
+- `main` is protected — PR to merge
+
 ## Build & Serve Commands
 
 ```bash
@@ -14,7 +20,7 @@ just verify-urls    # Build then compare URLs against live Drupal site
 
 Always run `just build` (not bare `hugo`) — Pagefind search index must be rebuilt after Hugo.
 
-Scraper commands (one-time migration tools, run from `scraper/` via `uv run`):
+Scraper commands (legacy, migration complete — kept for reference):
 ```bash
 just scrape         # Full site scrape (~1 hour, ~2500 pages)
 just fix-yaml       # Fix YAML front matter escaping issues
@@ -23,6 +29,10 @@ just fix-yaml       # Fix YAML front matter escaping issues
 ## Architecture
 
 Static site migrated from Drupal 10 (worldhistorycommons.org). Hugo generates HTML, Pagefind indexes it for search, all interactivity is client-side JS.
+
+### Images
+
+`static/images/` is gitignored (~3,570 files, ~906MB). Content images are served via cloud storage at `obj.rrchnm.org` with infrastructure-level redirects — no URL changes needed in templates or content. Site-chrome images (logos, icons) live in `themes/whc/static/img/` and are committed to the repo.
 
 ### Content Sections & URL Mapping
 
