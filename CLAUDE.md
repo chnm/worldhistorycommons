@@ -41,10 +41,14 @@ Each content file has `url:` in front matter to preserve the original Drupal pat
 ### Legacy Redirects (`/node/{id}` → slug)
 
 Drupal also served every node at `/node/{id}`; the Hugo site doesn't, so those old links
-would 404. A content-derived pipeline generates `static/redirects.caddy` (a Caddy `map` of
-`/node/{drupal_node_id}` → the page's current slug, 301) — Hugo then copies it to
-`public/redirects.caddy`, so it ships inside the build/release artifact. It does **not** touch
-`url:` or any content. Regenerate with `just redirects` (after `just build`); served by the
+would 404. A pipeline generates `static/redirects.caddy` (a Caddy `map` of `/node/{id}` →
+the page's current slug, 301) by joining `utils/node_redirects.tsv` (a dump of Drupal's
+`path_alias` table, nid → slug — **the node ids live here, not in front matter**) against the
+Hugo manifest of served URLs. Hugo then copies the snippet to `public/redirects.caddy`, so it
+ships inside the build/release artifact. It does **not** touch `url:` or any content. A curated
+companion map (`utils/taxonomy_redirects.csv`, merged by `reconcile`) also 301s Drupal's
+singular taxonomy facets (`/region|/subject|/time-period/{slug}`) to Hugo's plural term URLs.
+Regenerate with `just redirects` (after `just build`); served by the
 repo-root `Caddyfile` (`import public/redirects.caddy`) locally and the `Dockerfile`
 (`import /srv/redirects.caddy`) in the container. Full details, verification, and the future-URL-change workflow
 (add old path to `aliases:`, regenerate): **`docs/REDIRECTS.md`**.
@@ -76,7 +80,7 @@ repo-root `Caddyfile` (`import public/redirects.caddy`) locally and the `Dockerf
 
 ### Sort Order
 
-Listing pages sort by `drupal_node_id` descending (newest first). New content without a node ID sorts to the top by `date`.
+Listing pages sort by `drupal_node_id` descending (newest first). New content without a node ID sorts to the top by `date`. Note: `drupal_node_id` in front matter is now **only** this sort key (and the `nid` in the filter JSON) — it no longer drives `/node/{id}` redirects, which are sourced from `utils/node_redirects.tsv`.
 
 ## Conventions
 

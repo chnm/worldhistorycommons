@@ -12,14 +12,17 @@ Drupal -> Hugo migration. Generates a Caddy redirect snippet and verifies it ove
 
 worldhistorycommons preserved its clean Drupal slugs by pinning `url:` in front matter,
 so Hugo already serves the original public URLs. The one legacy form Drupal also served —
-/node/{drupal_node_id} — was never preserved. This pipeline maps every such /node/{id}
-(plus any `aliases:` recorded for future page moves) to the page's current native URL.
+/node/{id} — was never preserved. This pipeline maps every such /node/{id} (plus any
+`aliases:` recorded for future page moves) to the page's current native URL.
 
-The authoritative map is the Hugo build artifact `public/redirects.json` (emitted by
-layouts/index.redirects.json). See that template and docs/REDIRECTS.md.
+Node ids are sourced from utils/node_redirects.tsv (a dump of Drupal's path_alias table),
+NOT from content front matter — so `drupal_node_id` no longer has to live in every page
+(it remains only as the listing sort key). Targets are resolved against the Hugo build
+artifact `public/redirects.json` (emitted by layouts/index.redirects.json), which is the
+authoritative record of what Hugo serves. See that template and docs/REDIRECTS.md.
 
 Subcommands:
-    build       Read the Hugo manifest -> base legacy->native map (utils/redirect_map.csv).
+    build       node_redirects.tsv + Hugo manifest -> base legacy->native map (redirect_map.csv).
     reconcile   Merge externally-discovered old URLs (utils/old_urls.csv) and apply the
                 parent-section fallback to anything unmatched. Rewrites redirect_map.csv.
     generate    Emit static/redirects.caddy (a `map` block, 301s); Hugo copies it to public/.
@@ -64,6 +67,8 @@ OUTPUT_DIR = REPO_ROOT / "utils"
 MANIFEST_DEFAULT = REPO_ROOT / "public" / "redirects.json"
 MAP_CSV = OUTPUT_DIR / "redirect_map.csv"
 OLD_URLS_CSV = OUTPUT_DIR / "old_urls.csv"
+TAXONOMY_CSV = OUTPUT_DIR / "taxonomy_redirects.csv"  # curated Drupal facet alias -> Hugo term URL
+NODE_REDIRECTS_TSV = OUTPUT_DIR / "node_redirects.tsv"  # Drupal path_alias dump: nid -> slug (source of /node/{id})
 CROSSCHECK_CSV = OUTPUT_DIR / "redirect_crosscheck.csv"
 VERIFY_CSV = OUTPUT_DIR / "redirect_verify.csv"
 PARITY_CSV = OUTPUT_DIR / "redirect_parity.csv"
@@ -137,30 +142,73 @@ def write_map_rows(rows: list[dict]):
 
 # --- build ------------------------------------------------------------------
 
+def load_node_aliases() -> list[tuple[int, str]]:
+    """Load (nid, drupal_slug) pairs from the committed path_alias dump
+    (utils/node_redirects.tsv). Header/comment lines (non-digit col 1) are skipped."""
+    if not NODE_REDIRECTS_TSV.exists():
+        return []
+    out = []
+    with open(NODE_REDIRECTS_TSV, encoding="utf-8") as f:
+        for line in f:
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) != 2 or not parts[0].strip().isdigit():
+                continue
+            out.append((int(parts[0].strip()), path_only(parts[1].strip())))
+    return out
+
+
+def served_index(manifest: dict) -> dict[str, str]:
+    """norm(path) -> current native URL, for every native and every `aliases:` path.
+    Lets a legacy slug (Drupal alias) resolve to the page's current Hugo URL even if
+    the page later moves (the old slug becomes an alias -> new native)."""
+    served: dict[str, str] = {}
+    for pg in manifest.get("pages", []):
+        native = pg["native"]
+        served[norm(native)] = native
+        for legacy in pg.get("legacy_paths", []):
+            served.setdefault(norm(legacy), native)
+    return served
+
+
 def run_build(manifest_src):
     manifest = load_manifest(manifest_src)
     pages = manifest.get("pages", [])
+    served = served_index(manifest)
+    src_by_native = {norm(pg["native"]): pg.get("source_file", "") for pg in pages}
     rows = []
+
+    # Alias redirects (`aliases:` front matter — the future-URL-move seam; empty today).
     for pg in pages:
         native = pg["native"]
-        nid = pg.get("nid")
-        src = pg.get("source_file", "")
         for legacy in pg.get("legacy_paths", []):
             rows.append({
-                "old_url": path_only(legacy),
-                "native_url": native,
-                "match_via": "node" if is_node_path(legacy) else "alias",
-                "nid": "" if nid is None else nid,
-                "source_file": src,
-                "status": "matched",
-                "notes": "",
+                "old_url": path_only(legacy), "native_url": native, "match_via": "alias",
+                "nid": "", "source_file": pg.get("source_file", ""), "status": "matched", "notes": "",
             })
+
+    # /node/{id} redirects — sourced from utils/node_redirects.tsv (Drupal path_alias
+    # dump), NOT front matter. Target resolves to the page's current native via the
+    # manifest, so it tracks URL moves. Slugs Hugo doesn't serve (unpublished/removed
+    # nodes) are skipped rather than redirected to a 404.
+    node_matched = node_skipped = 0
+    for nid, slug in load_node_aliases():
+        native = served.get(norm(slug))
+        if native is None:
+            node_skipped += 1
+            continue
+        rows.append({
+            "old_url": f"/node/{nid}", "native_url": native, "match_via": "node",
+            "nid": str(nid), "source_file": src_by_native.get(norm(native), ""),
+            "status": "matched", "notes": "",
+        })
+        node_matched += 1
+
     write_map_rows(rows)
     aliases = sum(1 for r in rows if r["match_via"] == "alias")
-    nodes = sum(1 for r in rows if r["match_via"] == "node")
     print(f"Built {len(rows)} legacy->native pairs from {len(pages)} pages.")
-    print(f"  alias paths: {aliases}")
-    print(f"  node paths:  {nodes}")
+    print(f"  node redirects (from {NODE_REDIRECTS_TSV.name}): {node_matched}"
+          + (f"  ({node_skipped} skipped — slug not served on Hugo: unpublished/removed)" if node_skipped else ""))
+    print(f"  alias paths (front-matter aliases:):            {aliases}")
     print(f"Wrote {MAP_CSV}")
 
 
@@ -206,14 +254,16 @@ def run_reconcile(manifest_src):
     rows = read_map_rows()
     manifest = load_manifest(manifest_src)
     valid_targets = set(manifest.get("valid_targets", []))
+    served = served_index(manifest)
     nid_index = {}
     path_index = {}
     for pg in manifest.get("pages", []):
-        native = pg["native"]
-        if pg.get("nid") is not None:
-            nid_index[str(pg["nid"])] = native
         for legacy in pg.get("legacy_paths", []):
-            path_index[norm(legacy)] = native
+            path_index[norm(legacy)] = pg["native"]
+    for nid, slug in load_node_aliases():  # nid -> native, via the path_alias dump
+        native = served.get(norm(slug))
+        if native is not None:
+            nid_index[str(nid)] = native
 
     known = {norm(r["old_url"]) for r in rows}
     remap = learn_prefix_remap(rows)
@@ -249,10 +299,37 @@ def run_reconcile(manifest_src):
             "nid": "", "source_file": "", "status": status, "notes": note,
         })
 
+    # --- Taxonomy facet redirects (curated) -------------------------------
+    # Drupal served taxonomy listings at singular /region|/subject|/time-period/{slug};
+    # Hugo serves them at plural /regions|/subjects|/time_periods/{slug} with differing
+    # term slugs (e.g. /subject/health-disease -> /subjects/health/-disease/). Taxonomy
+    # terms have no `aliases:` front matter, so these pairs can't flow through the manifest;
+    # they live in utils/taxonomy_redirects.csv (authoritative from Drupal's path_alias
+    # table, HTTP-verified). Merged here as pre-resolved matched rows.
+    tax_added = tax_skipped = 0
+    if TAXONOMY_CSV.exists():
+        with open(TAXONOMY_CSV, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                old = (row.get("old_url") or "").strip()
+                native = (row.get("native_url") or "").strip()
+                if not old or not native:
+                    continue
+                key = norm(old)
+                if key in known:  # a manifest alias already covers it; don't double-map
+                    tax_skipped += 1
+                    continue
+                known.add(key)
+                rows.append({
+                    "old_url": path_only(old), "native_url": native, "match_via": "taxonomy",
+                    "nid": "", "source_file": "", "status": "matched", "notes": "taxonomy facet",
+                })
+                tax_added += 1
+
     write_map_rows(rows)
     print(f"Reconciled. Learned prefix remaps: {remap or '(none)'}")
     print(f"  external old URLs considered: {len(old_urls)} (new: {added})")
     print(f"  newly matched: {matched} | parent-fallback: {fallback}")
+    print(f"  taxonomy facet redirects: {tax_added}" + (f" ({tax_skipped} already covered)" if tax_skipped else ""))
     print(f"Map now has {len(rows)} rows -> {MAP_CSV}")
     if not old_urls:
         print("Note: no utils/old_urls.csv found (no sitemap crawled) — map = manifest only.")
@@ -417,16 +494,19 @@ def run_crosscheck(old_site: str, manifest_src, resume: bool, limit: int | None)
     manifest = load_manifest(manifest_src)
     base = old_site.rstrip("/")
 
-    # nid -> (expected slug alias(es), native) from the manifest
-    targets = []
+    # nid -> (expected slug alias(es), native). nids come from the path_alias dump
+    # (utils/node_redirects.tsv); the native is resolved via the manifest.
+    served = served_index(manifest)
+    aliases_by_native: dict[str, list[str]] = {}
     for pg in manifest.get("pages", []):
-        if pg.get("nid") is None:
+        aliases_by_native[pg["native"]] = [path_only(l) for l in pg.get("legacy_paths", [])]
+    targets = []
+    for nid, slug in load_node_aliases():
+        native = served.get(norm(slug))
+        if native is None:  # slug not served (unpublished/removed) — nothing to cross-check
             continue
-        aliases = [path_only(l) for l in pg.get("legacy_paths", []) if not is_node_path(l)]
-        # whc has no `aliases:` today, so the expected target is the native slug itself.
-        if not aliases:
-            aliases = [path_only(pg["native"])]
-        targets.append((str(pg["nid"]), aliases, pg["native"]))
+        aliases = aliases_by_native.get(native) or [path_only(native)]
+        targets.append((str(nid), aliases, native))
 
     done = {}
     fields = ["nid", "node_url", "live_status", "live_location", "expected_alias", "agrees", "reason"]
