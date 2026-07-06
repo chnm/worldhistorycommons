@@ -3,6 +3,8 @@ title: "Long Teaching Module: Doña Marina, Cortés' Translator"
 doc_type: teaching
 drupal_node_id: 1995
 url: /long-teaching-module-dona-marina-cortes-translator
+aliases:
+  - /long-teaching-module-doña-marina-cortés-translator
 image: /images/Icons-Document-thumbnail_120.jpg
 authors: 
   - "Dana Leibsohn and Harriett Lillich"

@@ -3,6 +3,12 @@
 # Source of truth: public/redirects.json (Hugo manifest, layouts/index.redirects.json).
 map {path} {redirect_target} {
 	default ""
+	/EXCERPT-LETTER-NZINGA-MBEMBA-PORTUGUESE-KING-JOAO-III /excerpt-letter-nzinga-mbemba-portuguese-king-joao-iii/
+	/EXCERPT-LETTER-NZINGA-MBEMBA-PORTUGUESE-KING-JOAO-III/ /excerpt-letter-nzinga-mbemba-portuguese-king-joao-iii/
+	/excerpt-letter-nzinga-mbemba-portuguese-king-joão-iii /excerpt-letter-nzinga-mbemba-portuguese-king-joao-iii/
+	/excerpt-letter-nzinga-mbemba-portuguese-king-joão-iii/ /excerpt-letter-nzinga-mbemba-portuguese-king-joao-iii/
+	/long-teaching-module-doña-marina-cortés-translator /long-teaching-module-dona-marina-cortes-translator/
+	/long-teaching-module-doña-marina-cortés-translator/ /long-teaching-module-dona-marina-cortes-translator/
 	/node/100 /child-labor-la-rinconada/
 	/node/100/ /child-labor-la-rinconada/
 	/node/1002 /burning-guardhouse-pont-neuf/
