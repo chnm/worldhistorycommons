@@ -4263,6 +4263,8 @@ map {path} {redirect_target} {
 	/node/3076/ /minecraft-education/
 	/node/3077 /harry-s-truman-library-and-museum/
 	/node/3077/ /harry-s-truman-library-and-museum/
+	/node/3078 /jimmy-carter-presidential-library-and-museum/
+	/node/3078/ /jimmy-carter-presidential-library-and-museum/
 	/node/3079 /south-africa-overcoming-apartheid-building-democracy/
 	/node/3079/ /south-africa-overcoming-apartheid-building-democracy/
 	/node/308 /illustration-maqamat-al-hariri/
