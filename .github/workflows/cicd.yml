@@ -1,0 +1,30 @@
+name: "[worldhistorycommons.org] Hugo Build, Release, Deploy"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "**"
+    paths:
+      - '**'
+
+jobs:
+  hugo-build-release-deploy:
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
+    secrets: inherit
+    with:
+      runner_labels: '["self-hosted","IncusOS"]'
+      container-registry: "ghcr.io"
+      container-image-name: "whc-website"
+      hugo-context-root: "."
+      hugo-content-path: "/srv"
+      hugo-devl-url: "https://whc.dev.chnm.gmu.edu"
+      hugo-prod-url: "https://whc.dev.chnm.gmu.edu"
+
+      build-artifact-name: "whc-website"
+      release-tag-name-type: "iso"
+      tag-prefix: "whc-"
+
+      website-devl-fqdn: "whc.dev.chnm.gmu.edu"
+      website-prod-fqdn: "whc.dev.chnm.gmu.edu"
+

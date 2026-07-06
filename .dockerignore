@@ -1,0 +1,14 @@
+# Keep the build context small. static/images/ (~907 MB) IS included on purpose
+# so the container is self-contained; its 1:1 backup and all build tooling are not.
+images_bak/
+.git/
+.github/
+.claude/
+scraper/
+public/
+resources/
+node_modules/
+*.txt
+.hugo_build.lock
+.dockerignore
+Dockerfile

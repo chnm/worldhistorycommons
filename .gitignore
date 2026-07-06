@@ -6,4 +6,5 @@ hugo_urls.txt
 missing_in_hugo.txt
 extra_in_hugo.txt
 .claude/
-static/images/
+node_modules/
+images_bak/
