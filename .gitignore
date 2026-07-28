@@ -8,6 +8,8 @@ extra_in_hugo.txt
 .claude/
 node_modules/
 images_bak/
+__pycache__/
+*.py[cod]
 
 # Redirect pipeline: transient HTTP audit outputs (regenerated on demand).
 # static/redirects.caddy and utils/redirect_map.csv ARE committed.
@@ -16,3 +18,5 @@ utils/redirect_verify.csv
 utils/redirect_crosscheck.csv
 utils/redirect_parity.csv
 utils/old_urls.csv
+utils/content_parity.json
+utils/content_parity.csv

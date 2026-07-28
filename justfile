@@ -76,5 +76,19 @@ verify-urls:
     hugo
     cd scraper && uv run python verify_urls.py
 
+# Compare rendered Hugo content with the live Drupal site.
+parity-audit *args:
+    hugo
+    cd scraper && uv run python audit_parity.py {{args}}
+
+# Run the semantic parity audit against the team review CSV.
+parity-audit-reviewed *args:
+    hugo
+    cd scraper && uv run python audit_parity.py --input-csv "../WHC Review - Category Review.csv" {{args}}
+
+# Unit tests for the semantic parity parser/comparator (no network).
+parity-audit-test:
+    cd scraper && uv run python -m unittest discover -s tests -p 'test_audit_parity.py'
+
 # Full rebuild: fix yaml, build, and index
 rebuild: fix-yaml build
