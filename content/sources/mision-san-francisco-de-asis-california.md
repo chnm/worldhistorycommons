@@ -5,6 +5,7 @@ drupal_node_id: 2672
 source_type: "Image"
 url: /mision-san-francisco-de-asis-california
 image: /images/Mission_San_Francisco_de_Asis.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

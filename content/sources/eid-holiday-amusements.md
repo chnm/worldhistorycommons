@@ -5,6 +5,7 @@ drupal_node_id: 105
 source_type: "Image"
 url: /eid-holiday-amusements
 image: /images/holiday-amusements_6aaec46381.jpg
+image_alt: "Photo of celebrations of the Islamic lunar calendar"
 regions: 
   - "Asia"
   - "Europe"

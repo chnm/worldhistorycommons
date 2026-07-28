@@ -5,6 +5,7 @@ drupal_node_id: 2999
 source_type: "Image"
 url: /puerto-rican-needleworkers-factory-san-juan-puerto-rico-1942
 image: /images/Needlework_Factory.jpeg
+image_alt: "Photo shows women working at sewing machines on both sides of 2 long tables."
 regions: 
   - "North/Central America"
 subjects: 

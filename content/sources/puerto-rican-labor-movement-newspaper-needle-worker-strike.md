@@ -5,6 +5,7 @@ drupal_node_id: 1677
 source_type: "Text"
 url: /puerto-rican-labor-movement-newspaper-needle-worker-strike
 image: /images/Icons-Article-Excerpt_14.jpg
+image_alt: "image of the article"
 regions: 
   - "North/Central America"
 subjects: 

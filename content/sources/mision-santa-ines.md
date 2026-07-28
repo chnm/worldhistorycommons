@@ -5,6 +5,7 @@ drupal_node_id: 2690
 source_type: "Image"
 url: /mision-santa-ines
 image: /images/Mission_StInes__cropped_.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

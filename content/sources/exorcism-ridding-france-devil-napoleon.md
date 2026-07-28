@@ -5,6 +5,7 @@ drupal_node_id: 161
 source_type: "Image"
 url: /exorcism-ridding-france-devil-napoleon
 image: /images/ae30768d8e5ceee1dea5e2ec499add39.jpg
+image_alt: "Cartoon of a group of people fighting a flying figure"
 regions: 
   - "Europe"
 subjects: 

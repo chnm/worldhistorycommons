@@ -5,6 +5,7 @@ drupal_node_id: 2866
 source_type: "Image"
 url: /living-history-hillary-clinton
 image: /images/cvr9780743222259_9780743222259_lg.jpg
+image_alt: "The book jacket of Living History featuring a portrait of Hillary Clinton."
 regions: 
   - "North/Central America"
 subjects: 

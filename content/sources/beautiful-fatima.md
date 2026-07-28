@@ -5,6 +5,7 @@ drupal_node_id: 254
 source_type: "Image"
 url: /beautiful-fatima
 image: /images/beautiful-fatima.jpg
+image_alt: "Beautiful Fatima"
 regions: 
   - "Africa"
   - "Europe"

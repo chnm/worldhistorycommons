@@ -5,6 +5,7 @@ drupal_node_id: 2755
 source_type: "Image"
 url: /mounted-mongol-warriors
 image: /images/ArmedRiders.jpeg
+image_alt: "Painting shows mounted warriors armed with bow and arrows in combat"
 regions: 
   - "Asia"
 subjects: 

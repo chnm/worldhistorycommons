@@ -5,6 +5,11 @@ drupal_node_id: 829
 source_type: "Image"
 url: /berlin-wall-memorial-baker-institute-rice-university
 image: /images/berlin-wall-at-rice-4_a46ee66073.jpg
+additional_images:
+  - src: "/images/source-media/829/berlin-wall-at-rice-3_acb037d027.jpg"
+    alt: ""
+  - src: "/images/source-media/829/berlin-wall-at-rice-2_17b57ad962.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

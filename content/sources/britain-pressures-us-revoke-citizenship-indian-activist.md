@@ -5,6 +5,7 @@ drupal_node_id: 2993
 source_type: "Image"
 url: /britain-pressures-us-revoke-citizenship-indian-activist
 image: /images/MohammedAbdulRashid.jpg
+image_alt: "Article on Mohammed Abdul Rashid. Full text in module folder."
 regions: 
   - "Asia"
   - "Europe"

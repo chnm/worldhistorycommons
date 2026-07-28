@@ -5,6 +5,7 @@ drupal_node_id: 2086
 source_type: "Image"
 url: /two-peasants-repairing-cart
 image: /images/4c6ae383f5451321bc46d42c6a54f27b.jpg
+image_alt: "A black-and-white painting of two peasants fixing a broken cart on a hillside."
 regions: 
   - "Europe"
 subjects: 

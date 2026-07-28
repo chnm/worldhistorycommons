@@ -5,6 +5,7 @@ drupal_node_id: 1517
 source_type: "Text"
 url: /saint-domingue-freedmen
 image: /images/Icons-Document_288.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

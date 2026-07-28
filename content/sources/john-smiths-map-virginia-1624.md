@@ -5,6 +5,7 @@ drupal_node_id: 3114
 source_type: "Image"
 url: /john-smiths-map-virginia-1624
 image: /images/iiif-service_gmd_gmd388_g3880_g3880_ct008915-full-pct_25-0-default.jpg
+image_alt: "John Smith's Map of Virginia 1624. Detailed description provided in annotation"
 regions: 
   - "Comparative"
   - "Europe"

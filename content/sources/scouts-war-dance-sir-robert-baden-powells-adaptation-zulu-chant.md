@@ -5,6 +5,7 @@ drupal_node_id: 1367
 source_type: "Text"
 url: /scouts-war-dance-sir-robert-baden-powells-adaptation-zulu-chant
 image: /images/Icons-Document_162.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

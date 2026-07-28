@@ -5,6 +5,7 @@ drupal_node_id: 386
 source_type: "Text"
 url: /indian-tales-great-ones
 image: /images/indian-tales.png
+image_alt: "Title pages of Indian Tales of the Great Ones"
 regions: 
   - "Asia"
   - "Europe"

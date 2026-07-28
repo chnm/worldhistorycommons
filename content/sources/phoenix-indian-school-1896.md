@@ -5,6 +5,7 @@ drupal_node_id: 421
 source_type: "Text"
 url: /phoenix-indian-school-1896
 image: /images/phoenix-indian-school.jpg
+image_alt: "The Phoenix Indian School"
 regions: 
   - "North/Central America"
 subjects: 

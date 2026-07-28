@@ -5,6 +5,7 @@ drupal_node_id: 2669
 source_type: "Image"
 url: /mision-san-juan-capistrano-california
 image: /images/Great_Stone_Church_02__cropped_.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

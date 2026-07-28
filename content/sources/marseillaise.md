@@ -5,6 +5,7 @@ drupal_node_id: 1004
 source_type: "Image"
 url: /marseillaise
 image: /images/marseillaise.jpg
+image_alt: "The Marseillaise"
 regions: 
   - "Europe"
 subjects: 

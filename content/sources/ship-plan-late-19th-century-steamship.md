@@ -5,6 +5,7 @@ drupal_node_id: 2971
 source_type: "Image"
 url: /ship-plan-late-19th-century-steamship
 image: /images/ShipPlan.jpg
+image_alt: "Ship Plan of a Late-19th Century Steamship"
 regions: 
   - "Africa"
   - "Asia"

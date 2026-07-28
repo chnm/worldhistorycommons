@@ -5,6 +5,7 @@ drupal_node_id: 338
 source_type: "Image"
 url: /traditional-and-modern-primary-education-thailand
 image: /images/100-baht-combi-schools.jpg
+image_alt: "Thai 100-baht banknote"
 regions: 
   - "Asia"
 subjects: 

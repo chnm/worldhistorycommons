@@ -5,6 +5,14 @@ drupal_node_id: 2036
 source_type: "Image"
 url: /statistics-catholicism-poland-after-fall-communism
 image: /images/chart---when-was-the-last-time-you-went-to-confession-_1998__764a3f71b5__1_.jpg
+image_alt: "chart results about the last time someone went to confession"
+additional_images:
+  - src: "/images/source-media/2036/chart---polish-views-on-moral-issues_4b6eb6c82d.jpg"
+    alt: "chart results of polish view on moral issues"
+  - src: "/images/source-media/2036/chart---how-often-do-you-go-to-church-_1998_-by-demographic_28f0630eac.jpg"
+    alt: "chart result of how often someone goes to church by demographic"
+  - src: "/images/source-media/2036/chart---how-often-do-you-go-to-church-_1998__868b2d4639.jpg"
+    alt: "chart result of how often someone goes to church"
 regions: 
   - "Europe"
 subjects: 

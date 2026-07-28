@@ -5,6 +5,9 @@ drupal_node_id: 1154
 source_type: "Audio"
 url: /carmagnole
 image: 
+audio_files:
+  - src: "/audio/source-media/1154/THE_CARMAGNOLE.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

@@ -6,6 +6,7 @@ drupal_node_id: 165
 source_type: "Image"
 url: /song-end-whole-world-now-chases-him
 image: /images/932061f365a373d3d4b87a0cded46671.jpg
+image_alt: "Ilustration of globe rolling after Napoleon"
 regions: 
   - "Europe"
 subjects: 

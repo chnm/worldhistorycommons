@@ -5,6 +5,12 @@ drupal_node_id: 293
 source_type: "Image"
 url: /terakoya-vs-meiji-school
 image: /images/terakoya_for_girls.jpg
+image_alt: "Terakoya vs. Meiji School"
+additional_images:
+  - src: "/images/source-media/293/print-of-classroom.jpg"
+    alt: "Terakoya vs. Meiji School"
+  - src: "/images/source-media/293/kaichischoolhouse.jpg"
+    alt: "Terakoya vs. Meiji School"
 regions: 
   - "Asia"
 subjects: 

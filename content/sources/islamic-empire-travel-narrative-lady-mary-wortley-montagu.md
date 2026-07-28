@@ -5,6 +5,7 @@ drupal_node_id: 1210
 source_type: "Text"
 url: /islamic-empire-travel-narrative-lady-mary-wortley-montagu
 image: /images/Icons-Travel-Narrative.jpg
+image_alt: "Travel Narrative Icon"
 regions: 
   - "Comparative"
 subjects: 

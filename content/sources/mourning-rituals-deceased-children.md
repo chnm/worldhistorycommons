@@ -5,6 +5,7 @@ drupal_node_id: 1271
 source_type: "Text"
 url: /mourning-rituals-deceased-children
 image: /images/Icons-Document_108.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1207
 source_type: "Text"
 url: /bhakti-poets-poem-bahinabai-2
 image: /images/Icons-Literary-Source.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Asia"
 subjects: 

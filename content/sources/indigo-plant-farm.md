@@ -5,6 +5,7 @@ drupal_node_id: 978
 source_type: "Image"
 url: /indigo-plant-farm
 image: /images/indigo.jpg
+image_alt: "The Indigo Plant Farm"
 regions: 
   - "North/Central America"
 subjects: 

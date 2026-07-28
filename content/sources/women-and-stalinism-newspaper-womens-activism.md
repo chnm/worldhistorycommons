@@ -5,6 +5,7 @@ drupal_node_id: 1630
 source_type: "Text"
 url: /women-and-stalinism-newspaper-womens-activism
 image: /images/Icons-Document_383.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

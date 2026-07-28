@@ -5,6 +5,7 @@ drupal_node_id: 1376
 source_type: "Text"
 url: /meng-chiu-empress-ma-coarse-woven-silk
 image: /images/Icons-Book-Excerpt_16.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

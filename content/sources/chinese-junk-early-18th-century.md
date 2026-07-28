@@ -5,6 +5,7 @@ drupal_node_id: 2785
 source_type: "Image"
 url: /chinese-junk-early-18th-century
 image: /images/Kangxi-Reise.jpeg
+image_alt: "Painting of a Chinese junk at sea with the emperor and several functionaries on deck"
 regions: 
   - "Asia"
 subjects: 

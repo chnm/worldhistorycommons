@@ -5,6 +5,7 @@ drupal_node_id: 1481
 source_type: "Text"
 url: /execution-king-21-january-1793
 image: /images/Icons-Document_254.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

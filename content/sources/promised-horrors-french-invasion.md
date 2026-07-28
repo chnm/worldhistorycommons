@@ -5,6 +5,7 @@ drupal_node_id: 1042
 source_type: "Image"
 url: /promised-horrors-french-invasion
 image: /images/french-revolution.jpg
+image_alt: "Promised Horrors of the French Invasion"
 regions: 
   - "Europe"
 subjects: 

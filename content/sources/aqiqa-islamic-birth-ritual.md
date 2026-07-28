@@ -5,6 +5,7 @@ drupal_node_id: 1163
 source_type: "Text"
 url: /aqiqa-islamic-birth-ritual
 image: /images/Icons-Document_25.jpg
+image_alt: "image of the text"
 regions: 
   - "Middle East"
 subjects: 

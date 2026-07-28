@@ -5,6 +5,7 @@ drupal_node_id: 939
 source_type: "Text"
 url: /balzacs-chouans
 image: /images/the-chouans.png
+image_alt: "Cover of The Chouans"
 regions: 
   - "Europe"
 subjects: 

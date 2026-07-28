@@ -5,6 +5,7 @@ drupal_node_id: 968
 source_type: "Text"
 url: /making-peace-catholic-church-1801-2
 image: /images/making-peace.png
+image_alt: "Making Peace with the Catholic Church, 1801–2"
 regions: 
   - "Europe"
 subjects: 

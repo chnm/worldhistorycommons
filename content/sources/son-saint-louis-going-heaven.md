@@ -5,6 +5,7 @@ drupal_node_id: 1062
 source_type: "Image"
 url: /son-saint-louis-going-heaven
 image: /images/ccfe2989734da30cdc863963a2da2ba0.jpg
+image_alt: "Image of King Louis XVI before his execution"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,9 @@ drupal_node_id: 1114
 source_type: "Audio"
 url: /hymn-21-january
 image: 
+audio_files:
+  - src: "/audio/source-media/1114/d650f19d894ac51651f6647781b60aaf.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

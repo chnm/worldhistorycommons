@@ -5,6 +5,7 @@ drupal_node_id: 176
 source_type: "Image"
 url: /abuses-suppress
 image: /images/a35ba1bfe676a569026b16e9d1503568.jpg
+image_alt: "Print of man in carriage running over servants"
 regions: 
   - "Europe"
 subjects: 

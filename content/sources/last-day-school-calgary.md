@@ -5,6 +5,7 @@ drupal_node_id: 316
 source_type: "Image"
 url: /last-day-school-calgary
 image: /images/last-school-day.jpg
+image_alt: "Last Day of School, Calgary"
 regions: 
   - "North/Central America"
 subjects: 

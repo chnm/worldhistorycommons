@@ -5,6 +5,7 @@ drupal_node_id: 3014
 source_type: "Image"
 url: /popular-world-development-indicators-four-caribbean-countries
 image: /images/WHC_Popular_World_Development_Indicators_for_Four_Caribbean_Countries_0.png
+image_alt: "A table with popular world development indicators for four Caribbean countries dating from 1972, 1980, 1990, 2000, 2010, and 2020."
 regions: 
   - "North/Central America"
   - "South America"

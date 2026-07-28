@@ -6,6 +6,7 @@ drupal_node_id: 2978
 source_type: "Image"
 url: /photograph-principal-chiefs-west-africa
 image: /images/Navoro.jpg
+image_alt: "Photograph of a group of men posing. Description in annotation."
 regions: 
   - "Africa"
   - "Europe"

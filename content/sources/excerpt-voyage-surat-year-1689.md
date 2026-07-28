@@ -6,6 +6,12 @@ drupal_node_id: 2215
 source_type: "Text"
 url: /excerpt-voyage-surat-year-1689
 image: /images/surat242.png
+image_alt: "Page 242 from \"A Voyage to Surat in the Year 1689\" transcription in text"
+additional_images:
+  - src: "/images/source-media/2215/surat243.png"
+    alt: "Page from \"A Voyage to Surat in the Year 1689\" transcription in text"
+  - src: "/images/source-media/2215/surat244.png"
+    alt: "Page from \"A Voyage to Surat in the Year 1689\" transcription in text"
 regions: 
   - "Asia"
 subjects: 

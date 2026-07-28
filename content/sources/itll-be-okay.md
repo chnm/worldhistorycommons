@@ -5,6 +5,9 @@ drupal_node_id: 1116
 source_type: "Audio"
 url: /itll-be-okay
 image: 
+audio_files:
+  - src: "/audio/source-media/1116/707bdd826eba4194b2bcb53dee493fdc.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

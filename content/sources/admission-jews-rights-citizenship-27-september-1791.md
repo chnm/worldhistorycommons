@@ -6,6 +6,7 @@ drupal_node_id: 1156
 source_type: "Text"
 url: /admission-jews-rights-citizenship-27-september-1791
 image: /images/Icons-Document_19.jpg
+image_alt: "document icon"
 regions: 
   - "Europe"
 subjects: 

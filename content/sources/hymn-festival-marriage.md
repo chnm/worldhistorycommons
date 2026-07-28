@@ -5,6 +5,9 @@ drupal_node_id: 1113
 source_type: "Audio"
 url: /hymn-festival-marriage
 image: 
+audio_files:
+  - src: "/audio/source-media/1113/3739e932f550dab51c7783ecca0bd110__1_.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

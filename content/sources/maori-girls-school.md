@@ -5,6 +5,7 @@ drupal_node_id: 2848
 source_type: "Text"
 url: /maori-girls-school
 image: /images/MaoriGirlsSchool.png
+image_alt: "Text of article. Transcription below."
 regions: 
   - "Oceania"
 subjects: 

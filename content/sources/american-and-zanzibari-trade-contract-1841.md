@@ -5,6 +5,7 @@ drupal_node_id: 2877
 source_type: "Image"
 url: /american-and-zanzibari-trade-contract-1841
 image: /images/ZanzibariTradeContract.png
+image_alt: "Text of contract in English and Arabic. Explanation in source annotation."
 regions: 
   - "Africa"
   - "North/Central America"

@@ -5,6 +5,10 @@ drupal_node_id: 117
 source_type: "Text"
 url: /jfks-assassination
 image: /images/cyhjfkp1_c46dc0e8d7.jpg
+image_alt: "Child's writing on JFK's death"
+additional_images:
+  - src: "/images/source-media/117/cyhjfkp2_110a3d28bb.jpg"
+    alt: "Child's writing on JFK's death"
 regions: 
   - "North/Central America"
 subjects: 

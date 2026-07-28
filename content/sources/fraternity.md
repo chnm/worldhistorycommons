@@ -5,6 +5,7 @@ drupal_node_id: 195
 source_type: "Image"
 url: /fraternity
 image: /images/3f46b0192de1c836c2e098c3a3a59d91.jpg
+image_alt: "Print of woman depicting \"Fraternity\""
 regions: 
   - "Europe"
 subjects: 

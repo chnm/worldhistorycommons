@@ -5,6 +5,7 @@ drupal_node_id: 962
 source_type: "Text"
 url: /rights-man
 image: /images/rights-of-man.png
+image_alt: "Rights of Man"
 regions: 
   - "Europe"
   - "North/Central America"

@@ -5,6 +5,7 @@ drupal_node_id: 1033
 source_type: "Image"
 url: /mode-training-blood-hounds-st-domingo
 image: /images/mode-of-training.jpg
+image_alt: "Engraving called The Mode of training Blood Hounds in St. Domingo"
 regions: 
   - "North/Central America"
 subjects: 

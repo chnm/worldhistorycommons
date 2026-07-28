@@ -5,6 +5,7 @@ drupal_node_id: 1028
 source_type: "Image"
 url: /return-varennes-arrival-louis-capet-paris
 image: /images/884047aa5f2785e30e0497bb9fb045cd.jpg
+image_alt: "Engraving of royal family returning to Paris"
 regions: 
   - "Europe"
 subjects: 

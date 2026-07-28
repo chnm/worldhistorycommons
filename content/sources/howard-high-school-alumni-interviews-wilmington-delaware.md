@@ -5,6 +5,9 @@ drupal_node_id: 135
 source_type: "Video"
 url: /howard-high-school-alumni-interviews-wilmington-delaware
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "North/Central America"
 subjects: 

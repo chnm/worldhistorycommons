@@ -5,6 +5,7 @@ drupal_node_id: 956
 source_type: "Text"
 url: /alexander-hamilton-french-revolution
 image: /images/Alexander_Hamilton.jpg
+image_alt: "Alexander Hamilton"
 regions: 
   - "Europe"
   - "North/Central America"

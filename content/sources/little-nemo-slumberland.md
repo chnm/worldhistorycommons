@@ -5,6 +5,7 @@ drupal_node_id: 1431
 source_type: "Image"
 url: /little-nemo-slumberland
 image: /images/little_nemo.png
+image_alt: "image of the little nemo comic"
 regions: 
   - "North/Central America"
 subjects: 

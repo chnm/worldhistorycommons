@@ -5,6 +5,7 @@ drupal_node_id: 41
 source_type: "Image"
 url: /los-tres-mulatos-de-esmeraldas
 image: /images/Los-tres-mulatos-de-Esmeraldas.jpg
+image_alt: "Los tres mulatos de Esmeraldas"
 regions: 
   - "North/Central America"
 subjects: 

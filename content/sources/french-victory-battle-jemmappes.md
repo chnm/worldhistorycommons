@@ -5,6 +5,7 @@ drupal_node_id: 1097
 source_type: "Image"
 url: /french-victory-battle-jemmappes
 image: /images/47903c87c93b1ea068e415395c34e520.jpg
+image_alt: "Engraving of the French victory at the Battle of Jemmappes"
 regions: 
   - "Europe"
 subjects: 

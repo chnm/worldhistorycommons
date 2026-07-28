@@ -5,6 +5,7 @@ drupal_node_id: 3022
 source_type: "Image"
 url: /pestle-finial-papua-new-guinea
 image: /images/whc_pestle_finial_main_image_0.jpeg
+image_alt: "A brown-colored, stone figure loosely in the shape of a bird with a beak and two small wings."
 regions: 
   - "Oceania"
 subjects: 

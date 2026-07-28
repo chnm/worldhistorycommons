@@ -4,7 +4,8 @@ doc_type: source
 drupal_node_id: 3108
 source_type: "Image"
 url: /suffrage-atelier-postcard-1909
-image: 
+image: /images/source-media/3108/how-the-law-protects-the-daughters.jpg
+image_alt: "Depicts French Girls (on the left) and English girls (on the right) in a room with the caption reading \"How the Law 'Protects the Daughters'\""
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,9 @@ drupal_node_id: 337
 source_type: "Video"
 url: /young-voices-disability-india
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "Asia"
 subjects: 

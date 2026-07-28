@@ -5,6 +5,7 @@ drupal_node_id: 1060
 source_type: "Image"
 url: /last-meeting-louis-xvi-his-family-temple-prison
 image: /images/53f5c46785fccec88bbba53532d67026.jpg
+image_alt: "Engraving of King Louis XVI's last meeting with his family"
 regions: 
   - "Europe"
 subjects: 

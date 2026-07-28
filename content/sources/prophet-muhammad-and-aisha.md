@@ -5,6 +5,7 @@ drupal_node_id: 214
 source_type: "Image"
 url: /prophet-muhammad-and-aisha
 image: /images/Muhammed-Aisha.jpg
+image_alt: "The Prophet Muhammad and A’isha"
 regions: 
   - "Middle East"
 subjects: 

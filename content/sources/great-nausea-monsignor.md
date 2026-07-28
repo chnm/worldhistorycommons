@@ -5,6 +5,7 @@ drupal_node_id: 452
 source_type: "Image"
 url: /great-nausea-monsignor
 image: /images/4ed35d45d648077ac3f3107e1b0cfa06.jpg
+image_alt: "Engraving mocking the clergy"
 regions: 
   - "Europe"
 subjects: 

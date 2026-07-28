@@ -5,6 +5,7 @@ drupal_node_id: 84
 source_type: "Image"
 url: /der-struwwelpeter-slovenly-peter
 image: /images/cyhstruwwelpeterpix_7f1fb5a9e5.jpg
+image_alt: "Illustration of children's book scene"
 regions: 
   - "Europe"
 subjects: 

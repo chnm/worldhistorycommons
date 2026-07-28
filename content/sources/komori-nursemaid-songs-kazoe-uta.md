@@ -5,6 +5,7 @@ drupal_node_id: 1372
 source_type: "Text"
 url: /komori-nursemaid-songs-kazoe-uta
 image: /images/Icons-Document_165.jpg
+image_alt: "image of the song lyrics"
 regions: 
   - "Asia"
 subjects: 

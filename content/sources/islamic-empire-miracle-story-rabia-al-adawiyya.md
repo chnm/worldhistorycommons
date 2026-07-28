@@ -5,6 +5,7 @@ drupal_node_id: 1214
 source_type: "Text"
 url: /islamic-empire-miracle-story-rabia-al-adawiyya
 image: /images/Icons-Literary-Source_5.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

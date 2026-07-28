@@ -5,6 +5,7 @@ drupal_node_id: 276
 source_type: "Image"
 url: /vanguard-women-going-versailles
 image: /images/vanguard-of-women.jpg
+image_alt: "Print of crowd of women standing behind woman on horseback"
 regions: 
   - "Europe"
 subjects: 

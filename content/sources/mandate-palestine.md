@@ -5,6 +5,7 @@ drupal_node_id: 2956
 source_type: "Text"
 url: /mandate-palestine
 image: /images/Icons-Document_716.jpg
+image_alt: "A blue, circular icon with an image of a document in the center. Underneath are the words \"view document\""
 regions: 
   - "Comparative"
   - "Europe"

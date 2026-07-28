@@ -5,6 +5,12 @@ drupal_node_id: 1218
 source_type: "Text"
 url: /1919-cleveland-protestant-orphan-asylum-annual-report
 image: /images/orphan13.jpg
+image_alt: "Picture of an orphan child on a barn with his goat."
+additional_images:
+  - src: "/images/source-media/1218/orphan15.jpg"
+    alt: "Picture of two orphan children feeding a goat"
+  - src: "/images/source-media/1218/orphan11.jpg"
+    alt: "Picture of a baby"
 regions: 
   - "North/Central America"
 subjects: 

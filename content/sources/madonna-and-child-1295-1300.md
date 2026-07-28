@@ -5,6 +5,7 @@ drupal_node_id: 86
 source_type: "Image"
 url: /madonna-and-child-1295-1300
 image: /images/madonna__child_2004442el_87e0794384.jpg
+image_alt: "Depiction of the Virgin Mary and the infant Jesus in Byzantine icons"
 regions: 
   - "Europe"
 subjects: 

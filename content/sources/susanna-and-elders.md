@@ -5,6 +5,7 @@ drupal_node_id: 244
 source_type: "Image"
 url: /susanna-and-elders
 image: /images/susanna.jpg
+image_alt: "Susanna and the Elders painting"
 regions: 
   - "Europe"
 subjects: 

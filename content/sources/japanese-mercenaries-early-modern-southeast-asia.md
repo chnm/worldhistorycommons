@@ -5,6 +5,7 @@ drupal_node_id: 651
 source_type: "Text"
 url: /japanese-mercenaries-early-modern-southeast-asia
 image: /images/SIgnatures.jpg
+image_alt: "Signatures of Japanese soldiers executed at Amboyna"
 regions: 
   - "Asia"
   - "Europe"

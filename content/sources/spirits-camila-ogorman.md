@@ -6,6 +6,7 @@ drupal_node_id: 406
 source_type: "Text"
 url: /spirits-camila-ogorman
 image: /images/camilaogorman.jpg
+image_alt: "Title page of Camila O'Gorman"
 regions: 
   - "South America"
 subjects: 

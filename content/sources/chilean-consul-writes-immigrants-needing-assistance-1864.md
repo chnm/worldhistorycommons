@@ -5,6 +5,10 @@ drupal_node_id: 2852
 source_type: "Text"
 url: /chilean-consul-writes-immigrants-needing-assistance-1864
 image: /images/Zenteno1864Pt1.JPG
+image_alt: "Photo of handwritten letter. Transcription and translation below"
+additional_images:
+  - src: "/images/source-media/2852/Zenteno1864Pt2.jpg"
+    alt: "Photo of handwritten letter. Transcription and translation below"
 regions: 
   - "South America"
 subjects: 

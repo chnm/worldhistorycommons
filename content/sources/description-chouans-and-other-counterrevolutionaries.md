@@ -5,6 +5,7 @@ drupal_node_id: 980
 source_type: "Image"
 url: /description-chouans-and-other-counterrevolutionaries
 image: /images/chouans.jpg
+image_alt: "Description of the Chouans and other Counterrevolutionaries"
 regions: 
   - "Europe"
 subjects: 

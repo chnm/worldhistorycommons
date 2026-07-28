@@ -5,6 +5,7 @@ drupal_node_id: 282
 source_type: "Image"
 url: /siege-tuileries
 image: /images/tuileries.jpg
+image_alt: "Engraving of storming of the Tuileries Palace"
 regions: 
   - "Europe"
 subjects: 

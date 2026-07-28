@@ -5,6 +5,7 @@ drupal_node_id: 153
 source_type: "Image"
 url: /kuwera-relief-panel-candi-mendut-java
 image: /images/kuwera-candi-mendut_4bb50c0ab5.jpg
+image_alt: "Stone relief carving from inside of Buddist temple"
 regions: 
   - "Asia"
 subjects: 

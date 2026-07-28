@@ -5,6 +5,7 @@ drupal_node_id: 1773
 source_type: "Image"
 url: /gender-roles-among-nahua-codex-mendoza
 image: /images/490px-codex_mendoza_folio_60r_8aca4620fa.jpg
+image_alt: "image of gender roles being portrayed"
 regions: 
   - "North/Central America"
 subjects: 

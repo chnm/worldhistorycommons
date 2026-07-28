@@ -5,6 +5,10 @@ drupal_node_id: 314
 source_type: "Object"
 url: /childs-sock
 image: /images/egypt-childs-sock.jpg
+image_alt: "Child's Sock"
+additional_images:
+  - src: "/images/source-media/314/loop-knitting-egypt-sock.jpg"
+    alt: "Child's Sock loop knitting"
 regions: 
   - "Africa"
 subjects: 

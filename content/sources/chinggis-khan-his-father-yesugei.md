@@ -5,6 +5,7 @@ drupal_node_id: 2754
 source_type: "Text"
 url: /chinggis-khan-his-father-yesugei
 image: /images/Text_Image_7.jpeg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

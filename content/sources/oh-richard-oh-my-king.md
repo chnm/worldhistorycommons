@@ -5,6 +5,9 @@ drupal_node_id: 1117
 source_type: "Audio"
 url: /oh-richard-oh-my-king
 image: 
+audio_files:
+  - src: "/audio/source-media/1117/0cf35804a9a73cf23981d8d0b36df093.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

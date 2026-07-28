@@ -5,6 +5,7 @@ drupal_node_id: 279
 source_type: "Image"
 url: /dona-marina-florentine-codex
 image: /images/florentinelarge.jpg
+image_alt: "Malinche Translating from Palace Roof Top"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1284
 source_type: "Text"
 url: /preamble-fundamental-code-education
 image: /images/Icons-Document_115.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

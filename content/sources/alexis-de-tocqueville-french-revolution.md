@@ -5,6 +5,7 @@ drupal_node_id: 949
 source_type: "Text"
 url: /alexis-de-tocqueville-french-revolution
 image: /images/Alexis_de_tocqueville.jpg
+image_alt: "Alexis de Tocqueville"
 regions: 
   - "Europe"
 subjects: 

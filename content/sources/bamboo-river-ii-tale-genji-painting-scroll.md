@@ -5,6 +5,7 @@ drupal_node_id: 256
 source_type: "Image"
 url: /bamboo-river-ii-tale-genji-painting-scroll
 image: /images/genjibamboo.jpg
+image_alt: "Bamboo River II, Tale of Genji Painting Scroll"
 regions: 
   - "Asia"
 subjects: 

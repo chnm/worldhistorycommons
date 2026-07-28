@@ -5,6 +5,7 @@ drupal_node_id: 1043
 source_type: "Image"
 url: /contrast-1793-british-libertyfrench-liberty
 image: /images/the-contrast.jpg
+image_alt: "The Contrast, 1793 British Liberty/French Liberty"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1484
 source_type: "Text"
 url: /queens-defense-14-october-1793
 image: /images/Icons-Document_257.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

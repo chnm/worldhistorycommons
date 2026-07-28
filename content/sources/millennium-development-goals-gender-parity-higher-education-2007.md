@@ -5,6 +5,7 @@ drupal_node_id: 57
 source_type: "Image"
 url: /millennium-development-goals-gender-parity-higher-education-2007
 image: /images/7mdg-gender-parity-higher-ed-2009_cfaae9c91f.jpg
+image_alt: "Chart of gender parity in higher education"
 regions: 
   - "Comparative"
   - "Global"

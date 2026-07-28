@@ -5,6 +5,7 @@ drupal_node_id: 965
 source_type: "Text"
 url: /battle-waterloo-seen-ordinary-british-cavalryman
 image: /images/battle-of-waterloo.png
+image_alt: "The Battle of Waterloo as Seen by an Ordinary British Cavalryman"
 regions: 
   - "Europe"
 subjects: 

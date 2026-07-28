@@ -5,6 +5,7 @@ drupal_node_id: 271
 source_type: "Image"
 url: /punishment-foulon
 image: /images/foulon.jpg
+image_alt: "Engraving of the aftermath of the attack on the Bastille"
 regions: 
   - "Europe"
 subjects: 

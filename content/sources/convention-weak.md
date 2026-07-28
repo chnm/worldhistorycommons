@@ -5,6 +5,7 @@ drupal_node_id: 1500
 source_type: "Text"
 url: /convention-weak
 image: /images/Icons-Document_272.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

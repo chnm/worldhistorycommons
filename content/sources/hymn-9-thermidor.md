@@ -5,6 +5,9 @@ drupal_node_id: 1115
 source_type: "Audio"
 url: /hymn-9-thermidor
 image: 
+audio_files:
+  - src: "/audio/source-media/1115/ff27ea3cf32191b759e89994420845f4.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

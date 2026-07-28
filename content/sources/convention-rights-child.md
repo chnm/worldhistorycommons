@@ -5,6 +5,7 @@ drupal_node_id: 1126
 source_type: "Text"
 url: /convention-rights-child
 image: /images/Icons-Document_1.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
   - "Global"

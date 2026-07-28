@@ -5,6 +5,7 @@ drupal_node_id: 2574
 source_type: "Text"
 url: /federal-constitution-united-mexican-states-1857
 image: /images/Mexico_Constitution_1857.jpg
+image_alt: "Mexico Constitution 1857"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 269
 source_type: "Image"
 url: /tobacco-workers
 image: /images/tobacco-stripper.jpg
+image_alt: "Tobacco Workers"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 390
 source_type: "Text"
 url: /interesting-narrative-life-olaudah-equiano-slave-auction
 image: /images/Olaudah_Equiano.jpg
+image_alt: "Title page of The Interesting Narrative of the Life of Olaudah Equiano"
 regions: 
   - "North/Central America"
 subjects: 

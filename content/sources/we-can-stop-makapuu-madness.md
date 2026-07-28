@@ -6,6 +6,7 @@ drupal_node_id: 2826
 source_type: "Image"
 url: /we-can-stop-makapuu-madness
 image: /images/StopThisMadness.jpeg
+image_alt: "John Kelly, \"We can stop this Makapuu madness!\" (c. 1970)"
 regions: 
   - "North/Central America"
   - "Oceania"

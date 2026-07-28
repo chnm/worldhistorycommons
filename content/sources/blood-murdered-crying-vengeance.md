@@ -5,6 +5,7 @@ drupal_node_id: 983
 source_type: "Image"
 url: /blood-murdered-crying-vengeance
 image: /images/guillotine_0.jpg
+image_alt: "Engraving of a guillotine"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,9 @@ drupal_node_id: 1153
 source_type: "Audio"
 url: /alarm-people
 image: 
+audio_files:
+  - src: "/audio/source-media/1153/THE_ALARM_OF_THE_PEOPLE.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

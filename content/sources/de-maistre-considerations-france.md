@@ -5,6 +5,7 @@ drupal_node_id: 947
 source_type: "Text"
 url: /de-maistre-considerations-france
 image: /images/Jmaistre.jpg
+image_alt: "Joseph de Maistre"
 regions: 
   - "Europe"
 subjects: 

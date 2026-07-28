@@ -5,6 +5,7 @@ drupal_node_id: 950
 source_type: "Text"
 url: /john-stuart-mill-french-revolution
 image: /images/John_Stuart_Mill.jpg
+image_alt: "John Stuart Mill"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1730
 source_type: "Text"
 url: /southeast-asian-politics-website-sisters-islam
 image: /images/Icons-Document_469.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

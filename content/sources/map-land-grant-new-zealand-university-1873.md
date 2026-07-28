@@ -5,6 +5,7 @@ drupal_node_id: 2880
 source_type: "Image"
 url: /map-land-grant-new-zealand-university-1873
 image: /images/Endowment.png
+image_alt: "Map of North Island of Aotearoa New Zealand outlines the lands that surround the Kimihia and Hakanoa Lakes."
 regions: 
   - "Oceania"
 subjects: 

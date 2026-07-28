@@ -5,6 +5,7 @@ drupal_node_id: 952
 source_type: "Text"
 url: /mazzini-revolutionary-nationalism
 image: /images/Giuseppe_Mazzini.jpg
+image_alt: "Guiseppi Mazzini"
 regions: 
   - "Europe"
 subjects: 

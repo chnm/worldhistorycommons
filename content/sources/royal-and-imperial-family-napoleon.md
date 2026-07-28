@@ -5,6 +5,7 @@ drupal_node_id: 1020
 source_type: "Image"
 url: /royal-and-imperial-family-napoleon
 image: /images/royal-imperial-family-napoleon.jpg
+image_alt: "The Royal and Imperial Family of Napoleon"
 regions: 
   - "Europe"
 subjects: 

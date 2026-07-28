@@ -5,6 +5,7 @@ drupal_node_id: 134
 source_type: "Image"
 url: /carlisle-indian-school-students
 image: /images/prattpupilsinfrontofprattsquarterscarlisleindianschool1885l_07a7581bbe.jpg
+image_alt: "Photograph of schoolchildren all gathered together"
 regions: 
   - "North/Central America"
 subjects: 

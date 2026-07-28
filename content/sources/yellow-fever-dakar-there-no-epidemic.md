@@ -6,6 +6,7 @@ drupal_node_id: 2873
 source_type: "Image"
 url: /yellow-fever-dakar-there-no-epidemic
 image: /images/DiagneInterview.JPG
+image_alt: "Newspaper article with headline \"La fièvre jaune à Dakar - Il n’y a pas d’épidémie,\" explanation in annotation folder.."
 regions: 
   - "Africa"
   - "Europe"

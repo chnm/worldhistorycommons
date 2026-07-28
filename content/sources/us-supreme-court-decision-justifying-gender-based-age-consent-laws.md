@@ -5,6 +5,7 @@ drupal_node_id: 1220
 source_type: "Text"
 url: /us-supreme-court-decision-justifying-gender-based-age-consent-laws
 image: /images/Icons-Document_68.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2693
 source_type: "Image"
 url: /newspaper-report-eva-perons-death
 image: /images/NYT_1952_Eva_Peron.png
+image_alt: "New York Time's reports on Eva Peron's death in Argentina in 1952"
 regions: 
   - "Comparative"
 subjects: 

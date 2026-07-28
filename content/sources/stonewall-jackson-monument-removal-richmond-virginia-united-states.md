@@ -5,6 +5,7 @@ drupal_node_id: 2538
 source_type: "Object"
 url: /stonewall-jackson-monument-removal-richmond-virginia-united-states
 image: /images/Jackson_statue_removal.jpg
+image_alt: "Removal of Thomas \"Stonewall\" Jackson monument, Monument Avenue, Richmond, Virginia"
 regions: 
   - "North/Central America"
 subjects: 

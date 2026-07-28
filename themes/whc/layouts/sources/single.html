@@ -16,15 +16,40 @@
 <div class="two-cols">
   <div>
     {{ if .Params.youtube_id }}
-    <div class="video-embed-field-provider-youtube video-embed-field-responsive-video">
+    <div class="video-embed-field-provider-youtube video-embed-field-responsive-video"{{ with .Params.youtube_replaces }} data-replaces-youtube-id="{{ . }}"{{ end }}>
+      <span class="sr-only">Video: {{ .Title }}</span>
       <iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"
+        title="Video: {{ .Title }}"
         src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?rel=0" loading="lazy"></iframe>
+    </div>
+    {{ else if .Params.audio_files }}
+    <div class="audio-wrap">
+      {{ range .Params.audio_files }}
+      <div class="source-audio">
+        <audio controls preload="metadata">
+          <source src="{{ .src }}">
+          Your browser does not support embedded audio.
+        </audio>
+        <a class="dl-link" href="{{ .src }}" download>{{ .label | default "Download audio" }}</a>
+      </div>
+      {{ end }}
     </div>
     {{ else if .Params.image }}
     <div class="image-wrap">
       <div><div>
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        <img src="{{ .Params.image }}" alt="{{ .Params.image_alt | default .Title }}">
+        {{ range .Params.additional_images }}
+        <img src="{{ .src }}" alt="{{ .alt | default $.Title }}" loading="lazy">
+        {{ end }}
       </div></div>
+    </div>
+    {{ else if .Params.media_unavailable }}
+    <div class="source-media-unavailable box-border" role="note">
+      <strong>{{ .Params.media_unavailable.type | title }} unavailable</strong>
+      <p>{{ .Params.media_unavailable.message }}</p>
+      {{ with .Params.media_unavailable.original_url }}
+      <a href="{{ . }}">Original media link</a>
+      {{ end }}
     </div>
     {{ end }}
   </div>

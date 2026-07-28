@@ -5,6 +5,7 @@ drupal_node_id: 310
 source_type: "Object"
 url: /phoenician-baby-bottle
 image: /images/baby_bottle_face.jpg
+image_alt: "Phoenician Baby Bottle"
 regions: 
   - "Africa"
 subjects: 

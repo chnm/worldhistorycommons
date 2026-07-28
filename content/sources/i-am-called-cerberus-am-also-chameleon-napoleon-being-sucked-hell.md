@@ -5,6 +5,7 @@ drupal_node_id: 1016
 source_type: "Image"
 url: /i-am-called-cerberus-am-also-chameleon-napoleon-being-sucked-hell
 image: /images/chameleon-napoleon.jpg
+image_alt: "I Am Called Cerberus but Am Also a Chameleon: Napoleon Being Sucked into Hell"
 regions: 
   - "Europe"
 subjects: 

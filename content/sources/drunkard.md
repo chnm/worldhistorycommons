@@ -5,6 +5,7 @@ drupal_node_id: 217
 source_type: "Image"
 url: /drunkard
 image: /images/Drunkard-Namayoi.jpg
+image_alt: "The Drunkard"
 regions: 
   - "Asia"
 subjects: 

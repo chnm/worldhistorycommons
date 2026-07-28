@@ -5,6 +5,10 @@ drupal_node_id: 122
 source_type: "Image"
 url: /liberty-form-goddess-youth
 image: /images/196386_green_338266214a.jpg
+image_alt: "Embrodiery of young woman and bald eagle"
+additional_images:
+  - src: "/images/source-media/122/cyhlibertygoddessloc_87a383e4e0.jpg"
+    alt: "B&W Embrodiery of young woman and bald eagle"
 regions: 
   - "Europe"
 subjects: 

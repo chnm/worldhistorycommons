@@ -5,6 +5,7 @@ drupal_node_id: 2784
 source_type: "Image"
 url: /naval-encounter-between-dutch-and-spanish-warships
 image: /images/Spanish_Galleon.jpeg
+image_alt: "Painting of a Spanish Galleon at sea firing its canons"
 regions: 
   - "Global"
 subjects: 

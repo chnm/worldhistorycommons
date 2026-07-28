@@ -5,6 +5,7 @@ drupal_node_id: 572
 source_type: "Image"
 url: /liberty
 image: /images/40383009e6c1273c8b8e5e4b6620a398.jpg
+image_alt: "Painting of Liberty holding symbols of the revolution"
 regions: 
   - "Europe"
 subjects: 

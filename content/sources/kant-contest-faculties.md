@@ -5,6 +5,7 @@ drupal_node_id: 955
 source_type: "Text"
 url: /kant-contest-faculties
 image: /images/Kant.jpg
+image_alt: "Immanuel Kant"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 958
 source_type: "Image"
 url: /tennis-court-oath-versailles-jacques-louis-david
 image: /images/72404386efd41d53c641eabea8633d91.jpg
+image_alt: "Print depicting unity of the Third Estate"
 regions: 
   - "Europe"
 subjects: 

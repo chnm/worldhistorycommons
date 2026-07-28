@@ -5,6 +5,7 @@ drupal_node_id: 2764
 source_type: "Image"
 url: /ancient-courses-mississippi-river-meander-belt
 image: /images/harold-fisk-maps-01.jpeg
+image_alt: "Sheet 7 of Ancient Courses: Mississippi River Meander Belt Map"
 regions: 
   - "North/Central America"
 subjects: 

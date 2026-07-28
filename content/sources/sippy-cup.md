@@ -5,6 +5,7 @@ drupal_node_id: 114
 source_type: "Object"
 url: /sippy-cup
 image: /images/belitung-spout-cup_c297c0d57b.jpg
+image_alt: "Photo of ceramic cup with a drinking spout"
 regions: 
   - "Middle East"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2476
 source_type: "Image"
 url: /griots-west-africa
 image: /images/Jali.png
+image_alt: "Griots in West Africa"
 regions: 
   - "Africa"
 subjects: 

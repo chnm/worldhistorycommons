@@ -5,6 +5,7 @@ drupal_node_id: 1684
 source_type: "Text"
 url: /writers-heian-era-diary-lady-sarashina
 image: /images/Icons-Book-Excerpt_20.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

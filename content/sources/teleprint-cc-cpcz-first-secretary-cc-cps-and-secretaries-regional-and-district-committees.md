@@ -5,6 +5,7 @@ drupal_node_id: 1998
 source_type: "Text"
 url: /teleprint-cc-cpcz-first-secretary-cc-cps-and-secretaries-regional-and-district-committees
 image: /images/Icons-Document_541.jpg
+image_alt: "View document icon"
 regions: 
   - "Europe"
 subjects: 

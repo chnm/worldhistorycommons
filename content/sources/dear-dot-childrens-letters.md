@@ -6,6 +6,7 @@ drupal_node_id: 1227
 source_type: "Text"
 url: /dear-dot-childrens-letters
 image: /images/Icons-Article-Excerpt_3.jpg
+image_alt: "image of the article"
 regions: 
   - "Europe"
 subjects: 

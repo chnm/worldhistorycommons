@@ -4,7 +4,8 @@ doc_type: source
 drupal_node_id: 2975
 source_type: "Image"
 url: /newspaper-article-promoting-pan-african-congress
-image: 
+image: /images/source-media/2975/The_Monitor_Image_file_WC__.png
+image_alt: "Image of newspaper. Transcription in folder."
 regions: 
   - "North/Central America"
 subjects: 

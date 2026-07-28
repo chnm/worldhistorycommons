@@ -5,6 +5,7 @@ drupal_node_id: 2575
 source_type: "Text"
 url: /new-york-times-editorial-mexico-november-21-1855
 image: /images/ViewDocumentImage_0_4.jpeg
+image_alt: "Document icon"
 regions: 
   - "Comparative"
   - "Europe"

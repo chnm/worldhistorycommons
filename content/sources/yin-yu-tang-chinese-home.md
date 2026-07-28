@@ -5,6 +5,12 @@ drupal_node_id: 73
 source_type: "Image"
 url: /yin-yu-tang-chinese-home
 image: /images/yinyutang_a345fb1b20.jpg
+image_alt: "Yin Yu Tang 1"
+additional_images:
+  - src: "/images/source-media/73/YinYuTang2.jpg"
+    alt: "Yin Yu Tang 2"
+  - src: "/images/source-media/73/YinYuTang3.jpg"
+    alt: "Yin Yu Tang 3"
 regions: 
   - "Asia"
 subjects: 

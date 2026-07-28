@@ -5,6 +5,7 @@ drupal_node_id: 194
 source_type: "Image"
 url: /national-assembly-relinquishes-all-privileges
 image: /images/a169ca5a5861abde11783d1845cc27b9.jpg
+image_alt: "Engraving of image of important event to the Revolution"
 regions: 
   - "Europe"
 subjects: 

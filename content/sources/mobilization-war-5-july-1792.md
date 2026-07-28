@@ -5,6 +5,7 @@ drupal_node_id: 1488
 source_type: "Text"
 url: /mobilization-war-5-july-1792
 image: /images/Icons-Document-thumbnail_263.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

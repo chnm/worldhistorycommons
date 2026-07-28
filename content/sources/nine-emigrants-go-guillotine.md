@@ -5,6 +5,7 @@ drupal_node_id: 1106
 source_type: "Image"
 url: /nine-emigrants-go-guillotine
 image: /images/8ff39dc4e18a4a6d1bcbfc8ba8f4e967.jpg
+image_alt: "Engraving of nine \"traitors\" executed by guillotine"
 regions: 
   - "Europe"
 subjects: 

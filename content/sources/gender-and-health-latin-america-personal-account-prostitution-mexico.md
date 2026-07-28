@@ -5,6 +5,7 @@ drupal_node_id: 1653
 source_type: "Text"
 url: /gender-and-health-latin-america-personal-account-prostitution-mexico
 image: /images/Icons-Document_404.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1759
 source_type: "Object"
 url: /diapers
 image: /images/pampers_cruisers_73fc8fa125.jpg
+image_alt: "pampers"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 346
 source_type: "Image"
 url: /bust-marat
 image: /images/4f46c15ed89fd944c31ee4d86b9af080.jpg
+image_alt: "Portrait of a bust of Marat"
 regions: 
   - "Europe"
 subjects: 

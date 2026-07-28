@@ -5,6 +5,7 @@ drupal_node_id: 1160
 source_type: "Text"
 url: /abd-al-latif-al-baghdadis-autobiography
 image: /images/Icons-Document_23.jpg
+image_alt: "image of the text"
 regions: 
   - "Middle East"
 subjects: 

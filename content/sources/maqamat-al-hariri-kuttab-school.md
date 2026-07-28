@@ -5,6 +5,7 @@ drupal_node_id: 110
 source_type: "Image"
 url: /maqamat-al-hariri-kuttab-school
 image: /images/kuttab-maqamat_f30677ef79.jpg
+image_alt: "Painting of primary school children"
 regions: 
   - "Middle East"
 subjects: 

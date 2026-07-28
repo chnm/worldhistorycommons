@@ -5,6 +5,7 @@ drupal_node_id: 975
 source_type: "Image"
 url: /cap-francais-fire
 image: /images/the-cap.jpg
+image_alt: "The Cap Français Fire"
 regions: 
   - "Europe"
 subjects: 

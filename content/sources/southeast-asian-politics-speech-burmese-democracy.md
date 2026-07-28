@@ -5,6 +5,7 @@ drupal_node_id: 1599
 source_type: "Text"
 url: /southeast-asian-politics-speech-burmese-democracy
 image: /images/Icons-Document_354.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

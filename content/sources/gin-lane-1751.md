@@ -5,6 +5,7 @@ drupal_node_id: 96
 source_type: "Image"
 url: /gin-lane-1751
 image: /images/gin-lane_ab79c4ea97.jpg
+image_alt: "Sketch of people laying aroung on the street"
 regions: 
   - "Europe"
 subjects: 

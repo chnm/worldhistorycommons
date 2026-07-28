@@ -5,6 +5,7 @@ drupal_node_id: 75
 source_type: "Image"
 url: /two-girls-carrying-children
 image: /images/two-girls-carrying-children_7f741aa954.jpg
+image_alt: "Two girls carrying children"
 regions: 
   - "Asia"
 subjects: 

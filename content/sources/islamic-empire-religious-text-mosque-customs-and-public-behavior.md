@@ -5,6 +5,7 @@ drupal_node_id: 1212
 source_type: "Text"
 url: /islamic-empire-religious-text-mosque-customs-and-public-behavior
 image: /images/Icons-Literary-Source_3.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2651
 source_type: "Image"
 url: /old-mission-san-buenaventura
 image: /images/Mission_San_Buenaventura.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

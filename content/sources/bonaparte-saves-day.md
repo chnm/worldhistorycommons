@@ -5,6 +5,7 @@ drupal_node_id: 1502
 source_type: "Text"
 url: /bonaparte-saves-day
 image: /images/Icons-Document_274.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2885
 source_type: "Image"
 url: /cold-war-europe-military-alliances-map
 image: /images/Cold_war_europe_military_alliances_map_en.png
+image_alt: "Map of Europe with countries shaded based on membership in NATO, the Warsaw Pact or nonaligned."
 regions: 
   - "Europe"
 subjects: 

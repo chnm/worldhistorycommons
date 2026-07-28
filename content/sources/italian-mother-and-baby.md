@@ -5,6 +5,7 @@ drupal_node_id: 318
 source_type: "Image"
 url: /italian-mother-and-baby
 image: /images/italian-mother-and-baby.jpg
+image_alt: "Italian Mother and Baby photograph"
 regions: 
   - "North/Central America"
 subjects: 

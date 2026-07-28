@@ -6,6 +6,7 @@ drupal_node_id: 2957
 source_type: "Image"
 url: /big-business-banishes-flapper
 image: /images/Big_Business_Banishes_the_Flapper.jpg
+image_alt: "A newspaper article titled big business banishes the flapper. On the left is a woman dressed as a flapper, and on the right is a woman dressed modestly in black."
 regions: 
   - "North/Central America"
 subjects: 

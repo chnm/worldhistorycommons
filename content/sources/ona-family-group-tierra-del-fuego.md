@@ -5,6 +5,7 @@ drupal_node_id: 367
 source_type: "Image"
 url: /ona-family-group-tierra-del-fuego
 image: /images/ona-tierra-del-fuego.jpg
+image_alt: "photograph of Ona Family Group of Tierra del Fuego"
 regions: 
   - "South America"
 subjects: 

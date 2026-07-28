@@ -5,6 +5,9 @@ drupal_node_id: 1149
 source_type: "Audio"
 url: /patriotic-song-unveiling-busts-marat-and-le-pelletier-1793
 image: 
+audio_files:
+  - src: "/audio/source-media/1149/PATRIOTIC_SONG_ON_THE_UNVEILING_OF_THE_BUSTS_OF_MARAT_AND_LE_PELLETIER__1793_.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

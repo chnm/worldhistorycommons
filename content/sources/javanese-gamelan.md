@@ -5,6 +5,7 @@ drupal_node_id: 2480
 source_type: "Image"
 url: /javanese-gamelan
 image: /images/1200px-Javanese_Gamelan.jpg
+image_alt: "Javanese Gamelan Ensemble during a traditional Javanese Wedding Ceremony"
 regions: 
   - "Asia"
 subjects: 

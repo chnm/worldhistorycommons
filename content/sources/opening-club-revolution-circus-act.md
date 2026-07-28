@@ -5,6 +5,7 @@ drupal_node_id: 340
 source_type: "Image"
 url: /opening-club-revolution-circus-act
 image: /images/824c708f09e542a311d72ad955765acc.jpg
+image_alt: "Engraving mocking revolutionary club as a circus"
 regions: 
   - "Europe"
 subjects: 

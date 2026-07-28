@@ -5,6 +5,7 @@ drupal_node_id: 1029
 source_type: "Image"
 url: /image-kings-departure
 image: /images/image-of-kings-departure.jpg
+image_alt: "Image of the King’s Departure"
 regions: 
   - "Europe"
 subjects: 

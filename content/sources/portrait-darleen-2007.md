@@ -5,6 +5,7 @@ drupal_node_id: 81
 source_type: "Image"
 url: /portrait-darleen-2007
 image: /images/darleen_99dbe709ce.jpg
+image_alt: "Photo of a young girl leaning slightly against a tree"
 regions: 
   - "Europe"
 subjects: 

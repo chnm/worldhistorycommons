@@ -5,6 +5,7 @@ drupal_node_id: 106
 source_type: "Image"
 url: /egyptian-ramadan-lanterns
 image: /images/2053_067-children-night-street-lanterns-combined_0dd1dfe4b6.jpg
+image_alt: "Photo of Ramadan celebrations"
 regions: 
   - "Africa"
 subjects: 

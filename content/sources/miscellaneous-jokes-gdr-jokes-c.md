@@ -5,6 +5,7 @@ drupal_node_id: 1736
 source_type: "Text"
 url: /miscellaneous-jokes-gdr-jokes-c
 image: /images/Icons-Document_474.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

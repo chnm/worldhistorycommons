@@ -5,6 +5,7 @@ drupal_node_id: 198
 source_type: "Image"
 url: /taking-weapons-invalides
 image: /images/invalides.jpg
+image_alt: "Engraving of crowd gathered to sack royal hospital"
 regions: 
   - "Europe"
 subjects: 

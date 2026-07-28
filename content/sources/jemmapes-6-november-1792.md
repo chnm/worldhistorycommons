@@ -5,6 +5,7 @@ drupal_node_id: 1098
 source_type: "Image"
 url: /jemmapes-6-november-1792
 image: /images/d1b49f5c867d7757dab03898e385dbf5.jpg
+image_alt: "Engraving of French citizen-soldiers at the Battle of Jemmapes"
 regions: 
   - "Europe"
 subjects: 

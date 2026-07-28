@@ -5,6 +5,7 @@ drupal_node_id: 3028
 source_type: "Image"
 url: /shell-pendant-or-bead-ecuador
 image: /images/WHC_shell_pendant_or_bead.jpeg
+image_alt: "A light colored, rectangular bead with small, stripe-like markings."
 regions: 
   - "South America"
 subjects: 

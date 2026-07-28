@@ -5,6 +5,7 @@ drupal_node_id: 2863
 source_type: "Image"
 url: /bill-lading-ship-piscataqua-bilbao-spain-1721
 image: /images/BillofLading.jpg
+image_alt: "Image of bill written in script. Transcription on source page and explanation in source annotation."
 regions: 
   - "Europe"
   - "North/Central America"

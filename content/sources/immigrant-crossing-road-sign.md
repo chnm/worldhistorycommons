@@ -5,6 +5,7 @@ drupal_node_id: 305
 source_type: "Image"
 url: /immigrant-crossing-road-sign
 image: /images/immigrant_crossing_san_diego.jpg
+image_alt: "Immigrant Crossing Road Sign"
 regions: 
   - "North/Central America"
 subjects: 

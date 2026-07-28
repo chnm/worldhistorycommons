@@ -5,6 +5,7 @@ drupal_node_id: 2849
 source_type: "Text"
 url: /south-african-native-affairs-commission-report-education
 image: /images/NACR.png
+image_alt: "Cover with text South African Native Affairs Commission 1903-1905 Report"
 regions: 
   - "Africa"
 subjects: 

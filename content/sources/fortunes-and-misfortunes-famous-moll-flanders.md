@@ -5,6 +5,7 @@ drupal_node_id: 416
 source_type: "Text"
 url: /fortunes-and-misfortunes-famous-moll-flanders
 image: /images/moll-flanders.jpg
+image_alt: "Excerpt of Moll Flanders"
 regions: 
   - "Europe"
 subjects: 

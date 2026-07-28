@@ -5,6 +5,7 @@ drupal_node_id: 2888
 source_type: "Text"
 url: /alma-ata-declaration
 image: /images/Icons-Document.jpg
+image_alt: "document icon"
 regions: 
   - "Europe"
 subjects: 

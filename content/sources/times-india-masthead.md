@@ -5,6 +5,7 @@ drupal_node_id: 2695
 source_type: "Image"
 url: /times-india-masthead
 image: /images/Times_of_India_Masthead.jpg
+image_alt: "The Times of India masthead from September 28, 2017"
 regions: 
   - "Asia"
 subjects: 

@@ -5,7 +5,10 @@ drupal_node_id: 2845
 source_type: "Video"
 url: /video-march-flags-1929-boy-scout-world-jamboree
 image: 
-youtube_id: hu9TKFtT38g
+media_unavailable:
+  type: video
+  message: "The video linked from the original site is no longer available, and no exact replacement has been confirmed."
+  original_url: "https://www.youtube.com/watch?v=hu9TKFtT38g"
 regions: 
   - "Global"
 subjects: 

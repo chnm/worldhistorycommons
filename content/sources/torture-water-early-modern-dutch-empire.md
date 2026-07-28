@@ -6,6 +6,10 @@ drupal_node_id: 644
 source_type: "Text"
 url: /torture-water-early-modern-dutch-empire
 image: /images/deposition-1.jpg
+image_alt: "Deposition of Jan Joosten"
+additional_images:
+  - src: "/images/source-media/644/deposition-2.jpg"
+    alt: "Deposition of Jan Joosten"
 regions: 
   - "Asia"
   - "Europe"

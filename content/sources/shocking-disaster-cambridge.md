@@ -5,6 +5,7 @@ drupal_node_id: 1309
 source_type: "Text"
 url: /shocking-disaster-cambridge
 image: /images/Icons-Article-Excerpt_4.jpg
+image_alt: "image of the article"
 regions: 
   - "Europe"
 subjects: 

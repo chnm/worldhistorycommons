@@ -5,6 +5,9 @@ drupal_node_id: 1152
 source_type: "Audio"
 url: /te-deum-federation-july-14-1790-champ-de-mars
 image: 
+audio_files:
+  - src: "/audio/source-media/1152/TE_DEUM_FOR_THE_FEDERATION_OF_JULY_14__1790_AT_THE_CHAMP_DE_MARS.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

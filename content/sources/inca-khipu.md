@@ -5,6 +5,7 @@ drupal_node_id: 2593
 source_type: "Object"
 url: /inca-khipu
 image: /images/IncaKhipu_1.jpg
+image_alt: "A series of long, multi-colored strings hanging from another string. The hanging strings have knots at varying places along each string."
 regions: 
   - "South America"
 subjects: 

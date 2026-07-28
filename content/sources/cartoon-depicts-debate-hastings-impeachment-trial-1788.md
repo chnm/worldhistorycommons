@@ -5,6 +5,7 @@ drupal_node_id: 2856
 source_type: "Image"
 url: /cartoon-depicts-debate-hastings-impeachment-trial-1788
 image: /images/HastingsCartoon.jpeg
+image_alt: "Cartoon depicts a tug of war over a pie."
 regions: 
   - "Asia"
   - "Europe"

@@ -5,6 +5,7 @@ drupal_node_id: 1957
 source_type: "Image"
 url: /photograph-needleworker
 image: /images/seamstress.jpg
+image_alt: "image of a seamstress"
 regions: 
   - "North/Central America"
 subjects: 

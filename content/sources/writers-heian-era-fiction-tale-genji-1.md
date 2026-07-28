@@ -5,6 +5,7 @@ drupal_node_id: 1683
 source_type: "Text"
 url: /writers-heian-era-fiction-tale-genji-1
 image: /images/Icons-Document_431.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

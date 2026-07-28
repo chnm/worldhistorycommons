@@ -5,6 +5,7 @@ drupal_node_id: 366
 source_type: "Image"
 url: /seri-children-sliding-turtle-shells
 image: /images/kids-on-turtle-shells.jpg
+image_alt: "Seri Children Sliding on Turtle Shells"
 regions: 
   - "North/Central America"
 subjects: 

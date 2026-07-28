@@ -5,6 +5,7 @@ drupal_node_id: 334
 source_type: "Object"
 url: /gope-ancestor-or-spirit-boards
 image: /images/gope-spirit-board.jpg
+image_alt: "Photograph of Gope, Ancestor or Spirit Boards"
 regions: 
   - "Oceania"
 subjects: 

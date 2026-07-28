@@ -5,6 +5,7 @@ drupal_node_id: 345
 source_type: "Image"
 url: /robespierre-10-thermidor-exposition-1877
 image: /images/1c8c640fedce6943f77cba71a456fe1b.jpg
+image_alt: "Painting depicting death of Robespierre"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2961
 source_type: "Image"
 url: /yamamoto-shunshos-tale-genji
 image: /images/Yamamoto_Shunsho_-_The_Tale_of_Genji__woodcut_2.jpg
+image_alt: "A woodblock print from a scene in the Tale of Genji depicting a women looking down at a man from a balcony. Black ink on cream background."
 regions: 
   - "Asia"
 subjects: 

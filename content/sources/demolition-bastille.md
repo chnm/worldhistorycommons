@@ -5,6 +5,7 @@ drupal_node_id: 272
 source_type: "Image"
 url: /demolition-bastille
 image: /images/demolition-of-bastille.jpg
+image_alt: "Painting of the demolition of the Bastille"
 regions: 
   - "Europe"
 subjects: 

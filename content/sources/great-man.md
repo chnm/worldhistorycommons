@@ -5,6 +5,7 @@ drupal_node_id: 163
 source_type: "Image"
 url: /great-man
 image: /images/cee09626a1e21888ed96ba978567ae53.jpg
+image_alt: "Cartoon of Napoleon as aa mouse"
 regions: 
   - "Europe"
 subjects: 

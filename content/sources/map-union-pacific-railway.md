@@ -5,6 +5,7 @@ drupal_node_id: 2421
 source_type: "Image"
 url: /map-union-pacific-railway
 image: /images/iiif-service_gmd_gmd370_g3701_g3701p_rr005950-full-pct_12.5-0-default.jpg
+image_alt: "Map of the Union Pacific Railway"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1680
 source_type: "Text"
 url: /writers-heian-era-diary-sei-shonagon-2
 image: /images/Icons-Document_429.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

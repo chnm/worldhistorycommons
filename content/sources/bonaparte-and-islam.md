@@ -5,6 +5,7 @@ drupal_node_id: 967
 source_type: "Text"
 url: /bonaparte-and-islam
 image: /images/memoirs.png
+image_alt: "Bonaparte and Islam"
 regions: 
   - "Europe"
 subjects: 

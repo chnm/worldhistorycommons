@@ -5,6 +5,10 @@ drupal_node_id: 2828
 source_type: "Object"
 url: /mijikenda-textiles
 image: /images/01812-BIG.jpeg
+image_alt: "Strips of red colored cloths tied to wooden posts in the ground."
+additional_images:
+  - src: "/images/source-media/2828/01827-BIG.jpeg"
+    alt: "Strips of red cloth hanging from a cave ceiling."
 regions: 
   - "Africa"
 subjects: 

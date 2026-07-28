@@ -5,6 +5,9 @@ drupal_node_id: 843
 source_type: "Video"
 url: /reagan-brandenburg-gate
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "Europe"
 subjects: 

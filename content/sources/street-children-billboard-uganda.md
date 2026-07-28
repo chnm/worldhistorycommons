@@ -5,6 +5,7 @@ drupal_node_id: 52
 source_type: "Image"
 url: /street-children-billboard-uganda
 image: /images/ugandan-street-children-billboard-combi_b463aa49c4_0.jpg
+image_alt: "Photo of Ugandan billboard"
 regions: 
   - "Africa"
 subjects: 

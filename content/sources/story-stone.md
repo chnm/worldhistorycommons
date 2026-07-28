@@ -5,6 +5,7 @@ drupal_node_id: 1373
 source_type: "Text"
 url: /story-stone
 image: /images/Icons-Book-Excerpt_15.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

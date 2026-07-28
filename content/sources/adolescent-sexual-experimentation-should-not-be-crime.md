@@ -5,6 +5,7 @@ drupal_node_id: 1222
 source_type: "Text"
 url: /adolescent-sexual-experimentation-should-not-be-crime
 image: /images/Icons-Book-Excerpt_1.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "North/Central America"
 subjects: 

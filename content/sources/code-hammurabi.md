@@ -5,6 +5,7 @@ drupal_node_id: 2186
 source_type: "Text"
 url: /code-hammurabi
 image: /images/Untitled_design__1__0.png
+image_alt: "Image of the Code of Hammurabi"
 regions: 
   - "Middle East"
 subjects: 

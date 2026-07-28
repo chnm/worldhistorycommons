@@ -5,6 +5,7 @@ drupal_node_id: 1492
 source_type: "Text"
 url: /pere-duchesne-supports-terror
 image: /images/Icons-Document_264.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

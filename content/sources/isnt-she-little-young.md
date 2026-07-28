@@ -5,6 +5,7 @@ drupal_node_id: 141
 source_type: "Image"
 url: /isnt-she-little-young
 image: /images/sexco-billboard_ad6a34163e.jpg
+image_alt: "Billboard aimed to reduce statutory rape. Text: Text: Isn't she a little young? Don't go there."
 regions: []
 subjects: 
   - "Children"

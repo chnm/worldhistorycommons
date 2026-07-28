@@ -5,6 +5,7 @@ drupal_node_id: 643
 source_type: "Text"
 url: /torture-early-modern-dutch-empire
 image: /images/Bailiff-Batavia.jpg
+image_alt: "Declaration by the bailiff of Batavia"
 regions: 
   - "Asia"
   - "Europe"

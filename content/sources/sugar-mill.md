@@ -5,6 +5,7 @@ drupal_node_id: 977
 source_type: "Image"
 url: /sugar-mill
 image: /images/sugar-mill.jpg
+image_alt: "The Sugar Mill"
 regions: 
   - "North/Central America"
 subjects: 

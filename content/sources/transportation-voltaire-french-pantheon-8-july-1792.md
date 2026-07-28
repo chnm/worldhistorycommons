@@ -5,6 +5,7 @@ drupal_node_id: 193
 source_type: "Image"
 url: /transportation-voltaire-french-pantheon-8-july-1792
 image: /images/f7f947c929995c6e9a1a3bc0ce2abb9f.jpg
+image_alt: "Sketch of Volataire's arrival"
 regions: 
   - "Europe"
 subjects: 

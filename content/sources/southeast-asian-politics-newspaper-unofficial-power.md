@@ -5,6 +5,7 @@ drupal_node_id: 1597
 source_type: "Text"
 url: /southeast-asian-politics-newspaper-unofficial-power
 image: /images/Icons-Document_352.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2895
 source_type: "Image"
 url: /batavia-castle
 image: /images/SK-A-19__1__0.jpg
+image_alt: "Painting of The Batavia Castle seen from the Kali Besar West"
 regions: 
   - "Asia"
   - "Comparative"

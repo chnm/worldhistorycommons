@@ -5,6 +5,7 @@ drupal_node_id: 411
 source_type: "Text"
 url: /adventure-new-zealand-1839-1844
 image: /images/adventureinnewzealand.jpg
+image_alt: "Title page for Adventure in New Zealand"
 regions: 
   - "Oceania"
 subjects: 

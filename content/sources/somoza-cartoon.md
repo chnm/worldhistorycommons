@@ -5,6 +5,7 @@ drupal_node_id: 2903
 source_type: "Image"
 url: /somoza-cartoon
 image: /images/Gaceta_Sandinista_May-June_1978.jpg
+image_alt: "US pamphlet parody of Nicaraguan dictator Anastasio Somoza Debayle"
 regions: 
   - "North/Central America"
 subjects: 

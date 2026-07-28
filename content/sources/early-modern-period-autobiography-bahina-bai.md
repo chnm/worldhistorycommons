@@ -5,6 +5,7 @@ drupal_node_id: 1638
 source_type: "Text"
 url: /early-modern-period-autobiography-bahina-bai
 image: /images/Icons-Document_391.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

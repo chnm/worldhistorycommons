@@ -5,6 +5,7 @@ drupal_node_id: 179
 source_type: "Image"
 url: /ah-monsignor
 image: /images/99165f7f9d9611fd442a8f6cf9dc7711_0.jpg
+image_alt: "Cartoon mocking non-revolutionaries"
 regions: 
   - "Europe"
 subjects: 

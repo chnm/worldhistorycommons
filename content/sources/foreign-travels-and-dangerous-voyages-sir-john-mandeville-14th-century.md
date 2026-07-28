@@ -5,6 +5,7 @@ drupal_node_id: 2982
 source_type: "Image"
 url: /foreign-travels-and-dangerous-voyages-sir-john-mandeville-14th-century
 image: /images/Mandeville.jpeg
+image_alt: "A woodcut of a man with no head and a face in his chest."
 regions: 
   - "Europe"
   - "Global"

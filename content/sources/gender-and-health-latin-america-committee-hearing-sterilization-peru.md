@@ -5,6 +5,7 @@ drupal_node_id: 1649
 source_type: "Text"
 url: /gender-and-health-latin-america-committee-hearing-sterilization-peru
 image: /images/Icons-Document_400.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1027
 source_type: "Image"
 url: /fleeing-design-or-perjurer-louis-xvi
 image: /images/19d81c9b13be7e47019e0c56f94fa78a.jpg
+image_alt: "Engraving of the king's arrest by the guards"
 regions: 
   - "Europe"
 subjects: 

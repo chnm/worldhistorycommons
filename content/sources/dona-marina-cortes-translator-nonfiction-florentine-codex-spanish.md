@@ -5,6 +5,7 @@ drupal_node_id: 1306
 source_type: "Text"
 url: /dona-marina-cortes-translator-nonfiction-florentine-codex-spanish
 image: /images/Icons-Document_130.jpg
+image_alt: "Document icon"
 regions: 
   - "North/Central America"
 subjects: 

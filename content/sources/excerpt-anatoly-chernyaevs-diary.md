@@ -5,6 +5,7 @@ drupal_node_id: 1735
 source_type: "Text"
 url: /excerpt-anatoly-chernyaevs-diary
 image: /images/Icons-Document_472.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

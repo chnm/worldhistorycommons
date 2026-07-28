@@ -5,6 +5,7 @@ drupal_node_id: 361
 source_type: "Image"
 url: /tet-trung-thu-festival-vietnam
 image: /images/vietnam-festival.jpg
+image_alt: "Tet Trung Thu Festival in Vietnam"
 regions: 
   - "Asia"
 subjects: 

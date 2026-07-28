@@ -5,6 +5,7 @@ drupal_node_id: 238
 source_type: "Image"
 url: /manifest-record-ss-atenas
 image: /images/manifestrecord.jpg
+image_alt: "Manifest Record from the S.S. Atenas"
 regions: 
   - "North/Central America"
 subjects: 

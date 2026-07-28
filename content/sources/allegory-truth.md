@@ -5,6 +5,7 @@ drupal_node_id: 180
 source_type: "Image"
 url: /allegory-truth
 image: /images/62becf2b04e5cb18587b880826d98bb4.jpg
+image_alt: "Depiction of female revolutionary figure as virtues"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 93
 source_type: "Image"
 url: /inquiry-causes-and-effects-variolae-vaccinae
 image: /images/Variolae-Vaccinae.jpg
+image_alt: "Photo of medical drawings of smallpox"
 regions: 
   - "Europe"
 subjects: 

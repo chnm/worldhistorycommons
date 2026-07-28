@@ -5,6 +5,7 @@ drupal_node_id: 2915
 source_type: "Image"
 url: /mayor-lyon-france-drives-bulldozer-initiate-construction-social-housing
 image: /images/The_mayor_of_Lyon.jpg
+image_alt: "The mayor of Lyon, France, Louis Pradel, drives a bulldozer to initiate construction of social housing in La Duchère, in the city’s western edge, 1958."
 regions: 
   - "Europe"
 subjects: 

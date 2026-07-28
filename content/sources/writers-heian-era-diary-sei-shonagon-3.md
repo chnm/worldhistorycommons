@@ -5,6 +5,7 @@ drupal_node_id: 1681
 source_type: "Text"
 url: /writers-heian-era-diary-sei-shonagon-3
 image: /images/Icons-Book-Excerpt_19.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

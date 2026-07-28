@@ -5,6 +5,10 @@ drupal_node_id: 1055
 source_type: "Image"
 url: /louis-pig
 image: /images/1170a1a13b89d15fde397ee9469b19b5.jpg
+image_alt: "Engraving of King Louis XVI as a pig"
+additional_images:
+  - src: "/images/source-media/1055/23a543795af2561b1d690b4a15735486.jpg"
+    alt: "B&W engraving of King Louis XVI as a pig"
 regions: 
   - "Europe"
 subjects: 

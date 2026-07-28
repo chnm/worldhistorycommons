@@ -5,6 +5,7 @@ drupal_node_id: 1379
 source_type: "Image"
 url: /bar-miztvah
 image: /images/bar_mitzvah.jpg
+image_alt: "picture of the three Israeli boys who came together at the Western Wall in Jerusalem"
 regions: 
   - "Middle East"
 subjects: 

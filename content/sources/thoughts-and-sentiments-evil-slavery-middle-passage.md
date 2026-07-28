@@ -5,6 +5,7 @@ drupal_node_id: 1313
 source_type: "Text"
 url: /thoughts-and-sentiments-evil-slavery-middle-passage
 image: /images/Icons-Book-Excerpt_13.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Africa"
 subjects: 

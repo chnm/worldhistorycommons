@@ -5,6 +5,7 @@ drupal_node_id: 2539
 source_type: "Object"
 url: /christopher-columbus-monument-buenos-aires-argentina
 image: /images/columbus_statue_buenos_aires.jpg
+image_alt: "Christopher Columbus statue near the Casa Rosada, Buenos Aires, Argentina"
 regions: 
   - "Europe"
   - "South America"

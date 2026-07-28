@@ -5,6 +5,7 @@ drupal_node_id: 2380
 source_type: "Object"
 url: /padrao
 image: /images/Padrao_descobrimentos.jpeg
+image_alt: "A stone monument with a cross on top."
 regions: 
   - "Africa"
   - "Europe"

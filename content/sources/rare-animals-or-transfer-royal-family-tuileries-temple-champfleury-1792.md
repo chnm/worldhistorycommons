@@ -5,6 +5,7 @@ drupal_node_id: 1084
 source_type: "Image"
 url: /rare-animals-or-transfer-royal-family-tuileries-temple-champfleury-1792
 image: /images/0378ee14bb41abcdb2eb2436dafcb5af.jpg
+image_alt: "Engraving of the royal family depicted as animals"
 regions: 
   - "Europe"
 subjects: 

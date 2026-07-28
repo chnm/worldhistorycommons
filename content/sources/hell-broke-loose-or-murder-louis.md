@@ -5,6 +5,7 @@ drupal_node_id: 1088
 source_type: "Image"
 url: /hell-broke-loose-or-murder-louis
 image: /images/5b5b0dd848881939715b7deca6182a8d.jpg
+image_alt: "Etching criticizing the French Revolution and execution of King Louis XVI"
 regions: 
   - "Europe"
 subjects: 

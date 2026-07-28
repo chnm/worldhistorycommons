@@ -5,6 +5,7 @@ drupal_node_id: 2919
 source_type: "Image"
 url: /construction-drawing-social-housing-high-rise-duchere
 image: /images/Construction_drawing_of_a_social_housing.jpg
+image_alt: "Construction drawing of a social housing high-rise in La Duchère, 1960."
 regions: 
   - "Europe"
 subjects: 

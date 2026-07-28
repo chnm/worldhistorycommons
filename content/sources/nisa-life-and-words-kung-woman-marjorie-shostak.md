@@ -5,6 +5,7 @@ drupal_node_id: 2870
 source_type: "Image"
 url: /nisa-life-and-words-kung-woman-marjorie-shostak
 image: /images/Marjorie_Shostak_-_Nisa.jpg
+image_alt: "The cover of Nisa, The Life and Words of a !Kung Woman by Marjorie Shostak, featuring a headshot of a !Kung woman"
 regions: 
   - "Africa"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 184
 source_type: "Image"
 url: /hagia-sophia-floor-plan
 image: /images/hagia-sophia-floor-plan.jpg
+image_alt: "Hagia Sophia Floor Plan"
 regions: 
   - "Asia"
   - "Europe"

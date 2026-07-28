@@ -5,6 +5,7 @@ drupal_node_id: 3100
 source_type: "Text"
 url: /cat-korean-childrens-story
 image: /images/CatKorean.jpg
+image_alt: "goyang-i or \"cat\" written in Korean"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1041
 source_type: "Image"
 url: /britannia-rules-waves
 image: /images/britannia.jpg
+image_alt: "Britannia Rules the Waves!!"
 regions: 
   - "Europe"
 subjects: 

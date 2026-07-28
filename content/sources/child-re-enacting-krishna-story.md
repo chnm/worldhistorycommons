@@ -5,6 +5,7 @@ drupal_node_id: 1648
 source_type: "Image"
 url: /child-re-enacting-krishna-story
 image: /images/prank.PNG
+image_alt: "image of Krishna's mischievous pranks such as stealing sweet butter are reenacted by this child on Krishna's birthday"
 regions: 
   - "Asia"
 subjects: 

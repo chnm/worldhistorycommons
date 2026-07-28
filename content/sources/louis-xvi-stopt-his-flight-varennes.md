@@ -5,6 +5,7 @@ drupal_node_id: 1026
 source_type: "Image"
 url: /louis-xvi-stopt-his-flight-varennes
 image: /images/dbf5d4d556da6506e422024b7c735aff.jpg
+image_alt: "Painting depicting the King's flight"
 regions: 
   - "Europe"
 subjects: 

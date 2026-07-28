@@ -5,6 +5,7 @@ drupal_node_id: 3043
 source_type: "Image"
 url: /pacific-culture-areas-map
 image: /images/WHC_pacific_culture_areas_.png
+image_alt: "A map centered on Oceania with the three dominant cultures highlighted. The Micronesia in the top left is pink, Melanesia is under Micronesia and labeled blue. Polynesia is in the center and is labeled purple."
 regions: 
   - "Oceania"
 subjects: 

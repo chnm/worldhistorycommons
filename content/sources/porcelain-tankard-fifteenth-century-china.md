@@ -5,6 +5,7 @@ drupal_node_id: 2561
 source_type: "Object"
 url: /porcelain-tankard-fifteenth-century-china
 image: /images/porcelaintankard.jpg
+image_alt: "Porcelain tankard with blue ornate decorations"
 regions: 
   - "Asia"
 subjects: 

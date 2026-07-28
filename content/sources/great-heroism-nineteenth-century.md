@@ -5,6 +5,7 @@ drupal_node_id: 162
 source_type: "Image"
 url: /great-heroism-nineteenth-century
 image: /images/7e9ff9207744d3af69454a2174bd94d4.jpg
+image_alt: "Caricature of Napoleon talking to a crowd of mice"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,12 @@ drupal_node_id: 3007
 source_type: "Image"
 url: /map-and-population-table-british-gambia-1915-1918
 image: /images/Primary_Source_Map.png
+image_alt: "Hand drawn map of the Gambia shows a river flowing to the sea with numbered locations along it. Saloum is written at the top and Casamance at the bottom."
+additional_images:
+  - src: "/images/source-media/3007/Primary_Source_Table_1.png"
+    alt: "Part one of table showing populations of locations in 1915 in one column and 1918 in the other. Text in transcription folder."
+  - src: "/images/source-media/3007/Primary_Source_Table_2.png"
+    alt: "Second part of table."
 regions: 
   - "Africa"
   - "Europe"

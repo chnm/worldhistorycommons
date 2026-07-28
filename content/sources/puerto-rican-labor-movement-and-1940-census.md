@@ -5,6 +5,7 @@ drupal_node_id: 689
 source_type: "Image"
 url: /puerto-rican-labor-movement-and-1940-census
 image: /images/censusdata.jpg
+image_alt: "1940 census"
 regions: 
   - "North/Central America"
 subjects: 

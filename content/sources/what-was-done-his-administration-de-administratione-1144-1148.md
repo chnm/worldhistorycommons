@@ -5,6 +5,7 @@ drupal_node_id: 2550
 source_type: "Text"
 url: /what-was-done-his-administration-de-administratione-1144-1148
 image: /images/ViewDocumentImage_0.jpeg
+image_alt: "Document icon"
 regions: 
   - "Europe"
 subjects: 

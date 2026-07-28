@@ -5,6 +5,7 @@ drupal_node_id: 1009
 source_type: "Image"
 url: /lafayette-receives-citys-sword-defense-liberty
 image: /images/commander-of-paris-national-guard.jpg
+image_alt: "Mr. de Lafayette, Commander of the Paris National Guard, Receives the City’s 'Sword for the Defense of Liberty'"
 regions: 
   - "Europe"
 subjects: 

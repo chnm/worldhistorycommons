@@ -5,6 +5,7 @@ drupal_node_id: 3026
 source_type: "Image"
 url: /chinchorro-mummies
 image: /images/WHC_Chinchorro_Mummies_wiki.jpeg
+image_alt: "The mummified remains of an adult person and a child lay in a glass container for observation. The adult has a clay mask and black hair attached to their skull. The child lays next to the adult, with red paint on their body and a clay mask."
 regions: 
   - "South America"
 subjects: 

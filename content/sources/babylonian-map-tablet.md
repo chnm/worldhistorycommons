@@ -5,6 +5,7 @@ drupal_node_id: 2412
 source_type: "Object"
 url: /babylonian-map-tablet
 image: /images/Cuneiform-sippar-map-tablet2.jpg
+image_alt: "Babylonian Map Tablet"
 regions: 
   - "Asia"
   - "Middle East"

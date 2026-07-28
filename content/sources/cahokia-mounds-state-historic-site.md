@@ -5,6 +5,14 @@ drupal_node_id: 3048
 source_type: "Image"
 url: /cahokia-mounds-state-historic-site
 image: /images/Screen_Shot_2023-07-18_at_1.01.46_PM.png
+image_alt: "Monks Mound. A large, earthen mound covered in grass set against a blue sky. The mound has stairs with people using them."
+additional_images:
+  - src: "/images/source-media/3048/WHC_aerial_monks_mound_.jpeg"
+    alt: "An aerial view of Monks Mound, the largest mound at Cahokia. The brown, earthen mound is in the center and there are roads and waterways in the background."
+  - src: "/images/source-media/3048/WHC_aerial_recon_Cahokia.jpeg"
+    alt: "A reconstruction of the Cahokia settlement, seen from above. There are mounds, triangular shaped homes, and waterways pictured."
+  - src: "/images/source-media/3048/WHC_mound_72.jpeg"
+    alt: "Mound 72, and earthen mound and burial site is pictured. The mound is covered in grass and trees are in front of it."
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1108
 source_type: "Image"
 url: /siege-and-taking-city-lyon
 image: /images/0959f41960de155be558d27f382c38bb.jpg
+image_alt: "Engraving of Republic forces taking Lyon"
 regions: 
   - "Europe"
 subjects: 

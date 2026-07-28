@@ -5,6 +5,7 @@ drupal_node_id: 568
 source_type: "Image"
 url: /day-1-prairial-year-iii
 image: /images/9e3d1a14301a755daf4cf2d032e09375.jpg
+image_alt: "Print of people threatening deputies"
 regions: 
   - "Europe"
 subjects: 

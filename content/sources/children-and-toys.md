@@ -5,6 +5,12 @@ drupal_node_id: 72
 source_type: "Image"
 url: /children-and-toys
 image: /images/hm_boy_toy_ec12c0dd2f.jpg
+image_alt: "Little boy playing with toys"
+additional_images:
+  - src: "/images/source-media/72/hm_child_toy_oxen_c2ae646018.jpg"
+    alt: "Child playing with toy oxen"
+  - src: "/images/source-media/72/hm_girls_butterflies_fec9969a56.jpg"
+    alt: "Two little girls with butterfly toys"
 regions: 
   - "Asia"
 subjects: 

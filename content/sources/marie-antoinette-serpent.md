@@ -5,6 +5,7 @@ drupal_node_id: 1054
 source_type: "Image"
 url: /marie-antoinette-serpent
 image: /images/ddfd52a9d0b1119878d936ebdaa11dbd.jpg
+image_alt: "Engraving of Marie Antoinette depicted as a serpent"
 regions: 
   - "Europe"
 subjects: 

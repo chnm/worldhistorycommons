@@ -5,6 +5,7 @@ drupal_node_id: 2869
 source_type: "Image"
 url: /dreams-trespass-fatima-mernissi
 image: /images/Fatima_Mernissi_-_Dreams_of_Trespass.jpg
+image_alt: "The cover of Dreams of Trespass: Tales of a Harem Girlhood by Fatima Mernissi, featuring an artistic rendition of three women in Moroccan dress walking away down a hall decorated with aniconic ornament."
 regions: 
   - "Africa"
 subjects: 

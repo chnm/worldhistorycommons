@@ -5,6 +5,7 @@ drupal_node_id: 2688
 source_type: "Image"
 url: /printing-press
 image: /images/1750_Printing_Press.jpg
+image_alt: "Wooden Printing Press, c. 1750"
 regions: 
   - "Global"
 subjects: 

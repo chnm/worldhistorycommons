@@ -5,6 +5,7 @@ drupal_node_id: 259
 source_type: "Image"
 url: /taking-bastille-1
 image: /images/taking-of-bastille-3.jpg
+image_alt: "Taking of the Bastille"
 regions: 
   - "Europe"
 subjects: 

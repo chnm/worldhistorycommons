@@ -5,6 +5,7 @@ drupal_node_id: 2689
 source_type: "Image"
 url: /old-mission-santa-barbara
 image: /images/Mission_Santa_Barbara01.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1482
 source_type: "Text"
 url: /desmoulins-attacks-queen-june-1791
 image: /images/Icons-Document_255.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

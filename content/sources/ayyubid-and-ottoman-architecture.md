@@ -5,6 +5,12 @@ drupal_node_id: 288
 source_type: "Image"
 url: /ayyubid-and-ottoman-architecture
 image: /images/madrasa.jpg
+image_alt: "Madrasa al-Sahiba in Damascus"
+additional_images:
+  - src: "/images/source-media/288/mausoleum.png"
+    alt: "Mausoleum of Salih Najm al-Din Ayyub in Cairo"
+  - src: "/images/source-media/288/architecture3large.jpg"
+    alt: "Haseki Hürrem Baths in Istanbul"
 regions: 
   - "Africa"
   - "Asia"

@@ -5,6 +5,7 @@ drupal_node_id: 2166
 source_type: "Text"
 url: /expulsion-girondins
 image: /images/Icons-Document_717.jpg
+image_alt: "document icon"
 regions: 
   - "Europe"
 subjects: 

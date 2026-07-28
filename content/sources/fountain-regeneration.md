@@ -5,6 +5,7 @@ drupal_node_id: 574
 source_type: "Image"
 url: /fountain-regeneration
 image: /images/5e05c71ad54359b51f466f576ef2c4b3.jpg
+image_alt: "Engraving of the Festival of Reunion"
 regions: 
   - "Europe"
 subjects: 

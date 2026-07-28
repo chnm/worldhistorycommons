@@ -5,6 +5,7 @@ drupal_node_id: 304
 source_type: "Image"
 url: /postcard-women-and-girls-cradleboard-temuco-chile
 image: /images/temuco1-mapuche-papoose-postcard.jpg
+image_alt: "Postcard of Women and Girls with Cradleboard in Chile"
 regions: 
   - "South America"
 subjects: 

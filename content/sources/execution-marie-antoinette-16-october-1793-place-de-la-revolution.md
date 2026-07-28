@@ -5,6 +5,7 @@ drupal_node_id: 1092
 source_type: "Image"
 url: /execution-marie-antoinette-16-october-1793-place-de-la-revolution
 image: /images/13175a64657a78ff33f27722b70ed8e7.jpg
+image_alt: "Engraving of the execution of Marie Antoinette"
 regions: 
   - "Europe"
 subjects: 

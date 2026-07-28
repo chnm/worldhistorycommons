@@ -5,6 +5,7 @@ drupal_node_id: 2518
 source_type: "Image"
 url: /cantino-planisphere
 image: /images/Cantino_planisphere.jpg
+image_alt: "World map of 1502 showing the Americas"
 regions: 
   - "Africa"
   - "Comparative"

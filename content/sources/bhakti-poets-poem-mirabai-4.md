@@ -5,6 +5,7 @@ drupal_node_id: 1544
 source_type: "Text"
 url: /bhakti-poets-poem-mirabai-4
 image: /images/krishna2_3.jpg
+image_alt: "image of the god krishna"
 regions: 
   - "Asia"
 subjects: 

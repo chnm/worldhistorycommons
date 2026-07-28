@@ -5,6 +5,7 @@ drupal_node_id: 267
 source_type: "Image"
 url: /workers-celebration
 image: /images/denissource7large.jpg
+image_alt: "Workers’ Celebration"
 regions: 
   - "North/Central America"
 subjects: 

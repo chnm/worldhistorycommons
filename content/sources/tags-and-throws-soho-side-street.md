@@ -5,6 +5,7 @@ drupal_node_id: 131
 source_type: "Image"
 url: /tags-and-throws-soho-side-street
 image: /images/tags-and-throws-soho-sidestreet_cbfb19161b.jpg
+image_alt: "Photo of a wall covered in graffiti"
 regions: 
   - "North/Central America"
 subjects: 

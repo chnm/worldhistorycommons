@@ -5,6 +5,7 @@ drupal_node_id: 1495
 source_type: "Text"
 url: /religion-cult-supreme-being
 image: /images/Icons-Document_267.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

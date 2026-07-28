@@ -5,6 +5,7 @@ drupal_node_id: 2089
 source_type: "Text"
 url: /excerpt-history-mary-prince
 image: /images/slaverylaborgender.jpg
+image_alt: "image of the history of mary prince"
 regions: 
   - "Europe"
 subjects: 

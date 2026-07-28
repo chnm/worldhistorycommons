@@ -5,6 +5,7 @@ drupal_node_id: 2313
 source_type: "Image"
 url: /jahangir-preferring-sufi-shaikh-kings
 image: /images/Bichitr-Jahangir-preferring-a-sufi-sheikh-to-kings-PD1.jpg
+image_alt: "Sufi sheikh to Kings"
 regions: 
   - "Asia"
   - "Europe"

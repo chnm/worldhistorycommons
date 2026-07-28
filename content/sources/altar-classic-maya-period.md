@@ -5,6 +5,7 @@ drupal_node_id: 3049
 source_type: "Image"
 url: /altar-classic-maya-period
 image: /images/1613665734.jpg
+image_alt: "A light-colored limestone altar. The altar is round and has glyph blocks in the center that are word and faded. Two cracks are on the altar but have had repairs lessening the lines."
 regions: 
   - "North/Central America"
 subjects: 

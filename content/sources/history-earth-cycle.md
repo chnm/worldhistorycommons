@@ -5,6 +5,7 @@ drupal_node_id: 2529
 source_type: "Image"
 url: /history-earth-cycle
 image: /images/2000px-Geologic_Clock_with_events_and_periods.png
+image_alt: "Geologic clock with events and time periods noting the formation of earth and development of life."
 regions: 
   - "Global"
 subjects: 

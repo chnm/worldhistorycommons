@@ -5,6 +5,7 @@ drupal_node_id: 296
 source_type: "Image"
 url: /days-31-may-and-1-2-june-1793
 image: /images/may-31-1793.jpg
+image_alt: "Print of demonstration outside of Legislative Assembly"
 regions: 
   - "Europe"
 subjects: 

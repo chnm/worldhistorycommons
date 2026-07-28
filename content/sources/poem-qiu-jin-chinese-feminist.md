@@ -5,6 +5,7 @@ drupal_node_id: 2567
 source_type: "Text"
 url: /poem-qiu-jin-chinese-feminist
 image: /images/ViewDocumentImage_0_3.jpeg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

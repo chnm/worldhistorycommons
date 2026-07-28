@@ -5,6 +5,7 @@ drupal_node_id: 1169
 source_type: "Text"
 url: /confessions-dorothy-and-abigail-faulkner-jr
 image: /images/Icons-Document_31.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

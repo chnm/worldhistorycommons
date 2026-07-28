@@ -5,6 +5,7 @@ drupal_node_id: 2474
 source_type: "Image"
 url: /silent-film-sheet-music
 image: /images/sheetmusic1.jpg
+image_alt: "Silent Movie Sheet Music"
 regions: 
   - "North/Central America"
 subjects: 

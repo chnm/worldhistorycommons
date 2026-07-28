@@ -5,6 +5,7 @@ drupal_node_id: 2977
 source_type: "Text"
 url: /hakluyts-principall-investigations
 image: /images/PrincipallInvestigations.jpeg
+image_alt: "Text of Principall Investigations. Full text in transcription folder."
 regions: 
   - "Global"
 subjects: 

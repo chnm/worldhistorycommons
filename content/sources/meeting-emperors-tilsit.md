@@ -5,6 +5,7 @@ drupal_node_id: 1021
 source_type: "Image"
 url: /meeting-emperors-tilsit
 image: /images/meeting-of-emperors.jpg
+image_alt: "Meeting of the Emperors at Tilsit"
 regions: 
   - "Europe"
 subjects: 

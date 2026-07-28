@@ -5,6 +5,7 @@ drupal_node_id: 2400
 source_type: "Text"
 url: /excerpt-aguinaldos-case-against-united-states
 image: /images/Icons-Document_542.jpg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

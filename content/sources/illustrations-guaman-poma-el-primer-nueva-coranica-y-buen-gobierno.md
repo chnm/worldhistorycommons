@@ -5,6 +5,10 @@ drupal_node_id: 2599
 source_type: "Image"
 url: /illustrations-guaman-poma-el-primer-nueva-coranica-y-buen-gobierno
 image: /images/IncaGuaman_Poma_1_1.png
+image_alt: "Drawing shows two people harvesting grain and and one carrying it away in bushels"
+additional_images:
+  - src: "/images/source-media/2599/IncaGuaman_Poma_2_0.jpg"
+    alt: "Drawing shows an individual weaving on a loom."
 regions: 
   - "Europe"
   - "South America"

@@ -5,6 +5,7 @@ drupal_node_id: 2924
 source_type: "Image"
 url: /list-foreign-arrivals-port-zanzibar-16th-september-1832-26th-may-1835
 image: /images/List_of_Foreign_Arrivals_to_Zanzibar.png
+image_alt: "Large spreadsheet documenting each foreign vessel that arrived in the port of Zanzibar which kept track of things such as the origin, size, and cargo of each visiting ship."
 regions: 
   - "Africa"
   - "Comparative"

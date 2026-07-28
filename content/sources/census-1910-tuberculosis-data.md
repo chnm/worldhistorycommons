@@ -5,6 +5,7 @@ drupal_node_id: 1917
 source_type: "Image"
 url: /census-1910-tuberculosis-data
 image: /images/praguetub.jpg
+image_alt: "Table of information in German"
 regions: 
   - "Europe"
 subjects: 

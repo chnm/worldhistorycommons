@@ -5,6 +5,7 @@ drupal_node_id: 339
 source_type: "Image"
 url: /death-robespierre
 image: /images/79753331c9430c6b7bfce009609cfb07_0.jpg
+image_alt: "Engraving depiction of the death of Robespierre"
 regions: 
   - "Europe"
 subjects: 

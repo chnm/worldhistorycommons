@@ -5,6 +5,7 @@ drupal_node_id: 287
 source_type: "Image"
 url: /massacre-prisoners
 image: /images/massacre-of-prisoners_0.jpg
+image_alt: "Print of attack on prisoners"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,12 @@ drupal_node_id: 3016
 source_type: "Image"
 url: /oecs-treaty-publication-fragments
 image: /images/Screen_Shot_2023-06-13_at_10.43.04_AM.png
+image_alt: "The red cover of the treaty, which reads \"Economic Integration: The O.E.C.S. Experience.\" The top center has a circular symbol with triangles and waves that reads \"OECS.\" In the bottom left it reads \"Organisation of Eastern Caribbean States (OECS) Central Secretariat St. Lucia March 1988.\""
+additional_images:
+  - src: "/images/source-media/3016/Screen_Shot_2023-06-13_at_10.43.19_AM_0.png"
+    alt: "A white page from the publication with black text in two columns."
+  - src: "/images/source-media/3016/Screen_Shot_2023-06-13_at_10.43.25_AM_0.png"
+    alt: "A white page from the publication with black text in two columns."
 regions: 
   - "North/Central America"
 subjects: 

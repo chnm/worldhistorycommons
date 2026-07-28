@@ -5,6 +5,7 @@ drupal_node_id: 196
 source_type: "Image"
 url: /fusillade-faubourg-st-antoine-28-april-1789
 image: /images/1651f2c900d5c244c5adebb4bfa7800f.jpg
+image_alt: "Engraving of riot scene"
 regions: 
   - "Europe"
 subjects: 

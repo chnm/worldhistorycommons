@@ -5,6 +5,7 @@ drupal_node_id: 946
 source_type: "Text"
 url: /le-bon-psychology-revolution
 image: /images/psychology-of-revolutionary-crowds.jpg
+image_alt: "The Psychology of Revolution"
 regions: 
   - "Europe"
 subjects: 

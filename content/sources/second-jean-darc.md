@@ -5,6 +5,7 @@ drupal_node_id: 348
 source_type: "Image"
 url: /second-jean-darc
 image: /images/821b100ff0cd13db2eab03956968acb5.jpg
+image_alt: "Engraving of a caricature of Charlotte Corday"
 regions: 
   - "Europe"
 subjects: 

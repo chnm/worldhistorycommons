@@ -5,6 +5,7 @@ drupal_node_id: 2667
 source_type: "Image"
 url: /mision-la-purisima-concepcion-de-maria-santisima
 image: /images/La_Purisima_Mission_-_Lompoc__CA.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

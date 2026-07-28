@@ -5,6 +5,7 @@ drupal_node_id: 2779
 source_type: "Image"
 url: /guang-yutu-map
 image: /images/iiif-service_asian_lcnclscd_2008623187_1A002_46b47a-full-pct_25-0-default.jpeg
+image_alt: "Hand drawn map with a grid showing land and coastline"
 regions: 
   - "Asia"
 subjects: 

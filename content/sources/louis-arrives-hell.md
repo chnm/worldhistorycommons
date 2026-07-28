@@ -5,6 +5,10 @@ drupal_node_id: 1086
 source_type: "Image"
 url: /louis-arrives-hell
 image: /images/337ab22449a804f1d68b4f7b0b243947.jpg
+image_alt: "B&W engraving of King Louis XVI entering hell"
+additional_images:
+  - src: "/images/source-media/1086/6c013ed1106e698fdec6f0789e19b133.jpg"
+    alt: "Color engraving of King Louis XVI entering hell"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 50
 source_type: "Image"
 url: /child-labor-statistics-gender-and-sector
 image: /images/sectoral-child-labor-stats_90b99b1f4f_0.jpg
+image_alt: "Chart of Sectoral Child Labour Stats"
 regions: 
   - "Comparative"
   - "Global"

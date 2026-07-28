@@ -5,6 +5,7 @@ drupal_node_id: 2801
 source_type: "Text"
 url: /antifascism-and-leftist-politics
 image: /images/AntifascismLetterImage.png
+image_alt: "Image of a typed letter. Transcription below."
 regions: 
   - "North/Central America"
 subjects: 

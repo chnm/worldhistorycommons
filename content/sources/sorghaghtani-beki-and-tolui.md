@@ -5,6 +5,7 @@ drupal_node_id: 2760
 source_type: "Image"
 url: /sorghaghtani-beki-and-tolui
 image: /images/TuluiWithQueenSorgaqtani.jpg
+image_alt: "Painting shows king and queen surrounded by others at court"
 regions: 
   - "Asia"
 subjects: 

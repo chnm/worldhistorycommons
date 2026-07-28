@@ -5,6 +5,7 @@ drupal_node_id: 51
 source_type: "Image"
 url: /child-labor-statistics-world-region
 image: /images/world-child-labor-statistics-by-region_f13d725d46_0.jpg
+image_alt: "Chart of World Child Labour Statistics"
 regions: 
   - "Comparative"
   - "Global"

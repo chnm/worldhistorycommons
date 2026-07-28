@@ -5,6 +5,7 @@ drupal_node_id: 959
 source_type: "Image"
 url: /king-returns-paris
 image: /images/2848b88095bbe99f9bb8f70ef606a90b.jpg
+image_alt: "Engraving of orderly ceremonial appearance on 6 October 1789"
 regions: 
   - "Europe"
 subjects: 

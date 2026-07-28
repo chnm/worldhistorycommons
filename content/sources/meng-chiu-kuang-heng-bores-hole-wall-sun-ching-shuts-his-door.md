@@ -5,6 +5,7 @@ drupal_node_id: 1374
 source_type: "Text"
 url: /meng-chiu-kuang-heng-bores-hole-wall-sun-ching-shuts-his-door
 image: /images/Icons-Document_166.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

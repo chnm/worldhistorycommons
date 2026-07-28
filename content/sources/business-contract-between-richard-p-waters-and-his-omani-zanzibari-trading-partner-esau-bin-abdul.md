@@ -5,6 +5,7 @@ drupal_node_id: 2927
 source_type: "Image"
 url: /business-contract-between-richard-p-waters-and-his-omani-zanzibari-trading-partner-esau-bin-abdul
 image: /images/Roberts_source.png
+image_alt: "1844 Business contract between Richard P. Waters and his Omani-Zanzibari trading partner, Esau bin Abdul Rahman"
 regions: 
   - "Africa"
   - "North/Central America"

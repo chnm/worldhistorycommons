@@ -5,6 +5,14 @@ drupal_node_id: 2742
 source_type: "Image"
 url: /mexican-newspaper-reports-american-women-crossing-border
 image: /images/newsuniversalfull.jpg
+image_alt: "“Mexican Officials Kick On Women in Knickers, Do not allow Oklahoma Tourists to Enter Mexico in Plus Fours,\" Mexico City, 14 July 1924"
+additional_images:
+  - src: "/images/source-media/2742/Sample_Analysis_Newspaper.png"
+    alt: "“Mexican Officials Kick On Women in Knickers, Do not allow Oklahoma Tourists to Enter Mexico in Plus Fours,\" Mexico City, 14 July 1924"
+  - src: "/images/source-media/2742/El_Universal_Advertisement_January_1922.jpg"
+    alt: ""
+  - src: "/images/source-media/2742/newsuniversalwomenflapper1.jpg"
+    alt: ""
 regions: 
   - "North/Central America"
 subjects: 

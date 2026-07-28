@@ -5,6 +5,7 @@ drupal_node_id: 248
 source_type: "Image"
 url: /photograph-aung-san-suu-kyi-burmese-activist
 image: /images/kyilarge.jpg
+image_alt: "Photograph of Aung San Suu Kyi, Burmese Activist"
 regions: 
   - "Asia"
 subjects: 

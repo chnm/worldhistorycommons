@@ -5,6 +5,7 @@ drupal_node_id: 632
 source_type: "Image"
 url: /nutmeg-and-spice-wars-southeast-asia
 image: /images/nutmeg_0.jpg
+image_alt: "Sketch of nutmeg"
 regions: []
 subjects: 
   - "Trade"

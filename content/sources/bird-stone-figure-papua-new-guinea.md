@@ -5,6 +5,7 @@ drupal_node_id: 3023
 source_type: "Image"
 url: /bird-stone-figure-papua-new-guinea
 image: /images/WHC_bird_figure_main_image.jpeg
+image_alt: "A tan-colored stone figure loosely shaped like a bird with a head and beak and two protruding wings on the side. The figure has a flat bottom."
 regions: 
   - "Oceania"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1170
 source_type: "Text"
 url: /examination-thomas-carrier-jr
 image: /images/Icons-Document_32.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

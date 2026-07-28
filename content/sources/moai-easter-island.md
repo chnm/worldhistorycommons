@@ -5,6 +5,12 @@ drupal_node_id: 3041
 source_type: "Image"
 url: /moai-easter-island
 image: /images/12842001_0.jpg
+image_alt: "A moai in the shape of a human figure with a smaller head, large nose and lips, rectangular ears, and a torso against a black background."
+additional_images:
+  - src: "/images/source-media/3041/Easter_Island__16471663317_.jpeg"
+    alt: "A moai with a large, long head with distinctive nose, lips, and rectangular ears outside with grass and other statues in the background."
+  - src: "/images/source-media/3041/Easter_Island__16678951235_.jpeg"
+    alt: "A moai with a large head, with distinctive eyes and lips, with the body sinking into the grassy ground. There is a fence around the moai to block people off."
 regions: 
   - "Oceania"
 subjects: 

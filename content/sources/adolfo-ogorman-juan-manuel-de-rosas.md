@@ -5,6 +5,7 @@ drupal_node_id: 1139
 source_type: "Text"
 url: /adolfo-ogorman-juan-manuel-de-rosas
 image: /images/Icons-Document_13.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

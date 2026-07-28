@@ -5,6 +5,7 @@ drupal_node_id: 2996
 source_type: "Image"
 url: /remains-stargate-canoe
 image: /images/Remain_of_the_Stargate_Canoe.jpg
+image_alt: "Remains of the Stargate Canoe"
 regions: 
   - "North/Central America"
   - "South America"

@@ -5,6 +5,7 @@ drupal_node_id: 2787
 source_type: "Text"
 url: /francois-guilbeau-letter-loredo-trade
 image: /images/GuilbeauLetter.jpg
+image_alt: "Image of a handwritten letter. Transcription below"
 regions: 
   - "Europe"
   - "North/Central America"

@@ -5,6 +5,7 @@ drupal_node_id: 1919
 source_type: "Text"
 url: /excerpt-courrier-avignon
 image: /images/lecourriera.jpg
+image_alt: "Newspaper written in French"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1834
 source_type: "Image"
 url: /panelaks-and-housing-estates
 image: /images/panelaky_bdd4e00f7e.jpg
+image_alt: "This image shows several large panelaks, or concrete prefab housing units prevalent in Eastern Europe."
 regions: 
   - "Europe"
 subjects: 

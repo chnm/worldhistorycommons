@@ -5,6 +5,7 @@ drupal_node_id: 2833
 source_type: "Text"
 url: /economic-declaration-nonaligned-countries
 image: /images/EconomicDec.jpg
+image_alt: "Text of speech. Transcription below."
 regions: 
   - "Africa"
   - "Global"

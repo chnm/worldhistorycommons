@@ -5,6 +5,7 @@ drupal_node_id: 1279
 source_type: "Text"
 url: /explanation-school-matters
 image: /images/Icons-Document_111.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

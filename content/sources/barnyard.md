@@ -5,6 +5,10 @@ drupal_node_id: 976
 source_type: "Image"
 url: /barnyard
 image: /images/barnyard-1.jpg
+image_alt: "The Barnyard"
+additional_images:
+  - src: "/images/source-media/976/barnyard-2.jpg"
+    alt: "The Barnyard"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1030
 source_type: "Image"
 url: /bonaparte-first-consul-french-republic
 image: /images/napoleon-bonaparte.jpg
+image_alt: "Bonaparte, First Consul of the French Republic"
 regions: 
   - "Europe"
 subjects: 

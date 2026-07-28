@@ -5,6 +5,7 @@ drupal_node_id: 2573
 source_type: "Image"
 url: /mexico-cartoon-1846
 image: /images/Mexico_Prisoners_cartoon.jpg
+image_alt: "Mexico Cartoon, 1846"
 regions: 
   - "North/Central America"
 subjects: 

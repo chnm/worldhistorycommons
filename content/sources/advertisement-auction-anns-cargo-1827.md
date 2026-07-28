@@ -5,6 +5,7 @@ drupal_node_id: 2876
 source_type: "Image"
 url: /advertisement-auction-anns-cargo-1827
 image: /images/AuctionAd.png
+image_alt: "Ad for auction of ship's cargo. Description in annotation."
 regions: 
   - "Africa"
   - "Middle East"

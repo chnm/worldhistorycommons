@@ -5,6 +5,7 @@ drupal_node_id: 1018
 source_type: "Image"
 url: /triumph-year-1813
 image: /images/triump-of-the-year-1813.jpg
+image_alt: "Triumph of the Year 1813"
 regions: 
   - "Europe"
 subjects: 

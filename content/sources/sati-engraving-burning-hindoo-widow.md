@@ -5,6 +5,7 @@ drupal_node_id: 265
 source_type: "Image"
 url: /sati-engraving-burning-hindoo-widow
 image: /images/sati-engraving.jpg
+image_alt: "Sati Engraving “Burning a Hindoo Widow”"
 regions: 
   - "Asia"
   - "Europe"

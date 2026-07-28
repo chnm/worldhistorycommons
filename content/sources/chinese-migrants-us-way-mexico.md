@@ -5,6 +5,7 @@ drupal_node_id: 2830
 source_type: "Image"
 url: /chinese-migrants-us-way-mexico
 image: /images/fig-5-braun-j.jpeg
+image_alt: "6 photographs of Chinese men wearing western clothing. Department of Commerce and Labor written at the top."
 regions: 
   - "Asia"
   - "North/Central America"

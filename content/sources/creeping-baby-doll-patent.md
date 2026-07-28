@@ -5,6 +5,7 @@ drupal_node_id: 323
 source_type: "Image"
 url: /creeping-baby-doll-patent
 image: /images/creeping-doll-patent.jpg
+image_alt: "Creeping Baby Doll Patent"
 regions: 
   - "North/Central America"
 subjects: 

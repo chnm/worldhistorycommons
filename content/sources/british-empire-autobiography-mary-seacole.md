@@ -5,6 +5,7 @@ drupal_node_id: 1642
 source_type: "Text"
 url: /british-empire-autobiography-mary-seacole
 image: /images/Icons-Document_395.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2780
 source_type: "Image"
 url: /selden-map
 image: /images/SeldenMap.jpeg
+image_alt: "Hand drawn map showing islands with mountains"
 regions: 
   - "Asia"
 subjects: 

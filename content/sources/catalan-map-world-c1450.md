@@ -5,6 +5,10 @@ drupal_node_id: 2859
 source_type: "Image"
 url: /catalan-map-world-c1450
 image: /images/CatalanMap.jpg
+image_alt: "Round map of the globe with figures such as kings drawn in."
+additional_images:
+  - src: "/images/source-media/2859/PresterJohnInset.jpeg"
+    alt: "Inset image of globe with Prester John in the center sitting in front of a tent."
 regions: 
   - "Europe"
   - "Global"

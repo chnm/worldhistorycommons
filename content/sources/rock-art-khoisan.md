@@ -5,6 +5,7 @@ drupal_node_id: 281
 source_type: "Image"
 url: /rock-art-khoisan
 image: /images/rockart.jpg
+image_alt: "Rock Art, Khoisan"
 regions: 
   - "Africa"
 subjects: 

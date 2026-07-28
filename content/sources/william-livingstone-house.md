@@ -5,6 +5,7 @@ drupal_node_id: 2257
 source_type: "Image"
 url: /william-livingstone-house
 image: /images/LivingstonHouse.jpg
+image_alt: "Photograph of a three story mansion with a turret"
 regions: 
   - "North/Central America"
 subjects: 

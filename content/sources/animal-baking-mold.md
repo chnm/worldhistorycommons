@@ -5,6 +5,7 @@ drupal_node_id: 108
 source_type: "Object"
 url: /animal-baking-mold
 image: /images/cake-mold-jordan-al-fudayn_173b549fe0.jpg
+image_alt: "Cast iron baking mold"
 regions: 
   - "Middle East"
 subjects: 

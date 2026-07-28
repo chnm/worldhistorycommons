@@ -5,6 +5,7 @@ drupal_node_id: 403
 source_type: "Text"
 url: /boke-chyldren-thomas-phaer
 image: /images/book-of-children.jpg
+image_alt: "Book of Children by Thomas Phaer"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1673
 source_type: "Text"
 url: /gender-and-health-latin-america-interview-reproductive-rights-brazil
 image: /images/Icons-Document_424.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

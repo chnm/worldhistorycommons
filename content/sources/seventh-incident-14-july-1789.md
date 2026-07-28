@@ -5,6 +5,7 @@ drupal_node_id: 699
 source_type: "Image"
 url: /seventh-incident-14-july-1789
 image: /images/7th-incident.jpg
+image_alt: "The Seventh Incident of 14 July 1789"
 regions: 
   - "Europe"
 subjects: 

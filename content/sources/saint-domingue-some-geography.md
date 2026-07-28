@@ -5,6 +5,7 @@ drupal_node_id: 1516
 source_type: "Text"
 url: /saint-domingue-some-geography
 image: /images/Icons-Document_287.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

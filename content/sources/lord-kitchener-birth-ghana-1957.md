@@ -5,6 +5,9 @@ drupal_node_id: 2922
 source_type: "Audio"
 url: /lord-kitchener-birth-ghana-1957
 image: 
+media_unavailable:
+  type: audio
+  message: "The original site lists downloadable audio, but its media URL is empty."
 regions: 
   - "Africa"
   - "Comparative"

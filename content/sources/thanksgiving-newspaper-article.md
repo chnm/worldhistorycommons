@@ -5,6 +5,7 @@ drupal_node_id: 324
 source_type: "Text"
 url: /thanksgiving-newspaper-article
 image: /images/thanksgiving-nytclip.jpg
+image_alt: "Thanksgiving Newspaper Article"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 177
 source_type: "Image"
 url: /act-justice
 image: /images/4554c43819436bdb7f60ddf6882f4d00.jpg
+image_alt: "Mythical print depiction of Robespierre's death"
 regions: 
   - "Europe"
 subjects: 

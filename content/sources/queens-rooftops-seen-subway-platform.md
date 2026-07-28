@@ -5,6 +5,7 @@ drupal_node_id: 132
 source_type: "Image"
 url: /queens-rooftops-seen-subway-platform
 image: /images/queens-rooftops-from-subway-platform_bbc5ee84c4.jpg
+image_alt: "Photo of cityscape from subway platform"
 regions: 
   - "North/Central America"
 subjects: 

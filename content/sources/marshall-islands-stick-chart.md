@@ -5,6 +5,7 @@ drupal_node_id: 2824
 source_type: "Image"
 url: /marshall-islands-stick-chart
 image: /images/MattangChart.png
+image_alt: "Chart with curved sticks emanating from pebbles on either side"
 regions: 
   - "Asia"
   - "Oceania"

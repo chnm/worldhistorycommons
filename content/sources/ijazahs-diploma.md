@@ -5,6 +5,10 @@ drupal_node_id: 104
 source_type: "Text"
 url: /ijazahs-diploma
 image: /images/ijaza-efendi-lib-of-congress_a22d3beea3.jpg
+image_alt: "Photo of ijazahs diplomas"
+additional_images:
+  - src: "/images/source-media/104/ijaza-yale-beineke-library_f205a1b9ce.jpg"
+    alt: "Photo of ijazahs diplomas"
 regions: 
   - "Middle East"
 subjects: 

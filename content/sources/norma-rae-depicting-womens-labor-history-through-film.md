@@ -5,6 +5,7 @@ drupal_node_id: 3000
 source_type: "Image"
 url: /norma-rae-depicting-womens-labor-history-through-film
 image: /images/sallyfield_normarae.jpeg
+image_alt: "Film still shows two women in a factory. One (portrayed by Sally Field) has her arm around the other."
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 371
 source_type: "Image"
 url: /thai-palm-leaf-fish-mobile-cradle
 image: /images/fish-palm.jpg
+image_alt: "Photograph of Thai Palm Leaf Fish Mobile for the Cradle"
 regions: 
   - "Asia"
 subjects: 

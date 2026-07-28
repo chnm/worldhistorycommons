@@ -5,6 +5,7 @@ drupal_node_id: 2541
 source_type: "Object"
 url: /cecil-rhodes-monument-cape-town-south-africa
 image: /images/rhodes_statue.png
+image_alt: "Cecil Rhodes monument, Cape Town University, South Africa"
 regions: 
   - "Africa"
   - "Europe"

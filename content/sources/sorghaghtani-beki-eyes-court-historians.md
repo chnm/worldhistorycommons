@@ -5,6 +5,7 @@ drupal_node_id: 2759
 source_type: "Text"
 url: /sorghaghtani-beki-eyes-court-historians
 image: /images/Text_Image_7_3.jpeg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

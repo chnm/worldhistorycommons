@@ -5,6 +5,7 @@ drupal_node_id: 2970
 source_type: "Image"
 url: /shipping-company-route-map-1889
 image: /images/Compagnie_des_Messageries_maritimes_Carte.jpeg
+image_alt: "Shipping Company Route Map from 1889"
 regions: 
   - "Africa"
   - "Asia"

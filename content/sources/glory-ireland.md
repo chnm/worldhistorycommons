@@ -5,6 +5,7 @@ drupal_node_id: 3113
 source_type: "Image"
 url: /glory-ireland
 image: /images/service-pnp-cph-3g10000-3g11000-3g11000-3g11005v.jpg
+image_alt: "For the glory of ireland WWI poster. Description provided in source annotation"
 regions: 
   - "Comparative"
   - "Europe"

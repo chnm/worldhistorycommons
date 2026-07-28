@@ -5,6 +5,7 @@ drupal_node_id: 1045
 source_type: "Image"
 url: /day-13-vendemaire-year-4
 image: /images/day-of-13.jpg
+image_alt: "Day of 13 Vendemaire of the Year 4"
 regions: 
   - "Europe"
 subjects: 

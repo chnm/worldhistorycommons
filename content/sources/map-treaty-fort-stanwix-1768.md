@@ -5,6 +5,7 @@ drupal_node_id: 2791
 source_type: "Image"
 url: /map-treaty-fort-stanwix-1768
 image: /images/1768_Fort_Stanwix_Boundary_Line__resized_.jpg
+image_alt: "Map of the Boundary Line Established at the Treaty of Fort Stanwix, 1768"
 regions: 
   - "North/Central America"
 subjects: 

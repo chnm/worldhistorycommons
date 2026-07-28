@@ -5,6 +5,7 @@ drupal_node_id: 209
 source_type: "Text"
 url: /excerpt-memoirs-catharina-schrader
 image: /images/CatharinaSchrader.jpg
+image_alt: "Catharina Schrader"
 regions: 
   - "Europe"
 subjects: 

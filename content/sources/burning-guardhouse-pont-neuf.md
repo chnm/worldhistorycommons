@@ -5,6 +5,7 @@ drupal_node_id: 1002
 source_type: "Image"
 url: /burning-guardhouse-pont-neuf
 image: /images/burning-the-guardhouse.jpg
+image_alt: "Burning the Guardhouse on the Pont Neuf"
 regions: 
   - "Europe"
 subjects: 

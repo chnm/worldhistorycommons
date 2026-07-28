@@ -5,6 +5,7 @@ drupal_node_id: 1011
 source_type: "Image"
 url: /death-napoleon-st-helena
 image: /images/death-of-napoleon.jpg
+image_alt: "The Death of Napoleon on St. Helena"
 regions: 
   - "Europe"
 subjects: 

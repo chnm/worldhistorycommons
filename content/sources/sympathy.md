@@ -5,6 +5,7 @@ drupal_node_id: 3102
 source_type: "Image"
 url: /sympathy
 image: /images/Sympathy.jpg
+image_alt: "Drawing of three children one standing, two crouching"
 regions: 
   - "Asia"
 subjects: 

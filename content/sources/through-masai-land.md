@@ -5,6 +5,7 @@ drupal_node_id: 395
 source_type: "Text"
 url: /through-masai-land
 image: /images/through-masai-land.png
+image_alt: "Through Masai Land title page"
 regions: 
   - "Africa"
 subjects: 

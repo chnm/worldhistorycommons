@@ -5,6 +5,10 @@ drupal_node_id: 698
 source_type: "Image"
 url: /example-heroic-courage
 image: /images/example-of-heroic-courage.jpg
+image_alt: "An Example of Heroic Courage"
+additional_images:
+  - src: "/images/source-media/698/example-of-heroic-courage-2.jpg"
+    alt: "An Example of Heroic Courage"
 regions: 
   - "Europe"
 subjects: 

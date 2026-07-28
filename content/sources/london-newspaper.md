@@ -5,6 +5,7 @@ drupal_node_id: 2686
 source_type: "Image"
 url: /london-newspaper
 image: /images/The_Times_-_July_6__1863.jpg
+image_alt: "The Times, London, 1863"
 regions: 
   - "Comparative"
 subjects: 

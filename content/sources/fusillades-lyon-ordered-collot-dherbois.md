@@ -5,6 +5,7 @@ drupal_node_id: 1109
 source_type: "Image"
 url: /fusillades-lyon-ordered-collot-dherbois
 image: /images/3b8349ea1c812ea896d940dda1c57bda.jpg
+image_alt: "Engraving of executions in Lyon"
 regions: 
   - "Europe"
 subjects: 

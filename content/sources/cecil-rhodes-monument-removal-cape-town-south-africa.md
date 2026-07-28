@@ -5,6 +5,7 @@ drupal_node_id: 2542
 source_type: "Object"
 url: /cecil-rhodes-monument-removal-cape-town-south-africa
 image: /images/rhodes_statue_removal.jpg
+image_alt: "Cecil Rhodes statue removal, Cape Town University, South Africa"
 regions: 
   - "Africa"
   - "Europe"

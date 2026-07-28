@@ -5,6 +5,7 @@ drupal_node_id: 3109
 source_type: "Image"
 url: /maria-tallchief-dance-magazine-1961
 image: /images/Dance_Magazine_July_1961_cover_0.png
+image_alt: "Maria Tallchief dancing with Erik Bruhn, banner reads 7Dance Magazine, July 1961, 75 cents"
 regions: 
   - "North/Central America"
 subjects: 

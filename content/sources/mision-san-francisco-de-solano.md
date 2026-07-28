@@ -5,6 +5,7 @@ drupal_node_id: 2659
 source_type: "Image"
 url: /mision-san-francisco-de-solano
 image: /images/NorCal2018_Mission_San_Francisco_Solano_State_Historic_Park_IMG_1838_FRD.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

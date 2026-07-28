@@ -5,6 +5,9 @@ drupal_node_id: 1150
 source_type: "Audio"
 url: /song-festival-old-age
 image: 
+audio_files:
+  - src: "/audio/source-media/1150/SONG_FOR_THE_FESTIVAL_OF_OLD_AGE.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

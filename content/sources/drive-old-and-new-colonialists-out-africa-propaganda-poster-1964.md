@@ -5,6 +5,7 @@ drupal_node_id: 2951
 source_type: "Image"
 url: /drive-old-and-new-colonialists-out-africa-propaganda-poster-1964
 image: /images/Drive_the_old_and_new_colonialists_out_of_Africa_poster.jpg
+image_alt: "Propaganda poster featuring a black man dressed in robes against a backdrop of flames. In one hand he is holding up a gun; in his other, he is breaking free of chains. In Mandarin, the poster's text reads, \"Drive the old and new colonialists out of Africa!\""
 regions: 
   - "Africa"
   - "Asia"

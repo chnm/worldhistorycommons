@@ -5,6 +5,7 @@ drupal_node_id: 1091
 source_type: "Image"
 url: /image-queens-defense
 image: /images/4aa347e936ab7e8e7ffea50b37232af5.jpg
+image_alt: "Engraving of Marie Antoinette at her trial"
 regions: 
   - "Europe"
 subjects: 

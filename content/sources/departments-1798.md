@@ -5,6 +5,7 @@ drupal_node_id: 995
 source_type: "Image"
 url: /departments-1798
 image: /images/map-1798.jpg
+image_alt: "Departments of 1798"
 regions: 
   - "Europe"
 subjects: 

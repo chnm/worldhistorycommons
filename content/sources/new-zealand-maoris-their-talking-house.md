@@ -5,6 +5,7 @@ drupal_node_id: 1433
 source_type: "Image"
 url: /new-zealand-maoris-their-talking-house
 image: /images/porch_photo.jpg
+image_alt: "image of a Maori men, women, and children arranged for a group portrait on the porch of a whare or wharenui (meeting house) in New Zealand"
 regions: 
   - "Oceania"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1311
 source_type: "Text"
 url: /student-stage-life-brahmacharya
 image: /images/Icons-Document_133.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

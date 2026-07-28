@@ -5,6 +5,9 @@ drupal_node_id: 277
 source_type: "Image"
 url: /triumph-parisian-army-and-people
 image: /images/triump-of-parisian.jpg
+additional_images:
+  - src: "/images/source-media/277/triumpof-parisian-2.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

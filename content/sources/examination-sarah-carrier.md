@@ -5,6 +5,7 @@ drupal_node_id: 1171
 source_type: "Text"
 url: /examination-sarah-carrier
 image: /images/Icons-Document_33.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

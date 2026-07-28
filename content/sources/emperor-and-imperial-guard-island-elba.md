@@ -5,6 +5,7 @@ drupal_node_id: 1015
 source_type: "Image"
 url: /emperor-and-imperial-guard-island-elba
 image: /images/emperor-and-imperial-guard.jpg
+image_alt: "The Emperor and the Imperial Guard on the Island of Elba"
 regions: 
   - "Europe"
 subjects: 

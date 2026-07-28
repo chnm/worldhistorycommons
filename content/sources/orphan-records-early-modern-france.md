@@ -5,6 +5,7 @@ drupal_node_id: 1129
 source_type: "Text"
 url: /orphan-records-early-modern-france
 image: /images/Icons-Document_4.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

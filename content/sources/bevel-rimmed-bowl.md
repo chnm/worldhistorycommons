@@ -5,6 +5,7 @@ drupal_node_id: 1192
 source_type: "Object"
 url: /bevel-rimmed-bowl
 image: /images/Bevel-rimmed-bowl_1.jpg
+image_alt: "Image of Uruk bevel-rimmed bowl"
 regions: 
   - "Asia"
   - "Middle East"

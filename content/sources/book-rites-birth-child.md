@@ -5,6 +5,7 @@ drupal_node_id: 1276
 source_type: "Text"
 url: /book-rites-birth-child
 image: /images/Icons-Book-Excerpt_6.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

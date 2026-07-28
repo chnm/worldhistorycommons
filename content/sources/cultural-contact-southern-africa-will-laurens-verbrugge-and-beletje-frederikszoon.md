@@ -5,6 +5,7 @@ drupal_node_id: 1631
 source_type: "Text"
 url: /cultural-contact-southern-africa-will-laurens-verbrugge-and-beletje-frederikszoon
 image: /images/Icons-Document_384.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

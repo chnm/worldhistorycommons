@@ -5,6 +5,7 @@ drupal_node_id: 351
 source_type: "Image"
 url: /roman-aristocrat
 image: /images/c6cfc95ef7f45efe8ae9add4339a7816.jpg
+image_alt: "Print of a political cartoon against the king"
 regions: 
   - "Europe"
 subjects: 

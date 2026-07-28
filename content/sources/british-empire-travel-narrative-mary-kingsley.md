@@ -5,6 +5,7 @@ drupal_node_id: 1643
 source_type: "Text"
 url: /british-empire-travel-narrative-mary-kingsley
 image: /images/Icons-Document_396.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

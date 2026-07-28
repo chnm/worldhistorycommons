@@ -5,6 +5,7 @@ drupal_node_id: 273
 source_type: "Image"
 url: /farewell-bastille
 image: /images/farewell-bastille.jpg
+image_alt: "Engraving of man in foreground wearing French colors and observing two others in combat"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2835
 source_type: "Object"
 url: /maya-monument-glyphs-4th-9th-centuries
 image: /images/DT10173.jpg
+image_alt: "Broken fragment of stone monument with glyphs carved into it."
 regions: 
   - "North/Central America"
 subjects: 

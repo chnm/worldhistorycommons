@@ -5,6 +5,7 @@ drupal_node_id: 1296
 source_type: "Text"
 url: /testament-elite-wife-during-black-death
 image: /images/Icons-Document_122.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

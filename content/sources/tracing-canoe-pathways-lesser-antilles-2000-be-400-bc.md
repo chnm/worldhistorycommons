@@ -5,6 +5,10 @@ drupal_node_id: 3002
 source_type: "Image"
 url: /tracing-canoe-pathways-lesser-antilles-2000-be-400-bc
 image: /images/LesserAntillesMap1.png
+image_alt: "Map showing Caribbean islands including Antigua, St. Kitts, and Nevis"
+additional_images:
+  - src: "/images/source-media/3002/LesserAntillesMap2.png"
+    alt: "Map showing Caribbean islands with circular paths drawn several islands"
 regions: 
   - "North/Central America"
 subjects: 

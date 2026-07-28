@@ -5,6 +5,7 @@ drupal_node_id: 1144
 source_type: "Text"
 url: /benjamin-montes-bourgan-funge-and-company
 image: /images/Icons-Document_18.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

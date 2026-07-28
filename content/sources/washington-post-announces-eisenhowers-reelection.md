@@ -5,6 +5,7 @@ drupal_node_id: 2582
 source_type: "Image"
 url: /washington-post-announces-eisenhowers-reelection
 image: /images/1956_Washington_Post_Cover.jpg
+image_alt: "Washington Post Announces Eisenhower's Reelection in 1956"
 regions: 
   - "North/Central America"
 subjects: 

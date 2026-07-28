@@ -5,6 +5,7 @@ drupal_node_id: 1039
 source_type: "Text"
 url: /day-saint-cloud
 image: /images/day-of-saint-cloud.jpg
+image_alt: "Day of Saint-Cloud"
 regions: 
   - "Europe"
 subjects: 

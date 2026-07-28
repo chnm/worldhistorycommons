@@ -5,6 +5,7 @@ drupal_node_id: 3147
 source_type: "Image"
 url: /school-begins
 image: /images/School_Begins_Uncle_Sam_2.jpg
+image_alt: "Uncle Sam is the teacher of a class filled with personified States, people groups, and regions as the young students."
 regions: 
   - "North/Central America"
 subjects: 

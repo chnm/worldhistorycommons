@@ -5,6 +5,7 @@ drupal_node_id: 1031
 source_type: "Image"
 url: /revenge-taken-black-army-cruelties-practised-them-french
 image: /images/revenge-taken-by-army.jpg
+image_alt: "Revenge Taken by the Black Army for the Cruelties Practised on Them by the French"
 regions: 
   - "North/Central America"
 subjects: 

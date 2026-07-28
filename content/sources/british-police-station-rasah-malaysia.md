@@ -5,6 +5,7 @@ drupal_node_id: 3005
 source_type: "Image"
 url: /british-police-station-rasah-malaysia
 image: /images/RassaPoliceStation.png
+image_alt: "Drawing of 2 wooden structures. Both have two stories. Further description in the source annotation."
 regions: 
   - "Asia"
   - "Europe"

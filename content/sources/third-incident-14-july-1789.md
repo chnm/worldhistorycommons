@@ -5,6 +5,7 @@ drupal_node_id: 257
 source_type: "Image"
 url: /third-incident-14-july-1789
 image: /images/third-incident.jpg
+image_alt: "The Third Incident of 14 July 1789"
 regions: 
   - "Europe"
 subjects: 

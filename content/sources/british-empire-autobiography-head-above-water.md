@@ -5,6 +5,7 @@ drupal_node_id: 1646
 source_type: "Text"
 url: /british-empire-autobiography-head-above-water
 image: /images/Icons-Document_399.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

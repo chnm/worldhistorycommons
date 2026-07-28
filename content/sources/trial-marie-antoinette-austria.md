@@ -5,6 +5,10 @@ drupal_node_id: 1090
 source_type: "Image"
 url: /trial-marie-antoinette-austria
 image: /images/95f3baf841ffea3ba8c50ace7cbc4015.jpg
+image_alt: "Engraving of the trial of Marie Antoinette"
+additional_images:
+  - src: "/images/source-media/1090/b3c17e6d5040084f7253007b539adbf4.jpg"
+    alt: "B&W engraving of the trial of Marie Antoinette"
 regions: 
   - "Europe"
 subjects: 

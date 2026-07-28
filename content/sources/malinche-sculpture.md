@@ -5,6 +5,7 @@ drupal_node_id: 253
 source_type: "Object"
 url: /malinche-sculpture
 image: /images/durhamlarge.jpg
+image_alt: "Malinche Sculpture"
 regions: 
   - "North/Central America"
 subjects: 

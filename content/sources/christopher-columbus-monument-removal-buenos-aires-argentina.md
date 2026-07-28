@@ -5,6 +5,7 @@ drupal_node_id: 2540
 source_type: "Object"
 url: /christopher-columbus-monument-removal-buenos-aires-argentina
 image: /images/columbus_statue_buenos_aires_removal.png
+image_alt: "Removal of Christopher Columbus statue near the Casa Rosada, Buenos Aires, Argentina"
 regions: 
   - "Europe"
   - "South America"

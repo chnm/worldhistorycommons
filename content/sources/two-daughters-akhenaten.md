@@ -5,6 +5,7 @@ drupal_node_id: 309
 source_type: "Object"
 url: /two-daughters-akhenaten
 image: /images/two-daughters.jpg
+image_alt: "Two Daughters of Akhenaten"
 regions: 
   - "Africa"
 subjects: 

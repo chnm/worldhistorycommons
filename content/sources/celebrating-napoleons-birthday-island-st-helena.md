@@ -5,6 +5,7 @@ drupal_node_id: 159
 source_type: "Image"
 url: /celebrating-napoleons-birthday-island-st-helena
 image: /images/99104d9a0b8a806e0ea3eee38b66a193.jpg
+image_alt: "Cartoon of Napoleon charging into \"battle\""
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 220
 source_type: "Image"
 url: /de-tente-en-el-aire-y-mulata-albarrasado
 image: /images/street-painting-mulata-woman.jpg
+image_alt: "Painting of a mulata woman selling items in the street"
 regions: 
   - "North/Central America"
 subjects: 

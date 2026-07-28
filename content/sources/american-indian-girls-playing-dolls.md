@@ -5,6 +5,7 @@ drupal_node_id: 332
 source_type: "Image"
 url: /american-indian-girls-playing-dolls
 image: /images/girls_with_dolls.jpg
+image_alt: "Photograph of American Indian Girls Playing with Dolls"
 regions: 
   - "North/Central America"
 subjects: 

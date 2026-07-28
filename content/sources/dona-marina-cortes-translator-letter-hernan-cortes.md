@@ -5,6 +5,7 @@ drupal_node_id: 1297
 source_type: "Text"
 url: /dona-marina-cortes-translator-letter-hernan-cortes
 image: /images/Icons-Document_123.jpg
+image_alt: "document icon"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 74
 source_type: "Image"
 url: /joyous-celebration-new-year
 image: /images/joy_at_new_year_image_8819fa573e.jpg
+image_alt: "Painting of household celebrating New Year's holiday"
 regions: 
   - "Asia"
 subjects: 

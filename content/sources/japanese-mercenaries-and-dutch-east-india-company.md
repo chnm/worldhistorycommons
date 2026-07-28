@@ -5,6 +5,7 @@ drupal_node_id: 646
 source_type: "Text"
 url: /japanese-mercenaries-and-dutch-east-india-company
 image: /images/Coen-Discoers-excerpt.jpg
+image_alt: "Excerpt of Discoers aen de E. Heeren Bewinthebberen"
 regions: 
   - "Asia"
   - "Europe"

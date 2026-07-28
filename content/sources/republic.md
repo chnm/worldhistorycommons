@@ -5,6 +5,7 @@ drupal_node_id: 573
 source_type: "Image"
 url: /republic
 image: /images/569db6d8c3a9d2a3665b5263d1e4d566.jpg
+image_alt: "Painting of Liberty as the Republic"
 regions: 
   - "Europe"
 subjects: 

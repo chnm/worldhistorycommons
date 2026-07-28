@@ -5,6 +5,11 @@ drupal_node_id: 930
 source_type: "Image"
 url: /photographs-st-stanislaw-kostka-church-warsaw
 image: /images/Pictures17_824c3f1b27.jpg
+additional_images:
+  - src: "/images/source-media/930/Pictures18_9adef26d86.jpg"
+    alt: ""
+  - src: "/images/source-media/930/Pictures19_4a5b7fe96c.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

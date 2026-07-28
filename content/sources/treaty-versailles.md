@@ -5,6 +5,7 @@ drupal_node_id: 694
 source_type: "Text"
 url: /treaty-versailles
 image: /images/treaty-of-versailles.jpg
+image_alt: "Treaty of Versailles"
 regions: 
   - "Asia"
   - "Europe"

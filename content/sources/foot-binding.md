@@ -5,6 +5,7 @@ drupal_node_id: 32
 source_type: "Image"
 url: /foot-binding
 image: /images/WWH-footbindingsmall.jpg
+image_alt: "Photograph of Northern Chinese woman with foot binding."
 regions: 
   - "Asia"
 subjects: 

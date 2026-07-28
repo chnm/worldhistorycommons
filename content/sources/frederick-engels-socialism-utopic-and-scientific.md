@@ -5,6 +5,7 @@ drupal_node_id: 943
 source_type: "Text"
 url: /frederick-engels-socialism-utopic-and-scientific
 image: /images/Friedrich_Engels.jpg
+image_alt: "Frederick Engels"
 regions: 
   - "Europe"
 subjects: 

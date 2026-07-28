@@ -5,6 +5,7 @@ drupal_node_id: 2614
 source_type: "Text"
 url: /world-map-n-s-america
 image: /images/08720-027.jpg
+image_alt: "Old color map of north and south America, with a distorted view of North America."
 regions: 
   - "North/Central America"
   - "South America"

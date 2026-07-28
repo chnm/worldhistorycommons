@@ -5,6 +5,7 @@ drupal_node_id: 1512
 source_type: "Text"
 url: /council-five-hundred-concurs
 image: /images/Icons-Document_283.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

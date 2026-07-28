@@ -5,6 +5,7 @@ drupal_node_id: 1162
 source_type: "Text"
 url: /hadith-parents-grieving-upon-death-children
 image: /images/Icons-Document_24.jpg
+image_alt: "image of the text"
 regions: 
   - "Middle East"
 subjects: 

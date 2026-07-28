@@ -5,6 +5,7 @@ drupal_node_id: 123
 source_type: "Image"
 url: /my-weekly-reader
 image: /images/cyhgirlreadinjpg027_c609123baf.jpg
+image_alt: "Magazine cover of young girl reading book"
 regions: 
   - "North/Central America"
 subjects: 

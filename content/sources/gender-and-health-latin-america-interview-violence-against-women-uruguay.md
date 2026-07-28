@@ -5,6 +5,7 @@ drupal_node_id: 1674
 source_type: "Text"
 url: /gender-and-health-latin-america-interview-violence-against-women-uruguay
 image: /images/Icons-Document_425.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

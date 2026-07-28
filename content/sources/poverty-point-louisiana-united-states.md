@@ -5,6 +5,12 @@ drupal_node_id: 3051
 source_type: "Image"
 url: /poverty-point-louisiana-united-states
 image: /images/WHC_bird_mound.jpeg
+image_alt: "A large, grass covered earthen mound. There is a blue sky and trees behind it."
+additional_images:
+  - src: "/images/source-media/3051/WHC_poverty_point_reconstruction.jpeg"
+    alt: "An aerial, black-and-white photo of the Poverty Point site dating from 1938. The mounds/ridges form a semi-circle."
+  - src: "/images/source-media/3051/WHC_poverty_poit_loess.jpeg"
+    alt: "Small, circular objects called loess that were used in cooking at the site. These objects date from 1650 to 700 BCE."
 regions: 
   - "North/Central America"
 subjects: 

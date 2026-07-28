@@ -5,6 +5,7 @@ drupal_node_id: 1729
 source_type: "Text"
 url: /southeast-asian-politics-song-philippine-feminist-movement
 image: /images/Icons-Song_13.jpg
+image_alt: "image of the song"
 regions: 
   - "Asia"
 subjects: 

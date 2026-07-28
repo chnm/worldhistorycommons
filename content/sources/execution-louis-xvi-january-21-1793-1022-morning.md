@@ -5,6 +5,7 @@ drupal_node_id: 1063
 source_type: "Image"
 url: /execution-louis-xvi-january-21-1793-1022-morning
 image: /images/b51d0a3155f04dd0fa2ed13c08573716.jpg
+image_alt: "Engraving of King Louis XVI before his execution"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2369
 source_type: "Object"
 url: /gold-dinar-abd-al-malik-minted-damascus-69798
 image: /images/Dinar_noimage.png
+image_alt: "Two sides of gold coin each with Arabic script"
 regions: 
   - "Middle East"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 368
 source_type: "Image"
 url: /school-population-buenos-aires-argentina
 image: /images/school-population-in-buenos-aires.png
+image_alt: "Chart of School Population in Buenos Aires, Argentina"
 regions: 
   - "South America"
 subjects: []

@@ -5,6 +5,7 @@ drupal_node_id: 569
 source_type: "Image"
 url: /woman-basket-front-door-prison
 image: /images/9b0e2b052b04befd92e4bff542edb8c8.jpg
+image_alt: "Painting of a young revolutionary girl"
 regions: 
   - "Europe"
 subjects: 

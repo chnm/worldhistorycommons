@@ -5,6 +5,14 @@ drupal_node_id: 327
 source_type: "Image"
 url: /barbie-turns-21
 image: /images/barbie-houseparty.jpg
+image_alt: "Barbie Turns 21 magazine article"
+additional_images:
+  - src: "/images/source-media/327/barbie21.jpg"
+    alt: "Barbie Turns 21 magazine article"
+  - src: "/images/source-media/327/barbie-chic.jpg"
+    alt: "Barbie Turns 21 magazine article"
+  - src: "/images/source-media/327/barbie-70s-fashion.jpg"
+    alt: "Barbie Turns 21 magazine article"
 regions: 
   - "North/Central America"
 subjects: 

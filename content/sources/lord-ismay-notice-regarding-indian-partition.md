@@ -5,6 +5,7 @@ drupal_node_id: 3089
 source_type: "Image"
 url: /lord-ismay-notice-regarding-indian-partition
 image: /images/IsmayNotice.jpg
+image_alt: "Full Ismay Notice"
 regions: 
   - "Asia"
   - "Europe"

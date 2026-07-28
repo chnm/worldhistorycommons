@@ -5,6 +5,7 @@ drupal_node_id: 2991
 source_type: "Image"
 url: /rashid-graduates-oregon-agricultural-college-1908
 image: /images/OACgrads.jpg
+image_alt: "Newspaper headline: \"O.A.C. graduates are eighty-two\" transcription in folder in module."
 regions: 
   - "Asia"
   - "Global"

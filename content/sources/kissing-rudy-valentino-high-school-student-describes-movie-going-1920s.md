@@ -5,6 +5,7 @@ drupal_node_id: 1166
 source_type: "Text"
 url: /kissing-rudy-valentino-high-school-student-describes-movie-going-1920s
 image: /images/Icons-Document_28.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

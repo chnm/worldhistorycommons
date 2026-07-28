@@ -5,6 +5,7 @@ drupal_node_id: 326
 source_type: "Image"
 url: /schoolchildren-minidoka-incarceration-camp
 image: /images/schoolchildren-at-internment-camp.jpg
+image_alt: "Schoolchildren at Minidoka Incarceration Camp"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,10 @@ drupal_node_id: 3053
 source_type: "Image"
 url: /ethiopian-healing-scrolls
 image: /images/WHC_healing_scroll_wellcome.jpeg
+image_alt: "A brown, rectangular paper used as a healing scroll.  there is a drawing of a saint riding a horse and using a spear to destroy a demon. Underneath there is a written prayer in red and black ink in the Ge'ez script. There is a hole with a rope through the top of the scroll."
+additional_images:
+  - src: "/images/source-media/3053/WHC_met_healing_scroll.jpeg"
+    alt: "A tan colored healing scroll in the typical style, with an illustration at the top and a written prayer in the Ge'ez script at the bottom. The illustration depicts an 8 pointed star with a man's face in the middle, which may represent an angel. There are other geometric designs bordering the star."
 regions: 
   - "Africa"
 subjects: 

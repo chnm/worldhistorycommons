@@ -5,6 +5,7 @@ drupal_node_id: 1275
 source_type: "Text"
 url: /book-rites-early-education-and-gender-differentiation
 image: /images/Icons-Book-Excerpt_5.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

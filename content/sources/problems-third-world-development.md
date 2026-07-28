@@ -6,6 +6,7 @@ drupal_node_id: 2832
 source_type: "Text"
 url: /problems-third-world-development
 image: /images/3rdworlddevelopment.png
+image_alt: "Text of speech. Transcription below."
 regions: 
   - "Africa"
   - "Europe"

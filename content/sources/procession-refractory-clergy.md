@@ -5,6 +5,7 @@ drupal_node_id: 353
 source_type: "Image"
 url: /procession-refractory-clergy
 image: /images/4af01ae8c04e973031a571d9626b21b6.jpg
+image_alt: "Print of a caricature mocking the clergy"
 regions: 
   - "Europe"
 subjects: 

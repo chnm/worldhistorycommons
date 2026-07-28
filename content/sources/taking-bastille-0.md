@@ -5,6 +5,10 @@ drupal_node_id: 258
 source_type: "Image"
 url: /taking-bastille-0
 image: /images/taking-of-bastille-2.jpg
+image_alt: "Painting of the uprising against the Bastille"
+additional_images:
+  - src: "/images/source-media/258/taking-of-bastille-2-2.jpg"
+    alt: "Painting of the uprising against the Bastille"
 regions: 
   - "Europe"
 subjects: 

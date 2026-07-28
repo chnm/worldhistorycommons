@@ -5,6 +5,7 @@ drupal_node_id: 571
 source_type: "Image"
 url: /provincial-painting-minatures
 image: /images/51f967c7d997e0a05f91aed39101b0b8.jpg
+image_alt: "Painting of a mother and her children"
 regions: 
   - "Europe"
 subjects: 

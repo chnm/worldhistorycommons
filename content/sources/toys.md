@@ -5,6 +5,7 @@ drupal_node_id: 375
 source_type: "Object"
 url: /toys
 image: /images/toys.jpg
+image_alt: "Image of a girl playing with toys"
 regions: 
   - "North/Central America"
 subjects: 

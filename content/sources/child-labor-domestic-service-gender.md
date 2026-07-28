@@ -5,6 +5,7 @@ drupal_node_id: 49
 source_type: "Image"
 url: /child-labor-domestic-service-gender
 image: /images/child-domestic-service-statistics_a0203959da_0.jpg
+image_alt: "Chart of Child Domestic Service Statistics"
 regions: 
   - "Comparative"
   - "Global"

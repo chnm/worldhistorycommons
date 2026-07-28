@@ -5,6 +5,7 @@ drupal_node_id: 2840
 source_type: "Text"
 url: /ariya-cam-bini
 image: /images/Icons-Document_716_0.jpg
+image_alt: "document icon"
 regions: 
   - "Asia"
 subjects: 

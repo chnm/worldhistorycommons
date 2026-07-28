@@ -5,6 +5,7 @@ drupal_node_id: 223
 source_type: "Image"
 url: /fundraising-palestinian-families-jerusalem
 image: /images/fundraising-for-family.jpg
+image_alt: "Fundraising for Palestinian Families in Jerusalem"
 regions: 
   - "Middle East"
 subjects: 

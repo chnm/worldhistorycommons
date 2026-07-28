@@ -5,6 +5,7 @@ drupal_node_id: 60
 source_type: "Image"
 url: /slave-coffle-central-africa-1861
 image: /images/slave-coffle_-central-africa_-1861-_image__6a0ca85048.jpg
+image_alt: "Photo of captive Africans"
 regions: 
   - "Africa"
 subjects: 

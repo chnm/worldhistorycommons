@@ -5,6 +5,7 @@ drupal_node_id: 1520
 source_type: "Text"
 url: /maroons
 image: /images/Icons-Document_291.jpg
+image_alt: "Transcription"
 regions: 
   - "Global"
 subjects: 

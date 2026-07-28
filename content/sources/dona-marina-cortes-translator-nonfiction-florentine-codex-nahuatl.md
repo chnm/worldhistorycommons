@@ -5,6 +5,7 @@ drupal_node_id: 1307
 source_type: "Text"
 url: /dona-marina-cortes-translator-nonfiction-florentine-codex-nahuatl
 image: /images/Icons-Document_132.jpg
+image_alt: "Document icon"
 regions: 
   - "North/Central America"
 subjects: 

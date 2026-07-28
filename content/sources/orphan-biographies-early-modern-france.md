@@ -5,6 +5,7 @@ drupal_node_id: 1128
 source_type: "Text"
 url: /orphan-biographies-early-modern-france
 image: /images/Icons-Document_3.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 358
 source_type: "Image"
 url: /paleolithic-finger-flutings-cave-drawing
 image: /images/paleolithic-finger-flutings.jpg
+image_alt: "Paleolithic Finger Flutings Cave Drawing"
 regions: 
   - "Europe"
 subjects: 

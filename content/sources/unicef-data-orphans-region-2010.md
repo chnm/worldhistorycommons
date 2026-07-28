@@ -5,6 +5,10 @@ drupal_node_id: 54
 source_type: "Image"
 url: /unicef-data-orphans-region-2010
 image: /images/1un-orphan-data-by-region-lg_01fcd13d7a.jpg
+image_alt: "Chart of estimated number of orphans"
+additional_images:
+  - src: "/images/source-media/54/2un-data-on-orphans-by-region-bar-graph_14a87c0683.jpg"
+    alt: "Chart of number of orphans"
 regions: 
   - "Africa"
 subjects: 

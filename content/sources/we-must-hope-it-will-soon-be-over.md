@@ -5,6 +5,9 @@ drupal_node_id: 2112
 source_type: "Image"
 url: /we-must-hope-it-will-soon-be-over
 image: /images/hope_1.jpg
+additional_images:
+  - src: "/images/source-media/2112/hope_2.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

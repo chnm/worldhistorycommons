@@ -5,6 +5,7 @@ drupal_node_id: 3046
 source_type: "Image"
 url: /tui-tonga-empire-map
 image: /images/Tonga-Samoa-Fidschi.png
+image_alt: "Islands under the sphere of Tongan influence in Oceania. The islands are green and the background is blue to represent the water."
 regions: 
   - "Oceania"
 subjects: 

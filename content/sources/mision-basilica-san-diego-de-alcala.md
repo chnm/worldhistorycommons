@@ -5,6 +5,7 @@ drupal_node_id: 2668
 source_type: "Image"
 url: /mision-basilica-san-diego-de-alcala
 image: /images/Mission_San_Diego_de_Alcalá_-_church.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

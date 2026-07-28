@@ -5,6 +5,7 @@ drupal_node_id: 1226
 source_type: "Text"
 url: /annual-report-native-affairs-1874
 image: /images/Icons-Document_71.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

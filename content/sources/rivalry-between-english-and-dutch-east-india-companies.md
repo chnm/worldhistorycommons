@@ -5,6 +5,7 @@ drupal_node_id: 650
 source_type: "Text"
 url: /rivalry-between-english-and-dutch-east-india-companies
 image: /images/Purchas.jpg
+image_alt: "Hakluytus Posthumus excerpt"
 regions: 
   - "Asia"
   - "Europe"

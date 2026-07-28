@@ -5,6 +5,7 @@ drupal_node_id: 111
 source_type: "Image"
 url: /kuttab-or-primary-level-quran-school
 image: /images/kuttab-sabil-copy_2d8fa9f5c1.jpg
+image_alt: "Photo of public building"
 regions: 
   - "Africa"
 subjects: 

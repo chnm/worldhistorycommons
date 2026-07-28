@@ -5,6 +5,7 @@ drupal_node_id: 2874
 source_type: "Text"
 url: /rockefeller-foundation-report-concerning-yellow-fever-vaccine
 image: /images/StrodeDiary.JPG
+image_alt: "Text of report. Transcription in transcription folder."
 regions: 
   - "Africa"
   - "North/Central America"

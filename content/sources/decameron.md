@@ -5,6 +5,7 @@ drupal_node_id: 400
 source_type: "Text"
 url: /decameron
 image: /images/ildecameron.jpg
+image_alt: "Title page of the Decameron"
 regions: 
   - "Europe"
 subjects: 

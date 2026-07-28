@@ -5,6 +5,7 @@ drupal_node_id: 1490
 source_type: "Text"
 url: /revolutionary-tribunals-use-guillotine
 image: /images/Icons-Document_262.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,9 @@ drupal_node_id: 128
 source_type: "Video"
 url: /japanese-american-incarceration-amache-colorado-interview-0
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "North/Central America"
 subjects: 

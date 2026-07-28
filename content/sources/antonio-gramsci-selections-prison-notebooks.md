@@ -5,6 +5,7 @@ drupal_node_id: 940
 source_type: "Text"
 url: /antonio-gramsci-selections-prison-notebooks
 image: /images/Gramsci-image.png
+image_alt: "Antonio Gramsci"
 regions: 
   - "Europe"
 subjects: 

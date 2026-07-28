@@ -5,6 +5,7 @@ drupal_node_id: 2530
 source_type: "Image"
 url: /salisbury-crags
 image: /images/clerk1.jpg
+image_alt: "Drawing of two men working to create a large timeline"
 regions: 
   - "Global"
 subjects: 

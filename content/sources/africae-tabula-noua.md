@@ -5,6 +5,7 @@ drupal_node_id: 2403
 source_type: "Image"
 url: /africae-tabula-noua
 image: /images/1584_Map_of_Africa.jpg
+image_alt: "Abraham Ortelius's map from 1584 depicting Africa."
 regions: 
   - "Africa"
 subjects: 

@@ -5,6 +5,10 @@ drupal_node_id: 1254
 source_type: "Image"
 url: /ptolemys-world-map
 image: /images/ptolemy-lg.jpg
+image_alt: "Image of the Latin reconstitution of Ptolemy's world map"
+additional_images:
+  - src: "/images/source-media/1254/ptolemy-map-simplified.jpg"
+    alt: "Image of Latin reconstitution of Ptolemy's world map"
 regions: 
   - "Global"
 subjects: 

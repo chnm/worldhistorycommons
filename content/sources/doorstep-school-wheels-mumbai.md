@@ -5,6 +5,7 @@ drupal_node_id: 147
 source_type: "Image"
 url: /doorstep-school-wheels-mumbai
 image: /images/doorstep-school_75498bf3e3.jpg
+image_alt: "Photograph of girls learning"
 regions: 
   - "Asia"
 subjects: 

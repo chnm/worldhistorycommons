@@ -5,6 +5,7 @@ drupal_node_id: 1304
 source_type: "Text"
 url: /infanticide-trial-transcript-old-bailey-elizabeth-taylor-clerkenwell
 image: /images/Icons-Document_129.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

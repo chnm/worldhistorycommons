@@ -5,6 +5,7 @@ drupal_node_id: 2921
 source_type: "Image"
 url: /george-browne-freedom-ghana
 image: /images/Freedom_for_Ghana.jpg
+image_alt: "Image of newspaper. Transcription in folder."
 regions: 
   - "Africa"
 subjects: 

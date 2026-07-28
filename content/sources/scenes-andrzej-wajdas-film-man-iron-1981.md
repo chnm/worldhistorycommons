@@ -5,6 +5,13 @@ drupal_node_id: 932
 source_type: "Image"
 url: /scenes-andrzej-wajdas-film-man-iron-1981
 image: /images/man-of-iron-1_fe4a88004a.jpg
+additional_images:
+  - src: "/images/source-media/932/man-of-iron-2_e800fdbc07__1_.jpg"
+    alt: ""
+  - src: "/images/source-media/932/man-of-iron-3_25cf16dd16.jpg"
+    alt: ""
+  - src: "/images/source-media/932/man-of-iron-4_222ece3642.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

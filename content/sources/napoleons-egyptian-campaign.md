@@ -5,6 +5,7 @@ drupal_node_id: 989
 source_type: "Image"
 url: /napoleons-egyptian-campaign
 image: /images/campaign-map.jpg
+image_alt: "Map of Napoleon’s Egyptian Campaign"
 regions: 
   - "Europe"
 subjects: 

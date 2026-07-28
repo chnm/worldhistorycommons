@@ -5,6 +5,7 @@ drupal_node_id: 2607
 source_type: "Object"
 url: /coin-minted-constantine
 image: /images/Coins_minted_by_Constantine__327_0.jpg
+image_alt: "Front and back of aged coins. One side has a side profile of a person and the other has an insignia."
 regions: 
   - "Europe"
 subjects: 

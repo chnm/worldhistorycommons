@@ -5,6 +5,7 @@ drupal_node_id: 1067
 source_type: "Image"
 url: /louis-xvi-king-french
 image: /images/856e2e22e7fb634ad05ab680c183497f.jpg
+image_alt: "Engraving of King Louis XVI wearing a Phrygian cap"
 regions: 
   - "Europe"
 subjects: 

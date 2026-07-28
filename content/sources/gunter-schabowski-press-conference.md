@@ -5,6 +5,9 @@ drupal_node_id: 1121
 source_type: "Video"
 url: /gunter-schabowski-press-conference
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "Europe"
 subjects: 

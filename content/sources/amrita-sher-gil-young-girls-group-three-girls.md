@@ -5,6 +5,10 @@ drupal_node_id: 3111
 source_type: "Image"
 url: /amrita-sher-gil-young-girls-group-three-girls
 image: /images/Amrita_Sher-Gil_-_Young_Girls_0.jpg
+image_alt: "Two young women sit opposite each other, perhaps in conversation. The woman on the left is of Indian descent, and the woman on the right is of European descent."
+additional_images:
+  - src: "/images/source-media/3111/435px-Amrita_Sher-Gil_Group_of_Three_Girls_0.jpg"
+    alt: "Three girls sitting with gazes cast downward. Each wearing a different-colored sari. The girl on the left is wearing light green, the girl in the middle is in orange, and the girl on the right is in red."
 regions: 
   - "Asia"
 subjects: 

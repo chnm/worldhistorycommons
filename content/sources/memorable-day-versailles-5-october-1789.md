@@ -5,6 +5,7 @@ drupal_node_id: 275
 source_type: "Image"
 url: /memorable-day-versailles-5-october-1789
 image: /images/memorable-day.jpg
+image_alt: "Engraving of men and women in horse-drawn carriage"
 regions: 
   - "Europe"
 subjects: 

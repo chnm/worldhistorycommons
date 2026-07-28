@@ -5,6 +5,7 @@ drupal_node_id: 2955
 source_type: "Image"
 url: /kasai-velvet-democratic-republic-congo
 image: /images/Velour_du_Kasai_0.jpg
+image_alt: "A image of a kasai velvet textile, woven in a diamond pattern in cream and black"
 regions: 
   - "Africa"
 subjects: 

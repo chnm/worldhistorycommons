@@ -5,6 +5,10 @@ drupal_node_id: 3040
 source_type: "Image"
 url: /early-modern-counter
 image: /images/man__1___2_.png
+image_alt: "One side of the counter with a man using a counting board and letters surrounding the edge."
+additional_images:
+  - src: "/images/source-media/3040/alphabet__4_.png"
+    alt: "One side of the counter with the alphabet in the middle and lettering around the edge."
 regions: 
   - "Europe"
   - "Global"

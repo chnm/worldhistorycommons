@@ -5,6 +5,7 @@ drupal_node_id: 2841
 source_type: "Image"
 url: /calendar-cham-manuscript-early-20th-century
 image: /images/2013-10-09_02.52.03-1.jpg
+image_alt: "Grid with letters in cham script in each box"
 regions: 
   - "Asia"
 subjects: 

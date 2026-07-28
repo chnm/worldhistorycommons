@@ -5,6 +5,7 @@ drupal_node_id: 1633
 source_type: "Text"
 url: /cultural-contact-southern-africa-law-slave-women-and-children
 image: /images/Icons-Document_386.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

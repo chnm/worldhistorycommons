@@ -5,6 +5,7 @@ drupal_node_id: 2528
 source_type: "Image"
 url: /grid-map-judicial-independence
 image: /images/JudicialIndependence.png
+image_alt: "Map of the world with colors indicating the level of judicial independence in each state's constitution."
 regions: 
   - "Comparative"
 subjects: 

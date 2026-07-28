@@ -5,6 +5,7 @@ drupal_node_id: 935
 source_type: "Image"
 url: /watch-yourself-or-youll-be-product-sale
 image: /images/d1cf0eba727048355aba5dfaaa752409.jpg
+image_alt: "Engraving of female figures living during the Thermidorian revolution"
 regions: 
   - "Europe"
 subjects: 

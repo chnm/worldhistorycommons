@@ -5,6 +5,7 @@ drupal_node_id: 379
 source_type: "Text"
 url: /whole-duty-woman
 image: /images/whole-duty-of-women.png
+image_alt: "Title pages of The Whole Duty of Woman"
 regions: 
   - "Europe"
 subjects: 

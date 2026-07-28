@@ -5,6 +5,7 @@ drupal_node_id: 570
 source_type: "Image"
 url: /triumph-liberty
 image: /images/86b3a24cd3a34e9e13e39822e50c5151.jpg
+image_alt: "Painting of personified Liberty"
 regions: 
   - "Europe"
 subjects: 

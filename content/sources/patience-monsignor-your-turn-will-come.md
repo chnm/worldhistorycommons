@@ -5,6 +5,10 @@ drupal_node_id: 355
 source_type: "Image"
 url: /patience-monsignor-your-turn-will-come
 image: /images/1503356bbcdea9d00860ec62f3f5acd8.jpg
+image_alt: "Print of cartoons attacking the clergy"
+additional_images:
+  - src: "/images/source-media/355/196f92c3d08a993a158da77cf541cb47.jpg"
+    alt: "Sketch of print of cartoon"
 regions: 
   - "Europe"
 subjects: 

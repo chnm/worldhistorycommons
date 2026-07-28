@@ -5,6 +5,7 @@ drupal_node_id: 454
 source_type: "Image"
 url: /versailles-versailles
 image: /images/5dd4929b042d6bf5ab1540d48470ddbc.jpg
+image_alt: "Print of women gathered to storm Versailles"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,10 @@ drupal_node_id: 2773
 source_type: "Image"
 url: /southern-manchuria-railway-1906-1945
 image: /images/South_Manchuria_Railway_Promotional.jpeg
+image_alt: "Map showing railways across Eastern China, Korea, and Japan"
+additional_images:
+  - src: "/images/source-media/2773/Mantetsu-Pashishi923.jpeg"
+    alt: "Photograph of steam locomotive"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 359
 source_type: "Object"
 url: /tophet-carthage
 image: /images/carthage-tophet.jpg
+image_alt: "Tophet of Carthage"
 regions: 
   - "Africa"
 subjects: 

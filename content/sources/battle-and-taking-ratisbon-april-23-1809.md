@@ -5,6 +5,7 @@ drupal_node_id: 1023
 source_type: "Image"
 url: /battle-and-taking-ratisbon-april-23-1809
 image: /images/Thevenin-Storming_of_Ratisbon.jpg
+image_alt: "Battle For and Taking of Ratisbon"
 regions: 
   - "Europe"
 subjects: 

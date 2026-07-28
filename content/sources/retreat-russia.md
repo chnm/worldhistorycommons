@@ -5,6 +5,7 @@ drupal_node_id: 1019
 source_type: "Image"
 url: /retreat-russia
 image: /images/retreat-from-russia.jpg
+image_alt: "Retreat from Russia"
 regions: 
   - "Asia"
   - "Europe"

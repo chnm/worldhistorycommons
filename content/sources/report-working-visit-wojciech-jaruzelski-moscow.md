@@ -5,6 +5,7 @@ drupal_node_id: 1734
 source_type: "Text"
 url: /report-working-visit-wojciech-jaruzelski-moscow
 image: /images/Icons-Document_471.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

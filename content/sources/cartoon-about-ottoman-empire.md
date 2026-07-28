@@ -5,6 +5,7 @@ drupal_node_id: 2559
 source_type: "Image"
 url: /cartoon-about-ottoman-empire
 image: /images/Turkey_as_sick_man.jpg
+image_alt: "Cartoon of the Ottoman Empire"
 regions: 
   - "Europe"
 subjects: 

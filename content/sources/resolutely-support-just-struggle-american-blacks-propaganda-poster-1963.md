@@ -6,6 +6,7 @@ drupal_node_id: 2952
 source_type: "Image"
 url: /resolutely-support-just-struggle-american-blacks-propaganda-poster-1963
 image: /images/Resolutely_support_the_just_struggle_of_the_American_blacks_propaganda_poster_0.jpg
+image_alt: "Propaganda poster featuring two Black men, one with his arm raised and the other resisting a baton wielded by a white gloved hand. In the background are protest posters with the message \"Oppose racial discrimination!\" written in multiple languages. The poster's text, in Mandarin, reads \"Resolutely support the just struggle of the American Blacks!\""
 regions: 
   - "Asia"
   - "North/Central America"

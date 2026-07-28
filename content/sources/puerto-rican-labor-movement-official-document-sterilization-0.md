@@ -5,6 +5,7 @@ drupal_node_id: 1299
 source_type: "Text"
 url: /puerto-rican-labor-movement-official-document-sterilization-0
 image: /images/Icons-Document_125.jpg
+image_alt: "document icon"
 regions: 
   - "North/Central America"
 subjects: 

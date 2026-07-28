@@ -5,6 +5,7 @@ drupal_node_id: 1064
 source_type: "Image"
 url: /louis-xvi
 image: /images/af17b3ac67952d765652355c90e14ed5.jpg
+image_alt: "Portrait of King Louis XVI"
 regions: 
   - "Europe"
 subjects: 

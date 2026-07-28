@@ -5,6 +5,7 @@ drupal_node_id: 1637
 source_type: "Text"
 url: /early-modern-period-nonfiction-jesuit-relations
 image: /images/Icons-Document_390.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

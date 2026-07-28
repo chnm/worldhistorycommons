@@ -5,6 +5,7 @@ drupal_node_id: 3050
 source_type: "Image"
 url: /haamonga-maui-tonga
 image: /images/WHC_ha_amonga.png
+image_alt: "A stone monument with two stones acting as posts and a third stone sitting vertically atop the others. The monument sits on grass and there are trees seen in the background."
 regions: 
   - "Oceania"
 subjects: 

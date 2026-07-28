@@ -5,6 +5,7 @@ drupal_node_id: 2441
 source_type: "Text"
 url: /seneca-younger-moral-letters-lucilius
 image: /images/View_Document_Image.jpg
+image_alt: "document icon"
 regions: 
   - "Europe"
 subjects: 

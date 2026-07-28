@@ -5,6 +5,7 @@ drupal_node_id: 372
 source_type: "Object"
 url: /terracotta-smiling-children-heads
 image: /images/smiling-children-bulandi-bagh.jpg
+image_alt: "Terracotta Smiling Children Heads"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1052
 source_type: "Image"
 url: /king-accepting-constitution-amid-national-assembly-14-september-1791
 image: /images/050605ec6e83e0caf8cfcc5e98681c67.jpg
+image_alt: "Engraving of the king of France accepting the constitution of the National Assembly"
 regions: 
   - "Europe"
 subjects: 

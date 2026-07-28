@@ -5,6 +5,7 @@ drupal_node_id: 1096
 source_type: "Image"
 url: /march-powers-allied-against-france
 image: /images/50423aebab263a81dd5f04e289552de3.jpg
+image_alt: "Engraving of French perception of enemies"
 regions: 
   - "Europe"
 subjects: 

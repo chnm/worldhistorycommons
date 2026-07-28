@@ -5,6 +5,7 @@ drupal_node_id: 164
 source_type: "Image"
 url: /little-cartesian-devil
 image: /images/6017bd4a3b9d3edb18995a3a76057a34.jpg
+image_alt: "Cartoon of two men looking at Napoleon in a glass cage"
 regions: 
   - "Europe"
 subjects: 

@@ -6,6 +6,7 @@ drupal_node_id: 2618
 source_type: "Text"
 url: /section-bubbles-finance
 image: /images/Text_Image_9.jpg
+image_alt: "document icon"
 regions: 
   - "Europe"
 subjects: 

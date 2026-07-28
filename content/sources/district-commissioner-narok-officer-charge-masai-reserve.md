@@ -5,6 +5,7 @@ drupal_node_id: 1369
 source_type: "Text"
 url: /district-commissioner-narok-officer-charge-masai-reserve
 image: /images/Icons-Document_163.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

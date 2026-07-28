@@ -5,6 +5,7 @@ drupal_node_id: 2974
 source_type: "Image"
 url: /newspaper-report-pan-african-congresss-response-us-lynchings
 image: /images/US_Lynching_image_file.jpeg
+image_alt: "Image of newspaper. Transcription in folder."
 regions: 
   - "North/Central America"
 subjects: 

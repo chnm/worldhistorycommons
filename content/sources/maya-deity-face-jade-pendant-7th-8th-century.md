@@ -5,6 +5,7 @@ drupal_node_id: 2838
 source_type: "Object"
 url: /maya-deity-face-jade-pendant-7th-8th-century
 image: /images/DP148420.jpg
+image_alt: "Small jade ornament that portrays a face."
 regions: 
   - "North/Central America"
 subjects: 

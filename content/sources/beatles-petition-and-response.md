@@ -5,6 +5,10 @@ drupal_node_id: 139
 source_type: "Text"
 url: /beatles-petition-and-response
 image: /images/beatles-response_53d75b60ba.jpg
+image_alt: "Letter from Bonnie Wilkins to American Federation of Musicians"
+additional_images:
+  - src: "/images/source-media/139/beatles-petition_2ed8c96a79.jpg"
+    alt: "Letter from Secretary of Labor"
 regions: []
 subjects: 
   - "Government"

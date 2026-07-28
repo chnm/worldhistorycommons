@@ -5,6 +5,7 @@ drupal_node_id: 1962
 source_type: "Text"
 url: /official-document-police-letter
 image: /images/report_0.jpg
+image_alt: "police report"
 regions: 
   - "North/Central America"
 subjects: 

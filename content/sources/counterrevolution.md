@@ -5,6 +5,7 @@ drupal_node_id: 1103
 source_type: "Image"
 url: /counterrevolution
 image: /images/b0dee9c0562808caa6e25f9c63ee3675.jpg
+image_alt: "Engraving mocking the leaders of the counterrevolution in France"
 regions: 
   - "Europe"
 subjects: 

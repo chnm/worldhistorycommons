@@ -5,6 +5,7 @@ drupal_node_id: 1511
 source_type: "Text"
 url: /brumaire-bonapartes-justification
 image: /images/Icons-Document_282.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

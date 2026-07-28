@@ -5,6 +5,7 @@ drupal_node_id: 2914
 source_type: "Image"
 url: /sos-avenir-minguettes-president-toumi-djaidja-lyon-france
 image: /images/Toumi_Djai_dja.jpg
+image_alt: "Toumi Djaïdja (third from right) in Lyon, 1983."
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 186
 source_type: "Image"
 url: /mercator-projection-eurasia-centered
 image: /images/mercatoreurasia.jpg
+image_alt: "Mercator Projection with Eurasia Centered"
 regions: 
   - "Global"
 subjects: 

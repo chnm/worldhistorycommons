@@ -5,6 +5,7 @@ drupal_node_id: 331
 source_type: "Image"
 url: /blocksoms-school
 image: /images/blocksom-school-beforeafter.jpg
+image_alt: "Photographs of Blocksom's School in Sussex County in Rural Delaware"
 regions: 
   - "North/Central America"
 subjects: 

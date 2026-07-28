@@ -5,6 +5,7 @@ drupal_node_id: 350
 source_type: "Image"
 url: /voracious-oath
 image: /images/ca98c49527a772da250b6ae55a0ae9c5.jpg
+image_alt: "Print characterizing patriotic virtues"
 regions: 
   - "Europe"
 subjects: 

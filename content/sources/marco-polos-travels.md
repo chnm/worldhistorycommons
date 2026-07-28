@@ -5,6 +5,7 @@ drupal_node_id: 2980
 source_type: "Image"
 url: /marco-polos-travels
 image: /images/MarcoPolo.jpg
+image_alt: "Map of Asia showing the lands Marco Polo traveled to."
 regions: 
   - "Asia"
   - "Europe"

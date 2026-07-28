@@ -5,6 +5,7 @@ drupal_node_id: 160
 source_type: "Image"
 url: /his-monument-napoleons-past-and-future-are-filled-dead-bodies
 image: /images/85682049a5e68149dc061fdb9c3d23bc.jpg
+image_alt: "Cartoon of mocking statue to Napoleon"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1013
 source_type: "Image"
 url: /return-island-elba
 image: /images/elba.jpg
+image_alt: "Return from the Island of Elba"
 regions: 
   - "Europe"
 subjects: 

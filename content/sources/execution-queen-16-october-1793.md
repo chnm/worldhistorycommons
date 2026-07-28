@@ -5,6 +5,7 @@ drupal_node_id: 1485
 source_type: "Text"
 url: /execution-queen-16-october-1793
 image: /images/Icons-Document_258.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

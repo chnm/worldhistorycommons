@@ -5,6 +5,7 @@ drupal_node_id: 322
 source_type: "Text"
 url: /writing-letter-santa
 image: /images/letter-to-santa.jpg
+image_alt: "Letter to Santa"
 regions: 
   - "North/Central America"
 subjects: 

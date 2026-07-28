@@ -5,6 +5,7 @@ drupal_node_id: 2886
 source_type: "Image"
 url: /history-nato-expansion-map
 image: /images/History_of_NATO_enlargement.png
+image_alt: "Map of Europe with countries shaded based on year they joined NATO."
 regions: 
   - "Europe"
 subjects: 

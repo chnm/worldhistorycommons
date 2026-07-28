@@ -5,6 +5,7 @@ drupal_node_id: 249
 source_type: "Image"
 url: /children-edward-holden-cruttenden
 image: /images/englandlarge.jpg
+image_alt: "The Children of Edward Holden Cruttenden painting"
 regions: 
   - "Asia"
   - "Europe"

@@ -5,6 +5,7 @@ drupal_node_id: 347
 source_type: "Image"
 url: /memory-marat-friend-people-assassinated-13-july-1793
 image: /images/de0e5f42c1b9d1db8eaf4ed64b21671d.jpg
+image_alt: "Print of assassination of JP Marat"
 regions: 
   - "Europe"
 subjects: 

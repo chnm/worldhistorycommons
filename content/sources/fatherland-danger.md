@@ -5,6 +5,7 @@ drupal_node_id: 934
 source_type: "Image"
 url: /fatherland-danger
 image: /images/b9c021e885587b4d92183e9aa3fa0ba9.jpg
+image_alt: "Painting of army departing from family"
 regions: 
   - "Europe"
 subjects: 

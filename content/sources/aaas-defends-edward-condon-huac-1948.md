@@ -5,6 +5,7 @@ drupal_node_id: 3009
 source_type: "Text"
 url: /aaas-defends-edward-condon-huac-1948
 image: /images/Falcone_-_Document_1.JPG
+image_alt: "Image of letter. Transcription in transcription folder."
 regions: 
   - "Global"
   - "North/Central America"

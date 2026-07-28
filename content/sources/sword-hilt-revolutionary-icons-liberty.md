@@ -5,6 +5,7 @@ drupal_node_id: 1100
 source_type: "Image"
 url: /sword-hilt-revolutionary-icons-liberty
 image: /images/db61fb947cfdf2b8b6e58c068ba5a866.jpg
+image_alt: "Image of sword hilt incorporating the revolutionary icon of Liberty"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1427
 source_type: "Text"
 url: /advertisement-sale-newly-arrived-africans
 image: /images/advertisement_slavery.jpg
+image_alt: "picture of an advertisement poster for the sell of slaves"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 82
 source_type: "Image"
 url: /max-und-moritz
 image: /images/cyhmaxandmoritz_723c32cd78.jpg
+image_alt: "Illustration of a children's story"
 regions: 
   - "Europe"
 subjects: 

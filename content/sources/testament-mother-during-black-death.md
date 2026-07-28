@@ -5,6 +5,7 @@ drupal_node_id: 1298
 source_type: "Text"
 url: /testament-mother-during-black-death
 image: /images/Icons-Document_124.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

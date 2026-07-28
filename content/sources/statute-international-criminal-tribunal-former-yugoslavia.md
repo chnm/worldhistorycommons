@@ -5,6 +5,7 @@ drupal_node_id: 2818
 source_type: "Text"
 url: /statute-international-criminal-tribunal-former-yugoslavia
 image: /images/Icons-Document_716_0.jpg
+image_alt: "an icon of a document. beneath it are the words view document."
 regions: 
   - "Europe"
   - "Global"

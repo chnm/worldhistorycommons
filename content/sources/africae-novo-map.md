@@ -5,6 +5,7 @@ drupal_node_id: 692
 source_type: "Image"
 url: /africae-novo-map
 image: /images/africa1630.jpg
+image_alt: "“Africae Novo” Map"
 regions: 
   - "Africa"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 190
 source_type: "Image"
 url: /aristocratic-occupations
 image: /images/aristocratic-occupations.jpg
+image_alt: "Aristocratic Occupations..."
 regions: 
   - "Europe"
 subjects: 

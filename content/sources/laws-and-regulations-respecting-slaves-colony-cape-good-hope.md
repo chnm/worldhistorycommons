@@ -5,6 +5,7 @@ drupal_node_id: 1378
 source_type: "Text"
 url: /laws-and-regulations-respecting-slaves-colony-cape-good-hope
 image: /images/Icons-Document_168.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 415
 source_type: "Text"
 url: /voyages-and-adventures-ferdinand-mendez-pinto
 image: /images/voyages-and-adventures.jpg
+image_alt: "Title page of The Voyages and Adventures of Ferdinand Mendez Pinto"
 regions: 
   - "Asia"
   - "Europe"

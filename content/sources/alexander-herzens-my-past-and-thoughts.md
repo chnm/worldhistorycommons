@@ -5,6 +5,7 @@ drupal_node_id: 1294
 source_type: "Text"
 url: /alexander-herzens-my-past-and-thoughts
 image: /images/Icons-Book-Excerpt_11.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Europe"
 subjects: 

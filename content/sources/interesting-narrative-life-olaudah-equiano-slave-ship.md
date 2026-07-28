@@ -5,6 +5,7 @@ drupal_node_id: 392
 source_type: "Text"
 url: /interesting-narrative-life-olaudah-equiano-slave-ship
 image: /images/olaudah-equiano-title.jpg
+image_alt: "Title page for The Interesting Narrative of the Life of Olaudah Equiano"
 regions: 
   - "Africa"
 subjects: 

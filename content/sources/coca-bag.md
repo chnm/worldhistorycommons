@@ -5,6 +5,7 @@ drupal_node_id: 3039
 source_type: "Image"
 url: /coca-bag
 image: /images/WHC_Coca_bag.jpeg
+image_alt: "A woven textile with a red background, and blue, yellow, and red geometric patterning. A figure is shown twice, flipped over, and may represent a human-animal hybrid. He wears red and blue clothing, dark colored sandals, and has a golden-colored headpiece."
 regions: 
   - "South America"
 subjects: 

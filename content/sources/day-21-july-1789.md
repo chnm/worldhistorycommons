@@ -5,6 +5,7 @@ drupal_node_id: 274
 source_type: "Image"
 url: /day-21-july-1789
 image: /images/july-1789.jpg
+image_alt: "Drawing of the city of Strasbourg"
 regions: 
   - "Europe"
 subjects: 

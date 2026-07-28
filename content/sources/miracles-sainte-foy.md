@@ -5,6 +5,7 @@ drupal_node_id: 2553
 source_type: "Text"
 url: /miracles-sainte-foy
 image: /images/ViewDocumentImage_0_2.jpeg
+image_alt: "Document icon"
 regions: 
   - "Europe"
 subjects: 

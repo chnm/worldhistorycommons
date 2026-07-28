@@ -5,6 +5,7 @@ drupal_node_id: 380
 source_type: "Text"
 url: /letters-lady-mary-wortley-montagu
 image: /images/montagu.png
+image_alt: "Title pages of Letters of Lady Mary Wortley Montagu"
 regions: 
   - "Europe"
 subjects: 

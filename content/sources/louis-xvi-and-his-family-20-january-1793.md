@@ -5,6 +5,7 @@ drupal_node_id: 1061
 source_type: "Image"
 url: /louis-xvi-and-his-family-20-january-1793
 image: /images/5260bf65bebaa4cb1922d7252f1dc218.jpg
+image_alt: "Image of King Louis XVI's separation from his family before execution"
 regions: 
   - "Europe"
 subjects: 

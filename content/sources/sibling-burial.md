@@ -5,6 +5,7 @@ drupal_node_id: 115
 source_type: "Object"
 url: /sibling-burial
 image: /images/siblings_burial_catalhoyuk_03b1e1bdd7_Thumbnail.jpg
+image_alt: "Skeletons of two Neolithic children"
 regions: 
   - "Asia"
   - "Europe"

@@ -5,6 +5,7 @@ drupal_node_id: 1545
 source_type: "Text"
 url: /bhakti-poets-poem-akkamahadevi
 image: /images/siva3.jpg
+image_alt: "image of the god siva"
 regions: 
   - "Asia"
 subjects: 

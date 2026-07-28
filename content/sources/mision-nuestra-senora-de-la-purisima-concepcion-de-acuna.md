@@ -5,6 +5,10 @@ drupal_node_id: 2631
 source_type: "Image"
 url: /mision-nuestra-senora-de-la-purisima-concepcion-de-acuna
 image: /images/concep1.jpg
+image_alt: "Photo of mission exterior"
+additional_images:
+  - src: "/images/source-media/2631/concep2.jpg"
+    alt: "Mission interior"
 regions: 
   - "North/Central America"
 subjects: 

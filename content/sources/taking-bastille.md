@@ -5,6 +5,10 @@ drupal_node_id: 199
 source_type: "Image"
 url: /taking-bastille
 image: /images/taking-the-bastille-engraving.jpg
+image_alt: "Taking of the Bastille"
+additional_images:
+  - src: "/images/source-media/199/taking-the-bastille.jpg"
+    alt: "Color engraving of Taking of the Bastille"
 regions: 
   - "Europe"
 subjects: 

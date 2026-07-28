@@ -5,6 +5,7 @@ drupal_node_id: 2884
 source_type: "Image"
 url: /map-europe-1918
 image: /images/Europe_1918.jpeg
+image_alt: "Map of Europe immediately after WWI. Pre-WWI borders are kept in color, while new states that emerged after WWI are presented in with red borders (see bottom of image)."
 regions: 
   - "Europe"
 subjects: 

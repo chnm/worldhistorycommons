@@ -5,6 +5,10 @@ drupal_node_id: 1083
 source_type: "Image"
 url: /king-and-queen-two-headed-monster
 image: /images/441c16f76a3bceb3f6ff6a7c956d78d0.jpg
+image_alt: "Engraving of King Louis XVI and Marie Antoinette depicted as a two-headed monster"
+additional_images:
+  - src: "/images/source-media/1083/8080b657027fd90b87b760e81baae1b4.jpg"
+    alt: "Engraving of King Louis XVI and Marie Antoinette depicted as a two-headed monster"
 regions: 
   - "Europe"
 subjects: 

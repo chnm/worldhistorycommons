@@ -5,6 +5,7 @@ drupal_node_id: 1499
 source_type: "Text"
 url: /dismantling-terror-parliamentarianism-reasserted
 image: /images/Icons-Document_271.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

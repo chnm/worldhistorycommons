@@ -5,6 +5,7 @@ drupal_node_id: 1278
 source_type: "Text"
 url: /legal-and-political-status-infant
 image: /images/Icons-Document_110.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

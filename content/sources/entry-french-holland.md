@@ -5,6 +5,7 @@ drupal_node_id: 1050
 source_type: "Image"
 url: /entry-french-holland
 image: /images/entry-of-french-into-holland.jpg
+image_alt: "Entry of the French into Holland"
 regions: 
   - "Europe"
 subjects: 

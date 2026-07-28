@@ -5,6 +5,7 @@ drupal_node_id: 1134
 source_type: "Text"
 url: /trial-stephen-arrowsmith-1678
 image: /images/Icons-Document_8.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

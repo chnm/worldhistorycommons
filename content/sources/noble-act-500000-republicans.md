@@ -5,6 +5,7 @@ drupal_node_id: 1099
 source_type: "Image"
 url: /noble-act-500000-republicans
 image: /images/4cd29e23426ea737f3a76c462094803a.jpg
+image_alt: "Engraving of French soldiers protecting the constitution"
 regions: 
   - "Europe"
 subjects: 

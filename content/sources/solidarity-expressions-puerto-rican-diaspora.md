@@ -5,6 +5,7 @@ drupal_node_id: 3017
 source_type: "Image"
 url: /solidarity-expressions-puerto-rican-diaspora
 image: /images/Screen_Shot_2023-06-13_at_11.08.21_AM.png
+image_alt: "A screenshot of a Facebook post in Spanish with multiple images of people from the Puerto Rican diaspora expressing solidarity with the Summer of 2019 protests calling for political and economic change."
 regions: 
   - "Global"
   - "North/Central America"

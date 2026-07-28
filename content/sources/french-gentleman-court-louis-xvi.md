@@ -5,6 +5,7 @@ drupal_node_id: 171
 source_type: "Image"
 url: /french-gentleman-court-louis-xvi
 image: /images/51a70eb81e361557ed8ccab34dd81877.jpg
+image_alt: "Cartoon image mocking different cultures"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 660
 source_type: "Text"
 url: /treaties-between-voc-and-spice-islands
 image: /images/Treaty.jpg
+image_alt: "Dutch treaty signed with the leaders of the Banda islands"
 regions: 
   - "Asia"
   - "Europe"

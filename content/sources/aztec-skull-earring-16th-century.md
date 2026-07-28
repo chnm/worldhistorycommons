@@ -5,6 +5,7 @@ drupal_node_id: 2983
 source_type: "Object"
 url: /aztec-skull-earring-16th-century
 image: /images/AztecEarring.jpeg
+image_alt: "Gold earring featuring a skull with three dangles below it."
 regions: 
   - "North/Central America"
 subjects: 

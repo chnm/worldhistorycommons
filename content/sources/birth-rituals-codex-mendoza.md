@@ -5,6 +5,7 @@ drupal_node_id: 303
 source_type: "Image"
 url: /birth-rituals-codex-mendoza
 image: /images/Codex_Mendoza_birth_ritual.jpg
+image_alt: "Birth Rituals in the Codex Mendoza"
 regions: 
   - "North/Central America"
 subjects: 

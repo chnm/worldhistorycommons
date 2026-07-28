@@ -5,6 +5,10 @@ drupal_node_id: 292
 source_type: "Image"
 url: /mencius-and-his-mother-lesson-drawn-weaving
 image: /images/Mencius-and-his-Mother-1.jpg
+image_alt: "Mencius and his Mother: A Lesson Drawn from Weaving"
+additional_images:
+  - src: "/images/source-media/292/Mencius-and-his-Mother-2.jpg"
+    alt: "Mencius and his Mother: A Lesson Drawn from Weaving"
 regions: 
   - "Asia"
 subjects: 

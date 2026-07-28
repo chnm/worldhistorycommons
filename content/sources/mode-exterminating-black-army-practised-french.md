@@ -5,6 +5,7 @@ drupal_node_id: 1032
 source_type: "Image"
 url: /mode-exterminating-black-army-practised-french
 image: /images/army.jpg
+image_alt: "The Mode of Exterminating the Black Army as Practised by the French"
 regions: 
   - "North/Central America"
 subjects: 

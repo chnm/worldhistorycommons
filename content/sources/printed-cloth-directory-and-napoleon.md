@@ -5,6 +5,7 @@ drupal_node_id: 1040
 source_type: "Image"
 url: /printed-cloth-directory-and-napoleon
 image: /images/printed-cloth.jpg
+image_alt: "Printed Cloth of the Directory and Napoleon"
 regions: 
   - "Europe"
 subjects: 

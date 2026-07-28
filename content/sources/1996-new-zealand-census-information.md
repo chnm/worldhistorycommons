@@ -5,6 +5,16 @@ drupal_node_id: 370
 source_type: "Image"
 url: /1996-new-zealand-census-information
 image: /images/causes-of-mortality.jpg
+image_alt: "Chart of Major causes of mortality"
+additional_images:
+  - src: "/images/source-media/370/fatalities-motor-vehicles.jpg"
+    alt: "Chart of motor vehicle fatality rates"
+  - src: "/images/source-media/370/mortality-suicides.jpg"
+    alt: "Chart of youth mortality rates"
+  - src: "/images/source-media/370/qualifications.jpg"
+    alt: "Chart of school leavers"
+  - src: "/images/source-media/370/unemployment.jpg"
+    alt: "Chart of unemployment rates for young people"
 regions: 
   - "Oceania"
 subjects: 

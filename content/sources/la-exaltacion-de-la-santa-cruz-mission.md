@@ -5,6 +5,7 @@ drupal_node_id: 2692
 source_type: "Image"
 url: /la-exaltacion-de-la-santa-cruz-mission
 image: /images/MissionSantaCruzCalifornia.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

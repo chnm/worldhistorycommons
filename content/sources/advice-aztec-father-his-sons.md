@@ -5,6 +5,7 @@ drupal_node_id: 1136
 source_type: "Text"
 url: /advice-aztec-father-his-sons
 image: /images/Icons-Document_10.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

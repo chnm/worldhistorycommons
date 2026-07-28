@@ -5,6 +5,7 @@ drupal_node_id: 2460
 source_type: "Image"
 url: /tree-rings-climate-archive
 image: /images/TreeRing.png
+image_alt: "A crosscut of a tree showing rings labels show dry seasons and wet seasons"
 regions: 
   - "Global"
 subjects: 

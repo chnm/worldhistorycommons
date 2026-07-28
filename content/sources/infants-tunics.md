@@ -5,6 +5,10 @@ drupal_node_id: 313
 source_type: "Object"
 url: /infants-tunics
 image: /images/childs-looped-tunic.jpg
+image_alt: "Infant's Tunics"
+additional_images:
+  - src: "/images/source-media/313/childs-multicolored-tunic.jpg"
+    alt: "Infant's Tunics"
 regions: 
   - "Africa"
 subjects: 

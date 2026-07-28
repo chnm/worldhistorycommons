@@ -5,6 +5,12 @@ drupal_node_id: 2925
 source_type: "Image"
 url: /letter-us-president-andrew-jackson-senate-dated-washington-may-30-1834
 image: /images/Jackson_Letter_1.png
+image_alt: "First page of a letter from President Andrew Jackson to the Senate in 1834 on the expansion of US trade."
+additional_images:
+  - src: "/images/source-media/2925/Jackson_Letter_2.jpg"
+    alt: "Second page of a letter from President Andrew Jackson to the Senate in 1834 on the expansion of US trade."
+  - src: "/images/source-media/2925/Jackson_Letter_3.jpg"
+    alt: "Third page of a letter from President Andrew Jackson to the Senate in 1834 on the expansion of US trade."
 regions: 
   - "Africa"
   - "Comparative"

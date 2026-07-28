@@ -5,6 +5,9 @@ drupal_node_id: 1155
 source_type: "Audio"
 url: /marseillaise-war-song-army-rhine
 image: 
+audio_files:
+  - src: "/audio/source-media/1155/THE_MARSEILLAISE__WAR_SONG_FOR_THE_ARMY_OF_THE_RHINE_.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 65
 source_type: "Image"
 url: /organization-british-imperial-scouting
 image: /images/scout-organization-table_9d316614f7.jpg
+image_alt: "Lines of authority in imperial Boy Scout movement"
 regions: 
   - "Africa"
 subjects: 

@@ -89,6 +89,8 @@ class Snapshot:
     related_image_count: int = 0
     related_image_alts: list[str] = field(default_factory=list)
     youtube_ids: list[str] = field(default_factory=list)
+    replaced_youtube_ids: list[str] = field(default_factory=list)
+    unavailable_youtube_ids: list[str] = field(default_factory=list)
     audio_links: list[str] = field(default_factory=list)
     reviewed_url: str = ""
     reviewer: str = ""
@@ -255,13 +257,21 @@ def source_snapshot(soup: BeautifulSoup, path: str) -> Snapshot:
         video_id = youtube_id(frame.get("src", ""))
         if video_id:
             snapshot.youtube_ids.append(video_id)
+    for media in soup.select("[data-replaces-youtube-id]"):
+        video_id = media.get("data-replaces-youtube-id", "").strip()
+        if video_id:
+            snapshot.replaced_youtube_ids.append(video_id)
+    for link in soup.select(".source-media-unavailable a[href]"):
+        video_id = youtube_id(link.get("href", ""))
+        if video_id:
+            snapshot.unavailable_youtube_ids.append(video_id)
     for link in soup.select("a[href]"):
         href = link.get("href", "")
-        if (
+        if href and (
             re.search(r"\.(?:mp3|m4a|ogg|wav)(?:$|\?)", href, re.IGNORECASE)
             or "download audio" in element_text(link).lower()
         ):
-            snapshot.audio_links.append(media_identity(href) or element_text(link))
+            snapshot.audio_links.append(media_identity(href))
     for audio in soup.select("audio"):
         source = audio.get("src", "")
         if not source:
@@ -270,6 +280,12 @@ def source_snapshot(soup: BeautifulSoup, path: str) -> Snapshot:
         snapshot.audio_links.append(media_identity(source) or "embedded audio")
 
     snapshot.youtube_ids = sorted(set(filter(None, snapshot.youtube_ids)))
+    snapshot.replaced_youtube_ids = sorted(
+        set(filter(None, snapshot.replaced_youtube_ids))
+    )
+    snapshot.unavailable_youtube_ids = sorted(
+        set(filter(None, snapshot.unavailable_youtube_ids))
+    )
     snapshot.audio_links = sorted(set(filter(None, snapshot.audio_links)))
     snapshot.how_to_cite = citation_text(soup)
     return snapshot
@@ -521,9 +537,38 @@ def compare_snapshots(
                 drupal.main_images,
                 hugo.main_images,
             )
-        add_collection_findings(
-            findings, "youtube_ids", drupal.youtube_ids, hugo.youtube_ids
+        remote_youtube = set(drupal.youtube_ids)
+        replacement_ids = remote_youtube.intersection(hugo.replaced_youtube_ids)
+        unavailable_ids = remote_youtube.intersection(
+            hugo.unavailable_youtube_ids
         )
+        remaining_remote = sorted(
+            remote_youtube - replacement_ids - unavailable_ids
+        )
+        remaining_hugo = [] if replacement_ids else hugo.youtube_ids
+        add_collection_findings(
+            findings, "youtube_ids", remaining_remote, remaining_hugo
+        )
+        if replacement_ids:
+            findings.append(
+                Finding(
+                    "editorial_improvement",
+                    "youtube_ids",
+                    "Unavailable Drupal video was replaced with a validated equivalent",
+                    sorted(replacement_ids),
+                    hugo.youtube_ids,
+                )
+            )
+        if unavailable_ids:
+            findings.append(
+                Finding(
+                    "upstream_gap",
+                    "youtube_ids",
+                    "Drupal video is unavailable and has no confirmed replacement",
+                    sorted(unavailable_ids),
+                    "",
+                )
+            )
         add_collection_findings(
             findings,
             "audio_links",

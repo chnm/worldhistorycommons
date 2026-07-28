@@ -5,6 +5,9 @@ drupal_node_id: 1151
 source_type: "Audio"
 url: /song-marseillaise-federation-10-august-year-ii
 image: 
+audio_files:
+  - src: "/audio/source-media/1151/SONG_OF_THE_MARSEILLAISE_OF_THE_FEDERATION_OF_10_AUGUST__YEAR_II.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 

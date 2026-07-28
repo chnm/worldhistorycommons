@@ -5,6 +5,7 @@ drupal_node_id: 1008
 source_type: "Image"
 url: /french-nation-defeats-despotism
 image: /images/french-nation-defeats-despotism.jpg
+image_alt: "With the Help of Mr. de la Fayette, the French Nation Defeats Despotism"
 regions: 
   - "Europe"
 subjects: 

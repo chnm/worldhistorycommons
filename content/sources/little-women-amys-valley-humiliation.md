@@ -6,6 +6,7 @@ drupal_node_id: 423
 source_type: "Text"
 url: /little-women-amys-valley-humiliation
 image: /images/Little-Women_0.jpg
+image_alt: "Little Women"
 regions: 
   - "North/Central America"
 subjects: 

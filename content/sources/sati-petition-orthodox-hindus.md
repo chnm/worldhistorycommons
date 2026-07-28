@@ -5,6 +5,7 @@ drupal_node_id: 1593
 source_type: "Text"
 url: /sati-petition-orthodox-hindus
 image: /images/Icons-Document_348.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

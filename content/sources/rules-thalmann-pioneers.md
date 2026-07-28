@@ -5,6 +5,7 @@ drupal_node_id: 1135
 source_type: "Text"
 url: /rules-thalmann-pioneers
 image: /images/Icons-Document_9.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

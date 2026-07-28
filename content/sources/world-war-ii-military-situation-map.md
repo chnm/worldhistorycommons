@@ -5,6 +5,7 @@ drupal_node_id: 3112
 source_type: "Image"
 url: /world-war-ii-military-situation-map
 image: /images/iiif-service_gmd_gmd5_g5701_g5701s_ict21001-full-pct_25-0-default-1.jpg
+image_alt: "WWII military situation map depicting military intelligence for the Normandy Beach D Day invasion"
 regions: 
   - "Comparative"
   - "Europe"

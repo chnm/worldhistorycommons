@@ -5,6 +5,7 @@ drupal_node_id: 1145
 source_type: "Text"
 url: /gulen-movement
 image: /images/Icons-Book-Excerpt.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Middle East"
 subjects: 

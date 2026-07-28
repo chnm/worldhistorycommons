@@ -5,6 +5,7 @@ drupal_node_id: 2862
 source_type: "Image"
 url: /lisbon-port-entry-list-colonial-american-ships-1771
 image: /images/1771_Port_Entry_List.jpeg
+image_alt: "Image of a list written in script. Explanation in source annotation."
 regions: 
   - "Europe"
   - "North/Central America"

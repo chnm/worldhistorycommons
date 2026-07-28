@@ -5,6 +5,7 @@ drupal_node_id: 3032
 source_type: "Image"
 url: /huaca-pucllana-ancient-pyramid-peru
 image: /images/WHC_Huaca_Pucllana.jpeg
+image_alt: "Stepped platforms made from tan-colored adobe bricks located on the plaza at Huaca Pucllana"
 regions: 
   - "South America"
 subjects: 

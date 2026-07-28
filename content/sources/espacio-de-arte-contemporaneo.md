@@ -5,6 +5,9 @@ drupal_node_id: 2741
 source_type: "Image"
 url: /espacio-de-arte-contemporaneo
 image: /images/Prision1.jpg
+additional_images:
+  - src: "/images/source-media/2741/Prision2.jpg"
+    alt: ""
 regions: 
   - "South America"
 subjects: 

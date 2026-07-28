@@ -5,6 +5,7 @@ drupal_node_id: 1141
 source_type: "Text"
 url: /ignacia-funes-and-teresa-bulnes-manuel-lopez
 image: /images/Icons-Document_15.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

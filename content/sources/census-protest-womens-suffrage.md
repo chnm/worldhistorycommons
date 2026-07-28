@@ -5,6 +5,7 @@ drupal_node_id: 3088
 source_type: "Image"
 url: /census-protest-womens-suffrage
 image: /images/RG14-118-61-Suffragette-protest-in-the-South-Kensington-Census-London-1911_BIG_0.jpg
+image_alt: "Refused 1911 British Census"
 regions: 
   - "Europe"
 subjects: 

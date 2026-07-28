@@ -5,6 +5,10 @@ drupal_node_id: 2867
 source_type: "Image"
 url: /memoirs-and-poems-phillis-wheatley
 image: /images/1834_Memoir_and_Poems_of_Phillis_Wheatley_-_Frontispiece.jpg
+image_alt: "The frontispiece of Memoirs and Poems of Phillis Wheatley, featuring a drawing of Wheatley and her signature. The caption reads \"Negro servant to Mr. John Wheatley of Boston.\""
+additional_images:
+  - src: "/images/source-media/2867/1834_Memoir_and_Poems_of_Phillis_Wheatley_-_Title_Page.jpg"
+    alt: "The title page of Memoirs and Poems of Phillis Wheatley."
 regions: 
   - "North/Central America"
 subjects: 

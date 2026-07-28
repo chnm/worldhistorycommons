@@ -5,6 +5,7 @@ drupal_node_id: 2891
 source_type: "Image"
 url: /wolffs-justification-omitting-hay-values
 image: /images/Wolff_in_Mentzel_Lengerke_1864_p50_0.jpg
+image_alt: "Clip from Wolff's article on hay's nutritional values"
 regions: 
   - "Europe"
 subjects: 

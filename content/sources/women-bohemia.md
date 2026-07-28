@@ -5,6 +5,7 @@ drupal_node_id: 230
 source_type: "Image"
 url: /women-bohemia
 image: /images/womenwork.jpg
+image_alt: "Rare photograph of women from Bohemia"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 286
 source_type: "Image"
 url: /massacre-priests
 image: /images/massacre-of-priests.jpg
+image_alt: "Print of crowd attacking and killing clergy and prisoners"
 regions: 
   - "Europe"
 subjects: 

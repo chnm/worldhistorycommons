@@ -5,6 +5,7 @@ drupal_node_id: 2407
 source_type: "Image"
 url: /plan-city-moscow
 image: /images/michurin_1739_moscow_b.jpg
+image_alt: "Plan for the City of Moscow"
 regions: 
   - "Global"
 subjects: 

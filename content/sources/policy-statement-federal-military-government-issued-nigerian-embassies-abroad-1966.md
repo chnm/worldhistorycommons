@@ -5,6 +5,7 @@ drupal_node_id: 2820
 source_type: "Text"
 url: /policy-statement-federal-military-government-issued-nigerian-embassies-abroad-1966
 image: /images/Icons-Document_716_2.jpg
+image_alt: "an icon of a document. beneath it are the words view document."
 regions: 
   - "Africa"
 subjects: 

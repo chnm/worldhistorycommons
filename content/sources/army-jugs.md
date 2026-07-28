@@ -5,6 +5,7 @@ drupal_node_id: 191
 source_type: "Image"
 url: /army-jugs
 image: /images/army-of-jugs.jpg
+image_alt: "Army of Jugs"
 regions: 
   - "Europe"
 subjects: 

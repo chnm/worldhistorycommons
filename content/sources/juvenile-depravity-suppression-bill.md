@@ -5,6 +5,7 @@ drupal_node_id: 1308
 source_type: "Text"
 url: /juvenile-depravity-suppression-bill
 image: /images/Icons-Document_131.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

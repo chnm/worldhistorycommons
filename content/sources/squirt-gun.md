@@ -5,6 +5,7 @@ drupal_node_id: 3097
 source_type: "Image"
 url: /squirt-gun
 image: /images/Squirt_gun.jpg
+image_alt: "Drawing of a boy squirting another in the face with a water gun."
 regions: 
   - "Asia"
 subjects: 

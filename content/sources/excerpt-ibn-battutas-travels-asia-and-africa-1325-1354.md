@@ -5,6 +5,7 @@ drupal_node_id: 2387
 source_type: "Text"
 url: /excerpt-ibn-battutas-travels-asia-and-africa-1325-1354
 image: /images/Icons-Document_716_0_0.jpg
+image_alt: "Document icon"
 regions: 
   - "Africa"
   - "Asia"

@@ -5,6 +5,7 @@ drupal_node_id: 1051
 source_type: "Image"
 url: /view-mound-champ-de-la-reunion
 image: /images/view-of-the-mound-of-champ.jpg
+image_alt: "Engraving of View of the Mound of Champ de la Reunion"
 regions: 
   - "Europe"
 subjects: 

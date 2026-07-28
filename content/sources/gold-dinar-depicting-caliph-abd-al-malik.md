@@ -5,6 +5,7 @@ drupal_node_id: 2368
 source_type: "Object"
 url: /gold-dinar-depicting-caliph-abd-al-malik
 image: /images/First_Umayyad_gold_dinar__Caliph_Abd_al-Malik__695_CE.jpg
+image_alt: "Gold coin engraved with a man holding a scepter"
 regions: 
   - "Asia"
 subjects: 

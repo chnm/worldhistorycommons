@@ -5,6 +5,7 @@ drupal_node_id: 2976
 source_type: "Image"
 url: /web-dubois-details-1919-pan-african-congress-newspaper-article
 image: /images/The_Pan-African_Congress_WEB_DUBOiS_image_file.png
+image_alt: "Image of newspaper. Transcription in folder."
 regions: 
   - "North/Central America"
 subjects: 

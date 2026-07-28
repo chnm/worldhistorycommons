@@ -5,6 +5,7 @@ drupal_node_id: 1592
 source_type: "Text"
 url: /sati-official-documents-lord-william-cavendish-bentinck
 image: /images/Icons-Document_347.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

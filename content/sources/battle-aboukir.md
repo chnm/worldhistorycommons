@@ -5,6 +5,7 @@ drupal_node_id: 1049
 source_type: "Image"
 url: /battle-aboukir
 image: /images/battle.jpg
+image_alt: "Battle of Aboukir"
 regions: 
   - "Africa"
 subjects: 

@@ -5,6 +5,14 @@ drupal_node_id: 2899
 source_type: "Image"
 url: /1841-letter-atkins-hamerton
 image: /images/Hamerton_1857_Letter.png
+image_alt: "First letter from the British military officer and diplomat Atkins Hamerton on British merchants in the East"
+additional_images:
+  - src: "/images/source-media/2899/1841_Letter_Pt_1.png"
+    alt: "First letter from the British military officer and diplomat Atkins Hamerton on military defeat and artistic displays"
+  - src: "/images/source-media/2899/1841_Letter_Pt_2.png"
+    alt: "First letter from the British military officer and diplomat Atkins Hamerton on military defeat and artistic displays"
+  - src: "/images/source-media/2899/1841_Letter_Pt_3.png"
+    alt: "First letter from the British military officer and diplomat Atkins Hamerton on military defeat and artistic displays"
 regions: 
   - "Africa"
   - "Comparative"

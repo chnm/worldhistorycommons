@@ -5,6 +5,10 @@ drupal_node_id: 2907
 source_type: "Image"
 url: /veritable-records-choson-dynasty
 image: /images/Image_3.jpg
+image_alt: "Pages from the Veritable Records of the Chosŏn Dynasty"
+additional_images:
+  - src: "/images/source-media/2907/Image_3_01_00.jpg"
+    alt: "Pages from the Veritable Records of the Chosŏn Dynasty"
 regions: 
   - "Asia"
 subjects: 

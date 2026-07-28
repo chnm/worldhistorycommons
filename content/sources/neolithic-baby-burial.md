@@ -5,6 +5,7 @@ drupal_node_id: 116
 source_type: "Object"
 url: /neolithic-baby-burial
 image: /images/catal_huyuk_baby_3177f0d925.jpg
+image_alt: "Neolithic infant skeleton"
 regions: 
   - "Asia"
   - "Europe"

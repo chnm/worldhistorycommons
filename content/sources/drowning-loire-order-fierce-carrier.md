@@ -5,6 +5,7 @@ drupal_node_id: 1110
 source_type: "Image"
 url: /drowning-loire-order-fierce-carrier
 image: /images/39a146b468474574b5ea12669bf52615.jpg
+image_alt: "Engraving of execution by drowning in the Loire River"
 regions: 
   - "Europe"
 subjects: 

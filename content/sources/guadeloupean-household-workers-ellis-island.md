@@ -5,6 +5,7 @@ drupal_node_id: 237
 source_type: "Image"
 url: /guadeloupean-household-workers-ellis-island
 image: /images/immigrants-from-Guadeloupe.jpg
+image_alt: "Guadeloupean Household Workers at Ellis Island"
 regions: 
   - "North/Central America"
 subjects: 

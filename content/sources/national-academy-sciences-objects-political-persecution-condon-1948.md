@@ -5,6 +5,12 @@ drupal_node_id: 3010
 source_type: "Text"
 url: /national-academy-sciences-objects-political-persecution-condon-1948
 image: /images/_Falcone_Doc_2a_.JPG
+image_alt: "Image of part 1 of letter. Transcription in transcription folder."
+additional_images:
+  - src: "/images/source-media/3010/_Falcone_Doc_2b_.JPG"
+    alt: "Image of part 2 of letter. Transcription in transcription folder."
+  - src: "/images/source-media/3010/_Falcone_Doc_2c_.JPG"
+    alt: "Image of part 3 of letter. Transcription in transcription folder."
 regions: 
   - "Global"
   - "North/Central America"

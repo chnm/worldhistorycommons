@@ -5,6 +5,12 @@ drupal_node_id: 2803
 source_type: "Image"
 url: /map-philippines-1734
 image: /images/Philippines1.jpeg
+image_alt: "Drawing of street scene."
+additional_images:
+  - src: "/images/source-media/2803/Philippines2.jpeg"
+    alt: "Drawing of a map of Manilla"
+  - src: "/images/source-media/2803/Philippines3.jpeg"
+    alt: "Drawn map of the Philippines"
 regions: 
   - "Asia"
   - "Europe"

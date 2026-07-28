@@ -5,6 +5,7 @@ drupal_node_id: 2964
 source_type: "Image"
 url: /quilted-bedcover-elisabeth-chapman
 image: /images/quilted_bedcover_of_Elisabeth_Chapman.jpg
+image_alt: "An image of Elisabeth Chapman's quilted bedcover. The quilt is pieced together using multiple patterned fabrics."
 regions: 
   - "Europe"
 subjects: 

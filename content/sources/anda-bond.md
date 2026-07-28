@@ -5,6 +5,7 @@ drupal_node_id: 2758
 source_type: "Text"
 url: /anda-bond
 image: /images/Text_Image_7_2.jpeg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

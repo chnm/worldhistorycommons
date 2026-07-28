@@ -5,6 +5,7 @@ drupal_node_id: 283
 source_type: "Image"
 url: /foundation-republic-august-10-1792
 image: /images/foundation-of-republic.jpg
+image_alt: "Print of clash between revolutionaries and military"
 regions: 
   - "Europe"
 subjects: 

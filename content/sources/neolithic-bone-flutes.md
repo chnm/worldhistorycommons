@@ -5,6 +5,7 @@ drupal_node_id: 2481
 source_type: "Object"
 url: /neolithic-bone-flutes
 image: /images/flutes_0.jpg
+image_alt: "Neolithic bone flutes"
 regions: 
   - "Asia"
 subjects: 

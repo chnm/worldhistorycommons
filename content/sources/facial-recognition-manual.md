@@ -5,6 +5,7 @@ drupal_node_id: 357
 source_type: "Image"
 url: /facial-recognition-manual
 image: /images/facebook_ca55377b80_0.jpg
+image_alt: "Facial Recognition Manual"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 364
 source_type: "Image"
 url: /puppeteers-painting
 image: /images/itcho_children.jpg
+image_alt: "Puppeteers Painting"
 regions: 
   - "Asia"
 subjects: 

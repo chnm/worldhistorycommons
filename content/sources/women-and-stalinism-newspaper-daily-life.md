@@ -5,6 +5,7 @@ drupal_node_id: 1628
 source_type: "Text"
 url: /women-and-stalinism-newspaper-daily-life
 image: /images/Icons-Document_381.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

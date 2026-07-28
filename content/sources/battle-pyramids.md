@@ -5,6 +5,7 @@ drupal_node_id: 1048
 source_type: "Image"
 url: /battle-pyramids
 image: /images/battle-of-pyramids.jpg
+image_alt: "Battle of the Pyramids"
 regions: 
   - "Europe"
 subjects: 

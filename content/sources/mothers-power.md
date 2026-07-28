@@ -5,6 +5,7 @@ drupal_node_id: 3101
 source_type: "Text"
 url: /mothers-power
 image: /images/MothersPower.jpg
+image_alt: "\"eomeoniui him\" or \"a mother's power\" written in Korean"
 regions: 
   - "Asia"
 subjects: 

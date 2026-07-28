@@ -5,6 +5,7 @@ drupal_node_id: 1280
 source_type: "Text"
 url: /imperial-rescript-education
 image: /images/Icons-Document_112.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

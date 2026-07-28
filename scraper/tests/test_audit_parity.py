@@ -260,6 +260,65 @@ class SnapshotTests(unittest.TestCase):
             )
         )
 
+    def test_empty_drupal_audio_link_is_an_upstream_gap(self):
+        drupal_html = SOURCE_DRUPAL.replace(
+            '<div class="image-wrap"><img src="/sites/default/files/source.jpg" alt="Source"></div>',
+            '<div class="audio-wrap"><a href="">Download Audio</a></div>',
+        )
+        hugo_html = SOURCE_HUGO_MISSING_TRANSLATION.replace(
+            '<div class="image-wrap"><img src="/images/source.jpg" alt="Example Source"></div>',
+            '<div class="source-media-unavailable">Audio unavailable</div>',
+        )
+        findings = compare_snapshots(
+            parse_snapshot(drupal_html, "/example", "source"),
+            parse_snapshot(hugo_html, "/example", "source"),
+            Target("/example", "source", "audio"),
+        )
+        self.assertFalse(
+            any(
+                finding.classification == "migration_loss"
+                and finding.field == "audio_links"
+                for finding in findings
+            )
+        )
+        self.assertTrue(
+            any(
+                finding.classification == "upstream_gap"
+                and finding.field == "media"
+                for finding in findings
+            )
+        )
+
+    def test_validated_video_replacement_is_not_a_migration_loss(self):
+        drupal_html = SOURCE_DRUPAL.replace(
+            '<div class="image-wrap"><img src="/sites/default/files/source.jpg" alt="Source"></div>',
+            '<iframe src="https://www.youtube.com/embed/old-id"></iframe>',
+        )
+        hugo_html = SOURCE_HUGO_MISSING_TRANSLATION.replace(
+            '<div class="image-wrap"><img src="/images/source.jpg" alt="Example Source"></div>',
+            '<div data-replaces-youtube-id="old-id">'
+            '<iframe src="https://www.youtube.com/embed/new-id"></iframe></div>',
+        )
+        findings = compare_snapshots(
+            parse_snapshot(drupal_html, "/example", "source"),
+            parse_snapshot(hugo_html, "/example", "source"),
+            Target("/example", "source", "video"),
+        )
+        self.assertFalse(
+            any(
+                finding.classification == "migration_loss"
+                and finding.field == "youtube_ids"
+                for finding in findings
+            )
+        )
+        self.assertTrue(
+            any(
+                finding.classification == "editorial_improvement"
+                and finding.field == "youtube_ids"
+                for finding in findings
+            )
+        )
+
 
 class CsvDiscoveryTests(unittest.TestCase):
     def test_csv_dev_urls_resolve_to_local_content_metadata(self):

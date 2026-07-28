@@ -5,6 +5,7 @@ drupal_node_id: 369
 source_type: "Text"
 url: /goha-gives-his-son-lesson-about-people
 image: /images/gohaondonkey.jpg
+image_alt: "Image of Goha on a donkey"
 regions: 
   - "Asia"
   - "Africa"

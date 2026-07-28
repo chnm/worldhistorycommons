@@ -5,6 +5,7 @@ drupal_node_id: 335
 source_type: "Object"
 url: /boys-initiation-mask-keweke
 image: /images/papua-initiation-mask.jpg
+image_alt: "Photograph of Boys' Initiation Mask (keweke)"
 regions: 
   - "Oceania"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2887
 source_type: "Text"
 url: /act-declaration-independence-ukraine
 image: /images/UrkraineIndependence.jpeg
+image_alt: "Image of text in Ukrainian of Declaration. Transcription and translation provided below."
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2902
 source_type: "Image"
 url: /letter-nicaraguan-embassy
 image: /images/Richland_Center_Acceptance.jpg
+image_alt: "1987 letter from the Nicaraguan embassy to Richland County Citizens for Peace and Justice"
 regions: 
   - "North/Central America"
 subjects: 

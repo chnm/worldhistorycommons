@@ -5,6 +5,7 @@ drupal_node_id: 362
 source_type: "Image"
 url: /emperor-jahangir-weighing-his-son-khurram-gold
 image: /images/jahangir-weighing-son.jpg
+image_alt: "Emperor Jahangir Weighing His Son Khurram in Gold"
 regions: 
   - "Asia"
 subjects: 

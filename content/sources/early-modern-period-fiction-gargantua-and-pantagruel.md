@@ -5,6 +5,7 @@ drupal_node_id: 1634
 source_type: "Text"
 url: /early-modern-period-fiction-gargantua-and-pantagruel
 image: /images/Icons-Document_387.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

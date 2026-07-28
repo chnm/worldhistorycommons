@@ -5,6 +5,7 @@ drupal_node_id: 263
 source_type: "Image"
 url: /drawing-khoi-dancers
 image: /images/khoidance.jpg
+image_alt: "Drawing of Khoi Dancers and Musical Instruments"
 regions: 
   - "Africa"
 subjects: 

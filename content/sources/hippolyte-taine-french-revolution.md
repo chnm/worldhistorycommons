@@ -5,6 +5,12 @@ drupal_node_id: 948
 source_type: "Text"
 url: /hippolyte-taine-french-revolution
 image: /images/frenchrevolutio03tainuoft_0024.jpg
+image_alt: "Hippolyte Taine on the French Revolution"
+additional_images:
+  - src: "/images/source-media/948/frenchrevolutio03tainuoft_0025.jpg"
+    alt: "Hippolyte Taine on the French Revolution"
+  - src: "/images/source-media/948/frenchrevolutio03tainuoft_0026.jpg"
+    alt: "Hippolyte Taine on the French Revolution"
 regions: 
   - "Europe"
 subjects: 

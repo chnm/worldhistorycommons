@@ -6,6 +6,7 @@ drupal_node_id: 166
 source_type: "Image"
 url: /my-dear-son-napoleon-child-devil
 image: /images/150b98988bf99858331b850f37800100.jpg
+image_alt: "Cartoon of the Devil holding Napoleon as a baby on a swaddling board"
 regions: 
   - "Europe"
 subjects: 

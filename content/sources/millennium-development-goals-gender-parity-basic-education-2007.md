@@ -5,6 +5,10 @@ drupal_node_id: 58
 source_type: "Image"
 url: /millennium-development-goals-gender-parity-basic-education-2007
 image: /images/8mdg-gender-parity-secondary-ed-2009_eb6f2a99c2.jpg
+image_alt: "Chart of Gender Parity in Secondary School"
+additional_images:
+  - src: "/images/source-media/58/9mdg-gender-parity-primary-ed-2009_758bc856ca.jpg"
+    alt: "Chart of Gender Parity in Primary School"
 regions: 
   - "Comparative"
   - "Global"

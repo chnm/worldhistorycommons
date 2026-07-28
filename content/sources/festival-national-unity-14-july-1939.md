@@ -5,6 +5,7 @@ drupal_node_id: 1010
 source_type: "Image"
 url: /festival-national-unity-14-july-1939
 image: /images/festival-of-unity.jpeg
+image_alt: "Festival of National Unity, 14 July 1939"
 regions: 
   - "Europe"
 subjects: 

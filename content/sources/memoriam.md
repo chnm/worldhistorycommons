@@ -5,6 +5,7 @@ drupal_node_id: 251
 source_type: "Image"
 url: /memoriam
 image: /images/in-memoriam.jpg
+image_alt: "In Memoriam painting"
 regions: 
   - "Asia"
   - "Europe"

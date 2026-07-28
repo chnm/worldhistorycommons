@@ -5,6 +5,7 @@ drupal_node_id: 2843
 source_type: "Image"
 url: /photograph-indian-tableaux-endon
 image: /images/Tableau.jpg
+image_alt: "Photo of girls dressed as Indian women. Description in annotation below."
 regions: 
   - "Asia"
   - "Europe"

@@ -5,6 +5,7 @@ drupal_node_id: 2882
 source_type: "Text"
 url: /south-african-college-and-its-old-boys-1886
 image: /images/South_African_College_1886.png
+image_alt: "Article text. Transcription in folder."
 regions: 
   - "Africa"
   - "Europe"

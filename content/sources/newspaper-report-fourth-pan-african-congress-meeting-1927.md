@@ -5,6 +5,7 @@ drupal_node_id: 2981
 source_type: "Image"
 url: /newspaper-report-fourth-pan-african-congress-meeting-1927
 image: /images/source_4_the_monitor__WC__image_file.png
+image_alt: "Image of newspaper. Transcription in folder."
 regions: 
   - "North/Central America"
 subjects: 

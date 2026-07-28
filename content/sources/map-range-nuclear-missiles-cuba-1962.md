@@ -5,6 +5,7 @@ drupal_node_id: 2816
 source_type: "Image"
 url: /map-range-nuclear-missiles-cuba-1962
 image: /images/1962_Missile_Range__Cuba.jpg
+image_alt: "a map of the western hemisphere showing the united states in white. A red bullseye target centered on Cuba shows the range of various nuclear missiles with the outer rings reaching as far as Northern Canada. The bottom shows the words Top Secret scratched out and a note reading declassified by the CIA in 1978."
 regions: 
   - "North/Central America"
 subjects: 

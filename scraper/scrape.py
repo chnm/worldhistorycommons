@@ -187,11 +187,39 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
     title = soup.select_one("div.content-header h1")
     title_text = title.get_text(strip=True) if title else "Untitled"
 
-    # Main image
-    img = soup.select_one("div.image-wrap img")
-    image_path = None
-    if img and img.get("src"):
-        image_path = download_image(img["src"])
+    # Source media. Drupal permits multiple images and downloadable audio.
+    images = []
+    for img in soup.select("div.two-cols div.image-wrap img"):
+        if img.get("src"):
+            image_path = download_image(img["src"])
+            if image_path:
+                images.append({
+                    "src": image_path,
+                    "alt": img.get("alt", "").strip(),
+                })
+
+    audio_files = []
+    seen_audio = set()
+    audio_urls = [
+        source.get("src", "")
+        for source in soup.select("div.audio-wrap audio source[src]")
+    ]
+    audio_urls.extend(
+        audio.get("src", "")
+        for audio in soup.select("div.audio-wrap audio[src]")
+    )
+    audio_urls.extend(
+        link.get("href", "")
+        for link in soup.select("div.audio-wrap a[href]")
+    )
+    for audio_url in audio_urls:
+        if not audio_url or audio_url in seen_audio:
+            continue
+        seen_audio.add(audio_url)
+        audio_files.append({
+            "src": audio_url,
+            "label": "Download audio",
+        })
 
     # Annotation
     annotation = ""
@@ -236,7 +264,9 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
     return {
         "title": title_text,
         "type": "source",
-        "image": image_path,
+        "image": images[0] if images else None,
+        "additional_images": images[1:],
+        "audio_files": audio_files,
         "annotation": annotation,
         "citation": citation,
         "credits": credits,
@@ -373,12 +403,34 @@ def write_source_hugo(data: dict, section_dir: Path):
     filepath = section_dir / f"{slug}.md"
 
     tags = data["tags"]
+    image = data.get("image") or {}
+    image_alt = image.get("alt", "") if image else ""
+    additional_images = data.get("additional_images", [])
+    additional_images_yaml = ""
+    if additional_images:
+        additional_images_yaml = "\n".join(
+            f"  - src: {yaml_escape(item['src'])}\n"
+            f"    alt: {yaml_escape(item.get('alt', ''))}"
+            for item in additional_images
+        )
+    audio_files = data.get("audio_files", [])
+    audio_files_yaml = ""
+    if audio_files:
+        audio_files_yaml = "\n".join(
+            f"  - src: {yaml_escape(item['src'])}\n"
+            f"    label: {yaml_escape(item.get('label', 'Download audio'))}"
+            for item in audio_files
+        )
+
     fm = f"""---
 title: {yaml_escape(data['title'])}
-type: source
+doc_type: source
 drupal_node_id: {data.get('node_id', '')}
 url: {data['url_path']}
-image: {data.get('image') or ''}
+image: {image.get('src', '') if image else ''}
+image_alt: {yaml_escape(image_alt)}
+additional_images:{chr(10) + additional_images_yaml if additional_images_yaml else ' []'}
+audio_files:{chr(10) + audio_files_yaml if audio_files_yaml else ' []'}
 regions: {yaml_list(tags['regions'])}
 subjects: {yaml_list(tags['subjects'])}
 time_periods: {yaml_list(tags['time_periods'])}

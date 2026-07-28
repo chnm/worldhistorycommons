@@ -5,6 +5,7 @@ drupal_node_id: 1037
 source_type: "Image"
 url: /scene-directory-life-men-and-women-loptique-du-jour
 image: /images/scene-of-directory-life.jpg
+image_alt: "Scene of Directory Life, Men and Women from L’Optique du Jour"
 regions: 
   - "Europe"
 subjects: 

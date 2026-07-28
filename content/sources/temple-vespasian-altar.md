@@ -5,6 +5,7 @@ drupal_node_id: 2367
 source_type: "Object"
 url: /temple-vespasian-altar
 image: /images/Pompeii_Temple_of_Vespasian_altar_closeup.jpg
+image_alt: "Stone alter depicting a bull being led to a sacrifice"
 regions: 
   - "Europe"
 subjects: 

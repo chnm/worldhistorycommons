@@ -5,6 +5,7 @@ drupal_node_id: 53
 source_type: "Image"
 url: /johannesburg-recycled-material-toys
 image: /images/joburg-toys-new-image-combo_8b11f1c141_0.jpg
+image_alt: "Photo of boys playing with a toy"
 regions: 
   - "Africa"
 subjects: 

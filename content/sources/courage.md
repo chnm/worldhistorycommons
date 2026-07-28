@@ -5,6 +5,7 @@ drupal_node_id: 3098
 source_type: "Text"
 url: /courage
 image: /images/courage01.jpg
+image_alt: "Text in Korean \"yong-gi\" meaning \"courage\""
 regions: 
   - "Asia"
 subjects: 

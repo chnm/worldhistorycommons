@@ -5,6 +5,7 @@ drupal_node_id: 2479
 source_type: "Object"
 url: /shiva-lord-dance
 image: /images/Shiva_at_LACMA.jpg
+image_alt: "Shiva as the Lord of Dance"
 regions: 
   - "Asia"
 subjects: 

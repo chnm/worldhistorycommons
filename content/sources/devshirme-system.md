@@ -5,6 +5,7 @@ drupal_node_id: 307
 source_type: "Image"
 url: /devshirme-system
 image: /images/Janissary_Recruitment_in_the_Balkans-Suleymanname.jpeg
+image_alt: "Miniature illustration of the Devishirme"
 regions: 
   - "Africa"
   - "Middle East"

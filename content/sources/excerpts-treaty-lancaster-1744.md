@@ -5,6 +5,7 @@ drupal_node_id: 2777
 source_type: "Text"
 url: /excerpts-treaty-lancaster-1744
 image: /images/Icons-Document_716_2.jpg
+image_alt: "document icon"
 regions: 
   - "North/Central America"
 subjects: 

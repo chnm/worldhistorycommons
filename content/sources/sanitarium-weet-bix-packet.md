@@ -5,6 +5,10 @@ drupal_node_id: 143
 source_type: "Image"
 url: /sanitarium-weet-bix-packet
 image: /images/weetbix-packet-horizontal_03da1b137a.jpg
+image_alt: "Weetbix breakfast cereal advertisement"
+additional_images:
+  - src: "/images/source-media/143/weetbix-packet_61c089e824.jpg"
+    alt: "Weetbix advertisement with sports kids on it"
 regions: 
   - "Oceania"
 subjects: 

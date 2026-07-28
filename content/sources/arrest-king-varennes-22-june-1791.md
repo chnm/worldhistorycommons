@@ -5,6 +5,7 @@ drupal_node_id: 1025
 source_type: "Image"
 url: /arrest-king-varennes-22-june-1791
 image: /images/ee4f8c088c108d9adbf1b27891b01bf7.jpg
+image_alt: "Engraving of dramatic moments during arrest"
 regions: 
   - "Europe"
 subjects: 

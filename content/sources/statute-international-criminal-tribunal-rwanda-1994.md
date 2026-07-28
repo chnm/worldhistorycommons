@@ -5,6 +5,7 @@ drupal_node_id: 2819
 source_type: "Text"
 url: /statute-international-criminal-tribunal-rwanda-1994
 image: /images/Icons-Document_716_1.jpg
+image_alt: "an icon of a document. beneath it are the words view document."
 regions: 
   - "Africa"
   - "Global"

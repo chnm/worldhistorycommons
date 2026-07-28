@@ -5,6 +5,7 @@ drupal_node_id: 2762
 source_type: "Image"
 url: /world-light-map
 image: /images/LightMap.jpeg
+image_alt: "Map of the earth showing areas where lights can be seen from space at night"
 regions: 
   - "Global"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1479
 source_type: "Text"
 url: /condorcet-3-december-1792
 image: /images/Icons-Document_253.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

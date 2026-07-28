@@ -6,6 +6,7 @@ drupal_node_id: 1361
 source_type: "Text"
 url: /rover-scout-journey
 image: /images/Icons-Article-Excerpt_6.jpg
+image_alt: "image of the article"
 regions: 
   - "Africa"
 subjects: 

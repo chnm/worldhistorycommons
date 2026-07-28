@@ -5,6 +5,7 @@ drupal_node_id: 349
 source_type: "Image"
 url: /robespierre-laid-table-committee-public-safety
 image: /images/c1dfbc1d1323302980beaa0a57e642df.jpg
+image_alt: "Engraving of Robespierre at table"
 regions: 
   - "Europe"
 subjects: 

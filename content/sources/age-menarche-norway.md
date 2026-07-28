@@ -5,6 +5,7 @@ drupal_node_id: 299
 source_type: "Image"
 url: /age-menarche-norway
 image: /images/menarche-chart.jpg
+image_alt: "Age of Menarche in Norway chart"
 regions: 
   - "Europe"
 subjects: 

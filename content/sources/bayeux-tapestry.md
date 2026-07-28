@@ -5,6 +5,7 @@ drupal_node_id: 2953
 source_type: "Image"
 url: /bayeux-tapestry
 image: /images/Bayeux_Tapestry__Wikimedia_Commons_2.jpg
+image_alt: "A detail of the Bayeux Tapestry, depicting two horsemen in battle"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2896
 source_type: "Image"
 url: /landraad-pati
 image: /images/LandraadPatiGroot__1__0.jpg
+image_alt: "Photograph of the landraad in Pati in 1865"
 regions: 
   - "Asia"
   - "Comparative"

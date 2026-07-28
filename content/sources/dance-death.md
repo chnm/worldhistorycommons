@@ -5,6 +5,7 @@ drupal_node_id: 90
 source_type: "Image"
 url: /dance-death
 image: /images/dance-of-death_fd255603cc.jpg
+image_alt: "Medieval illustration of death"
 regions: []
 subjects: 
   - "Children"

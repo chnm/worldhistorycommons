@@ -5,6 +5,7 @@ drupal_node_id: 80
 source_type: "Image"
 url: /portrait-isabelle-2007
 image: /images/isabelle_6d69cc5972.jpg
+image_alt: "A young female ice skater leaning against the wall in a sports center"
 regions: 
   - "Europe"
 subjects: 

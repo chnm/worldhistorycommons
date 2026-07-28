@@ -5,6 +5,7 @@ drupal_node_id: 172
 source_type: "Image"
 url: /grateful-france-proclaims-napoleon-first-emperor-frence
 image: /images/34865e90fcc71278b77615ae0a78ba6d.jpg
+image_alt: "Engraving of symbolic scene combining Roman and French themes"
 regions: 
   - "Europe"
 subjects: 

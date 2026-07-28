@@ -5,6 +5,10 @@ drupal_node_id: 234
 source_type: "Image"
 url: /barada-panel-great-mosque-damascus
 image: /images/Umayyad_Great_Mosque.jpg
+image_alt: "Great Mosque in Damascus"
+additional_images:
+  - src: "/images/source-media/234/barada_panel.jpg"
+    alt: "Barada panel"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 957
 source_type: "Text"
 url: /thomas-jefferson-french-revolution
 image: /images/Thomas_Jefferson.jpg
+image_alt: "Thomas Jefferson"
 regions: 
   - "Europe"
   - "North/Central America"

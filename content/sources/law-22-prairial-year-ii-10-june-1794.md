@@ -5,6 +5,7 @@ drupal_node_id: 1496
 source_type: "Text"
 url: /law-22-prairial-year-ii-10-june-1794
 image: /images/Icons-Document_268.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2800
 source_type: "Text"
 url: /foundations-research-and-sponsorship
 image: /images/FoundationsLetterImage.png
+image_alt: "Image of mimeographed letter. Transcription below."
 regions: 
   - "Europe"
   - "North/Central America"

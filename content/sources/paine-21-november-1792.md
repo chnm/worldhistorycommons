@@ -5,6 +5,7 @@ drupal_node_id: 1478
 source_type: "Text"
 url: /paine-21-november-1792
 image: /images/Icons-Document_252.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 397
 source_type: "Text"
 url: /chinese-boy-and-girl
 image: /images/chinese-boy-and-girl.png
+image_alt: "Title page for The Chinese Boy and Girl"
 regions: 
   - "Asia"
 subjects: 

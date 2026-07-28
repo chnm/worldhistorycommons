@@ -5,6 +5,7 @@ drupal_node_id: 3099
 source_type: "Image"
 url: /friendship
 image: /images/Friendship.jpg
+image_alt: "Drawing of two children one standing, one crouching"
 regions: 
   - "Asia"
 subjects: 

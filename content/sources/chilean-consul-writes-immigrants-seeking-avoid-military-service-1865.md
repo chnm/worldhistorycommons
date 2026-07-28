@@ -5,6 +5,10 @@ drupal_node_id: 2853
 source_type: "Text"
 url: /chilean-consul-writes-immigrants-seeking-avoid-military-service-1865
 image: /images/Zenteno1865Pt1.jpg
+image_alt: "Photo of handwritten letter. Transcription and translation below."
+additional_images:
+  - src: "/images/source-media/2853/Zenteno1865Pt2.jpg"
+    alt: "Photo of handwritten letter. Transcription and translation below"
 regions: 
   - "South America"
 subjects: 

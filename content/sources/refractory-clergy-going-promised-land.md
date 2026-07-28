@@ -5,6 +5,7 @@ drupal_node_id: 354
 source_type: "Image"
 url: /refractory-clergy-going-promised-land
 image: /images/9862fe56ebe0bd460bf8a4e3db53278b.jpg
+image_alt: "Print of clergy leaving France"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1038
 source_type: "Image"
 url: /saving-france
 image: /images/saving-of-france.jpg
+image_alt: "The Saving of France"
 regions: 
   - "Europe"
 subjects: 

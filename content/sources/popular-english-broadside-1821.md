@@ -5,6 +5,7 @@ drupal_node_id: 963
 source_type: "Text"
 url: /popular-english-broadside-1821
 image: /images/napoleon-broadside.png
+image_alt: "A Popular English Broadside (1821)"
 regions: 
   - "Europe"
 subjects: 

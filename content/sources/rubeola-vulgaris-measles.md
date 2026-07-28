@@ -5,6 +5,7 @@ drupal_node_id: 301
 source_type: "Image"
 url: /rubeola-vulgaris-measles
 image: /images/measles.jpg
+image_alt: "Illustration of measles"
 regions: 
   - "Europe"
 subjects: 

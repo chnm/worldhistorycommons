@@ -5,6 +5,7 @@ drupal_node_id: 2366
 source_type: "Object"
 url: /gold-solidus-justinian-i-527-65
 image: /images/JustinianCoin.jpg
+image_alt: "Gold Coin featuring an engraved image of a man with a crown"
 regions: 
   - "Asia"
 subjects: 

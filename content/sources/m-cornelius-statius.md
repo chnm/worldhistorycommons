@@ -5,6 +5,7 @@ drupal_node_id: 98
 source_type: "Image"
 url: /m-cornelius-statius
 image: /images/sarcophogus1sm_e1132fc499.jpg
+image_alt: "Photo of Hadriatic period sarcophagus"
 regions: []
 subjects: 
   - "Culture"

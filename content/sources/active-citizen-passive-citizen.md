@@ -5,6 +5,7 @@ drupal_node_id: 178
 source_type: "Image"
 url: /active-citizen-passive-citizen
 image: /images/62c40feb11ae01b933db5857943b2dca.jpg
+image_alt: "Cartoon compaaring different types of citizen engagement"
 regions: 
   - "Europe"
 subjects: 

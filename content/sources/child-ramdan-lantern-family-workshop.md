@@ -5,6 +5,7 @@ drupal_node_id: 107
 source_type: "Image"
 url: /child-ramdan-lantern-family-workshop
 image: /images/fanoos-making-family_11da1f33bc.jpg
+image_alt: "Photo of family preparing celebration decorations"
 regions: 
   - "Africa"
 subjects: 

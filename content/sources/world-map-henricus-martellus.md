@@ -5,6 +5,7 @@ drupal_node_id: 2517
 source_type: "Image"
 url: /world-map-henricus-martellus
 image: /images/Martellus_map.jpg
+image_alt: "Martellus world map 1490"
 regions: 
   - "Europe"
   - "Global"

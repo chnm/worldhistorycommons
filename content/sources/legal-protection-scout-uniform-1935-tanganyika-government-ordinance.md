@@ -5,6 +5,7 @@ drupal_node_id: 1362
 source_type: "Text"
 url: /legal-protection-scout-uniform-1935-tanganyika-government-ordinance
 image: /images/Icons-Document_160.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

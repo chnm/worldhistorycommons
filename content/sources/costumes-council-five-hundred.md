@@ -5,6 +5,7 @@ drupal_node_id: 1047
 source_type: "Image"
 url: /costumes-council-five-hundred
 image: /images/costumes-of-the-council.jpg
+image_alt: "Costumes of the Council of Five Hundred"
 regions: 
   - "Europe"
 subjects: 

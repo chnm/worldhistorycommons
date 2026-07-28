@@ -5,6 +5,7 @@ drupal_node_id: 87
 source_type: "Object"
 url: /ivory-doll
 image: /images/ivory-doll_6d0db44b66.jpg
+image_alt: "Photo of ivory doll found in a grave"
 regions: 
   - "Europe"
 subjects: 

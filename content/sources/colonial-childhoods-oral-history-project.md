@@ -5,6 +5,9 @@ drupal_node_id: 236
 source_type: "Audio"
 url: /colonial-childhoods-oral-history-project
 image: 
+audio_files:
+  - src: "/audio/source-media/236/colonial-childhoods-audio.mp3"
+    label: "Download audio"
 regions: 
   - "Oceania"
 subjects: 

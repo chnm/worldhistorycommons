@@ -5,6 +5,7 @@ drupal_node_id: 3027
 source_type: "Image"
 url: /ceramic-female-figure-ecuador
 image: /images/main-image__1_.jpeg
+image_alt: "A clay figure with two heads and two female torsos, along with one set of arms and legs. The heads have cap-like hair and slightly detailed faces."
 regions: 
   - "South America"
 subjects: 

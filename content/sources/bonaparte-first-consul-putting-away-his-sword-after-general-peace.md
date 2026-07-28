@@ -5,6 +5,7 @@ drupal_node_id: 1024
 source_type: "Image"
 url: /bonaparte-first-consul-putting-away-his-sword-after-general-peace
 image: /images/napoleon.jpg
+image_alt: "Bonaparte, First Consul, Putting Away His Sword after the General Peace"
 regions: 
   - "Europe"
 subjects: 

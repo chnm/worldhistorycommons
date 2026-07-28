@@ -5,6 +5,7 @@ drupal_node_id: 1353
 source_type: "Text"
 url: /dona-marina-cortes-translator-nonfiction-octavio-paz
 image: /images/Icons-Book-Excerpt_24.jpg
+image_alt: "icon for book excerpt"
 regions: 
   - "North/Central America"
 subjects: 

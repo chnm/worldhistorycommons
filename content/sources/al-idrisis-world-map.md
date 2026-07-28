@@ -5,6 +5,7 @@ drupal_node_id: 1257
 source_type: "Image"
 url: /al-idrisis-world-map
 image: /images/Tabula_Rogeriana_1929_copy_by_Konrad_Miller.jpeg
+image_alt: "Image of al-Idrisi's world map"
 regions: 
   - "Global"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 953
 source_type: "Text"
 url: /philosophy-history
 image: /images/hegel.jpg
+image_alt: "Cover of the Philosophy of History"
 regions: 
   - "Europe"
 subjects: 

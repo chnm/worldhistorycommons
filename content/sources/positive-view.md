@@ -5,6 +5,7 @@ drupal_node_id: 173
 source_type: "Image"
 url: /positive-view
 image: /images/035a0bced63da7ca3789d4517bb7e7e3.jpg
+image_alt: "Print of stage scene at guillotine execution"
 regions: 
   - "Europe"
 subjects: 

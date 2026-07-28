@@ -5,6 +5,7 @@ drupal_node_id: 2776
 source_type: "Text"
 url: /excerpts-treaty-albany-1722
 image: /images/Icons-Document_716_1.jpg
+image_alt: "document icon"
 regions: 
   - "North/Central America"
 subjects: 

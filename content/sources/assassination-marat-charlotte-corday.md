@@ -5,6 +5,7 @@ drupal_node_id: 986
 source_type: "Image"
 url: /assassination-marat-charlotte-corday
 image: /images/assassination-of-marat.jpg
+image_alt: "The Assassination of Marat by Charlotte Corday"
 regions: 
   - "Europe"
 subjects: 

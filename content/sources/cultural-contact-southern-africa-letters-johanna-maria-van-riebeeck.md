@@ -5,6 +5,7 @@ drupal_node_id: 1731
 source_type: "Text"
 url: /cultural-contact-southern-africa-letters-johanna-maria-van-riebeeck
 image: /images/Icons-Document_470.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

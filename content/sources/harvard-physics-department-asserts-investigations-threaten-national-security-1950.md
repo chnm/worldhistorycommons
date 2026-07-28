@@ -5,6 +5,7 @@ drupal_node_id: 3011
 source_type: "Text"
 url: /harvard-physics-department-asserts-investigations-threaten-national-security-1950
 image: /images/Falcone_-_Document_3.JPG
+image_alt: "Image of letter. Transcription in transcription folder."
 regions: 
   - "Global"
   - "North/Central America"

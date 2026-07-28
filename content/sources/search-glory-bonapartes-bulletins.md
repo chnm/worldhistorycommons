@@ -5,6 +5,7 @@ drupal_node_id: 966
 source_type: "Text"
 url: /search-glory-bonapartes-bulletins
 image: /images/bonaparte-memoirs.png
+image_alt: "In Search of Glory: Bonaparte’s Bulletins"
 regions: 
   - "Europe"
 subjects: 

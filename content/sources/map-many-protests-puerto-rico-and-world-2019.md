@@ -5,6 +5,7 @@ drupal_node_id: 3029
 source_type: "Image"
 url: /map-many-protests-puerto-rico-and-world-2019
 image: /images/WHC_ricky_renuncia_map.png
+image_alt: "A world map with orange markers placed at the site of protests from social media."
 regions: 
   - "Global"
   - "North/Central America"

@@ -5,6 +5,7 @@ drupal_node_id: 197
 source_type: "Image"
 url: /speech-garden-palais-royal
 image: /images/81a741f2c9cc1dabd659362e8c9d8f4a.jpg
+image_alt: "Engraving of speech given against Estates-General"
 regions: 
   - "Europe"
 subjects: 

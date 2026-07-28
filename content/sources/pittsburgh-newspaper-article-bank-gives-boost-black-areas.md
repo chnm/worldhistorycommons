@@ -5,6 +5,7 @@ drupal_node_id: 2912
 source_type: "Image"
 url: /pittsburgh-newspaper-article-bank-gives-boost-black-areas
 image: /images/Pitt_Bank_Give_Back.png
+image_alt: "Picture of the 1988 headline in the New Pittsburgh Courier “Bank Gives Boost to Black Areas\""
 regions: 
   - "North/Central America"
 subjects: 

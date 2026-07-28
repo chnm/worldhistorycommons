@@ -5,6 +5,7 @@ drupal_node_id: 2814
 source_type: "Image"
 url: /kansas-nebraska-act-1854
 image: /images/1854_Kansas-Nebraska_Act.jpg
+image_alt: "The first page of the Kansas-Nebraska Act, titled an an Act to Organize the Territories of Nebraska and Kansas and passed by the thirty-third Congress of the United States"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 189
 source_type: "Image"
 url: /ordinary-guillotine
 image: /images/c1d9493a254f39c64cbe6729dddb0de7.jpg
+image_alt: "Engraving of image of a guillotine on wooden platform"
 regions: 
   - "Europe"
 subjects: 

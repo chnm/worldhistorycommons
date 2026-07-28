@@ -5,6 +5,7 @@ drupal_node_id: 218
 source_type: "Image"
 url: /vulgarly-called-wanton
 image: /images/vulgarlycalledwanton.jpg
+image_alt: "Vulgarly Called the Wanton"
 regions: 
   - "Asia"
 subjects: 

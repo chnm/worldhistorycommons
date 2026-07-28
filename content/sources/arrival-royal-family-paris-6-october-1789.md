@@ -5,6 +5,7 @@ drupal_node_id: 960
 source_type: "Image"
 url: /arrival-royal-family-paris-6-october-1789
 image: /images/bf3a0729a1ce87d39998e7ce565b4926.jpg
+image_alt: "Engraving of the seizure of the king to bring him to Paris"
 regions: 
   - "Europe"
 subjects: 

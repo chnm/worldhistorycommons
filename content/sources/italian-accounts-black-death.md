@@ -5,6 +5,7 @@ drupal_node_id: 1302
 source_type: "Text"
 url: /italian-accounts-black-death
 image: /images/Icons-Document_128.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

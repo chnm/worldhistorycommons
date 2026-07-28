@@ -5,6 +5,7 @@ drupal_node_id: 266
 source_type: "Text"
 url: /lady-florentia-sale-diary
 image: /images/Florentia-ne-Wynch-Lady-Sale.jpg
+image_alt: "Lady Florentia Sale"
 regions: 
   - "Europe"
   - "Middle East"

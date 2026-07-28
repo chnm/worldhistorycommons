@@ -5,6 +5,7 @@ drupal_node_id: 2992
 source_type: "Image"
 url: /us-targets-indian-activist-taraknath-das
 image: /images/SFC_19181203_0011.jpg
+image_alt: "Headline: U.S. May Revoke Das' Citizenship. Full transcript in folder in module."
 regions: 
   - "Asia"
   - "Global"

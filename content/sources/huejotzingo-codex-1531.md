@@ -5,6 +5,22 @@ drupal_node_id: 1147
 source_type: "Image"
 url: /huejotzingo-codex-1531
 image: /images/Huejotzingo-Codex-1.jpg
+image_alt: "Image of Huejotzingo Codex"
+additional_images:
+  - src: "/images/source-media/1147/Huejotzingo-Codex-2.jpg"
+    alt: "Image of Huejotzingo Codex"
+  - src: "/images/source-media/1147/Huejotzingo-Codex-3.jpg"
+    alt: "Image of Huejotzingo Codex"
+  - src: "/images/source-media/1147/Huejotzingo-Codex-4.jpg"
+    alt: "Image of Huejotzingo Codex"
+  - src: "/images/source-media/1147/Huejotzingo-Codex-5.jpg"
+    alt: "Image of Huejotzingo Codex"
+  - src: "/images/source-media/1147/Huejotzingo-Codex-6.jpg"
+    alt: "Image of Huejotzingo Codex"
+  - src: "/images/source-media/1147/Huejotzingo-Codex-7.jpg"
+    alt: "Image of Huejotzingo Codex"
+  - src: "/images/source-media/1147/Huejotzingo-Codex-8.jpg"
+    alt: "Image of Huejotzingo Codex"
 regions: 
   - "North/Central America"
 subjects: 

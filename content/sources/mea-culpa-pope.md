@@ -5,6 +5,7 @@ drupal_node_id: 453
 source_type: "Image"
 url: /mea-culpa-pope
 image: /images/94b70135599ec428a23c70c1314ac1bd.jpg
+image_alt: "Print mocking the clergy and the Pope"
 regions: 
   - "Europe"
 subjects: 

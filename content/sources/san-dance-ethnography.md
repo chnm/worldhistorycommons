@@ -5,6 +5,7 @@ drupal_node_id: 413
 source_type: "Text"
 url: /san-dance-ethnography
 image: /images/specimens-of-bushman-folklore.png
+image_alt: "The use of the !gõïn!gõïn page"
 regions: 
   - "Africa"
 subjects: 

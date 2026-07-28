@@ -5,6 +5,7 @@ drupal_node_id: 1494
 source_type: "Text"
 url: /calendar
 image: /images/Icons-Document_266.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 
