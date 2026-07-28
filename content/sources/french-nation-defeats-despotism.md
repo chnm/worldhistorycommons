@@ -22,3 +22,8 @@ how_to_cite: |
 ---
 
 Here Lafayette’s role is praised. A warlike liberty stands with him over a defeated despotism at his feet. Revolutionaries often represented despotism as a multi-headed monster.
+
+## Translation
+
+Title (French)  
+La Nation française assistée de Mr de la Fayette terrasse le despotisme et les abus du Regne Feodal qui terrassaient le peuple

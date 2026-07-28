@@ -24,3 +24,8 @@ how_to_cite: |
 ---
 
 This engraving, based on a color portrait by Beys, depicts the death of Robespierre on the guillotine. The executioners wear not the traditional hangman’s hood but red bonnets representing liberty. This judgment notes Robespierre’s failure to the Revolution itself. Contemporaries emphasized that Robespierre’s punishment was just because it was the same to which "he had condemned so many thousands of innocent victims."
+
+## Transcription
+
+**Title in French**  
+La Mort de Robespierre

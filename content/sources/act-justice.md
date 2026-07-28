@@ -18,3 +18,8 @@ how_to_cite: |
 ---
 
 Here Robespierre’s death is depicted as divine retribution, as in a classical myth. Numerous heads, presumably of those who had perished at the guillotine, watch two male figures (bearing a strong resemblance to Hercules, who had been an early symbol of the Revolution) carry the freshly severed heads of Robespierre and his followers toward the mythological river Styx, guarded by the three–headed dog Cerberus.
+
+## Transcription
+
+**Title**  
+Acte de justice du 9 au 10 thermidor

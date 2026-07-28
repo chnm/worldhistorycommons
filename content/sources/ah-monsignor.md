@@ -25,3 +25,8 @@ how_to_cite: |
 ---
 
 Not uncommonly, revolutionary prints invoked excretory humor directed toward those priests who would not swear allegiance to the Revolution. Revolutionaries eliminated on their enemies; the latter might also receive enemas. Of course, in a world of chamber pots everyone got the message loudly and clearly.
+
+## Transcription
+
+**Title in French**  
+Ah ! Monseigneur ! on veut donc nous faire rendre tout. Je vous avait cependant conseillé de faire atout.

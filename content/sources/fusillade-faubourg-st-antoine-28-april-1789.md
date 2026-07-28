@@ -27,3 +27,11 @@ how_to_cite: |
 ---
 
 This image chronicles a riot. Many believe it was caused by artisans who attacked the Reveillon wallpaper shop and factory because they believed that the owner was about to lower wages. Over two days, more than 6,000 attacked the place. On 28 April troops were called and fired on the crowd. The official report noted 71 killed, wounded, or detained. This conflict reveals the animosity between the artisans and authorities as well as divisions between commoner owners and artisans that would eventually turn the Third Estate against itself.
+
+## Transcription
+
+**Title in French**  
+Fusillade au fauxbourg St Antoine, le 28 avril 1789
+
+**Caption**  
+Après le pillage de la maison et de la manufacture de Réveillon, les gardes françaises et suisses, qui s'avançoient dans le fauxbourg pour en chasser les brigands, ayant été assaillis par une grêle de pierres et de tuiles qu'on leur lançoit de differentes maisons ; firent feu sur les assaillans dont ils firent un grand carnage

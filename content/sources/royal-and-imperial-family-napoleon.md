@@ -25,3 +25,8 @@ how_to_cite: |
 The remainder of the text on this image reads: Emperor of the French, King of Italy, and Protector of the Confederation of the Rhine. The military flags make clear the connection between military conquest and imperial glory.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Translation
+
+Title (French)  
+Famille Impériale et Royale, de Napoléon le Grand premier du nom Empereur des Francais Roi d'Italie et Protecteur de la Confederation du Rhin

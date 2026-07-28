@@ -30,3 +30,23 @@ The Partition of India was one of the most difficult, tension-filled political e
 The main difficulty of Partition was handling the Punjab region. Punjab was the homeland of the Sikh religion but also had significant populations of Muslims and Hindus. Unlike other regions of India, there was no clear Muslim or Hindu majority, making it unsure of which new state it should belong to. The British solution was to divide Punjab (roughly) down the middle (the west becoming part of Pakistan and the east belonging to India), effectively making it ground zero for partition-driven migration. Because the India-Pakistan division was drawn along religious lines, tensions were high, and violence erupted.
 
 This notice was written by Lord Ismay, the Chief of Staff to Lord Mountbatten. Mountbatten was the last Viceroy of India and oversaw Partition.
+
+## Transcription
+
+TOP SECRET
+
+THE INDIAN SITUATION
+
+A PERSONAL NOTE BY LORD ISMAY
+
+SECTION I
+
+1. On my way back to India from England towards the end of last July, I concluded my notes with the following passage:-
+
+“I was worried when I was in England at the prevalence of the idea that everything was over bar the shouting. Personally I feel that we are nothing like out of the wood yet. There is so much explosive material lying about and it remains to see whether it can be prevented from going off. I am, for example, extremely worried about the Sikhs. They imagine that they are going to get a far more favourable boundary then, so far as I can judge, the Boundary Commission can possible award them. All possible precautions have been taken by the despatch to the areas of potential trouble of a joint India-Pakistan force under single command, but even so it may be a very unpleasant business. The truth of the matter is that both sides are in panic, and people do sillier things when they are frightened than they do under the stress of any other emotion.”
+
+2. These views were shared by many people. It is therefore a mistake to imagine that the storm which broke out in August, and which is still raging, was unexpected. It must, however, by frankly admitted that neither its character nor its extent were anticipated by anyone in authority, whether in India, Pakistan or England.
+
+3. The last two months have been so chaotic that it would be difficult to find two people who agree as to how the trouble started, why it was not checked, what has actually happened, and what is to be the outcome. While, therefore, I have thought it right to set out in this paper my personal conception of the past, and my estimate of the future, I do not claim that either would receive any general measure
+
+\*transcript by the [British National Archives](https://www.nationalarchives.gov.uk/education/resources/partition-of-british-india/source-1b/)\*

@@ -21,3 +21,8 @@ how_to_cite: |
 ---
 
 The Queen, never popular to begin with in France, also bore the brunt of popular anger in 1792, as seen in images of the King and Queen as animals. This reversal from old regime portrayals of the monarchy is made more remarkable by the fact that beyond 1789 cartoons tried, if somewhat unsuccessfully, to integrate royalty and revolution. One wonders if this dehumanizing of the King and Queen might explain why they became such lightning rods for criticism.
+
+## Translation
+
+Title in French  
+Les Deux ne font qu'un

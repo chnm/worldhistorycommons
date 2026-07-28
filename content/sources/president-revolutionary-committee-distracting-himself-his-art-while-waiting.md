@@ -24,3 +24,8 @@ how_to_cite: |
 ---
 
 The shoemaker shown here is president of his neighborhood revolutionary committee. Although this engraving does not portray a specific political activity, the character evokes hostility toward laborers and artisans who involved themselves in politics. The president hardly seems presidential.
+
+## Transcription
+
+**Title in French**  
+Président d'un Comité Révolutionnaire s'amusant de son Art, en attendant la levée d'un Scellée

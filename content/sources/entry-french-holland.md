@@ -23,3 +23,11 @@ how_to_cite: |
 ---
 
 From Berthault’s series of great moments of the Revolution, this engraving depicts the victorious entry of the republican French forces into the southern Netherlands (currently Belgium) on 21 January 1795, where a "sister republic" of Batavia would soon be established.
+
+## Translation
+
+Title (French)  
+Entrée des Français dans la Hollande : le 21 janvier 1795
+
+Caption  
+ou 2 pluviose, an 3.eme de la République

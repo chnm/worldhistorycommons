@@ -28,3 +28,8 @@ how_to_cite: |
 ---
 
 This image, also reproduced from the newspaper *R\*volutions de Paris*, shows crowds massacring refractory clergy and prisoners. The panels depict the former convent of the Carmelites (where 163 were killed) and the prison known as the Force, which had formerly been used to incarcerate prostitutes, where approximately 300 defrocked clergy were executed.
+
+## Transcription
+
+**Title in French**  
+Carmes du Luxembourg ; Hotel de la Force: Massacre des Prêtres

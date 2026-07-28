@@ -26,3 +26,32 @@ The photograph at the top shows two children gazing into the soft light of a fan
 The tradition of the colorful lanterns is coupled with the song, which children sing as they process through the streets of Egyptian, and especially Cairene neighborhoods announcing the coming of Ramadan, and collecting coins and sweets. The words of the song that are not translated are obscure, perhaps referring to fire or light (wahawi, ya wahawi). "You have gone, O Sha'ban" refers to the lunar month before Ramadan, and "the daughter of the Sultan is wearing her caftan" means she is dressed in a loose, often embroidered garment worn when going out and on holidays. "Give us this season's gift" is a plea for the small presents children would receive from adults for going out in procession to announce the coming of Ramadan.
 
 Children are typically very excited about the coming of Ramadan, because it is a festive time that lasts an entire month. Even though abstaining from food and drink daily from dawn to sunset is a hardship, many children are anxious to participate as much as they can, fasting part of the day or just a few days. Some manage to fast the whole month by the age of ten or so. After sunset each day, in contrast, special, abundant food, friends and family, and evening activities, including visits to the mosque (Arabic, masjid) take place. Ramadan culminates in the major festival called Eid al-Fitr at the end of the month. Children traditionally receive new shoes and clothing, money, sweets and toys as a reward for just trying, or accomplishing the fast.
+
+## Transcription
+
+Wahawi ya wahawi  
+iyyahah  
+Ruht ya Sha'ban  
+Gayt ya Ramadan  
+iyyahah  
+Bint is-Sultan  
+Labsah al-guftan  
+iyyahah  
+Yallah al-Gaffar  
+Idduna al-idiyah  
+Yallah al-Gaffar  
+(Ramadan song, Arabic transliteration)
+
+## Translation
+
+Wahawi, ya wahawi  
+iyyahah  
+You have gone, O Sha'ban,  
+You have come, O Ramadan,  
+iyyahah  
+The daughter of the Sultan  
+is wearing her caftan,  
+iyyahah  
+For God the forgiver  
+Give us this season's gift.  
+(Ramadan song, English translation)

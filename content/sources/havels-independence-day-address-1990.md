@@ -188,3 +188,48 @@ závazky, které přijal, a vůbec o naší schopnosti mít vládu nad svými
 věcmi.
 
 Děkuji vám za pozornost.
+
+## Translation
+
+Vaclav Havel, "Independence Day Address to the Nation," Czechoslovakia,  
+October 28, 1990, trans. Hugh Agnew.
+
+My fellow citizens,  
+Seventy-two years ago, at approximately this hour, the representatives of our nations, joined in the National Council, passed in Prague's Municipal Hall a law on the establishment of the Czechoslovak state. The first sentence of this, our first law, reads that "the independent Czechoslovak state has entered into life."
+
+On the twenty-eighth of October 1918 this state actually did enter into life. The years-long struggle of our resistance abroad, led by Masaryk, Stefanik and Benes, and the years-long struggle of many of our domestic leaders, was crowned with success on that day, when it was supported by the entire people through their public manifestations. From the ruins of the fallen Austro-Hungarian Monarchy and against the backdrop of its wartime defeat arose not only our modern independent state, but at the same time the first democratic state on our territory in all the long history of our nations.
+
+The twenty-eighth of October is rightfully our foremost state holiday. Today this holiday has an especially festive air for us: for the first time after long decades we can speak the entire truth about the twenty-eighth of October, 1918, and accord to that day its true meaning. For the first time after long decades we can again, without various evasions and perfectly unambiguously, acclaim the ideas with which this day is inseparably connected, namely the ideals of freedom, political plurality, genuine democracy, civic equality, social justice, humanity and, last but not least, complete state independence.
+
+All this is certainly reason for heartfelt joy. It would be a dangerous self deception, however, if we took today's anniversary only as a reason for joy. It is not only that. For us it is at the same time a very serious summons to very serious reflection about ourselves. We live in a time  
+which poses us innumerable disturbing questions. In the background lurks one fundamental one: Whether and how we will succeed in asserting the values in whose name we rose up against the totalitarian regime not quite a year ago, and whether and how we will realize the ideals we publicly articulated then.
+
+I am afraid that we do not have many reasons for satisfaction. The social changes which seemed to us even a few months ago to be within reach are taking place slowly and with difficulty. Disquiet, dissatisfaction, intolerance and disappointment, accompanied by increasing spitefulness, are growing among the people. We live in a stifling atmosphere. We are gradually losing the credit which we gained abroad by our rapid and peaceful revolution. The outside world observes us with ever greater hesitation and ever more frequently expresses the fear that our ability to build a new system lags precariously behind the ability we demonstrated in the destruction of the old system.
+
+I am convinced that everything will turn out alright in the end. At the same time, however, I presume that if everything does in fact turn out alright in the end, it will be only because we will find within ourselves the strength to look ourselves straight in the eyes, all our previous failures and all their genuine causes, including those which are rooted in ourselves alone and in our negative qualities.
+
+It is not my task today to analyze all aspects of the critical situation in which we find ourselves. I shall mention only one subject which is immediately and meaningfully linked with the origin of our state.
+
+Czechoslovakia arose seventy-two years ago out of the common will of our two nations, represented by their most significant spirits. The most conscientious Czechs and Slovaks, whether they were active at home or abroad, agreed unanimously that the sole guarantee of independent state existence and free national development for us was a common life in one state. This generally shared certainty even led our forebears, both Czech and Slovak, to the conviction that our two nations were only two branches of a single nation. In this case, as we know, they were fatefully mistaken, but all the same the simple fact that they thought thus testifies to how deep was their certainty that we belong to each other.
+
+As you are well aware, our common life in one state is undergoing a great test these days. The freedom which we have won for ourselves places us quite legitimately in front of the question whether the decision of our ancestors was also free and whether it was correct.
+
+I am deeply convinced that it was the correct decision. At the same time, however, I am also deeply convinced that today we must remove from this decision its temporally-determined illusions and breathe into it new content. We are not a single Czechoslovak nation, but two nations, who have the right to the same measure of national individuality and sovereignty. We are at the same time a state with numerous national minorities, who also have their rights. One of these rights is the right to be a fully-fledged citizen of our federal state.
+
+We want to give a new content and new life to the decision of our ancestors by attempting to give a new content to the federal organization of our state.
+
+We say that we are building an authentic federation. It is an unusually complicated and demanding process, accompanied by innumerable quarrels, failures to reach understanding, surprises, and even disappointments. If I were to compare this process to giving birth, then I would have to say that it is definitely not a painless childbirth. What is necessary for this to be a successful birth, so that a truly healthy and viable baby will be born?
+
+In my opinion there is only one thing necessary: that we should all awaken within ourselves responsibility, and that we should mobilize such characteristics as a healthy reason, a sense of perspective, matter-of-factness, broad-mindedness, courage for the truth, and understanding for others.
+
+I therefore call upon all Czechs to attempt to enter into the soul of the Slovak nation, and to get rid of all those remnants of disparagement and gratuitous superiority which have for years accompanied their relations with the Slovaks. I request them not to react to the various Slovak demands aimed at strengthening Slovak individuality only with contemptuous mockery or uncomprehending shaking of their heads.
+
+I call upon all Slovaks, and especially the Slovak youth, not to succumb to the national demagogy of people who equate national individuality and pride with a return to a dark past. Sentimental images of the Slovak nation, supposedly abandoned, forgotten, and oppressed from all sides, are offensive for the Slovak nation. Voices of this type do not cultivate national self-consciousness, but feed national complexes and stir up hatred. I call upon all Slovaks to demonstrate their political culture through respecting the healthy understanding of their representatives, whom they have themselves freely elected. A respectable place in the family of European nations is secured by the wisdom of democratic discussions, but chauvinistic slogans on the other hand threaten that place.
+
+At the same time I call upon all Czechs and Slovaks to confront resolutely in their own vicinity all expressions of racial, national and political intolerance and hatred, as well as all conscious attempts to destabilize our nascent democracy. Its measure is determined not only by the voices of the majority, but above all by how the majority respects and values the views and rights of members of all minorities.
+
+I call upon all the representatives at all three political instances, the two republican and the federal, that they continue to preserve cool heads and continue to discuss seriously the most practical division of competence in the state administration. It is not after all a question of carving out the maximum powers, but to ensure that our political and economic system effectively functions to the benefit of all.
+
+Finally I call upon Czechs, Slovaks, and members of all national minorities and ethnic groups to accept our federative state as their common task and common possession. Just as we feel ourselves to be members of our families, of our working associations, our parties, our churches and our nations, we should also feel ourselves to be citizens of this our common state, which arose from the extremely wise, spiritually, culturally, and historically valid, and, from the geopolitical point of view, actually inevitable decision of our predecessors. The twenty-eighth of October, 1918 is connected to the twenty-eighth of October, 1990 by thousands of meaningful threads, one of which is that about which I have spoken. On the twenty-eighth of October 1918, the Czechoslovak state entered into life. The twenty-eighth of October, 1990, sets over this state the question whether it will die through our fault, or whether its life will instead achieve its second wind.
+
+I believe that it will reach its second wind. I believe that we will pass the test our statehood is currently undergoing. I believe that our reason, sense of unity and constancy, our responsibility, culture and instinct for self-preservation will win out, and that we will disappoint all those who doubt our capability to preserve the integrity of the common state, to bear responsibility for the obligations which it has undertaken, and in general our ability to govern our own affairs.

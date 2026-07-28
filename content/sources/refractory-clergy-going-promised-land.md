@@ -26,3 +26,8 @@ how_to_cite: |
 ---
 
 Many refractory clergy left France to join other detractors, as this print shows, or wishfully encourages. However, this is an ambiguous image, which leaves open the possibility that rather than joining foreign monarchies, the clergy are crossing the river leading to Hell.
+
+## Transcription
+
+**Title in French**  
+Les Refractaires allant a la terre promise

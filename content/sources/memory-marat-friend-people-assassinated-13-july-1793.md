@@ -22,3 +22,8 @@ how_to_cite: |
 ---
 
 A leading voice on behalf of greater popular participation and social policies that would benefit the poor, the journalist Jean–Paul Marat used his radical newspaper the Friend of the People to criticize moderation.
+
+## Transcription
+
+**Title in French**  
+A la mémoire de Marat L'ami du Peuple, assassiné le 13 Juillet 1793

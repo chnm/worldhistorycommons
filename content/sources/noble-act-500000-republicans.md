@@ -24,3 +24,11 @@ how_to_cite: |
 ---
 
 The revolutionary wars, which would continue in one form or another until Napoleon’s defeat in 1815, were different from other conflicts in early modern Europe. In this struggle that emerged in 1792, both sides thought they were fighting for different ideas of governance and society: political democracy versus traditional hierarchy. When England and France had fought before 1789, they might have also clashed over political ideas, but it was clearly a war between dynasties over economics and geographical assets. The one other struggle that could have such varying ideals concerned religion. This image promoted the French as republicans, fighting for a constitution. Note that the constitution is presented as two tablets, as in many renditions of the Ten Commandments. The opponents are described as slaves.
+
+## Translation
+
+Title in French  
+Beau mouvement de cinq cent mille Républicains
+
+Caption in French  
+Bataillon Sacré composé de 500.000 Républicains deffendant notre Constitution contre les esclaves de tous les tyrans coalisés

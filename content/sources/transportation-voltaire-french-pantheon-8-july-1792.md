@@ -22,3 +22,8 @@ how_to_cite: |
 ---
 
 Although Voltaire’s contribution to the Revolution has been much debated, the revolutionaries themselves had absolutely no doubt of his significance. After 1789 he was much in vogue, in that his plays were often performed and other artists lionized him in various ways. One of the highlights of this glorification was the transfer of his remains (he had died in 1778) from the countryside to the Panthéon in Paris, where heroes of the Revolution were to be interred. This ceremony, which celebrated the noted anti–cleric, was part of the revolutionary campaign against the traditional Catholic Church.
+
+## Transcription
+
+**Title in French**  
+Translation de Voltaire au Panthéon français le 8 Juillet 1792

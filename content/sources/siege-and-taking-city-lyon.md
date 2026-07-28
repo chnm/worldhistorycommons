@@ -23,3 +23,8 @@ how_to_cite: |
 ---
 
 In September 1793, in response to the unwillingness of the municipal government of Lyon to enforce the legislature’s laws, the Republic sent the deputies and Committee of Public Safety members Georges Couthon and Jean–Marie Collot d’Herbois with a republican army to lay siege to the city and destroy all elements of "counterrevolution." The city surrendered on 9 October. Couthon, Collot, and local sans–culottes wrought a terrible vengeance, with some 209 persons being arrested, tried, and executed in the next two months. Numerous private homes and public buildings were razed. The revolutionaries renamed the city ville affranchie [Freed City], to represent the elimination of the poison of counterrevolution.
+
+## Translation
+
+Title in French  
+Siége et prise de la Ville de Lyon : le 9 Octobre 1793, ou 17 Vendemiaire An 2.e de la République

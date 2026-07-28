@@ -26,3 +26,8 @@ how_to_cite: |
 This image, part of a series produced to show the most important events of the Revolution, focuses on 4 and 5 August 1789, when the system of privileges came to an end. This legal structure, characteristic of the old regime, guaranteed different rights for different people. Most obviously, nobles had advantages over commoners, but the system was a far more general phenomenon that encompassed guilds, cities, and regions. Almost, everyone participated in this system, but grievances were most obviously directed against the nobility. In destroying privilege, the National Assembly meant to set up a new system, in which every individual was equal before the law.
 
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) source collection.
+
+## Transcription
+
+**Title in French**  
+Assemblée Nationale abandon de tous les privilèges, à Versailles, séance de la nuit du 4 au 5 aout 1789

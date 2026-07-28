@@ -28,3 +28,11 @@ how_to_cite: |
 ---
 
 From Berthault’s series of great moments in the Revolution, this engraving presents a version of events on 6 October 1789 favorable to the King. Reminiscent of orderly ceremonial royal appearances, this image suggests that the outcome stemmed from the King’s own will and that his heroic intervention prevented the massed National Guard units from firing.
+
+## Transcription
+
+**Title in French**  
+Le Roi promettant de venir à Paris avec sa famille
+
+**Caption in French**  
+salve d'artillerie devant le Château de Versailles, le 6 octobre 1789

@@ -70,6 +70,21 @@ Reports default to `utils/content_parity.json` and
 `utils/content_parity.csv`. They are working audit artifacts and are ignored by
 Git. Promote confirmed discrepancies into tracked issues or content fixes.
 
+## Restore source sections
+
+Use the parity report to idempotently restore populated Drupal `Text`,
+`Transcription`, and `Translation` sections:
+
+```bash
+just scrape-source-sections --report ../utils/content_parity.json --dry-run
+just scrape-source-sections --report ../utils/content_parity.json
+```
+
+Existing sections with the same label are refreshed from Drupal, missing
+sections are appended in Drupal order, and unrelated or local-only headings are
+preserved. Empty Drupal section panels are reported as upstream gaps rather
+than rendered as blank Hugo accordions.
+
 ## Interpreting results
 
 The auditor is deliberately conservative. A text mismatch may be typographic,

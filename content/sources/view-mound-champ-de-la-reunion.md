@@ -22,3 +22,10 @@ how_to_cite: |
 ---
 
 In this watercolor of the Festival of the Supreme Being, we see a procession that includes a woman wearing a Phrygian cap paraded past a statue of Hercules holding two smaller statues of Liberty and Equality, towards a Liberty tree, atop the hill. In the foreground, a patriotic woman explains the meaning of the spectacle to her young son, an allegory of the didactic intent of the entire festival.
+
+## Translation
+
+Title (French)  
+Vue de la montagne elevée au Champ de la Reunion  
+Caption  
+pour la fête qui y a été célebrée en l'honneur de l'Etre Suprême le Decadi 20 Prairial de l'an 2.me de la Republique Française

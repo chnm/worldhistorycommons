@@ -27,3 +27,8 @@ how_to_cite: |
 ---
 
 This Dutch engraving, based on a sketch by Berthault, shows Robespierre laid out on the table where his Committee of Public Safety did its work. It is the morning of 10 Thermidor and having been condemned to death by the Convention the night before, Robespierre and his followers now face their demise, as soldiers come to take them to the guillotine.
+
+## Transcription
+
+**Title in French**  
+Robespierre overgebragt in de vóórzaal van het Committé van Algemeen Welzijn

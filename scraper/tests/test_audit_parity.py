@@ -232,6 +232,34 @@ class SnapshotTests(unittest.TestCase):
             )
         )
 
+    def test_empty_drupal_source_section_is_an_upstream_gap(self):
+        drupal_html = SOURCE_DRUPAL.replace(
+            "<p>Translated text.</p>",
+            "",
+        )
+        hugo_html = SOURCE_HUGO_MISSING_TRANSLATION
+        findings = compare_snapshots(
+            parse_snapshot(drupal_html, "/example", "source"),
+            parse_snapshot(hugo_html, "/example", "source"),
+            Target("/example", "source", "text"),
+        )
+        self.assertFalse(
+            any(
+                finding.classification == "migration_loss"
+                and finding.field == "section_names"
+                and "Translation" in finding.drupal
+                for finding in findings
+            )
+        )
+        self.assertTrue(
+            any(
+                finding.classification == "upstream_gap"
+                and finding.field == "empty_source_sections"
+                and finding.drupal == ["Translation"]
+                for finding in findings
+            )
+        )
+
 
 class CsvDiscoveryTests(unittest.TestCase):
     def test_csv_dev_urls_resolve_to_local_content_metadata(self):

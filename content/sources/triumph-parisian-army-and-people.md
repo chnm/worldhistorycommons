@@ -27,3 +27,8 @@ how_to_cite: |
 ---
 
 Returning home from the October march to Versailles, the women and the guardsmen display the heads of troops who confronted the marchers. Note the use of tree branches, symbolizing support for the revolution here as in other prints.
+
+## Transcription
+
+**Title in French**  
+Triomphe de l'Armée Parisienne réunis au Peuple a son retour de Versailles à Paris le 6 Octobre 1789

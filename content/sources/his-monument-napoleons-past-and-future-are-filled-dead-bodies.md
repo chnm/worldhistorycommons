@@ -23,3 +23,8 @@ how_to_cite: |
 This Janus–like figuration of Napoleon haunts the viewer as it suggests a future filled with skulls. Indeed, the unprecedented deaths from war and conquest of the last two centuries make this image seem predictive.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Transcription
+
+**Title in French**  
+Blicke in die Vergangenheit und Zukunft beim Anfang des Jahres 1814

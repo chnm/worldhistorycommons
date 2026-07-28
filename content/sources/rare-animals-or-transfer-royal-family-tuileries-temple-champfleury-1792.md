@@ -21,3 +21,8 @@ how_to_cite: |
 ---
 
 Here the events of 10 August were expressed by reducing the royal family to animals. Driven from their palace to prison, the family became no more than a group of barnyard animals. Contrast these common four–footed animals with the erect revolutionary whipping them along.
+
+## Translation
+
+Title in French  
+Les Animaux rares : ou la translation de la ménagerie royale au Temple, le 20 aoust 1792, 4.me de la liberté et 1.er de l'égalité

@@ -28,3 +28,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 ## Text
 
 It was not merely a question of one citizen avoiding another, and of people almost invariably neglecting their neighbours and rarely or never visiting their relatives, addressing them only from a distance; this scourge had implanted so great a terror in the hearts of men and women that brothers abandoned brothers, uncles their nephews, sisters their brothers, and in many cases wives deserted their husbands. But even worse, and almost incredible was the fact that fathers and mothers refused to nurse and assist their own children, as though they did not belong to them.
+
+## Translation
+
+[Original in Italian]  
+E lasciamo stare che l'uno cittadino l'altro schifasse e quasi niuno vicino avesse dell'altro cura e i parenti insieme rade volte o non mai si visitassero e di lontano: era con sí fatto spavento questa tribulazione entrata ne' petti degli uomini e delle donne, che l'un fratello l'altro abbandonava e il zio il nepote e la sorella il fratello e spesse volte la donna il suo marito; e, che maggior cosa è e quasi non credibile, li padri e lemadri i figliuoli, quasi loro non fossero, di visitare e di servire schifavano.

@@ -22,3 +22,8 @@ how_to_cite: |
 ---
 
 Equestrian skills were expected of a monarch. But portraying the King mounted on a pig was most unflattering. Linking royalty to animals was a theme that emerged after the flight to Varennes.
+
+## Transcription
+
+Title in French  
+Les Deux font la paire

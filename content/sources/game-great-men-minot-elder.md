@@ -23,3 +23,8 @@ how_to_cite: |
 ---
 
 Revolutionaries redesigned playing cards in order to eliminate references to royalty (kings, queens, jacks) and replace them with great men and abstract virtues.
+
+## Transcription
+
+**Title in French**  
+Cartes de jeux révolutionnaires

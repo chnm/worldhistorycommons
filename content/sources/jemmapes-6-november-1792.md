@@ -24,3 +24,8 @@ how_to_cite: |
 ---
 
 This engraving of the battle of Jemappes, preromantic in its composition and style, depicts a group of French citizen–soldiers bravely risking themselves under the banner of liberty and overcoming all foes in marching to victory—a motif that would become common in the nineteenth century.
+
+## Translation
+
+Title in French  
+Jemmapes, 6 Novembre 1792

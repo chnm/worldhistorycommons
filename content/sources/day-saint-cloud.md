@@ -27,3 +27,8 @@ how_to_cite: |
 The problems of the revolutionary government had so intensified that the two leaders, Abbé Sieyès and Roger Ducos, plotted to overthrow it with the help of the most famous military man of the day. But the legislative body, particularly the lower house, proved resistant. Napoleon needed the help of his younger brother Lucien to rally the troops and erase the opposition.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Translation
+
+Title (French)  
+Journée de Saint-Cloud, le 18 [i.e. 19] Brumaire, an 8, (9 [i.e. 10] Novembre 1799)

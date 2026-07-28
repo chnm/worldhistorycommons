@@ -20,3 +20,11 @@ how_to_cite: |
 ---
 
 In this rendition of an incident from the Vendée rebellion, an ordinary woman is shown standing up to the rebels. It comes from a series of heroic images of the Revolution and shows that women could be heroines for the Republic.
+
+## Transcription
+
+[Caption]
+
+Brigands of the Vendee, having become masters of Saint-Mithier, entered a house to exercise their villainy; they were surprised to find a woman surrounded by her children, sitting quietly in her shop near a barrel of powder, holding two pistols in her hand, in the firm resolve to blow up her house and all her family, rather than to fall into the hands of these madmen. His courage and his masculine countenance impofed them, and his asylum was respected. At the Cit. Pézard, M. [Archan] d of Prints, Jacques Street no. 64 in Paris. And at the Cit. Cazenave, engraver, same street no. 13.
+
+Some brigands from the Vendee, having made themselves masters of St. Mithier, entered a house to exercise their wickedness; They are happy to meet a woman in her home, and she is in the business of having a good relationship with the family. Her courage and manly countenance impressed them, and her sanctuary was respected. . . .

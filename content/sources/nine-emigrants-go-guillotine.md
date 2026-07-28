@@ -21,3 +21,11 @@ how_to_cite: |
 ---
 
 In a woodcut that appeared in Révolutions de Paris, the guillotine is used before a crowd of soldiers and patriotic onlookers, to execute nine "émigrés" who had tried to fell France and thus demonstrated themselves to be traitors.
+
+## Translation
+
+Title in French  
+Neuf émigrés à la guillotine
+
+Caption in French  
+Neuf émigrés ayant été pris les armes à la main furent amenés à Paris, jugés par un conseil de guerre et exécutés sur la place de Grêve, le plus âgé n'avait pas 30 ans

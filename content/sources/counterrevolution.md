@@ -25,3 +25,8 @@ how_to_cite: |
 ---
 
 This cartoon mocks all the leading figures of the "Counterrevolution," including the former royal family and its blood relatives, plus the clergy, the nobility, and specific individuals, such as Mirabeau, who had supported the monarchy in the early years of the Revolution. In this cartoon, the comical counterrevolutionary parade poses no real threat to the impregnable republic at the extreme left.
+
+## Translation
+
+Title in French  
+La Contre Révolution

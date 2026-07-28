@@ -22,3 +22,11 @@ how_to_cite: |
 ---
 
 On 6–7 December 1793, Jean–Baptiste Carrier, a deputy sent by the Convention to suppress the insurrection at Nantes, accepted, if he did not in fact welcome, a measure proposed by the local Revolutionary Tribunal to fill seven boats with an estimated 200–300 prisoners (not all of them yet convicted) and sink them in the Loire River. Some accounts reported that the victims had their hands tied, but, if they managed to free them, troops in boats were there to hack off their arms. This gruesome massacre, which symbolized the excesses of the Terror for many, is depicted in this engraving by Berthault as one of the "great moments" of the Revolution.
+
+## Translation
+
+Title in French  
+Noyades dans la Loire, par ordre du féroce Carrier
+
+Caption in French  
+les 6 et 7 décembre 1793, ou 5 et 6 frimaire an 2.eme de la République

@@ -25,3 +25,35 @@ how_to_cite: |
 A hymn written by Joseph Gossec to celebrate national unity on the first anniversary of the taking of the Bastille. Combining old and new, Gossec set a traditional Latin text to music scored for wind instruments (rather than the common organ), the sound of which carried well at the outdoor festival.
 
 This source is a part of the [*Songs of the Revolution*](https://worldhistorycommons.org/source-collection-songs-revolution) source collection.
+
+## Transcription
+
+Te Deum pour la fédération du 14 juillet 1790, au Champ de Mars.  
+Te Deum laudamus:  
+te Dominum confitemur.  
+Te aeternum Patrem  
+omnis terra veneratur.
+
+Tibi Cherubim et Seraphim  
+incessabili voce proclamant.
+
+Sanctus, Sanctus, Sanctus,  
+Dominus Deus Sabaoth.  
+Pleni sunt caeli et terra  
+maiestatis gloriae tuae.
+
+## Translation
+
+Te Deum for the Federation of 14 July 1790 at the Champs de Mars  
+We praise you, O God,  
+We confess you as our Lord.  
+All the earth worships you  
+As eternal father.
+
+The Cherumbim and Seraphim  
+Ceaselessly proclaim You.
+
+Holy, holy, holy,  
+Lord God of Hosts.  
+Heaven and earth are full  
+Of the Glory of Your Majesty.

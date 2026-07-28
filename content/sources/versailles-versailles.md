@@ -26,3 +26,8 @@ how_to_cite: |
 ---
 
 The women who arrived, though lightly armed, were no shrinking violets. They insisted that the royal family return to Paris where, in fact, they would find themselves under virtual house arrest.
+
+## Transcription
+
+**Title in French**  
+A Versailles, à Versailles le 5 Octobre 1789

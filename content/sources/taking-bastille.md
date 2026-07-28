@@ -21,3 +21,8 @@ how_to_cite: |
 ---
 
 This color print emphasizes the populace’s participation in the storming of the Bastille, showing the urban population fighting under a red banner with muskets, swords, and pikes against the royal soldiers. Stunning images such as these—as well as dramatic press reports—contributed to what has become the widespread view that the taking of the Bastille was a spontaneous, brave, and widely popular revolt against royal authority.
+
+## Transcription
+
+**Title in French**  
+Prise de la Bastille

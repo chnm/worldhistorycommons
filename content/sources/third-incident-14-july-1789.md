@@ -24,3 +24,8 @@ how_to_cite: |
 ---
 
 This engraving from the Berthault series depicts Stanislas Maillard bravely climbing on a plank over the dry moat surrounding the fortress to accept from one of the soldiers Launay’s "capitulation" of the Bastille.
+
+## Transcription
+
+**Title in French**  
+3.E evénement du 14 juillet 1789 : le brave Maillard va chercher sur une planche suspendue au-dessus du fossé de la Bastille, les propositions des assiégés.

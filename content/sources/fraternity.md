@@ -23,3 +23,8 @@ how_to_cite: |
 ---
 
 Using a woman to represent "Fraternity" seems ironic at best, although theoretically the term might mean the community of humanity. In actuality, when the revolutionaries considered "community," they certainly thought of men far more than women. The period saw women take advantage of opportunities presented to them, but outright champions of this kind of inclusive community were few. What might the revolutionaries have meant, then, by their reliance on the female form? One might hypothesize that in a revolution that feared the bold action of crowds, construing fraternity in this fashion softened and lessened such concerns.
+
+## Transcription
+
+**Title in French**  
+La Fraternité

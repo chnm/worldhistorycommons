@@ -29,3 +29,7 @@ This source is a part of the [*Humor as Resistance*](https://worldhistorycommons
 ## Text
 
 Erich Honecker and Erich Mielke sprechen über ihre Hobbys. Honecker: „Ich sammle alle Witze, die über mich im Umlauf sind." Mielke: „Mensch Erich, da haben wir ja fast dasselbe Hobby. Ich sammle nämlich alle, die sie in Umlauf bringen."
+
+## Translation
+
+Erich Honecker and Erich Mielke were talking about their hobbies. Honecker said, "I collect all the jokes about me that are going around." Mielke replied, "Man, Erich, we have practically the same hobby! I collect the people who are telling the jokes!"

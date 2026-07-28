@@ -21,3 +21,8 @@ how_to_cite: |
 ---
 
 This engraving reveals the aftermath of the seizure of the Bastille. Here the crowd parades the severed head of the official, Foulon.
+
+## Transcription
+
+**Title in French**  
+Supplice du Sieur Foulon

@@ -26,3 +26,15 @@ how_to_cite: |
 ---
 
 This engraving marks success and reconciliation among revolutionaries, as men and women, as well as soldiers and civilians, relax together.
+
+## Transcription
+
+**Title in French**  
+Journée mémorable de Versailles : le lundi 5 octobre 1789
+
+**Caption**  
+Nos Modernes Amazones glorieuses de leurs Victoires revinrent à Cheval sur les Canons, avec plusieurs Messieurs de la Garde Nationale, tenant des branches de Peupliers au bruit des cris réitérés de Vive la Nation, Vive le Roi.
+
+## Translation
+
+Our modern Amazons, glorious for their victories, return on horse and upon cannons, with several good men of the National Guard, holding poplar branches to the repeated cries of “Vive la Nation, vive le Roi!”

@@ -98,3 +98,77 @@ Os roerá el alma
 vuestra propia miseria.  
 Y callaréis,  
 avergonzados de vosotros.
+
+## Translation
+
+One day  
+the apolitical  
+intellectuals  
+of my country  
+will be interrogated  
+by the simplest  
+of our people.
+
+They will be asked  
+what they did  
+when their nation died out  
+slowly,  
+like a sweet fire  
+small and alone.
+
+No one will ask them  
+about their dress,  
+their long siestas  
+after lunch,  
+no one will want to know  
+about their sterile combats  
+with "the idea  
+of the nothing"  
+no one will care about  
+their higher financial learning.
+
+They won't be questioned  
+on Greek mythology,  
+or regarding their self-disgust  
+when someone within them  
+begins to die  
+the coward's death.
+
+They'll be asked nothing  
+about their absurd  
+justifications,  
+born in the shadow  
+of the total lie.
+
+On that day  
+the simple men will come.
+
+Those who had no place  
+in the books and poems  
+of the apolitical intellectuals,  
+but daily delivered  
+their bread and milk,  
+their tortillas and eggs,  
+those who drove their cars,  
+who cared for their dogs and gardens  
+and worked for them,  
+and they'll ask:
+
+"What did you do when the poor  
+suffered, when tenderness  
+and life  
+burned out of them?"
+
+Apolitical intellectuals  
+of my sweet country,  
+you will not be able to answer.
+
+A vulture of silence  
+will eat your gut.
+
+Your own misery  
+will pick at your soul.
+
+And you will be mute in your shame.
+
+Translated by Margaret Randall.

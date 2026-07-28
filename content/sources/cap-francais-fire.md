@@ -22,3 +22,8 @@ how_to_cite: |
 ---
 
 In June 1793, the French governor of Saint Domingue, Thomas–François Galbaud, tried to raise a revolt of the whites against republican commissioners sent from France. To defeat him, the commissioners promised freedom to the slaves who would fight on their behalf. Thousands of whites fled the northern town, which nearly burned to the ground. This incident marked the end of white domination of the island and the beginning of slave emancipation.
+
+## Translation
+
+Title (French)  
+Incendie du Cap Français

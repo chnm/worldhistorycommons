@@ -43,3 +43,12 @@ A total of 11 mercenaries signed the judicial documents at Amboyna although some
 * Sacoube, age 40, born in Hirado (作兵衛)
 
 We don't have the original signatures but rather a copy made by a Dutch scribe in the immediate aftermath of the incident. Although decipherable, it is clear that the Dutch scribe struggled to reproduce the complex Chinese characters for 七蔵 (Shichizo) and other recruits. The scribe was clearly far more comfortable with Sidney Migiell’s signature, a sweeping, self-confident, Europeanized scrawl that looks similar to the extravagant signatures used by VOC officials. These signatures are interesting because they show the very different backgrounds of some of these soldiers. For example, Sidney Migiell was likely a Christian convert while Thomas Corea, although listed as Japanese, was probably a Korean captive brought to Japan in the aftermath of Hideyoshi's invasion.
+
+## Translation
+
+Here are four representative signatures:
+
+* Sidney Migiell, age 23, born in Nagasaki
+* Hytieso, age 24, born in Hirado (七蔵)
+* Peter Congi, age 31, born in Nagasaki
+* Quiendayo, age 32, born in Karatsu (久太夫)

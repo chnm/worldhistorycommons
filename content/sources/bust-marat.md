@@ -21,3 +21,8 @@ how_to_cite: |
 ---
 
 After Marat’s death, his defenders glamorized him, forgetting both his physical deformities and his vitriolic calls for more and more heads. One common approach was to give him secular sainthood (a halo in this image) incongruous for someone with so little patience with the church.
+
+## Transcription
+
+**Title in French**  
+Marat, l'ami du peuple

@@ -26,3 +26,8 @@ how_to_cite: |
 ---
 
 The women in this image appear to be tempted to a life of prostitution. The female figure in the left foreground gestures toward the door but remains modestly attired. Once inside, the women are there for the pleasure of men and wear revealing or little clothing. The contrast in this moralistic image also reveals how differently contemporaries could depict "real" women from allegorical ones. The engraving reflected a vision of life during the Thermidorian reaction and the Directory (1795–99).
+
+## Transcription
+
+**Title in French**  
+Garde à vous N.o 1 ou le Sérail en Boutique

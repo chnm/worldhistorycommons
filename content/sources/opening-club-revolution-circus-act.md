@@ -23,3 +23,8 @@ how_to_cite: |
 ---
 
 This engraving depicts a revolutionary club as a circus act complete with dancing dogs and clowns, all celebrating "the law and the King." This image might have been visual propaganda on behalf of clubs, suggesting that they could bring different people together under a big tent, in support of the constitutional monarchy, or it might have been visual farce, suggesting that the clubs and the constitutional monarchy were nothing but a sideshow.
+
+## Transcription
+
+**Title in French**  
+Ouverture du Club de la Révolution

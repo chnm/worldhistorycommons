@@ -25,3 +25,8 @@ how_to_cite: |
 ---
 
 When the revolutionaries, led by thousands of women, marched to Versailles, they triumphantly seized and then brought the king to Paris, where he would live in the midst of his people. Here this image attempts to maintain a perception of royal pomp and grandeur, ignoring the reality that the king was forced against his will. Still few could fully foresee the ultimate changes underway –– that the king had lost much of his sacred aura and was now headed toward an uncertain future.
+
+## Transcription
+
+**Title in French**  
+Arrivée du Roi et de la famille royale à Paris, le 6 octobre 1789

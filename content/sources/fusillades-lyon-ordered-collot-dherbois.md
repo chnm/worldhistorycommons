@@ -22,3 +22,11 @@ how_to_cite: |
 ---
 
 Lyon’s rebellion against the central government in September 1793 had terrible repercussions that seemed only to worsen with the initiation of collective trials and immediate executions by firing squad. The one depicted here on 4 December 1793 took the lives of 935 people, another 732 being guillotined over the next four months.
+
+## Translation
+
+Title in French  
+Fusillades de Lyon, commandées par Collot-d'Herbois
+
+Caption in French  
+le 14 Décembre 1793, ou 24 Frimaire An 2.eme de la République

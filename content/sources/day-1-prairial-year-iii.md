@@ -28,3 +28,11 @@ how_to_cite: |
 ---
 
 Men and women threaten the deputies on 20 May 1795. They demand "Bread and the Constitution of 1793." This day marked one of the last interventions of ordinary women into national politics.
+
+## Transcription
+
+**Title in French**  
+Journée du 1er Prairial de l’an IIIe
+
+**Caption**  
+Ferraud, Représentant du Peuple assassiné dans la Convention Nationale. Paris chez l’Auteur, Rue Honoré

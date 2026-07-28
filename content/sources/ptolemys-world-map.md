@@ -29,3 +29,7 @@ Claudius Ptolemy lived in the city of Alexandria in Egypt from about 100 to 170 
 *Geographia* had been translated into Arabic in the 9th century and then into Latin in 1407. The book re-introduced important mapmaking concepts to European scholars including an emphasis on mathematics and accurate measurements. Previously maps would depict various countries' sizes based on their importance rather than geographic area. Many of Ptolemy's calculations were later proved to be incorrect, but later mapmakers similarly strived for accurate depictions of geographic space.
 
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
+
+## Translation
+
+Ptolemy's original map (c. 150) was translated into Latin from Greek in 1407.

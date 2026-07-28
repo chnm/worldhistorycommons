@@ -4,15 +4,14 @@
   <h1>{{ .Title }}</h1>
 </div>
 
-{{/* Split content into annotation (before ## Text) and source text (after ## Text) */}}
+{{/* Split annotation from distinct source Text/Transcription/Translation sections. */}}
 {{ $raw := .RawContent }}
-{{ $annotation := $raw }}
-{{ $sourceText := "" }}
-{{ $parts := split $raw "\n## Text\n" }}
-{{ if gt (len $parts) 1 }}
-  {{ $annotation = index $parts 0 }}
-  {{ $sourceText = index $parts 1 }}
-{{ end }}
+{{ $marker := "@@WHC_SOURCE_SECTION@@" }}
+{{ $sectioned := replace $raw "\n## Text\n" (printf "\n%sText\n" $marker) }}
+{{ $sectioned = replace $sectioned "\n## Transcription\n" (printf "\n%sTranscription\n" $marker) }}
+{{ $sectioned = replace $sectioned "\n## Translation\n" (printf "\n%sTranslation\n" $marker) }}
+{{ $parts := split $sectioned $marker }}
+{{ $annotation := index $parts 0 }}
 
 <div class="two-cols">
   <div>
@@ -45,11 +44,16 @@
   {{ end }}
 
   <div class="content-details">
-    {{ if $sourceText }}
+    {{ range after 1 $parts }}
+    {{ $lines := split . "\n" }}
+    {{ $label := index $lines 0 }}
+    {{ $sectionBody := delimit (after 1 $lines) "\n" }}
+    {{ if and (in (slice "Text" "Transcription" "Translation") $label) $sectionBody }}
     <details>
-      <summary><h3>Text</h3></summary>
-      <div class="well--data"><div>{{ $sourceText | markdownify }}</div></div>
+      <summary><h3>{{ $label }}</h3></summary>
+      <div class="well--data"><div>{{ $sectionBody | markdownify }}</div></div>
     </details>
+    {{ end }}
     {{ end }}
 
     {{ with .Params.credits }}

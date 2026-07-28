@@ -209,13 +209,22 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
 
     # Credits
     credits = ""
+    source_sections = []
     for detail in soup.select("div.content-details details"):
         summary = detail.select_one("summary h3")
-        if summary and "Credits" in summary.get_text():
-            well = detail.select_one("div.well--data")
-            if well:
+        if not summary:
+            continue
+        section_name = summary.get_text(" ", strip=True)
+        well = detail.select_one("div.well--data")
+        if section_name == "Credits":
+            if well and not credits:
                 credits = html_to_markdown(well)
-            break
+        elif section_name in {"Text", "Transcription", "Translation"} and well:
+            section_content = html_to_markdown(well)
+            if section_content:
+                source_sections.append(
+                    {"label": section_name, "content": section_content}
+                )
 
     # How to cite
     cite_span = soup.select_one("div.citation span")
@@ -231,6 +240,7 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
         "annotation": annotation,
         "citation": citation,
         "credits": credits,
+        "source_sections": source_sections,
         "how_to_cite": how_to_cite,
         "tags": tags,
         "node_id": node_id,
@@ -379,6 +389,11 @@ how_to_cite: {yaml_escape(data.get('how_to_cite', ''))}
 
 {data.get('annotation', '')}
 """
+    for section in data.get("source_sections", []):
+        fm += (
+            f"\n## {section['label']}\n\n"
+            f"{section['content'].strip()}\n"
+        )
     filepath.write_text(fm)
 
 

@@ -23,3 +23,8 @@ how_to_cite: |
 The reversal of circumstances that German cartoonists emphasized seemed generally to exercise considerable sway over this use of symbols. Here, Napoleon, who strode so large over Europe, is bottled and examined. Obsessed with his small stature, Napoleon might have been particularly displeased with this image.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Transcription
+
+**Title in French**   
+Das Carthesianische Teufelchen

@@ -576,23 +576,51 @@ def compare_snapshots(
 
     drupal_sections = {normalize_space(key): value for key, value in drupal.sections.items()}
     hugo_sections = {normalize_space(key): value for key, value in hugo.sections.items()}
+    drupal_populated_sections = {
+        key: value for key, value in drupal_sections.items() if normalize_text(value)
+    }
+    hugo_populated_sections = {
+        key: value for key, value in hugo_sections.items() if normalize_text(value)
+    }
     add_collection_findings(
-        findings, "section_names", drupal_sections, hugo_sections
+        findings,
+        "section_names",
+        drupal_populated_sections,
+        hugo_populated_sections,
     )
-    for section_name in sorted(drupal_sections.keys() & hugo_sections.keys()):
+    for section_name in sorted(
+        drupal_populated_sections.keys() & hugo_populated_sections.keys()
+    ):
         add_scalar_finding(
             findings,
             f"sections.{section_name}",
-            drupal_sections[section_name],
-            hugo_sections[section_name],
+            drupal_populated_sections[section_name],
+            hugo_populated_sections[section_name],
         )
     add_scalar_finding(
         findings, "how_to_cite", drupal.how_to_cite, hugo.how_to_cite
     )
 
     drupal_text_sections = {
-        key.lower() for key in drupal_sections if key.lower() in SOURCE_TEXT_SECTIONS
+        key.lower()
+        for key in drupal_populated_sections
+        if key.lower() in SOURCE_TEXT_SECTIONS
     }
+    empty_drupal_source_sections = sorted(
+        key
+        for key, value in drupal_sections.items()
+        if key.lower() in SOURCE_TEXT_SECTIONS and not normalize_text(value)
+    )
+    if target.kind == "source" and empty_drupal_source_sections:
+        findings.append(
+            Finding(
+                "upstream_gap",
+                "empty_source_sections",
+                "Drupal renders source-section headings without content",
+                empty_drupal_source_sections,
+                "",
+            )
+        )
     if (
         target.kind == "source"
         and target.source_type == "text"

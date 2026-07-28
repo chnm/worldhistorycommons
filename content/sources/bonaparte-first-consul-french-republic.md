@@ -21,3 +21,8 @@ how_to_cite: |
 From the beginning it was clear that Napoleon’s political support was closely tied to his fortunes in war. This engraving celebrates the victory over the Austrians at the battle of Marengo in Italy, June 1800. In fact, he almost lost this battle, but government propaganda rarely mentioned any such problems. Both in this image here and in the written report, it is described as a major victory.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Translation
+
+Title (French)  
+Bonaparte, premier Consul de la Republique française, le 18 brumaire an VIII

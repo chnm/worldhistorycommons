@@ -20,3 +20,7 @@ how_to_cite: |
 ---
 
 Female revolutionary figures stood for all kinds of qualities and virtues, in this case, "Truth." Women figures appeared so prominently in paintings and engravings because French nouns for the qualities and virtues were usually feminine (Truth = La Vérité). In other words, paintings such as this one did not represent real women; they used allegorical figures to make a more abstract point.
+
+## Transcription
+
+**La Verite amene La Republique et L'Abondance**

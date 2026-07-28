@@ -25,3 +25,8 @@ how_to_cite: |
 ---
 
 Cartoons attacked the refractory clergy. Here, fat, overfed, and underworked clergy are squeezed down to an appropriate size. As elsewhere, visual images mocked the clergy by depicting them as subject to the threats and physical attacks of others.
+
+## Transcription
+
+**Title in French**  
+Le Degraisseur patriote : patience, Monsieur, votre tour viendra. Le Pressoir. Il ni a plus de remede

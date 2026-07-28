@@ -26,3 +26,11 @@ how_to_cite: |
 ---
 
 This engraving focuses on expurgating the clergy, this time with vomiting as the intended method. Here, the cleric spits up the unfair advantages enjoyed in the old regime.
+
+## Transcription
+
+**Title in French**  
+Le Grand mal de coeur de Monseigneur
+
+**Caption**  
+Courage Mrg vous allé vous purgée de chose bien utile pour votre salut

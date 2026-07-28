@@ -22,3 +22,8 @@ how_to_cite: |
 ---
 
 Louis quickly became a matyr to the royalist cause, as this and other memorials indicate.
+
+## Translation
+
+Title in French  
+Louis XVI , dernier Roi des Français, né le 23 aoust 1754

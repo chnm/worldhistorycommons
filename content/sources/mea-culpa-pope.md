@@ -26,3 +26,8 @@ how_to_cite: |
 ---
 
 Although the revolutionaries long regarded the Pope as an enemy, their anger was stoked significantly by the papal decision to decree as unacceptable the Civil Constitution of the Clergy. This decision, hardly unexpected given the way that the revolutionary settlement upended church tradition and papal authority, apparently weighed heavily on Louis XVI. Some scholars believe it was this decision in Rome that turned the King down the path of no compromise.
+
+## Transcription
+
+**Title in French**  
+Le Meâ Culpâ du Pape

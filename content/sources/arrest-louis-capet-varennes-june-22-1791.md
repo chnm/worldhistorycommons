@@ -23,3 +23,8 @@ how_to_cite: |
 ---
 
 This print shows an angry crowd of fervent revolutionaries breaking down doors to arrest the King.
+
+## Transcription
+
+**Title in French**  
+Arrestation de Louis Capet à Varennes, le 22 Juin 1791

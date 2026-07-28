@@ -24,3 +24,8 @@ how_to_cite: |
 ---
 
 This hand–tinted engraving depicts the storming of the Tuileries Palace by what appear to be small groups of well–organized soldiers of the Marseilles National Guard. The positive image of the sans–culottes is reinforced by commentaries that attribute their action to the "despotism" of Louis XVI and the "treason" of his agents against France.
+
+## Transcription
+
+**Title in French**  
+Siege du chateau des Tuilleries

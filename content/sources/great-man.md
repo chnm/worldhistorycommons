@@ -23,3 +23,8 @@ how_to_cite: |
 German cartoonists tried to reduce Napoleon down to size, in this case, the size of mice! Here the mice serve as courtiers.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Transcription
+
+**Title in French**  
+Des grossen Mannes kleine Hofhaltung auf der Glückseligen Insel

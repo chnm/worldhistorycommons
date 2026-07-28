@@ -24,3 +24,8 @@ how_to_cite: |
 ---
 
 Critics of popular action first mastered the art of searing attacks and here sharpen their propaganda skills against this activist worker, who appears to be walking off with his "loot" after the locks have been broken.
+
+## Transcription
+
+**Title in French**  
+Président d'un Comité Révolutionnaire, après la levée d'un Scelé

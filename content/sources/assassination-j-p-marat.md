@@ -25,3 +25,8 @@ how_to_cite: |
 ---
 
 An arrested Corday is hustled out of the door, while the inquest begins. The expired Marat, ghastly pale, looks much more realistic than in the David rendition of his death. Also, the bath in the shape of a boot, which differs from most images, is apparently accurate.
+
+## Translation
+
+**Title in French**  
+Assassinat de J.P. Marat : le 13 Juillet 1793

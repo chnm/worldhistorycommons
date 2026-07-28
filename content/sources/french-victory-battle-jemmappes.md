@@ -24,3 +24,11 @@ how_to_cite: |
 ---
 
 This engraving first appeared in the newspaper Révolutions de Paris and shows the French General Charles–François Dumouriez entering the city of Mons after having led French forces to their first truly decisive victory of the war on 6 November 1792. According to the caption, this victory demonstrated to all of Europe that French forces, although having lost their traditional officer class through emigration, were nevertheless victorious because of their commitment to fighting for liberty.
+
+## Translation
+
+Title in French  
+Victoire des Français à la bataille de Gemmappe
+
+Caption in French  
+le 17 novembre 1792 le général Dumourier est entré à Mons après une bataille dont l'histoire ne fournit pas d'exemple. Les Français ont prouvé qu'ils sont dignes de combattre pour la liberté

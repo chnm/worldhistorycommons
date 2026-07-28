@@ -25,3 +25,8 @@ how_to_cite: |
 ---
 
 Of particular interest in this caricature of refractory clergy here are the long noses, traditionally used to caricature Jews, that suggest the refractory clergy were not of the people. This image shows resistant clergy marching in their last procession. The satyr at the rear with a coffin seems to threaten their very lives.
+
+## Transcription
+
+**Title in French**  
+Derniere procession constitutionelle pour l'enterrement du serment civique qui se fera le...1792

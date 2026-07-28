@@ -20,3 +20,8 @@ how_to_cite: |
 ---
 
 In this bicameral legislature, the smaller of the two councils (the Elders with 250 members) had to pass all the legislation, while the Five Hundred could initiate legislation. The revolutionaries decided on the division of authority. The directors functioned as the executive branch, in order to make less possible the consolidation of power, as in the Terror.
+
+## Translation
+
+Title (French)  
+Conseil des Cinq Cents

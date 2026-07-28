@@ -30,3 +30,8 @@ how_to_cite: |
 ---
 
 This fascinating print is modeled on Jacques–Louis David’s Oath of the Horatii. In that famous painting, the artist sought to exemplify patriotic virtue by showing an austere father making his sons swear to defend Roman honor. Here this image turns David’s idea on its head, as aristocrats seem to be in league to some nefarious end. The woman on the right, quite unlike the approving, if resigned, female in David, shows her revolutionary disapproval through a forlorn expression.
+
+## Transcription
+
+**Title in French**  
+Le serment des Voraces

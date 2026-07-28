@@ -23,3 +23,8 @@ how_to_cite: |
 The engraving celebrates the peace treaties of 1801 and 1802. The lack of perspective in this image reflects the vision that Napoleon wanted the French to have when they thought about his actions. Making peace proved to be one of Napoleon’s more popular decisions.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Translation
+
+Title (French)  
+Bonaparte Premier Consul Remettant l'Epée dans le Fourreau après la Paix Générale

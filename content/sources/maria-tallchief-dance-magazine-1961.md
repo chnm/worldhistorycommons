@@ -25,3 +25,11 @@ how_to_cite: |
 ---
 
 This 1961 *Dance Magazine* cover depicts a photograph of ballet dancers Maria Tallchief and Erik Bruhn. The magazine advertises for upcoming performances at the Kennedy Center. Tallchief is wearing the iconic Swan Lake costume as she dances the role of Odette. The image can be used as an entry point through which to study American Indian performing artists in the early-to-mid twentieth century. Tallchief, of the Osage Nation, grew up in Oklahoma and became one of the foremost ballet dancers of the twentieth century, obtaining both national and international recognition. Tallchief was one of five Indigenous American women who would become known as the Five Moons: Rosella Hightower (Choctaw), Moscelyne Larkin (Shawnee and Peoria), Yvonne Chouteau (Shawnee and Cherokee), and Marjorie Tallchief Osage). These ballet dancers, with Tallchief becoming the most recognizable figure, would go on to influence the art of ballet in the United States and around the world. Tallchief’s story, as well as the other Five moon dancers, helps showcase American Indian contributions to the traditionally European art of ballet.
+
+## Transcription
+
+7 Dance Magazine
+
+July 1961 75 Cents
+
+The Kennedys at the Ballet/ Baronova '61/ Summer Trent Musicals/ "The Music Man" on a Hollywood set/ Ballet Miracle in Brussels

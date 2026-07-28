@@ -29,3 +29,11 @@ how_to_cite: |
 ---
 
 Following his arrest, Louis and his family are returned to Paris. Large, silent crowds looked on disapprovingly.
+
+## Transcription
+
+**Title in French**  
+Retour de Varennes. Arrivée de Louis Capet à Paris
+
+**Caption**  
+le 25 juin 1791

@@ -21,3 +21,11 @@ how_to_cite: |
 ---
 
 The guillotine was first introduced as a humane, efficient, and above all modern form of execution in April 1792; during the radical phase of the Republic, it would become the symbol of the Terror. This engraving suggests the guillotine is providing "good support for liberty."
+
+## Transcription
+
+**Titile**  
+La Véritable guillotine ordinaere
+
+**Caption**  
+Ha, le bon soutien pour la liberté!

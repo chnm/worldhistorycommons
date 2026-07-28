@@ -21,3 +21,8 @@ how_to_cite: |
 In this celebration of national unity, the focus on 1789 is quite apparent. The Phrygian cap at the top of the decorations recalled the Revolution, as did the date for this celebration. Of course, both symbol and date had been used and appropriated repeatedly since 1789, but this is a clear reference to the 1789 event. A "Popular Front," leftist government was in control and saw its origins in the revolutionary tradition begun in the eighteenth century.
 
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) source collection.
+
+## Translation
+
+Title (French)  
+14 Juillet 1939. Fête de l'Unité nationale du Palais de Chaillot au Champ de Mars
