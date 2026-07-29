@@ -5,6 +5,7 @@ drupal_node_id: 1282
 source_type: "Text"
 url: /imperial-rescript-great-principles-education
 image: /images/Icons-Document_114.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

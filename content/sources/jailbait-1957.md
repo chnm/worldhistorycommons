@@ -5,6 +5,7 @@ drupal_node_id: 1221
 source_type: "Text"
 url: /jailbait-1957
 image: /images/Icons-Document_69.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

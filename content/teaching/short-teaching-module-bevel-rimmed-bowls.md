@@ -20,6 +20,8 @@ related_sources:
   - link: "/bevel-rimmed-bowl"
     image: "/images/Untitled_design.png"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Bevel-Rimmed Bowls," in World History Commons, https://worldhistorycommons.org/short-teaching-module-bevel-rimmed-bowls [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -62,9 +64,10 @@ For a survey of world cultures, the acceptance of bevel-rimmed bowls and the soc
 
 ![Bevel-Rimmed Bowl](/images/Untitled_design.png)
 
+#### Annotation
+
 This is a Uruk period bevel-rimmed bowl from Habuba Kabira South, now present-day Syria. This bowl was most likely made between 3400 and 3200 BCE. These kinds of bowls can be found along the Tigris and Euphrates Rivers into central Syria and Anatolia, and eastward into Iran. They are typically small in size and undecorated.
 This source is a part of the [*Bevel-Rimmed Bowls*](https://worldhistorycommons.org/short-teaching-module-bevel-rimmed-bowls) teaching module.
-
 
 ## Bibliography
 

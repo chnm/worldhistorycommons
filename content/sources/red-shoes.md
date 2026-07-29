@@ -5,6 +5,7 @@ drupal_node_id: 88
 source_type: "Image"
 url: /red-shoes
 image: /images/red_shoes.jpg
+image_alt: "Folktale illustration"
 regions: 
   - "Europe"
 subjects: 

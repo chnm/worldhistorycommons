@@ -5,6 +5,7 @@ drupal_node_id: 1918
 source_type: "Image"
 url: /renunciation-case-against-gertrudis-de-escobar-mexico-1659
 image: /images/courtdocgj.jpg
+image_alt: "Handwritten document in Spanish"
 regions: 
   - "North/Central America"
 subjects: 

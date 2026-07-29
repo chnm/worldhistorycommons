@@ -5,6 +5,7 @@ drupal_node_id: 979
 source_type: "Image"
 url: /enslaved-and-free-blacks-saint-domingue
 image: /images/saint-domingue.jpg
+image_alt: "Slaves and Free Blacks in Saint Domingue"
 regions: 
   - "North/Central America"
 subjects: 

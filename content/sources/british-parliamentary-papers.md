@@ -5,6 +5,7 @@ drupal_node_id: 1831
 source_type: "Text"
 url: /british-parliamentary-papers
 image: /images/Icons-Document_545.jpg
+image_alt: "image of the text"
 regions: 
   - "Middle East"
 subjects: 

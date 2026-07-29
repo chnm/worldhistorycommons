@@ -5,6 +5,7 @@ drupal_node_id: 276
 source_type: "Image"
 url: /vanguard-women-going-versailles
 image: /images/vanguard-of-women.jpg
+image_alt: "Print of crowd of women standing behind woman on horseback"
 regions: 
   - "Europe"
 subjects: 
@@ -22,3 +23,8 @@ how_to_cite: |
 ---
 
 Publicity about political machinations, coupled with the continued high price of bread, mobilized market women and encouraged many men to support them. They hoped to fetch the King and his family to end attempts against the Revolution and stabilize prices. This action was so threatening to the middle class elite that Lafayette, head of the Parisian National Guard, tried first to dissuade the marchers and then belatedly followed them to try to control the situation.
+
+## Transcription
+
+**Title in French**  
+Avant-garde des femmes allant à Versaille

@@ -5,6 +5,7 @@ drupal_node_id: 78
 source_type: "Object"
 url: /ancient-greek-girl-athlete
 image: /images/an00034705_001_b1808aef56.jpg
+image_alt: "Photo of Greek statuette"
 regions: 
   - "Europe"
 subjects: 

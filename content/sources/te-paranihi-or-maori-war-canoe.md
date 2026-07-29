@@ -5,6 +5,7 @@ drupal_node_id: 3044
 source_type: "Image"
 url: /te-paranihi-or-maori-war-canoe
 image: /images/Screen_Shot_2023-07-11_at_11.04.29_AM.png
+image_alt: "A large canoe with wooden rows and red detailing. The canoe sits amidst a museum with items from the collection surrounding it."
 regions: 
   - "Oceania"
 subjects: 

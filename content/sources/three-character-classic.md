@@ -5,6 +5,7 @@ drupal_node_id: 398
 source_type: "Text"
 url: /three-character-classic
 image: /images/three-character-classic.png
+image_alt: "Page from Three-Character Classic"
 regions: 
   - "Asia"
 subjects: 

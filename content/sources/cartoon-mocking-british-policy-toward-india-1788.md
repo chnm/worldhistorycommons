@@ -5,6 +5,7 @@ drupal_node_id: 2855
 source_type: "Image"
 url: /cartoon-mocking-british-policy-toward-india-1788
 image: /images/Cartoon1788.jpeg
+image_alt: "Cartoon of a giant man wearing a kilt and a turban straddling two land masses separated by water"
 regions: 
   - "Asia"
   - "Europe"

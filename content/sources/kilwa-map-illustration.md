@@ -5,6 +5,7 @@ drupal_node_id: 2390
 source_type: "Image"
 url: /kilwa-map-illustration
 image: /images/KilwaMap.jpg
+image_alt: "Illustration shows an island with a collection of buildings in the center"
 regions: 
   - "Africa"
 subjects: 

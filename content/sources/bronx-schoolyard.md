@@ -5,6 +5,7 @@ drupal_node_id: 133
 source_type: "Image"
 url: /bronx-schoolyard
 image: /images/bronx-schoolyard_6806762099.jpg
+image_alt: "Photograph of graffiti in schoolyard"
 regions: 
   - "North/Central America"
 subjects: 

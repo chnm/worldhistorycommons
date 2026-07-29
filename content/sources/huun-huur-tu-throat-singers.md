@@ -5,6 +5,7 @@ drupal_node_id: 2478
 source_type: "Image"
 url: /huun-huur-tu-throat-singers
 image: /images/Huun_Huur_Tu_Throat_Singers.jpg
+image_alt: "Huun-Huur-Tu Throat Singers"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 346
 source_type: "Image"
 url: /bust-marat
 image: /images/4f46c15ed89fd944c31ee4d86b9af080.jpg
+image_alt: "Portrait of a bust of Marat"
 regions: 
   - "Europe"
 subjects: 
@@ -21,3 +22,8 @@ how_to_cite: |
 ---
 
 After Marat’s death, his defenders glamorized him, forgetting both his physical deformities and his vitriolic calls for more and more heads. One common approach was to give him secular sainthood (a halo in this image) incongruous for someone with so little patience with the church.
+
+## Transcription
+
+**Title in French**  
+Marat, l'ami du peuple

@@ -5,6 +5,9 @@ drupal_node_id: 915
 source_type: "Image"
 url: /ethnic-groups-yugoslavia
 image: /images/yugoslav_aefacb4d68.jpg
+additional_images:
+  - src: "/images/source-media/915/yugoslav-grey_838f320069.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

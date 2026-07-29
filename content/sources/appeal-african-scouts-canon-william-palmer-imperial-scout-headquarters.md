@@ -5,6 +5,7 @@ drupal_node_id: 1364
 source_type: "Text"
 url: /appeal-african-scouts-canon-william-palmer-imperial-scout-headquarters
 image: /images/Icons-Document_161.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

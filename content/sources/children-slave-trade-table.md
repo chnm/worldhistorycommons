@@ -5,6 +5,7 @@ drupal_node_id: 373
 source_type: "Image"
 url: /children-slave-trade-table
 image: /images/transatlantic-slave-trade.png
+image_alt: "Children in the Slave Trade Table"
 regions: 
   - "Africa"
 subjects: 

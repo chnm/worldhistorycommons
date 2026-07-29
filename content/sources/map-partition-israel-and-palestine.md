@@ -5,6 +5,7 @@ drupal_node_id: 2422
 source_type: "Image"
 url: /map-partition-israel-and-palestine
 image: /images/Partition_of_Israel_1947_and_1949.jpg
+image_alt: "Map of the Partition and Armistice of Israel and Palestine"
 regions: 
   - "Middle East"
 subjects: 

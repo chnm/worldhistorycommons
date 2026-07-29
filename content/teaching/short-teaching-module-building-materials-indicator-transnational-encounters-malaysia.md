@@ -22,6 +22,8 @@ related_sources:
   - link: "/wooden-stockade-penang-island-18th-century"
     image: "/images/FortCornwallisTHUMB.png"
     alt: "Link to source page for wooden stockade"
+how_to_cite: |
+  "Short Teaching Module: Building Materials as an Indicator of Transnational Encounters in Malaysia," in World History Commons, https://worldhistorycommons.org/short-teaching-module-building-materials-indicator-transnational-encounters-malaysia [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -48,6 +50,8 @@ Other than Western Europeans, other migrants to the Peninsular brought in their 
 
 ![Wooden Stockade on Penang Island, 18th century](/images/FortCornwallisTHUMB.png)
 
+#### Annotation
+
 This stockade was painted by Captain Elisha Trapaud in 1787 and the painting is preserved in the India Office Library in London. Construction of the fort started in August 1786 as soon as Francis Light had taken possession of Penang Island (part of present day Malaysia) away from the Kedah Sultanate. This use of timber is similar to the construction material used to build Malay forts that were in existence during the period. Fort Cornwallis remained as a wooden stockade until 1794 when Francis Light rebuilt it in stone shortly before his death. Over the course of the 19th century many additions were made to the fort until it assumed its present shape. The picture painted by Elisha Trapaud is one of the few depictions of the fort while it was still a wooden structure.
 
 This source is part of the [building materials and transnational encounters teaching module](https://worldhistorycommons.org/node/3006).
@@ -56,10 +60,11 @@ This source is part of the [building materials and transnational encounters tea
 
 ![British Police Station, Rasah, Malaysia](/images/RassaPoliceStationTHUMB.png)
 
+#### Annotation
+
 Many of the earliest British buildings in the Malay Peninsular were inspired by contemporary Malay structures. Most of these buildings do not exist anymore because they were built to serve temporary functions and were eventually replaced by permanent structures once masonry became available. Pictures of such structures survive in publications from that period such as the depiction of a police station in “Rassa”, which is currently the modern town of Rasah in Negeri Sembilan, Malaysia. This publication dates from 1884 and displays the degree of Malay influence on British constructions from that period. This structure is surrounded on all four sides by verandahs and was also constructed on stilts. At a slightly later period, buildings were gradually built out of masonry and such buildings include the former police station, old district office and Sultan Abdul Samad’s palace at Jugra in Selangor, all of which was constructed between 1875 and 1879. Most of these buildings are now derelict, with the sole exception of the police station, which is now a museum. The police station was similar to a Malay building in many ways. It was built on stilts and had verandahs on all sides. The roof was built out of attap leaves. It was constructed with light materials and could have been built quickly. Structures like this could also have been replaced or repaired easily and conveniently. Towards the end of the 19th century, more colonial structures were built out of stone. This was due to the constant threat of fire that broke out regularly.
 
 This source is part of the [building materials and transnational encounters teaching module](https://worldhistorycommons.org/node/3006).
-
 
 ## Bibliography
 

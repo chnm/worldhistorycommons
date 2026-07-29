@@ -21,6 +21,8 @@ related_sources:
   - link: "/birth-rituals-codex-mendoza"
     image: "/images/Codex_Mendoza_birth_ritual_thumbnail.jpeg"
     alt: "Birth Rituals in the Codex Mendoza thumbnail image"
+how_to_cite: |
+  "Short Teaching Module: Codex Mendoza (16th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-codex-mendoza-16th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -35,6 +37,8 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![Birth Rituals in the Codex Mendoza](/images/Codex_Mendoza_birth_ritual_thumbnail.jpeg)
 
+#### Annotation
+
 The image from the *Codex Mendoza* (produced ca. 1535-1550) describes the Aztec birth ritual of bathing and naming the child, which, according to accounts from the 16th century, was usually held on the fourth day after birth. It was attended by the parents and kin, who gathered in the house before sunrise to feast and observe the ceremony. The midwife who aided the birth conducted the ceremony, and she is shown holding the infant. After consulting with the tonalpouhqui, a person knowledgeable in the sacred books would determine the sign of the child based on the moment of birth.
 The image is a narrative, showing a sequence of events through the use of multiple images connected by dotted lines. The midwife took the infant from the cradle near its mother and carried it to a pottery vessel filled with water, placed on a mat. The midwife's counterclockwise footprints circle the mat, where two sets of symbolic objects are placed. Male infants were given a shield and arrows, tools for wood-, feather-, and metal-work, and the scribe's implements (depicted above the mat). Female children were given domestic objects: a broom, a reed basket and a spindle (depicted below the mat). The midwife performed four rituals with the water: she invoked the goddess of water and put drops of water on the baby's mouth, telling it to receive the water it needs to live upon the earth; she touched the baby's chest with her wet hand and invoked the purifying property of water that cleans the heart; she cast drops of water on the baby's head, telling the baby to let the water enter its body to dwell there. Finally, the midwife washed the child's body to keep evil away from it. After these four rites, a boy child was presented to the sky four times, calling on the sun and the astral gods, asking that he become a warrior. A girl child was not presented to the sky—a masculine god, but after the washing the midwife spoke to the cradle asking the protection of the mother goddess. Following the ceremony, the baby was given a name, often one based on the day and time of birth.
 This source is a part of the [*Codex Mendoza (16th c.)*](https://worldhistorycommons.org/short-teaching-module-codex-mendoza-16th-c) teaching module.
@@ -43,6 +47,8 @@ This source is a part of the [*Codex Mendoza (16th c.)*](https://worldhistorycom
 
 ![Disciplining Children in the Codex Mendoza](/images/Codex_Mendoza_folio_59r-thumbnail.jpeg)
 
+#### Annotation
+
 Aztec children were valued creations. Language used in rituals compared infants to precious stones and feathers, flakes of stone, ornaments, or sprouts of plants. The duty of parents and society, however was not to indulge but to socialize the child, so that they would not become "fruitless trees," as an Aztec proverb stated. According to sources written shortly after the Spanish conquest, such as the Codex Mendoza, society placed a high value on conformity, obedience, and decorum. The section of the Codex Mendoza that depicts daily life shows gender-specific punishments used in raising children. The image seems to show a sequence of punishments, first threatening the boy and the girl with three maguey thorns, the spike of the agave plant. In the second image, the woman is administering punishment to the girl by piercing her arm with the maguey thorn; the boy is pierced more severely in the neck, flank, and hip, and he is bound at the wrists and ankles. In the third image, the punishment of striking the child with a stick or rod is being carried out. In each case the image shows the children weeping profusely as the threat or the punishment is administered.
 This source is a part of the [*Codex Mendoza (16th c.)*](https://worldhistorycommons.org/short-teaching-module-codex-mendoza-16th-c) teaching module.
 
@@ -50,9 +56,10 @@ This source is a part of the [*Codex Mendoza (16th c.)*](https://worldhistorycom
 
 ![Gender Roles among the Nahua in the Codex Mendoza](/images/codex_mendozaTHUMB.jpeg)
 
+#### Annotation
+
 From the time of birth, children in Aztec, or Nahua, society were socialized into gender roles. In the birth ritual introducing the infant to society, symbolic objects clearly differentiated. Boys were to be warriors and craftsmen, and girls were to tend to domestic chores. Articles of clothing—loincloth and cape for the boy, shift and skirt for the girl—were given to the child. The umbilical cord of the boy was buried in a field to associate him with the battlefield; the girl’s cord was buried in a corner of the house, each space signifying the sites of social productivity. The image from the Codex Mendoza depicts ways in which childhood socialization patterns differed for boys and girls, systematically divided into panels on the left and right sides of the page, each vignette separated from the other by a line. In each scene, male and female adults preside over raising boys and girls, respectively. From infant to adult, children were classed into age-cohorts, each with its expectations. A ritual called izcalli took place every four years and involved a purification ceremony for children of that cohort in a fire with the acrid smoke from chili peppers. The image shows a small boy being held over the fire, the girl in front of it. Children were also held up by the head or neck to make them grow tall; their ears were pierced with maguey thorns for later ornaments. Other scarification rituals took place at various stages of maturity. After the age of four, children became responsible for gender-specific chores, and began to wear adult-like garments. They were socialized into patterns of speaking, showing respect, and sitting in gender-specific postures. Boys learned endurance, sleeping bound on the cold, wet ground; girls perfected sweeping rituals for purification of the house. The boy is taught to carry firewood, while the girl learns to grind maize and make tortillas. The image on the bottom shows an older boy learning to fish, and the girl weaving spun thread on a back-strap loom—both tasks that would require a child to reach a certain size and strength. These measures in early childhood may reflect brief life expectancies in which every member of the family had to contribute to the prosperity of the society.
 This source is a part of the [*Codex Mendoza (16th c.)*](https://worldhistorycommons.org/short-teaching-module-codex-mendoza-16th-c) teaching module and the [*Primer: Gender in World History*](https://worldhistorycommons.org/primer-gender-world-history) methods module.
-
 
 ## Teaching Strategies
 

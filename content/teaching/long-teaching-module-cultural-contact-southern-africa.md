@@ -31,6 +31,8 @@ related_sources:
   - link: "/cultural-contact-southern-africa-law-slave-women-and-children"
     image: "/images/Icons-Document-thumbnail_390.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Long Teaching Module: Cultural Contact in Southern Africa," in World History Commons, https://worldhistorycommons.org/long-teaching-module-cultural-contact-southern-africa [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -81,6 +83,8 @@ In 17th- and 18th-century South Africa, Khoikhoi, slave, and European women live
 
 ![Journal of Jan van Riebeeck](/images/riebeecks-journal-thumbnail.jpeg)
 
+#### Annotation
+
 Krotoa, called Eva by the Dutch, is the first Khoikhoi woman to appear in the European records of the early settlement at the Cape as an individual personality and active participant in cultural and economic exchange. Eva joined Commander Jan van Riebeeck’s household at the Dutch fort at around age 12. She was closely related to Oedasoa, chief of the Cochoqua Khoikhoi, but it is unclear whether her family sent her to the Dutch to work and learn the language, or whether she made this decision on her own. She learned to speak fluent Dutch and Portuguese and acted as an interpreter for the Dutch for most of her life. She converted to Christianity and in 1664 married a Danish surgeon, Pieter van Meerhoff, who was rising in the service of the Dutch East India Company. Together they had three children. After his death on an expedition to Madagascar, Eva became an alcoholic and was eventually sent to the prison colony on Robben Island for disorderly conduct. She died in 1674 and was given a Christian burial.
 The following selections are from the official diary kept by the Dutch Commander Jan van Riebeeck and his council at the Cape. Since these men were representatives of a major trading company, most entries have something to do with commercial interests. Eva emerges as a savvy business partner to the Dutch, but also as a person truly suspended between two cultures. Note her use of clothing, religion, and language as she negotiates between the Dutch and the Khoikhoi worlds.
 
@@ -88,11 +92,15 @@ The following selections are from the official diary kept by the Dutch Commander
 
 ![Cultural Contact in Southern Africa: Letters, Johanna Maria van Riebeeck](/images/Icons-Document-thumbnail_474.jpg)
 
+#### Annotation
+
 Johanna Maria van Riebeeck (1679-1759) was from an elite family in the Dutch colonial network. She was the granddaughter of Jan van Riebeeck, first Dutch Commander at the Cape, who went on to hold important posts in the Dutch government in Batavia (Indonesia), and the daughter of Abraham van Riebeeck, Governor-General of Batavia. She made three advantageous marriages, and died a very wealthy widow. In 1710, she voyaged to Holland with her second husband, Joan van Hoorn, retiring Governor-General of the Indies, and his 11-year old daughter Pieternelletje. Until then, Johanna Maria had never left the Far East, and therefore we may also see her as a woman caught between cultures. In these letters, which she wrote during a stop at the Cape on her journey to Holland, we get a sense of Johanna Maria as a prim and rather dissatisfied person. Not all of her letters have this tone, however. Unlike most visitors to the Cape, she did not enjoy the experience; she even found the world-famous botanical gardens to be rather overgrown. Note her use of the adjective “hottentottish,” and consider her assessment of acceptable living circumstances and behavior for women in the Dutch colonies. [Note: The two letters are similar because correspondence often did not reach its destination.]
 
 ### [Cultural Contact in Southern Africa: Law, Alcohol Sale](/cultural-contact-southern-africa-law-alcohol-sale)
 
 ![Cultural Contact in Southern Africa: Law, Alcohol Sale](/images/Icons-Document-thumbnail_389.jpg)
+
+#### Annotation
 
 The following law suggests that slaves and Khoikhoi were considered particularly prone to alcohol addiction. There is some anecdotal evidence that this was a common stereotype held by Europeans at the Cape. Some scholars argue that alcoholism may indeed have been more prevalent among the Khoikhoi and African slaves because indigenous fermented drinks were not as strong as those brewed by Europeans. Furthermore, it is known that among the Khoikhoi, fermented drinks and dagga (like cannabis) were used for ritual purposes at the occasion of the trance dance. The following law regulates who may sell or serve alcoholic drinks, particularly prohibiting slave and Khoikhoi women from being involved. It is unclear, however, whether the law is meant to regulate alcohol or to control the leisure time activities of slaves. Since slave and Khoikhoi women are at the center of this issue, we may ask why it seemed “worse” to the authorities to have these women selling liquor rather than anyone else.
 
@@ -100,11 +108,15 @@ The following law suggests that slaves and Khoikhoi were considered particularly
 
 ![Cultural Contact in Southern Africa: Law, Slave Women and Children](/images/Icons-Document-thumbnail_390.jpg)
 
+#### Annotation
+
 Although marriage was not forbidden between Europeans and slaves or other non-Europeans, it was quite rare and entailed a drop in social status for the European. Nevertheless, sexual relationships occurred—sometimes coerced, sometimes by mutual agreement. The children born to slave women by these relationships were seldom openly acknowledged by their fathers, and thus usually followed the fate of their mothers. Religious and secular authorities were not at ease with this situation. This can be seen in church proclamations that called on Europeans to baptize all their slave children, and secular laws that sought to regulate the living conditions of slave children, especially of mixed race. In the following excerpt, it is noteworthy that the “children of free heathen” are also mentioned. These “heathens” were probably not Khoikhoi, but rather former slaves, either from East Africa or Asia, who bought or earned their freedom and were known as Free Blacks. In this case, the designation “heathen” might also refer to followers of Islam.
 
 ### [Cultural Contact in Southern Africa: Will, Laurens Verbrugge and Beletje Frederikszoon](/cultural-contact-southern-africa-will-laurens-verbrugge-and-beletje-frederikszoon)
 
 ![Cultural Contact in Southern Africa: Will, Laurens Verbrugge and Beletje Frederikszoon](/images/Icons-Document-thumbnail_388.jpg)
+
+#### Annotation
 
 Laurens Verbrugge and Beletje Frederikszoon were ordinary people from Holland who settled in Stellenbosch (near Cape Town) and took up farming there. Though not wealthy, they did own slaves and had sufficient property that they felt the need to draw up a will when Beletje became ill. Note the Christian beliefs expressed in the wording of the will.
 Laurens was Beletje’s second husband, which was not unusual at the Cape, where there were fewer European women than men throughout the 18th century. Women therefore tended to marry early to men older than themselves who often died before them. It was not uncommon for women to marry three times, which could cause disputes over inheritance. Marriage among Europeans, Khoikhoi, and slaves was not forbidden, though relatively rare; sexual relations were more common. The status of the children of slave women by European fathers was precarious, and in the following will it is difficult not to speculate on the paternity of the slave girl Christintje. (The “-tje” ending to Dutch words means “little” and often suggests affection when attached to names.)
@@ -113,11 +125,15 @@ Laurens was Beletje’s second husband, which was not unusual at the Cape, where
 
 ![Peter Kolb Travel Narrative 1](/images/caput-bonae-thumbnail.png)
 
+#### Annotation
+
 Peter Kolb was a German astronomer and mathematician who lived at the Cape from 1705 to 1713. He was initially sponsored by a German baron to make astronomical observations in pursuit of a way to calculate longitude accurately. When this project ended, Kolb stayed at the Cape and observed everything else. About three years after his return to Germany, he began to compile a book about his experiences, based on letters and notes he had written. This book (more than 850 large pages) was divided into three sections: the first discussed the flora, fauna, minerals, water, and topography of the Cape. The second addressed the social life and customs of the Khoikhoi (then known as Hottentots). The third discussed the political intrigues of the Dutch colony during the years Kolb was part of it. His ethnographic conclusions are now contested, but there is no doubt that his book is an important source for understanding interaction among the various ethnic groups at the Cape in this early period. Although Kolb was not married and had no children, he made numerous comments about many different aspects of women’s lives. In the excerpt below, he discusses the rearing of children, but also offers a glimpse into how closely Europeans, Khoikhoi, and slaves lived and worked together.
 
 ### [Peter Kolb Travel Narrative 2](/peter-kolb-travel-narrative-2)
 
 ![Peter Kolb Travel Narrative 2](/images/caput-bonae-thumbnail_0.png)
+
+#### Annotation
 
 Peter Kolb was a German astronomer and mathematician who lived at the Cape from 1705 to 1713. He was initially sponsored by a German baron to make astronomical observations in pursuit of a way to calculate longitude accurately. When this project ended, Kolb stayed at the Cape and observed everything else. Kolb was writing for a European audience, and therefore often played to their expectations. In the case of the Khoikhoi, the assumption was that these people were among the most primitive on earth. Thus, his work had to be used with caution when trying to reconstruct the early history of the Khoikhoi. On the other hand, when Kolb’s observations are compared with those of modern anthropologists, significant overlaps may be found, so that it seems clear that Kolb spoke directly to Khoikhoi men and women about their beliefs and customs. In the following excerpts, Kolb discusses Khoikhoi practices during and after the birth of a child. Ask yourself how, as a European man, Kolb could have seen or heard about these rituals. Nevertheless, his account cannot be simply discounted, since it is known that Khoikhoi did consider water risky for expectant mothers and newborn infants, and cattle played major and significant roles in the economy and rituals of traditional Khoikhoi society.
 This source is a part of the [*Women and Empire*](https://worldhistorycommons.org/long-teaching-module-women-and-empire?page=0%2C3) teaching module.
@@ -126,11 +142,15 @@ This source is a part of the [*Women and Empire*](https://worldhistorycommons.or
 
 ![San Dance Ethnography](/images/specimens-of-bushman-folklore-thumbnail.png)
 
+#### Annotation
+
 Lucy Lloyd and Wilhelm Bleek, German ethnographers who lived in Cape Town, were the first people to systematically write down Khoisan folklore, beliefs, and customs. They did their work in the late 19th century, so there is no way to be sure that the traditional way of life described by the informants was the same as that lived by the Khoisan in the previous centuries. Nevertheless, we know from many sources that the communal dance was an important part of Khoisan culture. The extract that follows is a firsthand account of the experience by a participant, |Han‡kass’o, also known as Klein Jantje, who was about 30 years old at the time he spoke with Bleek and Lloyd. He came from the northern Cape colony and stayed in the Bleek home for nearly two years before returning to his people. In his storytelling, he often notes who first told him the story, and this is frequently his mother. He emphasizes the celebratory aspects of the dance. Dance was used to release communal tensions, or it could take on ritual meaning, when dancers sought to reach “boiling point,” or a trance state, where they became one with the spirit world. Note the different roles suggested for men and women in the piece below.
 
 ### [Rock Art, Khoisan](/rock-art-khoisan)
 
 ![Rock Art, Khoisan](/images/rockart-thumbnail.jpeg)
+
+#### Annotation
 
 Rock art, found on the walls of caves and on moveable rocks, was once thought to depict simple images of the daily lives of the Khoisan. In the last 20 years, study of oral traditions and close attention to what is actually depicted in the paintings has led to a complete revision of this theory. Now it is believed that the images depict the experience of the trance dance, an integral part of Khoikhoi and San social and ritual practice. The dance was performed with the whole community present, although only a few may have done the dancing—prominently the shaman, or leader of ritual.
 It was an extremely intense activity, sometimes performed after smoking dagga (cannabis), where the dancer strains to reach “boiling point” and let his or her spirit transform and get in touch with spiritual forces. In Khoisan belief, there are spirits in the world—particularly connected with animals like the largest antelope, the eland—that can influence weather, communal tensions, and personal problems. As the dancer goes into the trance, he or she hyperventilates, cramps over in pain, bleeds from the nose, and starts to hallucinate. A shaman describes this, also in the symbolism of the rock art, as transforming into the spirit of an antelope or other animal. Women were an integral part of the dance and could take part in the trance, but they are rarely depicted in rock art. Here we see the participants in the clapping circle, together with shapes from the hallucinatory experience, and figures in a state of transformation.
@@ -140,15 +160,18 @@ The paintings are extremely difficult to date and the artists are unknown. It is
 
 ![Drawing of Digging Stick and Stone Weights](/images/diggingstick-thumbnail.jpeg)
 
+#### Annotation
+
 The Khoikhoi were semi-nomadic pastoralists (herders of sheep and cattle), who hunted game and gathered edible plants, nuts, roots, berries, and honey to supplement their diets. There was a division of labor between men and women: men hunted and tended the cattle while women looked after small stock and gathered food in the surrounding countryside. One of the implements used by women was the digging stick weighted with stones. Although the implement may appear primitive, consider what went into making it and how practical it was in its environment for its intended uses.
 
 ### [Drawing of Khoi Dancers](/drawing-khoi-dancers)
 
 ![Drawing of Khoi Dancers](/images/khoidance-thumbnail.jpeg)
 
+#### Annotation
+
 In the late 17th century, an anonymous artist did a series of impromptu sketches and set pieces showing Khoikhoi at the Cape of Good Hope. The artist seems to have been interested in capturing natural movement and depicting actual articles of Khoikhoi clothing or activities in which they engaged, rather than falling back on the stereotypes that tended to be perpetuated in European books about the Cape. But the sketches are not entirely spontaneous, since the women in some of the scenes are clearly posed in classical ways. In addition, the artist seems to have had a tendency towards allegory as he juxtaposed wrinkled and crippled old women with voluptuous young women. The depiction of young women, which sometimes seems deliberately sexualized, also raises questions about how independent an observer the artist was.
 On the left side of the page, the artist shows different types of hats, facial painting, and the hide bag carried by the Khoikhoi, as well as a woman playing a drum made by drawing a leather hide over a clay pot. On the bottom of the right side of the page, the artist carries on the theme of dancing, including the notes of the chant he has heard. The lines around the legs of the women indicate the leather anklets they commonly wore. On the top of the right side of the page, Khoikhoi men and women appear to be reacting to an image in a frame—probably a mirror. The scene is not explained by the handwritten notes, but a selection from 1660 Journal of Jan van Riebeeck provides an interesting parallel: “Later on, when the said servants [of a Khoikhoi chief]—the one called Oocktis Koukoa and the other Hanhumma, herdsmen of their King’s cattle and sheep—were led to a large looking-glass in the Commander’s room, they were obviously very much alarmed, at first thinking they were looking at people in another room, and then, when they recognized themselves and other people reflected, they imagined that they were seeing spirits. Such a state were they in that Eva, Doman, and some other Hottentots living in the fort were hard put to it to bring them back to their right senses again.” The notes explaining the scenes were added at a later date by someone other than the author.
-
 
 ## Teaching Strategies
 
@@ -191,24 +214,24 @@ After completing this lesson, students will be able to:
 
 * If you do not have computer access so that students can review the following online, print and copy for the class:
 
-Making Sense of Letters and Diaries  
+Making Sense of Letters and Diaries<br>
 Unpacking Travel Narratives
 
 * Print out and make copies for the class of the following worksheets:
 
-Primary Source Analysis Worksheet: Images  
-Primary Source Analysis Worksheet: Texts  
+Primary Source Analysis Worksheet: Images<br>
+Primary Source Analysis Worksheet: Texts<br>
 Primary Source Analysis Worksheet: Objects
 
 * Print out and make copies for the class of Cultural Contact in Southern Africa Introduction
 * Print and copy the following documents (Note: students may wish to examine other documents within the group as well, but the following are the core that they will need for this exercise):
 
-Source 1: Journal, Jan van Riebeeck  
-Source 2: Letters, Johanna Maria van Riebeeck  
-Source 5: Object, Digging Stick  
-Source 6: Drawings, Khoikhoi  
-Source 7: Travel Narrative, Peter Kolb 1  
-Source 9: Will, Laurens Verbrugge and Beletje Frederikszoon  
+Source 1: Journal, Jan van Riebeeck<br>
+Source 2: Letters, Johanna Maria van Riebeeck<br>
+Source 5: Object, Digging Stick<br>
+Source 6: Drawings, Khoikhoi<br>
+Source 7: Travel Narrative, Peter Kolb 1<br>
+Source 9: Will, Laurens Verbrugge and Beletje Frederikszoon<br>
 Source 10: Law, Alcohol Sale
 
 * Internet access for further research, if possible.
@@ -226,27 +249,27 @@ Source 10: Law, Alcohol Sale
 
 2. Hook: Ask students to imagine that they have moved to a country on a different continent, either to go to college or for a new job.
 
--What might they expect to be different in their new location?  
--What might be the same?  
--How would they keep in touch with family or friends?  
--How would they organize their impressions of this new place and its inhabitants?  
--How would they react to a different language, dress, customs, and religion?  
+-What might they expect to be different in their new location?<br>
+-What might be the same?<br>
+-How would they keep in touch with family or friends?<br>
+-How would they organize their impressions of this new place and its inhabitants?<br>
+-How would they react to a different language, dress, customs, and religion?<br>
 -Would they begin to adopt some of the new foods, dress, etc. they encounter?
 
 3. Teacher-led Discussion: The goal is to model how the students should examine sources to try to determine point of view, one of the critical concepts for students to understand when using primary sources—and one of the most challenging for most students. Use Source 1: Journal, Jan van Riebeeck, as the focus. Sample questions to ask the class might include:
 
--What is the type of document? What is the difference between a journal and a diary? Which source is more private? Who else might read a journal kept by the commander of the fort?  
--What is van Riebeeck’s relation to Krotoa?  
--What is her chief role or function in the fort?  
--In the 21 June 1658 entry, what is Doman’s reaction to the request to help locate the runaway slaves? What is van Riebeeck’s reaction to Doman? What specific words highlight their specific viewpoints?  
--Does van Riebeeck appear to trust Krotoa? How can you tell from this entry?  
--Where do Krotoa’s loyalties lie? Does she trust Doman? What might influence her opinion of him? What might cause disagreement between them, even though both are Khoikhoi?  
--Examine the entry of 23 September 1658. Also look at Source 5: Object, Digging Stick and Source 6: Drawings, Khoikhoi. Why do you think Krotoa takes the copper, iron, and beads back with her to her tribe? What about the bread, brandy, and tobacco?  
--Van Riebeeck at first calls the items Krotoa takes with her a “reward” for her services. Later he calls the items “presents.” Are these free gifts, payment for services, or an attempt to open trade channels with the Khoikhoi? What specific words support each possibility?  
--In the last entry, what reasons does van Riebeeck give for Krotoa’s return?  
--Do you think van Riebeeck trusts Doman? Does he trust Krotoa? Do Doman and Krotoa trust or respect each other? What evidence can you give from the passages to justify your interpretation? What might account for the different perspectives among these three people?  
--How might van Riebeeck’s position as commander, his religion, his Dutch identity, his gender, or his connection to the Dutch East India Company influence or affect his attitudes or his interpretation of the incidents listed in this source? Would Krotoa or Doman have viewed these events the way van Riebeeck does?  
--Can we really be certain that we know Krotoa’s thoughts when what we have is an account from the Dutch commander?  
+-What is the type of document? What is the difference between a journal and a diary? Which source is more private? Who else might read a journal kept by the commander of the fort?<br>
+-What is van Riebeeck’s relation to Krotoa?<br>
+-What is her chief role or function in the fort?<br>
+-In the 21 June 1658 entry, what is Doman’s reaction to the request to help locate the runaway slaves? What is van Riebeeck’s reaction to Doman? What specific words highlight their specific viewpoints?<br>
+-Does van Riebeeck appear to trust Krotoa? How can you tell from this entry?<br>
+-Where do Krotoa’s loyalties lie? Does she trust Doman? What might influence her opinion of him? What might cause disagreement between them, even though both are Khoikhoi?<br>
+-Examine the entry of 23 September 1658. Also look at Source 5: Object, Digging Stick and Source 6: Drawings, Khoikhoi. Why do you think Krotoa takes the copper, iron, and beads back with her to her tribe? What about the bread, brandy, and tobacco?<br>
+-Van Riebeeck at first calls the items Krotoa takes with her a “reward” for her services. Later he calls the items “presents.” Are these free gifts, payment for services, or an attempt to open trade channels with the Khoikhoi? What specific words support each possibility?<br>
+-In the last entry, what reasons does van Riebeeck give for Krotoa’s return?<br>
+-Do you think van Riebeeck trusts Doman? Does he trust Krotoa? Do Doman and Krotoa trust or respect each other? What evidence can you give from the passages to justify your interpretation? What might account for the different perspectives among these three people?<br>
+-How might van Riebeeck’s position as commander, his religion, his Dutch identity, his gender, or his connection to the Dutch East India Company influence or affect his attitudes or his interpretation of the incidents listed in this source? Would Krotoa or Doman have viewed these events the way van Riebeeck does?<br>
+-Can we really be certain that we know Krotoa’s thoughts when what we have is an account from the Dutch commander?<br>
 -What might Krotoa have written about herself?
 
 **DAYS TWO AND THREE**
@@ -271,10 +294,10 @@ A representative from each of the four task groups will present to the class a s
 
 5. Teacher-led Discussion: Debrief and conclude:
 
-   -What conclusions can be made about the social and economic roles of women in colonial life?  
-   -How do the roles of indigenous women complement the roles of colonial women?  
-   -In what ways do these roles compare to those of women colonists or indigenous women in North America?  
-   -What biases or points of view emerge from the documents concerning women? Concerning indigenous women in particular? How do these differ?  
+   -What conclusions can be made about the social and economic roles of women in colonial life?<br>
+   -How do the roles of indigenous women complement the roles of colonial women?<br>
+   -In what ways do these roles compare to those of women colonists or indigenous women in North America?<br>
+   -What biases or points of view emerge from the documents concerning women? Concerning indigenous women in particular? How do these differ?<br>
    -In what ways are these biases similar to those of European colonists in North America?
 
    ##### Differentiation
@@ -283,7 +306,7 @@ A representative from each of the four task groups will present to the class a s
 
    These students may also wish to create a dialogue between Krotoa and Dolman, explaining how each interprets their relation with the Dutch and the Khoikhoi.
 
-   **Advanced Students:**  
+   **Advanced Students:**<br>
    These students might want to do further research and compare Eva’s role as a translator and woman between two peoples to either Doña Marina (with Cortés in Mexico) or Sacagawea (with Lewis and Clark). Another topic for further research is to examine the role of wet nurses or servant girls in Europe in the 17th century. How similar or different is the practice in Europe to that in the colony? A source that may help students is Olwen Hufton’s The Prospect Before Her: A History of Women in Western Europe 1500-1800. New York: Vintage Books, 1995.
 
    Advanced students might also analyze how the limited availability of contemporary sources for the Khoisan might affect historical interpretation.

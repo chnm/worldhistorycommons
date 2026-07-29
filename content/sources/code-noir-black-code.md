@@ -5,6 +5,7 @@ drupal_node_id: 1515
 source_type: "Text"
 url: /code-noir-black-code
 image: /images/Icons-Document_286.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1027
 source_type: "Image"
 url: /fleeing-design-or-perjurer-louis-xvi
 image: /images/19d81c9b13be7e47019e0c56f94fa78a.jpg
+image_alt: "Engraving of the king's arrest by the guards"
 regions: 
   - "Europe"
 subjects: 
@@ -25,3 +26,8 @@ how_to_cite: |
 ---
 
 Another engraving of the King’s arrest portrays the guard apprehending Louis and his family in their flight from Paris in June 1791. From Varennes, the royal family is brought back to Paris accompanied by three deputies of the National Assembly, armed guards, and a sometimes angry crowd. Upon returning to Paris, a large and unfriendly crowd turned out to view the man now known simply as Louis Capet, no longer King of the French.
+
+## Transcription
+
+**Title in French**  
+La Fuite a déssein ou le parjure Louis XVI

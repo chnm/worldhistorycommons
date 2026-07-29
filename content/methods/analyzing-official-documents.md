@@ -20,6 +20,8 @@ related_sources:
   - link: "/gulhane-proclamation"
     image: "/images/gulhane-proclamation-thumbnail.png"
     alt: "Gulhane Proclamation thumbnail image"
+how_to_cite: |
+  "Analyzing Official Documents," in World History Commons, https://worldhistorycommons.org/analyzing-official-documents [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -32,6 +34,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Gulhane Proclamation](/images/gulhane-proclamation-thumbnail.png)
 
+#### Annotation
+
 This is an excerpt from an official proclamation by the government of the Ottoman Empire. The text is part of the Ottoman government’s response to internal and external demands for reform stemming from the growing weakness of the state.
 This source is a part of the [*Analyzing Official Documents*](https://worldhistorycommons.org/analyzing-official-documents) methods module.
 
@@ -39,9 +43,10 @@ This source is a part of the [*Analyzing Official Documents*](https://worldhisto
 
 ![An Ottoman “Bill of Rights”](/images/ottoman-bill-of-rights-thumbnail.png)
 
+#### Annotation
+
 This is an excerpt from an official proclamations by the government of the Ottoman Empire. It reflects an understanding by the ruling elites that some administrative reform was absolutely necessary to protect the state from further decay. Although it is presented as the word of the Emperor, official proclamations such as these are typically the result of complex negotiations within a government over form as well as substance. For this reason, historians often learn much about that internal debate from the final form of the text.
 This source is a part of the [*Analyzing Official Documents*](https://worldhistorycommons.org/analyzing-official-documents) methods module.
-
 
 ## Credits
 
@@ -49,8 +54,8 @@ Dina Khoury is Professor of History at George Washington University in Washingto
 
 Grateful Acknowledgement is made to the following institutions and individuals for permission to publish material from their collections:
 
-Lawrence Butler  
-Sumaiya Hamdani  
-Engin Ozendes  
-Donald Quataert  
+Lawrence Butler<br>
+Sumaiya Hamdani<br>
+Engin Ozendes<br>
+Donald Quataert<br>
 Reinhold Schiffer

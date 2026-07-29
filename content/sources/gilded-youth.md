@@ -5,6 +5,7 @@ drupal_node_id: 1504
 source_type: "Text"
 url: /gilded-youth
 image: /images/Icons-Document_276.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

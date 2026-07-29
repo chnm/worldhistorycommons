@@ -5,6 +5,7 @@ drupal_node_id: 2596
 source_type: "Text"
 url: /extract-garcilaso-de-la-vega-royal-commentaries-incas-and-general-history-peru-1
 image: /images/Text_Image_2.jpg
+image_alt: "document icon"
 regions: 
   - "South America"
 subjects: 

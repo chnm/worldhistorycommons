@@ -5,6 +5,10 @@ drupal_node_id: 2850
 source_type: "Image"
 url: /sewing-classes-mount-margaret-mission
 image: /images/SewingMMM1.jpg
+image_alt: "Black and white photo of 10 girls and one teacher seated at tables with needles, fabric, and sewing machines. Girls are dark-skinned. Teacher is white."
+additional_images:
+  - src: "/images/source-media/2850/SewingMMM2.jpg"
+    alt: "Black and white photo of 11 girls and one teacher some sitting some standing at tables with needles, fabric, and sewing machines. Girls are dark-skinned. Teacher is white."
 regions: 
   - "Oceania"
 subjects: 

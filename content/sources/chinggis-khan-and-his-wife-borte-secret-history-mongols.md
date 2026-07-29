@@ -5,6 +5,7 @@ drupal_node_id: 2757
 source_type: "Text"
 url: /chinggis-khan-and-his-wife-borte-secret-history-mongols
 image: /images/Text_Image_7_1.jpeg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

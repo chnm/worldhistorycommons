@@ -5,6 +5,7 @@ drupal_node_id: 2388
 source_type: "Text"
 url: /excerpt-memoirs-ma-huan
 image: /images/Icons-Document_716_0_1.jpg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2973
 source_type: "Image"
 url: /olympic-games-poster-stockholm-1912
 image: /images/Stockholm1912OlympicsPoster.jpg
+image_alt: "Poster for olympic games features drawing of an athlete surrounded by flags. Text: \"Olympiska spelen Stockholm 1912 29 Juni-22 Juli"
 regions: 
   - "Europe"
   - "Global"

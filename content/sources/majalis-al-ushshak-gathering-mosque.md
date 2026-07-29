@@ -5,6 +5,7 @@ drupal_node_id: 109
 source_type: "Image"
 url: /majalis-al-ushshak-gathering-mosque
 image: /images/women_children_in_mosque_c80bfe68b1.jpg
+image_alt: "16th century manuscript illustration"
 regions: 
   - "Middle East"
 subjects: 

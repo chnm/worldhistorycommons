@@ -5,6 +5,10 @@ drupal_node_id: 2853
 source_type: "Text"
 url: /chilean-consul-writes-immigrants-seeking-avoid-military-service-1865
 image: /images/Zenteno1865Pt1.jpg
+image_alt: "Photo of handwritten letter. Transcription and translation below."
+additional_images:
+  - src: "/images/source-media/2853/Zenteno1865Pt2.jpg"
+    alt: "Photo of handwritten letter. Transcription and translation below"
 regions: 
   - "South America"
 subjects: 
@@ -28,3 +32,29 @@ how_to_cite: |
 
 This document is a portion of a letter, written by José de la Cruz Zenteno, the Chilean consul in Mendoza, Argentina to the Minister of Foreign Relations in Chile is from the National Archive of Chile. Mendoza was and is an Argentinian province that borders Chile. In the 1860s when the letter was written, state institutions in Argentina and Chile were undergoing significant changes and Chilean migration to Argentina was increasing. In this document, Zenteno talks of Chileans relying on the consulate to get out of military service at the onset of the War of the Triple Alliance (1864-1870) involving Argentina, Brazil, Uruguay, and Paraguay. This letter and [another from Zenteno](https://worldhistorycommons.org/chilean-consul-writes-immigrants-needing-assistance-1864) show how transnational migrations impacted Chilean state formation, through institutions like the consulate, and state formation at a provincial level in Mendoza, Argentina. These migrants often challenged the provincial government’s authority over labor migrants by using the Chilean consulate as protection.  
 This source is part of the [transnational mobility and state formation methods primer](https://worldhistorycommons.org/primer-transnational-mobility-and-state-formation).
+
+## Transcription
+
+Señor Ministro
+
+La guerra en que se halla esta República con la del Paraguai ha despertado en los Mendosinos un gran entusiasmo por defender su nacion, i al efecto organizan fuerzas i reclutan jente con mucha actividad.
+
+Desde ayer han dado principio las partidas armadas a tomar a todo chileno que encuentran sin papeleta de su Cónsul; i desde ayer he principiado también a dar certificados de inscripción a los que están matriculados, para que los dejen en libertad.
+
+Es probable que de los tantos chilenos que hai sin matricularse, i de los que no pueden acreditar su nacionalidad para inscribirse, sean enrolados en la division que está para salir a campaña. Jente chilena hai mucha en esta Provincia i creo que esta será la que tiene que sufrir mas por las causas referidas, i mui especialmente la que vive en la campaña sin amparo de personas que puedan representarlos.   
+[…]   
+    Dio gue a VS  
+    Jose de la Cruz Zenteno
+
+## Translation
+
+Mr. Minister,
+
+The war in which this Republic finds itself with Paraguay has awoken in the Mendocinos a great enthusiasm for defending their nation, and to that they are actively raising armies and drafting people.
+
+Since yesterday armed posses have begun to take every Chilean that they find without papers from his Consul; and since yesterday I have begun as well to give registration certificates to those that are registered, so that they let them free.
+
+It is probable that among the many Chileans who are not registered, and who cannot prove their nationality to get registered, they will be enrolled in the division that is going to leave for the front. There are many Chilean people in this Province and I think that they will be the ones who have to suffer more because of the aforementioned causes, and most especially those who live in the countryside without the protection of people who can represent them.  
+    […]  
+God be with Your Honor,  
+Jose de la Cruz Zenteno

@@ -5,6 +5,7 @@ drupal_node_id: 1540
 source_type: "Text"
 url: /bhakti-poets-poem-janabai
 image: /images/veena.jpg
+image_alt: "image of a veena"
 regions: 
   - "Asia"
 subjects: 

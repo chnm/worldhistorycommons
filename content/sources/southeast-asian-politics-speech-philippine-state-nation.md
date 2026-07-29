@@ -5,6 +5,7 @@ drupal_node_id: 1598
 source_type: "Text"
 url: /southeast-asian-politics-speech-philippine-state-nation
 image: /images/Icons-Document_353.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1229
 source_type: "Text"
 url: /taranaki-education-office-report-1898
 image: /images/Icons-Document_72.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

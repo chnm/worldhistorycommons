@@ -5,6 +5,7 @@ drupal_node_id: 1132
 source_type: "Text"
 url: /rejection-higher-age-consent-homosexual-acts
 image: /images/Icons-Document_7.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

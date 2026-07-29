@@ -25,6 +25,8 @@ related_sources:
   - link: "/world-light-map"
     image: "/images/LightMapTHUMB.jpeg"
     alt: "Map of the earth showing areas where lights can be seen from space at night"
+how_to_cite: |
+  "Primer: The History of Globalization," in World History Commons, https://worldhistorycommons.org/primer-history-globalization [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -55,22 +57,23 @@ This fast journey under the tracks of globalization had quickly brought us all t
 
 ![World Light Map](/images/LightMapTHUMB.jpeg)
 
-In ["38 maps that explain the global economy"](https://www.vox.com/2014/8/26/6063749/38-maps-that-explain-the-global-economy), Matthew Yglesias has captured for *Vox* the prominent features of our contemporary global economy and society. For example, this map from NASA is a composite satellite image that shows how each region of the world appears at night. The lights, Yglesias notes, serve as a rough proxy for the combination of wealth and population density. The collected maps in the *Vox* article can help you become familiar with and begin to analyze contemporary globalization. As historians, we should bring current globalization in dialogue with the past, but this is a two-way street: Going one direction, what are the past trajectories that landed us into these contemporary conditions described by the 38 maps? Going the other direction, what expressions of globalization or build-ups towards globalizations originating in the past are missing in these maps? This source is a part of the [*The History of Globalization*](https://worldhistorycommons.org/primer-history-globalization) methods primer.
+#### Annotation
 
+In ["38 maps that explain the global economy"](https://www.vox.com/2014/8/26/6063749/38-maps-that-explain-the-global-economy), Matthew Yglesias has captured for *Vox* the prominent features of our contemporary global economy and society. For example, this map from NASA is a composite satellite image that shows how each region of the world appears at night. The lights, Yglesias notes, serve as a rough proxy for the combination of wealth and population density. The collected maps in the *Vox* article can help you become familiar with and begin to analyze contemporary globalization. As historians, we should bring current globalization in dialogue with the past, but this is a two-way street: Going one direction, what are the past trajectories that landed us into these contemporary conditions described by the 38 maps? Going the other direction, what expressions of globalization or build-ups towards globalizations originating in the past are missing in these maps? This source is a part of the [*The History of Globalization*](https://worldhistorycommons.org/primer-history-globalization) methods primer.
 
 ## Bibliography
 
-D. Armitage, “Is There a Pre-History of Globalization?” in *Comparison and History: Europe in Cross-National Perspective*, ed. D. Cohen and M. O’Connor (New York and London: Routledge, 2004), 165–74.  
-R. Baldwin and P. Martin, “Two Waves of Globalization: Superficial Similarities, Fundamental Differences,” NBER Working Paper 6904 (Cambridge, 1999).  
-M. Bordo, “Globalization in Historical Perspective,” *Business Economics* (2002): 20–29.  
-C. Chase-Dunn, Y. Kawano, and B. Brewer, “Trade Globalization since 1795: Waves of Integration in the World-System,” *American Sociological Review* 65, no. 1 (2002): 77–95.  
-R. Feenstra, “Integration of Trade and Disintegration of Production in the Global Economy,” *Journal of Economic Perspectives* 12, no. 4 (1998): 31–50.  
-D. Flynn and A. Giráldez, “Path Dependence, Time Lags and the Birth of Globalisation: A Critique of O’Rourke and Williamson,” *European Review of Economic History* 8, no. 1 (2004): 85–108.  
-A. G. Hopkins, ed., *Globalization in World History* (London: Pimlico, 2002).  
-J. Osterhammel and N. Petersson, *Globalization: A Short History*, trans. D. Geyer (Princeton and Oxford: Princeton University Press, 2005).  
-K. O’Rourke and J. Williamson, “When Did Globalisation Begin?,” *European Review of Economic History* 6 (2002): 23–50.  
-K. O’Rourke and J. Williamson, *Globalization and History: The Evolution of a Nineteenth-Century Atlantic Economy* (Cambridge: MIT Press, 1999).  
-D. Olstein, A Brief History of Now. The Past and Present of Global Power. (New York: Palgrave Macmillan, 2021).  
-R. Robertson and D. Inglis, “The Global Animus,” in *Globalization and Global History*, ed. B. Gills and W. Thompson (London and New York: Routledge, 2006), 33–47.  
-J. A. Scholte, *Globalization: A Critical Introduction* (New York: Palgrave Macmillan, 2005), 117–19.  
+D. Armitage, “Is There a Pre-History of Globalization?” in *Comparison and History: Europe in Cross-National Perspective*, ed. D. Cohen and M. O’Connor (New York and London: Routledge, 2004), 165–74.<br>
+R. Baldwin and P. Martin, “Two Waves of Globalization: Superficial Similarities, Fundamental Differences,” NBER Working Paper 6904 (Cambridge, 1999).<br>
+M. Bordo, “Globalization in Historical Perspective,” *Business Economics* (2002): 20–29.<br>
+C. Chase-Dunn, Y. Kawano, and B. Brewer, “Trade Globalization since 1795: Waves of Integration in the World-System,” *American Sociological Review* 65, no. 1 (2002): 77–95.<br>
+R. Feenstra, “Integration of Trade and Disintegration of Production in the Global Economy,” *Journal of Economic Perspectives* 12, no. 4 (1998): 31–50.<br>
+D. Flynn and A. Giráldez, “Path Dependence, Time Lags and the Birth of Globalisation: A Critique of O’Rourke and Williamson,” *European Review of Economic History* 8, no. 1 (2004): 85–108.<br>
+A. G. Hopkins, ed., *Globalization in World History* (London: Pimlico, 2002).<br>
+J. Osterhammel and N. Petersson, *Globalization: A Short History*, trans. D. Geyer (Princeton and Oxford: Princeton University Press, 2005).<br>
+K. O’Rourke and J. Williamson, “When Did Globalisation Begin?,” *European Review of Economic History* 6 (2002): 23–50.<br>
+K. O’Rourke and J. Williamson, *Globalization and History: The Evolution of a Nineteenth-Century Atlantic Economy* (Cambridge: MIT Press, 1999).<br>
+D. Olstein, A Brief History of Now. The Past and Present of Global Power. (New York: Palgrave Macmillan, 2021).<br>
+R. Robertson and D. Inglis, “The Global Animus,” in *Globalization and Global History*, ed. B. Gills and W. Thompson (London and New York: Routledge, 2006), 33–47.<br>
+J. A. Scholte, *Globalization: A Critical Introduction* (New York: Palgrave Macmillan, 2005), 117–19.<br>
 D. Wilkinson, “Globalization: The First Ten, Hundred, Five Thousand, and Million Years,” in *Globalization and Global History*, ed. B. Gills and W. Thompson (London and New York: Routledge, 2006), 68–78.

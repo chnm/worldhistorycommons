@@ -5,6 +5,7 @@ drupal_node_id: 285
 source_type: "Image"
 url: /massacre-prisoners-st-germain-abbey
 image: /images/massacre-of-prisoners.jpg
+image_alt: "Woodcut print of massacre at Saint-Germain Abbey"
 regions: 
   - "Europe"
 subjects: 

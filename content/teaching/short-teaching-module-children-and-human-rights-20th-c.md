@@ -19,6 +19,8 @@ related_sources:
   - link: "/childrens-charter"
     image: "/images/Icons-Document-thumbnail_65.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Short Teaching Module: Children and Human Rights (20th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-children-and-human-rights-20th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -33,12 +35,16 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![The Children’s Charter](/images/Icons-Document-thumbnail_65.jpg)
 
+#### Annotation
+
 By the early 20th century, urbanization and industrialization led many reformers to focus on child welfare and a recognition of children's rights as separate from those of adults. Several years later, Congress responded by creating the U.S. Children's Bureau designed to report on "all matters" related to the "welfare of children and child life." The bureau was the first federal agency in the world mandated to focus solely on the interests of a nation's youngest citizens. By 1930, the White House Conference on Child Health and Protection spelled out the specific rights of modern childhood in this Children's Charter. Does this charter specify rights unique to children? How could the rights in this charter be fulfilled?
 This source is a part of the [*Children and Human Rights (20th c.)*](https://worldhistorycommons.org/short-teaching-module-children-and-human-rights-20th-c) teaching module.
 
 ### [Universal Declaration of Human Rights](/universal-declaration-human-rights)
 
 ![Universal Declaration of Human Rights](/images/Icons-Document-thumbnail_2.jpg)
+
+#### Annotation
 
 The years following World War II marked a key shift in international policy related to human rights. Few, however, connect the history of human rights to the children's rights movement. By the early 20th century, urbanization and industrialization led many reformers to focus on child welfare and on children's rights as separate from those of adults. Several years later, Congress responded by creating the U.S. Children's Bureau, the first federal agency in the world mandated to focus solely on the interests of a nation's youngest citizens. The United Nations, influenced by the exposure of Nazi war crimes and the world-wide refugee problem and drawing upon earlier debates over rights, including those of children, ratified the Universal Declaration of Human Rights, on December 10, 1948. Eleven years later, in November 1959, the U.N. adopted the Declaration on the Rights of the Child. This source is a part of the [*Children and Human Rights (20th c.)*](https://worldhistorycommons.org/short-teaching-module-children-and-human-rights-20th-c) teaching module.
 
@@ -48,10 +54,11 @@ This source is part of the [Analyzing Official Documents](https://worldhistoryco
 
 ![Convention on the Rights of the Child](/images/Icons-Document-thumbnail_1.jpg)
 
+#### Annotation
+
 Official interest in the rights of children has grown over the course of the 20th century. Urbanization and industrialization led reformers at the turn of the century to focus on child welfare and on children's rights as separate from those of adults. The American Congress responded by creating the U.S. Children's Bureau, the first federal agency in the world mandated to focus solely on the interests of a nation's youngest citizens. In 1924, the League of Nations adopted the Geneva Declaration of the Rights of the Child. More than 30 years later, the U.N. adopted the Declaration on the Rights of the Child and another 30 years passed before the United Nations ratified the Convention on the Rights of the Child.
 By the fall of 1990, 20 U.N. member nations signed the Convention, qualifying it as international law. As of 2008, all member nations except the U.S. and Somalia had signed the document, although that may change under the Obama administration. The Convention describes in detail many protections and rights for children. How do these differ from human rights for adults? According to the document, what is the role of individual states in protecting children?
 This source is a part of the [*Children and Human Rights (20th c.)*](https://worldhistorycommons.org/short-teaching-module-children-and-human-rights-20th-c) teaching module.
-
 
 ## Teaching Strategies
 
@@ -67,9 +74,9 @@ My teaching experience is with college students, but the topic of children's rig
 
 This teaching-case study utilizes three primary source documents to link the history of children's rights and human rights in 20th-century diplomatic history.
 
-1930 White House Conference Children's Charter  
-1948 United Nations Universal Declaration of Human Rights  
-1989 United Nations Convention on the Rights of the Child.  
+1930 White House Conference Children's Charter<br>
+1948 United Nations Universal Declaration of Human Rights<br>
+1989 United Nations Convention on the Rights of the Child.<br>
 For students with no previous exposure to the notion of rights, I begin class discussion by introducing the opening section of the 1776 American Declaration of Independence, "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the Pursuit of Happiness."
 
 Even students with only a limited knowledge of U.S. history recognize the reality that "unalienable rights" was malleable at the time and broadened to include a larger number of American citizens over time. With upper-level students I find it useful to also include references to the 13th, 14th, 15th, and 19th amendments of the U.S. Constitution.

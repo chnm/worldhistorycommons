@@ -5,6 +5,7 @@ drupal_node_id: 1098
 source_type: "Image"
 url: /jemmapes-6-november-1792
 image: /images/d1b49f5c867d7757dab03898e385dbf5.jpg
+image_alt: "Engraving of French citizen-soldiers at the Battle of Jemmapes"
 regions: 
   - "Europe"
 subjects: 
@@ -24,3 +25,8 @@ how_to_cite: |
 ---
 
 This engraving of the battle of Jemappes, preromantic in its composition and style, depicts a group of French citizen–soldiers bravely risking themselves under the banner of liberty and overcoming all foes in marching to victory—a motif that would become common in the nineteenth century.
+
+## Translation
+
+Title in French  
+Jemmapes, 6 Novembre 1792

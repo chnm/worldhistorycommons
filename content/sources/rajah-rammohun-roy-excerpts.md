@@ -5,6 +5,7 @@ drupal_node_id: 382
 source_type: "Text"
 url: /rajah-rammohun-roy-excerpts
 image: /images/translation.jpg
+image_alt: "Title page of Translation of Several Principal Books"
 regions: 
   - "Asia"
 subjects: 

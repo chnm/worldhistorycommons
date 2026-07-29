@@ -5,6 +5,7 @@ drupal_node_id: 990
 source_type: "Image"
 url: /napoleon-italy-1796-97
 image: /images/napoleon-in-italy.jpg
+image_alt: "Napoleon in Italy 1796-97"
 regions: 
   - "Europe"
 subjects: 

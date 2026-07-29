@@ -5,6 +5,7 @@ drupal_node_id: 181
 source_type: "Image"
 url: /emblematical-view-constitutions-england-and-france
 image: /images/d46c333b0d64393a26200dec2910639e.jpg
+image_alt: "Engraving comparing British and French ideologies"
 regions: 
   - "Europe"
 subjects: 

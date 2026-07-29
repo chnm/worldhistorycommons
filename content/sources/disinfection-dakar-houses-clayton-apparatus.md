@@ -5,6 +5,7 @@ drupal_node_id: 2872
 source_type: "Image"
 url: /disinfection-dakar-houses-clayton-apparatus
 image: /images/Disinfection.jpg
+image_alt: "Photo shows three men in pith helmets with a device on a cart in the foreground. A small hut is in the background."
 regions: 
   - "Africa"
   - "Europe"

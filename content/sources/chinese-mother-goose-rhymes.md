@@ -5,6 +5,12 @@ drupal_node_id: 396
 source_type: "Text"
 url: /chinese-mother-goose-rhymes
 image: /images/grandpa-feeds-baby.jpg
+image_alt: "Image of \"Grandpa Feeds Baby\" rhyme"
+additional_images:
+  - src: "/images/source-media/396/ungrateful-son.png"
+    alt: "Image of \"The Ungrateful Son\" rhyme"
+  - src: "/images/source-media/396/sister-in-law.png"
+    alt: "Image of \"The Mischievous Sister-in-Law\" rhyme"
 regions: 
   - "Asia"
 subjects: 

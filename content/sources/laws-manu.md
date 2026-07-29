@@ -5,6 +5,7 @@ drupal_node_id: 2960
 source_type: "Image"
 url: /laws-manu
 image: /images/Manusmriti_2.jpg
+image_alt: "The cover of a Hindi copy of the Laws of Manu"
 regions: 
   - "Asia"
 subjects: 

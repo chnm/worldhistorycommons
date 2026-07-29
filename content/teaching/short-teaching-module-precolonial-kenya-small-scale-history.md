@@ -23,6 +23,8 @@ related_sources:
   - link: "/mijikenda-textiles"
     image: "/images/ClothTHUMB.jpeg"
     alt: "Photo shows strips of red cloth hanging from a cave ceiling"
+how_to_cite: |
+  "Short Teaching Module: Precolonial Kenya, a Small-Scale History," in World History Commons, https://worldhistorycommons.org/short-teaching-module-precolonial-kenya-small-scale-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -57,6 +59,8 @@ World historians frequently trace the movement of trade goods across large spati
 
 ![Mijikenda textiles](/images/ClothTHUMB.jpeg)
 
+#### Annotation
+
 Words are historical artifacts which can be analyzed as evidence much like written documents or material records. The words and meanings below all come from historical dictionaries, mostly from the nineteenth century. But they reveal much more ancient historical developments.
 
 In Mijikenda dialects:
@@ -78,7 +82,6 @@ Studying the word’s derivation, meanwhile, informs us of how people living aro
 The images to the left feature modern textile styles but they offer a good illustration of some of the ritual uses of textiles in Mijikenda communities. The top displays koma memorial posts which are adorned with colorful strips of cloth. The second image shows a muzimu, a natural space where spirits resided which were often located in caves, hollowed tree stumps, or small forest groves. Notice that the cave features strips of colorful cloth along with offerings for the spirits known to inhabit these spaces.
 
 This source is part of the [Precolonial Kenya, a Small-Scale History teaching module](https://worldhistorycommons.org/short-teaching-module-precolonial-kenya-small-scale-history).
-
 
 ## Bibliography
 

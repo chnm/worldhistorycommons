@@ -5,6 +5,7 @@ drupal_node_id: 2532
 source_type: "Text"
 url: /excerpt-letter-lady-mary-wortley
 image: /images/View_Document_Image_15_1.jpeg
+image_alt: "Document icon"
 regions: 
   - "Comparative"
   - "Europe"

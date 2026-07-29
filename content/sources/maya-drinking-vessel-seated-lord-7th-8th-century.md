@@ -5,6 +5,7 @@ drupal_node_id: 2837
 source_type: "Object"
 url: /maya-drinking-vessel-seated-lord-7th-8th-century
 image: /images/1992.4_b.JPG
+image_alt: "A ceramic cup with a scene of a seated lord carved into the side."
 regions: 
   - "North/Central America"
 subjects: 

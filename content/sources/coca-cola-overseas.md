@@ -5,6 +5,7 @@ drupal_node_id: 2822
 source_type: "Image"
 url: /coca-cola-overseas
 image: /images/Reggio_calabria_stabilimento_socib.jpeg
+image_alt: "Photograph of a factory or plant with a \"Coca Cola\" sign"
 regions: 
   - "Global"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1510
 source_type: "Text"
 url: /circular-elections
 image: /images/Icons-Document_281.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

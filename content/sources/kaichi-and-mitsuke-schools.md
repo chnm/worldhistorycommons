@@ -5,6 +5,10 @@ drupal_node_id: 76
 source_type: "Image"
 url: /kaichi-and-mitsuke-schools
 image: /images/formerkaichischool_5fff0282bd.jpg
+image_alt: "Side view of former Kaichi School"
+additional_images:
+  - src: "/images/source-media/76/formermisukeschool_897dfa2006.jpg"
+    alt: "Front view of former Kaichi School"
 regions: 
   - "Asia"
 subjects: 

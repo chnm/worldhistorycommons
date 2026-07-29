@@ -5,6 +5,12 @@ drupal_node_id: 2511
 source_type: "Object"
 url: /islamic-carpets
 image: /images/Safavid_Iran_Qazvin_Carpet_16th_century_VAM_1200px.jpeg
+image_alt: "Qazvin Carpet (\"Salting Carpet\")"
+additional_images:
+  - src: "/images/source-media/2511/Ottoman_Prayer_Rug_18th_Century_MET_0.jpeg"
+    alt: "Prayer (Sajjadah) Rug"
+  - src: "/images/source-media/2511/Ottoman_Prayer_Rug_18th_Century_Walters_1200px.jpeg"
+    alt: "Prayer (Sajjadah) Rug"
 regions: 
   - "Asia"
   - "Comparative"

@@ -5,6 +5,7 @@ drupal_node_id: 1125
 source_type: "Text"
 url: /dolbens-act-1788
 image: /images/Icons-Document_0.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

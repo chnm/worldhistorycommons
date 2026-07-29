@@ -5,6 +5,7 @@ drupal_node_id: 1274
 source_type: "Text"
 url: /learning-begins-womb-fetal-instruction
 image: /images/Icons-Document_109.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

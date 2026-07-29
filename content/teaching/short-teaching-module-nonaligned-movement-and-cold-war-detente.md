@@ -22,6 +22,8 @@ related_sources:
   - link: "/problems-third-world-development"
     image: "/images/3rdworlddevelopmentTHUMB.png"
     alt: "Text of speech. Transcription at link."
+how_to_cite: |
+  "Short Teaching Module: The Nonaligned Movement and Cold War Détente," in World History Commons, https://worldhistorycommons.org/short-teaching-module-nonaligned-movement-and-cold-war-detente [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -54,6 +56,8 @@ The NAM movement tried to turn these aims into reality with a variety of measure
 
 !["The Problems of Third World Development"](/images/3rdworlddevelopmentTHUMB.png)
 
+#### Annotation
+
 The text is an excerpt from the 1974 Houari Boumédiène’s speech to the 6th Special Session of the General Assembly of the United Nations. In the speech, the Algerian leader noted that one of the main global problems is uneven development across all countries rich and poor. Boumédiène thus proposed a new global economic order that would redistribute global wealth and solve developmental problems in the Global South.
 
 This source is part of the [Nonaligned Movement and Cold War Détente](https://worldhistorycommons.org/short-teaching-module-nonaligned-movement-and-cold-war-detente) teaching module.
@@ -62,10 +66,11 @@ This source is part of the [Nonaligned Movement and Cold War Détente](https://w
 
 ![Economic Declaration of Nonaligned Countries](/images/EconomicDecTHUMB.jpg)
 
+#### Annotation
+
 This document is part of the economic declaration of the Fourth Nonaligned Movement (NAM) conference in 1973 in Algiers, Algeria. Nonaligned countries noted that détente was a positive development in international relations, but it did not solve their developmental problems. The declaration condemned imperialism as the greatest danger for political and economic independence of nonaligned countries.
 
 This source is part of the [Nonaligned Movement and Cold War Détente](https://worldhistorycommons.org/short-teaching-module-nonaligned-movement-and-cold-war-detente) teaching module.
-
 
 ## Credits
 

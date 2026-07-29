@@ -5,6 +5,7 @@ drupal_node_id: 211
 source_type: "Text"
 url: /excerpt-ledyards-journal
 image: /images/journal-ledyard.jpg
+image_alt: "A Journal of Captain Cook's Last Voyage to the Pacific Ocean"
 regions: 
   - "North/Central America"
 subjects: 

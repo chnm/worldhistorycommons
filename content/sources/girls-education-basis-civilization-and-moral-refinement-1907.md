@@ -5,6 +5,7 @@ drupal_node_id: 1158
 source_type: "Text"
 url: /girls-education-basis-civilization-and-moral-refinement-1907
 image: /images/Icons-Article-Excerpt_1.jpg
+image_alt: "image of the article"
 regions: 
   - "Middle East"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 365
 source_type: "Object"
 url: /swaddled-children-terra-cotta-bas-reliefs
 image: /images/ospedale-innocenti-della-robbia.jpg
+image_alt: "Swaddled Children Terra Cotta Bas-Reliefs"
 regions: 
   - "Europe"
 subjects: 

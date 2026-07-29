@@ -5,6 +5,7 @@ drupal_node_id: 2348
 source_type: "Image"
 url: /hindu-princess-committing-sati-against-wishes-emperor-akbar
 image: /images/A_Hindu_princess_committing_suttee_against_the_wishes_of_the_Wellcome_L0022809.jpg
+image_alt: "Painting of a woman in the middle of a fire while a group stands around her."
 regions: 
   - "Asia"
 subjects: 

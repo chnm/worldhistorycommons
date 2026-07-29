@@ -5,6 +5,7 @@ drupal_node_id: 2753
 source_type: "Image"
 url: /frontispiece-sir-thomas-roe
 image: /images/863500001.jpg
+image_alt: "Frontispiece of Sir Thomas Roe"
 regions: 
   - "Asia"
   - "Europe"

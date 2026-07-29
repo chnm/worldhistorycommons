@@ -5,6 +5,7 @@ drupal_node_id: 349
 source_type: "Image"
 url: /robespierre-laid-table-committee-public-safety
 image: /images/c1dfbc1d1323302980beaa0a57e642df.jpg
+image_alt: "Engraving of Robespierre at table"
 regions: 
   - "Europe"
 subjects: 
@@ -27,3 +28,8 @@ how_to_cite: |
 ---
 
 This Dutch engraving, based on a sketch by Berthault, shows Robespierre laid out on the table where his Committee of Public Safety did its work. It is the morning of 10 Thermidor and having been condemned to death by the Convention the night before, Robespierre and his followers now face their demise, as soldiers come to take them to the guillotine.
+
+## Transcription
+
+**Title in French**  
+Robespierre overgebragt in de vóórzaal van het Committé van Algemeen Welzijn

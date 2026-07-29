@@ -5,6 +5,7 @@ drupal_node_id: 1070
 source_type: "Image"
 url: /louis-xvi-king-french-born-23-august-1754
 image: /images/ff921c35764e517bd28743fabb800f3a.jpg
+image_alt: "Image of King Louis XVI and Lafayette"
 regions: 
   - "Europe"
 subjects: 

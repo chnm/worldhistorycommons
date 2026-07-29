@@ -5,6 +5,7 @@ drupal_node_id: 1434
 source_type: "Image"
 url: /camila-ogorman
 image: /images/camila.jpg
+image_alt: "image of Camila O'Gorman (1828-1848)"
 regions: 
   - "South America"
 subjects: 

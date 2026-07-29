@@ -5,6 +5,7 @@ drupal_node_id: 47
 source_type: "Image"
 url: /recycled-wire-toy-truck-uganda
 image: /images/wire-truck_7dc5dd5b37_0.jpg
+image_alt: "Photo of a boy playing with a wire truck"
 regions: 
   - "Africa"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2878
 source_type: "Image"
 url: /outward-cargo-manifest-rowena-1841
 image: /images/RowenaManifest.png
+image_alt: "List of items in several columns. Explanation in annotation."
 regions: 
   - "Africa"
   - "Middle East"

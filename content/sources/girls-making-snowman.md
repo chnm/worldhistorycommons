@@ -5,6 +5,7 @@ drupal_node_id: 317
 source_type: "Image"
 url: /girls-making-snowman
 image: /images/girls-making-snowman.jpg
+image_alt: "Girls Making Snowman painting"
 regions: 
   - "North/Central America"
 subjects: 

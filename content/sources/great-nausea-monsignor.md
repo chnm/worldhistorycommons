@@ -5,6 +5,7 @@ drupal_node_id: 452
 source_type: "Image"
 url: /great-nausea-monsignor
 image: /images/4ed35d45d648077ac3f3107e1b0cfa06.jpg
+image_alt: "Engraving mocking the clergy"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,11 @@ how_to_cite: |
 ---
 
 This engraving focuses on expurgating the clergy, this time with vomiting as the intended method. Here, the cleric spits up the unfair advantages enjoyed in the old regime.
+
+## Transcription
+
+**Title in French**  
+Le Grand mal de coeur de Monseigneur
+
+**Caption**  
+Courage Mrg vous allé vous purgée de chose bien utile pour votre salut

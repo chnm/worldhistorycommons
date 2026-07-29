@@ -5,6 +5,7 @@ drupal_node_id: 144
 source_type: "Image"
 url: /trafficking-child-beggars-southeast-asia
 image: /images/child-trafficking--begging-photo_23418e4b5c.jpg
+image_alt: "Photo/ graph of child trafficking"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 172
 source_type: "Image"
 url: /grateful-france-proclaims-napoleon-first-emperor-frence
 image: /images/34865e90fcc71278b77615ae0a78ba6d.jpg
+image_alt: "Engraving of symbolic scene combining Roman and French themes"
 regions: 
   - "Europe"
 subjects: 
@@ -23,3 +24,7 @@ how_to_cite: |
 In this engraving, Roman and contemporary themes are combined to glorify the new emperor. The absence of any clear representation of revolutionary liberty shows Napoleon moving away from the events of the preceding decade.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Transcription
+
+La France reconnaissante proclame Napoléon 1.er empereur des Français.

@@ -5,6 +5,10 @@ drupal_node_id: 280
 source_type: "Image"
 url: /claude-antoine-rozet-paintings
 image: /images/Rozet-1.jpg
+image_alt: "Claude Antoine Rozet Paintings"
+additional_images:
+  - src: "/images/source-media/280/Rozet-2.jpg"
+    alt: "Claude Antoine Rozet Paintings"
 regions: 
   - "Africa"
   - "Europe"

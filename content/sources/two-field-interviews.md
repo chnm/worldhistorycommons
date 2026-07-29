@@ -5,6 +5,7 @@ drupal_node_id: 1370
 source_type: "Text"
 url: /two-field-interviews
 image: /images/Icons-Document_164.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

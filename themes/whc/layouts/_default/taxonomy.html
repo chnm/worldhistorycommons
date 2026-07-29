@@ -12,14 +12,14 @@
           {{ with .Params.image }}
           <div class="views-field views-field-field-image-thumbnail">
             <div class="field-content">
-              <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+              <img src="{{ . }}" alt="" loading="lazy">
             </div>
           </div>
           {{ end }}
           <div class="views-field views-field-field-annotation">
             <div class="field-content">
               <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-              <p>{{ .Summary }}</p>
+              <p>{{ partial "first-sentence.html" . }}</p>
             </div>
           </div>
         </div>

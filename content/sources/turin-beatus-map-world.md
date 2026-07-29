@@ -5,6 +5,7 @@ drupal_node_id: 2411
 source_type: "Image"
 url: /turin-beatus-map-world
 image: /images/E0560028-Coloured_8th_century_Turin_Map_of_the_world.jpg
+image_alt: "The Turin Beatus Map of the World"
 regions: 
   - "Europe"
   - "Global"

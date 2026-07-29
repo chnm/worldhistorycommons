@@ -5,6 +5,7 @@ drupal_node_id: 377
 source_type: "Text"
 url: /peter-kolb-travel-narrative-1
 image: /images/caput-bonae.png
+image_alt: "Title pages of travel narrative"
 regions: 
   - "Africa"
 subjects: 

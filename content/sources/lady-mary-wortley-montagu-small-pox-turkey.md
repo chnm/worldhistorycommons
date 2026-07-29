@@ -5,6 +5,7 @@ drupal_node_id: 401
 source_type: "Text"
 url: /lady-mary-wortley-montagu-small-pox-turkey
 image: /images/lettersofmontague.jpg
+image_alt: "Title page of Letters of the Right Honourable Lady"
 regions: 
   - "Asia"
   - "Europe"

@@ -5,6 +5,7 @@ drupal_node_id: 2857
 source_type: "Image"
 url: /hickys-bengal-gazette
 image: /images/hbg1781_7_0001.jpg
+image_alt: "Front page of Hicky's Bengal Gazette Newspaper"
 regions: 
   - "Asia"
   - "Europe"

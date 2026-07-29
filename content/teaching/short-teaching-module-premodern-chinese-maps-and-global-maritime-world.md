@@ -18,6 +18,8 @@ related_sources:
   - link: "/navigational-charts-based-those-used-zheng-he"
     image: "/images/Stellardiagram-ZhenghoTHUMB.jpg"
     alt: "Stellar diagram features a drawing of a ship surrounded by Chinese characters"
+how_to_cite: |
+  "Short Teaching Module: Premodern Chinese Maps and the Global Maritime World," in World History Commons, https://worldhistorycommons.org/short-teaching-module-premodern-chinese-maps-and-global-maritime-world [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -36,7 +38,7 @@ In 2008, Robert Batchelor discovered what is now known as the Selden Map in the 
 
 Aside from these maps focusing on maritime space, we can also draw conclusions about China’s maritime connection through maps of China that mark non-Chinese regions. The earliest extant Chinese maps that show maritime regions from the twelfth century do not map countries based on their shape but mark them as small circles or rectangles in the ocean next to China, which is usually mapped in more detail. For the mapmakers, only the fact that these countries existed was important. The shape, and their location relative to each other was unimportant, as were the names and locations of cities in these countries. The practice of mapping maritime space in this way continued well into the nineteenth century.
 
-Over time the regions and selection of countries changed, partly influenced by China’s changing relations with other regions of the world. The labelling with place names of the islands and not their shape is important to understanding the space. This means that the choice of space can be looked at detached from the shape of the islands/continents.  
+Over time the regions and selection of countries changed, partly influenced by China’s changing relations with other regions of the world. The labelling with place names of the islands and not their shape is important to understanding the space. This means that the choice of space can be looked at detached from the shape of the islands/continents.<br>
 One of the most fundamental questions we should ask about these maps (any map for that matter) therefore is: Which space and region does it depict? The answer to this question is not always intuitive, as the map does not follow map conventions we understand as standard today. To our eyes today, the Selden Map looks much more familiar than the Zheng He Map and we can identify islands and landmasses just by looking at the Selden Map but not the Zheng He Map.
 
 However, to fully understand Chinese maps, we need to let go of a singular idea how maps should look like based on our understanding today such as that maps should be oriented to the north, that the most important indicator of “accuracy” is the shape of the coastlines, or that a map should have a fixed scale. Matthew Edney recently argued that these assumptions of what makes a map are only an “ideal” of cartography, and these questions are true not only for Chinese maps, but for all maps. We should keep this in mind and consider the historical context, time, and place the maps were made, especially when it comes to Chinese maps that might seem much more inaccessible and strange to non-Chinese readers.
@@ -51,6 +53,8 @@ As these examples show, Chinese maps can give us much information into the globa
 
 ![Navigational Charts Based on Those Used by Zheng He](/images/Stellardiagram-ZhenghoTHUMB.jpg)
 
+#### Annotation
+
 These two woodblock prints are part of a map printed in a seventeenth-century military treatise, and thought to be based on the maps used by Zheng He in his voyages. The map is therefore usually known as “Zheng He Map.” It depicts the coastline from China to the central eastern coast of Africa arranged as a long strip. The first of these prints shows Africa at the bottom and Ceylon at the upper right. (The Indian Ocean is not proportional in size to these, and the map has varying scale and orientation.) The second print is one of four stellar diagrams that were included along with the navigational charts, which shows the guiding stars en route from Hormuz to Calicut, the voyage described by Ma Huan [here](https://worldhistorycommons.org/excerpt-memoirs-ma-huan). At the top is the constellation known in the U.S. as the Big Dipper, long recognized as pointing toward the North Star. Navigators used the height of stellar constellations to determine latitude and help ensure correct navigation. In the middle of this stellar chart is an illustration of a ship similar to those on Zheng He’s voyages.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module, the [*Premodern Chinese Maps and the Global Maritime World*](https://worldhistorycommons.org/short-teaching-module-premodern-chinese-maps-and-global-maritime-world) teaching module, and the [*Primer: Oceans*](https://worldhistorycommons.org/primer-oceans) methods module.
 
@@ -58,24 +62,27 @@ This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1
 
 ![Guang yutu map](/images/iiif-service_asian_lcnclscd_THUMB.jpeg)
 
+#### Annotation
+
 The map of the “South-Eastern ocean barbarians” from the 1558 edition of the atlas *Guang yutu*. This atlas is divided into two parts, the first one deals with the geography of China, the second one with the Chinese borderlands, thematic maps, and maps of non-Chinese regions. This map shows the coast of China surrounded by many islands, all shaped more or less in the same way. These islands include countries and actual islands in East and Southeast Asia. Some of them are fictional and allude to concepts of geography nearly two millennia old at the time of printing the *Guang yutu*. This source is a part of the [*Premodern Chinese Maps and the Global Maritime World*](https://worldhistorycommons.org/short-teaching-module-premodern-chinese-maps-and-global-maritime-world) teaching module.
 
 ### [Selden Map](/selden-map)
 
 ![Selden Map](/images/SeldenTHUMB.jpeg)
 
+#### Annotation
+
 The Selden Map held by the Bodleian Library in Oxford, where it has been kept since 1659. This beautifully illustrated manuscript map shows East and Southeast Asia and marks maritime trading routes in the form of lines across the region. It was made in the first half of the seventeenth century somewhere in East or Southeast Asia.
 This source is a part of the [*Premodern Chinese Maps and the Global Maritime World*](https://worldhistorycommons.org/short-teaching-module-premodern-chinese-maps-and-global-maritime-world) teaching module.
 
-
 ## Bibliography
 
-Batchelor, Robert. London. *The Selden Map and the Making of a Global City, 1549–1689*. Chicago: The University of Chicago Press, 2014.  
-Brook, Timothy. *Mr. Selden’s Map of China. Decoding the Secrets of a Vanished Cartographer*. New York: Bloomsbury Press, 2013.  
-Edney, Matthew H. *Cartography: The Ideal and Its History*. Chicago: The University of Chicago Press, 2019.  
-Mills, J. V. G. *Ma Huan. Ying-Yai Sheng-Lan. The Overall Survey of the Ocean’s Shores [1433]*. Cambridge: Cambridge University Press, 1970.  
-Nie, Hongping Annie. *The Selden Map of China. A New Understanding of the Ming Dynasty*. Oxford: Bodleian Library, 2019.  
-Po, Ronald C. *The Blue Frontier. Maritime Vision and Power in the Qing Empire*. Cambridge: Cambridge University Press, 2018.  
+Batchelor, Robert. London. *The Selden Map and the Making of a Global City, 1549–1689*. Chicago: The University of Chicago Press, 2014.<br>
+Brook, Timothy. *Mr. Selden’s Map of China. Decoding the Secrets of a Vanished Cartographer*. New York: Bloomsbury Press, 2013.<br>
+Edney, Matthew H. *Cartography: The Ideal and Its History*. Chicago: The University of Chicago Press, 2019.<br>
+Mills, J. V. G. *Ma Huan. Ying-Yai Sheng-Lan. The Overall Survey of the Ocean’s Shores [1433]*. Cambridge: Cambridge University Press, 1970.<br>
+Nie, Hongping Annie. *The Selden Map of China. A New Understanding of the Ming Dynasty*. Oxford: Bodleian Library, 2019.<br>
+Po, Ronald C. *The Blue Frontier. Maritime Vision and Power in the Qing Empire*. Cambridge: Cambridge University Press, 2018.<br>
 Ptak, Roderich. ‘Selected Problems Concerning the “Zheng He Map”: Questions without Answers’. *Journal of Asian History* 53.2 (2019): 179–214.
 
 ## Credits

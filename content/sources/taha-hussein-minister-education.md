@@ -5,6 +5,7 @@ drupal_node_id: 1157
 source_type: "Text"
 url: /taha-hussein-minister-education
 image: /images/Icons-Document_20.jpg
+image_alt: "image of the text"
 regions: 
   - "Middle East"
 subjects: 

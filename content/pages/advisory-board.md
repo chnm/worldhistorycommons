@@ -4,7 +4,7 @@ url: /advisory-board
 layout: people
 ---
 
-#### World History Commons Advisory Board members bring a commitment to humanities scholarship, pedagogy, digital humanities, and OERs. They provided extensive feedback on the scholarship, pedagogy, and usability of World History Commons at key points throughout the development process.
+## World History Commons Advisory Board members bring a commitment to humanities scholarship, pedagogy, digital humanities, and OERs. They provided extensive feedback on the scholarship, pedagogy, and usability of World History Commons at key points throughout the development process.
 
 <hr class="about-divider">
 

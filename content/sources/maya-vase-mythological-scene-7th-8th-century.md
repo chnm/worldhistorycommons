@@ -5,6 +5,7 @@ drupal_node_id: 2836
 source_type: "Object"
 url: /maya-vase-mythological-scene-7th-8th-century
 image: /images/DP348021.jpg
+image_alt: "Cup inscribed with a figure holding a ceremonial ax in one hand."
 regions: 
   - "North/Central America"
 subjects: 

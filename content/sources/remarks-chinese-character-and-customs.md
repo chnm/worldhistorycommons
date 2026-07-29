@@ -5,6 +5,12 @@ drupal_node_id: 26
 source_type: "Text"
 url: /remarks-chinese-character-and-customs
 image: /images/chineserepositorvol12-1.jpg
+image_alt: "First page of “Remarks on Chinese Character and Customs” article"
+additional_images:
+  - src: "/images/source-media/26/chineserepositorvol12-2.jpg"
+    alt: "Second page of “Remarks on Chinese Character and Customs” article"
+  - src: "/images/source-media/26/chineserepositorvol12-3.jpg"
+    alt: "Third page of “Remarks on Chinese Character and Customs” article"
 regions: 
   - "Asia"
 subjects: 

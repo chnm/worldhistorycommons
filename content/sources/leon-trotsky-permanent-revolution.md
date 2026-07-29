@@ -5,6 +5,7 @@ drupal_node_id: 941
 source_type: "Text"
 url: /leon-trotsky-permanent-revolution
 image: /images/Leon-trotsky.jpg
+image_alt: "Leon Trotsky"
 regions: 
   - "Asia"
   - "Europe"

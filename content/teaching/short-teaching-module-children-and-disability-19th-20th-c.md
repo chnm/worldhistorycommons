@@ -16,6 +16,8 @@ related_sources:
   - link: "/1879-cleveland-protestant-orphan-asylum-annual-reports"
     image: "/images/Icons-Document-thumbnail_66.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Short Teaching Module: Children and Disability (19th, 20th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-children-and-disability-19th-20th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -30,6 +32,8 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![1879 Cleveland Protestant Orphan Asylum Annual Reports](/images/Icons-Document-thumbnail_66.jpg)
 
+#### Annotation
+
 The official records and reports of social welfare agencies and institutions provide insight into societal beliefs and attitudes related to deviance and changes in those beliefs and attitudes over time. While review of such documents may in some instances reveal radical changes in an agency's mission, more often what unfolds is a narrative of an evolutionary process anchored by consistent themes. Such is the case with the many child welfare agencies founded in the mid-19th century as orphan "asylums." Over time, they came to redefine their mission vis-à-vis dependent children from sheltering to changing.
 The Cleveland Protestant Orphan Asylum (CPOA, later renamed BeechBrook) was established by a religious organization, as many were in this era, and began with what is often described as a child-rescue mission. The 1879 Annual Report of CPOA demonstrates their original purpose of ". . . sheltering orphaned and destitute children." The 1879 Report is especially instructive because it describes children who had been served since the agency's founding in 1852. The annual report also describes the goal of physically moving children in response to the "increasing call for shelter for orphans," with the goal of either "returning" or "placing out" with another family every child who was admitted. CPOA's annual reports summarize the agency's success in achieving that goal.
 Additional records are available on this topic: American School for the Deaf, Perkins School, and others via the Disability History Museum.
@@ -39,11 +43,12 @@ This source is a part of the [*Children and Disability (19th, 20th c.)*](https:/
 
 ![1919 Cleveland Protestant Orphan Asylum Annual Report](/images/orphan15THUMB_0.jpg)
 
+#### Annotation
+
 The official records and reports of social welfare agencies and institutions provide insight into societal beliefs and attitudes related to deviance and changes in those beliefs and attitudes over time. While review of such documents may in some instances reveal radical changes in an agency's mission, more often what unfolds is a narrative of an evolutionary process anchored by consistent themes. Such is the case with the many child welfare agencies founded in the mid-19th century as orphan "asylums." Over time, they came to redefine their mission vis-à-vis dependent children from sheltering to changing.
 The Cleveland Protestant Orphan Asylum (CPOA, later renamed BeechBrook) was established by a religious organization, as many were in this era, and began with what is often described as a child-rescue mission. The year 1919 marked the first time in which specific reference was made to "difficult" (though still considered redeemable) children. Of the 296 children served, 85 had been placed in foster homes and 132 had been "returned to friends" (typically a parent or close relative). Over the next few decades, the agency reports document increasing numbers of "difficult" children. The growing discussion of degrees of difficulty, as well as evidence such as engaging psychiatric consultation, indicate movement toward the agency's present role within the mental health system.
 Additional records are available on this topic: American School for the Deaf, Perkins School, and others via the Disability History Museum.
 This source is a part of the [*Children and Disability (19th, 20th c.)*](https://worldhistorycommons.org/short-teaching-module-children-and-disability-19th-20th-c) teaching module.
-
 
 ## Teaching Strategies
 

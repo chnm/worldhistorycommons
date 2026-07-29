@@ -5,6 +5,7 @@ drupal_node_id: 985
 source_type: "Image"
 url: /robespierre-10-thermidor-exposition-1877-0
 image: /images/robespierre.png
+image_alt: "Robespierre 10 Thermidor painting"
 regions: 
   - "Europe"
 subjects: 

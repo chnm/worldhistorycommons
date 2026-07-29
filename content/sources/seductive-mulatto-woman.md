@@ -5,6 +5,7 @@ drupal_node_id: 1519
 source_type: "Text"
 url: /seductive-mulatto-woman
 image: /images/Icons-Document_290.jpg
+image_alt: "Translation of text from original document"
 regions: 
   - "Global"
 subjects: 

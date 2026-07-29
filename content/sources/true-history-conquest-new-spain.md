@@ -5,6 +5,7 @@ drupal_node_id: 2062
 source_type: "Text"
 url: /true-history-conquest-new-spain
 image: /images/Historia_verdadera_conquista_Nueva_Espana_portada.jpeg
+image_alt: "Title page of The True History of the Conquest of New Spain by Bernal Díaz del Castillo"
 regions: 
   - "North/Central America"
 subjects: 

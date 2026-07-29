@@ -5,6 +5,7 @@ drupal_node_id: 315
 source_type: "Image"
 url: /piegan-play-tipi
 image: /images/play-tipi.jpg
+image_alt: "Piegan Play Tipi"
 regions: 
   - "North/Central America"
 subjects: 

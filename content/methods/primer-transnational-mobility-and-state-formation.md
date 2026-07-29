@@ -24,6 +24,8 @@ related_sources:
   - link: "/chilean-consul-writes-immigrants-needing-assistance-1864"
     image: "/images/Zenteno1864THUMB.JPG"
     alt: "Photo of handwritten letter. Transcription and translation on source page."
+how_to_cite: |
+  "Primer: Transnational Mobility and State Formation," in World History Commons, https://worldhistorycommons.org/primer-transnational-mobility-and-state-formation [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -60,6 +62,8 @@ In sum, transnational mobility has been foundational to the creation of modern n
 
 ![Chilean Consul Writes of Immigrants Needing Assistance, 1864](/images/Zenteno1864THUMB.JPG)
 
+#### Annotation
+
 Found in the National Archive of Chile, this is a letter from José de la Cruz Zenteno, the Chilean consul in Mendoza, Argentina to the Minister of Foreign Relations in Chile. Mendoza was and is a province that borders Chile. In the 1860s when the letter was written, state institutions in Argentina and Chile were undergoing significant changes and Chilean migration to Argentina was increasing. In this letter, he refers to Chilean immigrants asking for alms and help from the consulate in the years after the 1861 earthquake in Mendoza that destroyed significant portions of the city. This letter and [another from Zenteno](https://worldhistorycommons.org/chilean-consul-writes-immigrants-seeking-avoid-military-service-1865) show how transnational migrations impacted Chilean state formation, through institutions like the consulate, and state formation at a provincial level in Mendoza, Argentina.
 
 This source is part of the [transnational mobility and state formation methods primer](https://worldhistorycommons.org/primer-transnational-mobility-and-state-formation).
@@ -68,9 +72,10 @@ This source is part of the [transnational mobility and state formation methods p
 
 ![Chilean Consul Writes of Immigrants Seeking to Avoid Military Service, 1865](/images/Zenteno1865THUMB.jpg)
 
-This document is a portion of a letter, written by José de la Cruz Zenteno, the Chilean consul in Mendoza, Argentina to the Minister of Foreign Relations in Chile is from the National Archive of Chile. Mendoza was and is an Argentinian province that borders Chile. In the 1860s when the letter was written, state institutions in Argentina and Chile were undergoing significant changes and Chilean migration to Argentina was increasing. In this document, Zenteno talks of Chileans relying on the consulate to get out of military service at the onset of the War of the Triple Alliance (1864-1870) involving Argentina, Brazil, Uruguay, and Paraguay. This letter and [another from Zenteno](https://worldhistorycommons.org/chilean-consul-writes-immigrants-needing-assistance-1864) show how transnational migrations impacted Chilean state formation, through institutions like the consulate, and state formation at a provincial level in Mendoza, Argentina. These migrants often challenged the provincial government’s authority over labor migrants by using the Chilean consulate as protection.  
-This source is part of the [transnational mobility and state formation methods primer](https://worldhistorycommons.org/primer-transnational-mobility-and-state-formation).
+#### Annotation
 
+This document is a portion of a letter, written by José de la Cruz Zenteno, the Chilean consul in Mendoza, Argentina to the Minister of Foreign Relations in Chile is from the National Archive of Chile. Mendoza was and is an Argentinian province that borders Chile. In the 1860s when the letter was written, state institutions in Argentina and Chile were undergoing significant changes and Chilean migration to Argentina was increasing. In this document, Zenteno talks of Chileans relying on the consulate to get out of military service at the onset of the War of the Triple Alliance (1864-1870) involving Argentina, Brazil, Uruguay, and Paraguay. This letter and [another from Zenteno](https://worldhistorycommons.org/chilean-consul-writes-immigrants-needing-assistance-1864) show how transnational migrations impacted Chilean state formation, through institutions like the consulate, and state formation at a provincial level in Mendoza, Argentina. These migrants often challenged the provincial government’s authority over labor migrants by using the Chilean consulate as protection.<br>
+This source is part of the [transnational mobility and state formation methods primer](https://worldhistorycommons.org/primer-transnational-mobility-and-state-formation).
 
 ## Bibliography
 
@@ -102,7 +107,7 @@ Sell, Zach. *Trouble of the World: Slavery and Empire in the Age of Capital*. Ch
 
 ---
 
-Torpey, John C. *The Invention of the Passport: Surveillance, Citizenship, and the State*. New York: Cambridge   
+Torpey, John C. *The Invention of the Passport: Surveillance, Citizenship, and the State*. New York: Cambridge <br>
 University Press, 2000
 
 ## Credits

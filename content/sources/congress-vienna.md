@@ -5,6 +5,7 @@ drupal_node_id: 1014
 source_type: "Image"
 url: /congress-vienna
 image: /images/congress-of-vienna.jpg
+image_alt: "Congress of Vienna"
 regions: 
   - "Europe"
 subjects: 

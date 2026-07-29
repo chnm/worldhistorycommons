@@ -5,6 +5,9 @@ drupal_node_id: 103
 source_type: "Audio"
 url: /education-warzone
 image: 
+audio_files:
+  - src: "/audio/source-media/103/sss_20080413.mp3"
+    label: "Download audio"
 regions: 
   - "Middle East"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2551
 source_type: "Text"
 url: /bernard-clairvauxs-apologia
 image: /images/ViewDocumentImage_0_0.jpeg
+image_alt: "Document icon"
 regions: 
   - "Europe"
 subjects: 

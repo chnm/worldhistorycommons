@@ -5,6 +5,7 @@ drupal_node_id: 1290
 source_type: "Text"
 url: /autobiography-katsu-kokichi
 image: /images/Icons-Book-Excerpt_9.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

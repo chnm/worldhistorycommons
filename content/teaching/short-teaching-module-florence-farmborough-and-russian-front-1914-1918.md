@@ -19,6 +19,8 @@ related_sources:
   - link: "/florence-farmboroughs-journal"
     image: "/images/florence-farmborough-thumbnail.jpeg"
     alt: "Florence Farmborough"
+how_to_cite: |
+  "Short Teaching Module: Florence Farmborough and the Russian Front, 1914-1918," in World History Commons, https://worldhistorycommons.org/short-teaching-module-florence-farmborough-and-russian-front-1914-1918 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -33,9 +35,10 @@ This short teaching module includes suggestions for discussing and engaging with
 
 ![Florence Farmborough’s Journal](/images/florence-farmborough-thumbnail.jpeg)
 
+#### Annotation
+
 Florence Farmborough was an English nurse working on the Russian front during World War I. Her diary contains many descriptive, lively accounts of the war and the very active role played by women, both in the traditional role as caretakers of the wounded, but also as fighters.
 This source is a part of the [*Florence Farmborough and the Russian Front, 1914-1918*](https://worldhistorycommons.org/short-teaching-module-florence-farmborough-and-russian-front-1914-1918) teaching module.
-
 
 ## Teaching Strategies
 

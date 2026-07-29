@@ -5,6 +5,7 @@ drupal_node_id: 1600
 source_type: "Text"
 url: /gender-and-health-latin-america-official-document-womens-status-latin-america
 image: /images/Icons-Document_355.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

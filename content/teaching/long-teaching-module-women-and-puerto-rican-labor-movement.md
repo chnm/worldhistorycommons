@@ -26,6 +26,8 @@ related_sources:
   - link: "/workers-celebration"
     image: "/images/denissource-thumbnail.jpeg"
     alt: ""
+how_to_cite: |
+  "Long Teaching Module: Women and the Puerto Rican Labor Movement," in World History Commons, https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -88,12 +90,16 @@ Official documents, census data, newspaper articles, and photographs from this t
 
 ![Puerto Rican Labor Movement and the 1940 Census](/images/censusdata-thumbnail.jpeg)
 
+#### Annotation
+
 This particular census table describes the types of jobs done by men and women. It illustrates how roles are assigned on a gendered basis. After the Great Depression of 1929, the world economy was in crisis. The United States promoted agriculture to improve the economy and the lives of its citizens. Puerto Rico, as part of the insular possession of the United States, was included in this plan. Thus, an economic plan was implemented to increase the agricultural output of the island. The sugar and tobacco industries became the main source of labor. Men usually worked in the fields while women did other tasks in the factories, such as rolling tobacco leaves.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
 
 ### [Puerto Rican Labor Movement: Newspaper, Needle Worker Strike](/puerto-rican-labor-movement-newspaper-needle-worker-strike)
 
 ![Puerto Rican Labor Movement: Newspaper, Needle Worker Strike](/images/Icons-Article-Excerpt-thumbnail_15.jpg)
+
+#### Annotation
 
 This is an excerpt from article published in the newspaper, La Democracía. This article shows how the labor press was an important source of information for the working class. The use of the press created a sense of solidarity among the workers on the island and around the world. In this article, the needleworker women’s union and local employers failed to reach an agreement in salary negotiations. When no salary agreement was reached, employers set a fixed rate which the union felt was inadequate, so the women voted to strike. Women organized into unions to strengthen their power to demand better working conditions. Notice that other unions from around the island supported the needleworkers in Ponce by also striking.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
@@ -102,12 +108,16 @@ This source is a part of the [*Women and the Puerto Rican Labor Movement*](https
 
 ![Photograph, Needleworker](/images/seamstress_0.jpeg)
 
+#### Annotation
+
 This photograph illustrates a home needleworker in the streets of San Juan around 1903. At this time, and afterwards, almost all needlework was done at home. Working at home allowed women to negotiate their own contracts with agents, who commissioned certain types and styles of work. In the best situations, a talented worker could command a salary commensurate with her skill. In the worst situations, an agent could exploit women workers. Compare the working conditions here with other sources showing women's work in factories in the 1930s and 1940s.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
 
 ### [Workers’ Celebration](/workers-celebration)
 
 ![Workers’ Celebration](/images/denissource-thumbnail.jpeg)
+
+#### Annotation
 
 When Americans arrived on the island, the labor movement in Puerto Rico was in its infancy. Labor leaders were aware of the reputation of the U.S. labor unions, so they worked to affiliate with the American Federation of Labor (AFL) as early as 1899. Local labor unions adopted the celebrations and rituals of similar unions in the United States and around the world. Thus, it is not surprising to see Puerto Rican workers, including women, celebrating Labor Day in 1918. In the wake of their colonial status under a new power, Puerto Rican workers struggled with new political developments, and this kind of celebration was used as a vehicle to remind them of the union’s commitment to the cause of the working class. This photograph depicts a tobacco stemmers (*desaplilladoras*) union. Notice that the banner contains words in English, which may indicate their affiliation with U.S. labor unions.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
@@ -116,12 +126,16 @@ This source is a part of the [*Women and the Puerto Rican Labor Movement*](https
 
 ![Puerto Rican Labor Movement: Magazine, Eleanor Roosevelt](/images/Icons-Document-thumbnail_431.jpg)
 
+#### Annotation
+
 After her trip in the Caribbean in the summer of 1934, Mrs. Roosevelt, who had a column in the magazine Women’s Home Companion, recorded her impressions of Puerto Rico, including the island’s people and culture. She assessed the precarious living conditions of the islanders, and the impact of the Depression. Mrs. Roosevelt also highlighted the role of Puerto Rican women in the labor force. In this column, the First Lady describes the needlework Puerto Rican women do at home as beautiful, but underpaid. She claims that factory needlework provides fair wages. Compare that claim with other sources.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
 
 ### [Official Document, Women's Employment](/official-document-womens-employment)
 
 ![Official Document, Women's Employment](/images/manningreport_0.jpeg)
+
+#### Annotation
 
 The National Recovery Administration (NRA) was a New Deal response to the Depression to stabilize and energize the economy of the United States. One function of the NRA was to set industry standards for products, production methods, and wages. The codes developed for U.S. garment workers were applied to Puerto Rico in July 1933, and by August there were already major strikes.
 The code had very negative effects in Puerto Rico. Home needleworkers had previously been paid by the number and quality of pieces they produced, and were contracted by intermediate agents. Under the U.S.-imposed codes, the structure remained the same, only workers were paid by the hour. A major shift occurred, as needlework was no longer considered skilled labor, or the work of artisans, but rather unskilled labor. Recognizing the failure of the code and danger of strikes, the report below was commissioned to try to find ways to adapt the codes to the local situations of Puerto Rico.
@@ -131,12 +145,16 @@ This source is a part of the [*Women and the Puerto Rican Labor Movement*](https
 
 ![Puerto Rican Labor Movement: Newspaper, Needle Worker Strike](/images/Icons-Article-Excerpt-thumbnail_15.jpg)
 
+#### Annotation
+
 This is an excerpt from article published in the newspaper, La Democracía. This article shows how the labor press was an important source of information for the working class. The use of the press created a sense of solidarity among the workers on the island and around the world. In this article, the needleworker women’s union and local employers failed to reach an agreement in salary negotiations. When no salary agreement was reached, employers set a fixed rate which the union felt was inadequate, so the women voted to strike. Women organized into unions to strengthen their power to demand better working conditions. Notice that other unions from around the island supported the needleworkers in Ponce by also striking.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
 
 ### [Women's Union Telegram](/womens-union-telegram)
 
 ![Women's Union Telegram](/images/telegram-to-governor-puerto-rico-thumbnail.jpeg)
+
+#### Annotation
 
 That women in significant numbers were active participants in the Puerto Rican labor movement of the 1930s did not escape the attention of the government. Women’s unions demanded their rights through political channels as well as protest and striking. Of note is the political play the women used in first appealing to the Chief of Police, and then to the Governor, both of whom were appointed by the U.S. government. The telegram indicates that the strikers feared that the police were siding with the tobacco industry and failing to protect female strikers. Government interest in the activity of women’s labor is also indicated by the fact that the telegram sent to the Governor was then copied to the Chief of Police one day later.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
@@ -145,12 +163,16 @@ This source is a part of the [*Women and the Puerto Rican Labor Movement*](https
 
 ![Official Document, Police Letter](/images/report_1.jpeg)
 
+#### Annotation
+
 This letter documents the government's continued concern about women striking, as the Chief of Police for the Island reports new labor strike figures to the Governor. In this case, 638 women working as tobacco strippers went on strike. Also on strike were 300 sugarcane workers, most likely men.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
 
 ### [Sugarcane Workers Strike](/sugarcane-workers-strike)
 
 ![Sugarcane Workers Strike](/images/denissource8-thumbnail.jpeg)
+
+#### Annotation
 
 After the United States's occupation of Puerto Rico in 1898, agricultural production shifted from a diverse model of production to a mono-agricultural model of growth, where sugar was the main crop. American companies’ preference for cultivation of sugar over coffee and other crops broke with a long tradition of coffee *haciendas* or plantations. The growing number of sugar plantations owned by American companies displaced the *hacendados* or plantation owners from their land and power. At the same time, the focus on sugar increased labor demand, and sugarcane workers eventually composed the majority of the labor force in the island. As the demand for sugar products increased, working conditions deteriorated. For the workers, low wages, extended shifts, and poor working conditions were common features of the new economic order. Confrontations between the workers and sugar plantation managers were also the order of the day.
 Workers resorted to strikes as a strategy to make their demands heard. Hundred of strikes, in which women were prominent participants—like this sugarcane workers strike—were organized during in the first 30 years of the United States’s occupation.
@@ -160,6 +182,8 @@ This source is a part of the [*Women and the Puerto Rican Labor Movement*](https
 
 ![Tobacco Workers](/images/tobacco-stripper-thumbnail.jpeg)
 
+#### Annotation
+
 In addition to sugar, tobacco was important to Puerto Rico’s industrial agricultural order after the arrival of the United States. Puerto Rican women and men labored in a building called a *fabrica* (or factory). Women’s jobs consisted of being seated for long hours rolling tobacco leaves—as visible in this 1945 photograph of women working as tobacco-strippers in a factory.
 In addition to being the center of production, the tobacco factories served as center of gathering for both men and women to discuss many issues. Since rolling tobacco leaves is a tedious job with long hours, the workers did not have much time for relaxation. Thus, in their eagerness to learn and receive instruction while they worked, tobacco strippers established the tradition of hiring the *lectora* or *lector* (the reader), whose task was to read from newspapers and classic literary works to the workers while they performed their tasks. The workers paid the reader, who in many instances was a female.
 This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
@@ -168,8 +192,9 @@ This source is a part of the [*Women and the Puerto Rican Labor Movement*](https
 
 ![Puerto Rican Labor Movement: Official Document, Sterilization](/images/document_thumbnail.jpg)
 
-Thirty years after Mrs. Roosevelt visited the island of Puerto Rico, working women were still subject to exploitation in the industrial setting—in particular, to coerced sterilization. In this excerpt from a meeting between the Governor of Puerto Rico Luis Muñoz-Marín and his cabinet, one of his advisors informed him that in some companies sponsored by the government women were hired only if they agreed to undergo surgical sterilization. The governor ordered a complete investigation. This push for coerced sterilization was in part prompted by concerns about population growth, but it also raises questions about racial discrimination, and whether working women have been forced to cede their reproductive rights in order to secure their participation in the labor force. This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
+#### Annotation
 
+Thirty years after Mrs. Roosevelt visited the island of Puerto Rico, working women were still subject to exploitation in the industrial setting—in particular, to coerced sterilization. In this excerpt from a meeting between the Governor of Puerto Rico Luis Muñoz-Marín and his cabinet, one of his advisors informed him that in some companies sponsored by the government women were hired only if they agreed to undergo surgical sterilization. The governor ordered a complete investigation. This push for coerced sterilization was in part prompted by concerns about population growth, but it also raises questions about racial discrimination, and whether working women have been forced to cede their reproductive rights in order to secure their participation in the labor force. This source is a part of the [*Women and the Puerto Rican Labor Movement*](https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement) teaching module.
 
 ## Teaching Strategies
 
@@ -260,7 +285,7 @@ cooperate with a group in order to formulate an answer to a question.8. write a 
    + How would it be different if it were all men?
    + What does this indicate about women in the labor force?
 
-   Ask students whether this photographic source provides rich information, and if so, what.  
+   Ask students whether this photographic source provides rich information, and if so, what.<br>
    Ask if students have any questions before turning in their worksheets. Students turn in their worksheet before the end of class.
 3. **Homework:** Give students copies of Source 5: Magazine, Eleanor Roosevelt and the Primary Source Analysis Worksheet: Texts. Students will complete the worksheet, based on the Eleanor Roosevelt article, and bring to the next class.
 4. Review Source 5: Magazine, Eleanor Roosevelt and the Primary Source Analysis Worksheet: Texts. Return homework to students. Point out strengths and weaknesses of their responses. Ask for questions. Ask students what they learned about Puerto Rican women in the labor force. Ask students to offer responses for individual questions on the worksheet.

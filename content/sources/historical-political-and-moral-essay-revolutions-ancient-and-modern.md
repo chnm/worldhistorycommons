@@ -5,6 +5,7 @@ drupal_node_id: 954
 source_type: "Text"
 url: /historical-political-and-moral-essay-revolutions-ancient-and-modern
 image: /images/essay-on-revolutions.jpg
+image_alt: "Historical, Political, and Moral Essay on Revolutions, Ancient and Modern"
 regions: 
   - "Europe"
 subjects: 

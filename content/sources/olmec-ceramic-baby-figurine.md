@@ -5,6 +5,7 @@ drupal_node_id: 99
 source_type: "Object"
 url: /olmec-ceramic-baby-figurine
 image: /images/olmec_baby-face_figurine_-_snite_0f9b91420f.jpg
+image_alt: "Photo of ceramic sculpture of a child"
 regions: 
   - "North/Central America"
 subjects: 

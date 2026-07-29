@@ -5,6 +5,7 @@ drupal_node_id: 3047
 source_type: "Image"
 url: /inca-miniature-tunic
 image: /images/WHC_miniatrue_tunic.jpeg
+image_alt: "A tan colored tunic stretched to show the height and width. The tunic has a simple slit for the neck, a red and brown geometric design along the chest, and red embroidery along the hem."
 regions: 
   - "South America"
 subjects: 
@@ -23,7 +24,7 @@ time_periods:
 source_citation: |
   "Miniature Tunic," The Metropolitan Museum of Art, 14th-16th Century CE.
 credits: |
-  "Miniature Tunic," The Metropolitan Museum of Art, 14th-16th Century CE,<https://www.metmuseum.org/art/collection/search/316939>.
+  "Miniature Tunic," The Metropolitan Museum of Art, 14th-16th Century CE, <https://www.metmuseum.org/art/collection/search/316939>.
 how_to_cite: |
   "Inca Miniature Tunic ," in World History Commons, https://worldhistorycommons.org/inca-miniature-tunic [accessed April 8, 2026]
 ---

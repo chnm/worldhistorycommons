@@ -5,6 +5,7 @@ drupal_node_id: 1035
 source_type: "Image"
 url: /execrable-human-traffick-or-affectionate-slaves
 image: /images/painting-of-slave-sale.jpg
+image_alt: "Painting of a slave sale"
 regions: 
   - "North/Central America"
 subjects: 

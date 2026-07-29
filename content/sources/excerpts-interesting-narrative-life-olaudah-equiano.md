@@ -5,6 +5,7 @@ drupal_node_id: 394
 source_type: "Text"
 url: /excerpts-interesting-narrative-life-olaudah-equiano
 image: /images/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano_0.jpg
+image_alt: "Title page from The Interesting Narrative of the Life of Olaudah Equiano"
 regions: 
   - "Africa"
 subjects: 

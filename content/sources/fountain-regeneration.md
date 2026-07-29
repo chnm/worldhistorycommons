@@ -5,6 +5,7 @@ drupal_node_id: 574
 source_type: "Image"
 url: /fountain-regeneration
 image: /images/5e05c71ad54359b51f466f576ef2c4b3.jpg
+image_alt: "Engraving of the Festival of Reunion"
 regions: 
   - "Europe"
 subjects: 
@@ -30,3 +31,12 @@ how_to_cite: |
 ---
 
 In this engraving of the Festival of Reunion or Unity of 10 August 1793, a female statue of Nature in the form of the Egyptian goddess Isis represents the regeneration of the French people. It sits on the site of the Bastille prison, whose fall signaled the beginning of the Revolution. The engraving depicts the statue as made of stone, but in fact it was hastily constructed of papier mache. This engraving was printed in 1797 as part of a series of commemorative prints of events of the revolution.
+
+## Transcription
+
+**Title in French**  
+La Fontaine de la Régénération
+
+**Caption**
+
+Sur les débris de la Bastille, le 10 août 1793

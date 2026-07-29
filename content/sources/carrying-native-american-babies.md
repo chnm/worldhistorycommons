@@ -5,6 +5,12 @@ drupal_node_id: 321
 source_type: "Image"
 url: /carrying-native-american-babies
 image: /images/mother-carrying-baby.jpg
+image_alt: "Watercolor of a mother carrying her baby"
+additional_images:
+  - src: "/images/source-media/321/briefetruereport.jpg"
+    alt: "Painting of a Poemiooc mother with child"
+  - src: "/images/source-media/321/historyofvirginia3.jpg"
+    alt: "Engraving of women demonstrating three methods of carrying infants"
 regions: 
   - "North/Central America"
 subjects: 

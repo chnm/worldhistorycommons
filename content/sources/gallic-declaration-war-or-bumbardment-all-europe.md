@@ -5,6 +5,7 @@ drupal_node_id: 1095
 source_type: "Image"
 url: /gallic-declaration-war-or-bumbardment-all-europe
 image: /images/c95c0760fc44b589f788e327d9d6e3ab.jpg
+image_alt: "Image of British cartoon editorializing on the French Revolution"
 regions: 
   - "Europe"
 subjects: 

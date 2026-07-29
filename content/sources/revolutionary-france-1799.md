@@ -5,6 +5,7 @@ drupal_node_id: 971
 source_type: "Image"
 url: /revolutionary-france-1799
 image: /images/revolutionary-france.jpg
+image_alt: "Revolutionary France 1799"
 regions: 
   - "Europe"
 subjects: 

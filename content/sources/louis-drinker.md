@@ -5,6 +5,7 @@ drupal_node_id: 1071
 source_type: "Image"
 url: /louis-drinker
 image: /images/94294418771bec4cda2feddac7d76535.jpg
+image_alt: "Engraving portraying King Louis XVI as a drunkard"
 regions: 
   - "Europe"
 subjects: 

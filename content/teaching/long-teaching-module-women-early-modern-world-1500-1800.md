@@ -33,6 +33,8 @@ related_sources:
   - link: "/early-modern-period-nonfiction-confucian-doctrine"
     image: "/images/Icons-Document-thumbnail_392.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Long Teaching Module: Women in the Early Modern World, 1500-1800," in World History Commons, https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800 [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -65,6 +67,8 @@ However, this is not to say that women did not have a dissenting voice or did no
 
 ![Malleus Maleficarum, Witch Hunter Manual](/images/Malleus_maleficarum_thumbnail.jpeg)
 
+#### Annotation
+
 Perhaps the most spectacular manifestation of early modern European discrimination against women was the conviction of thousands of women for witchcraft. Over three centuries, more than 40,000 people were executed as witches, 75 percent of them female. The greatest witch hunts occurred from the 1550s to the 1660s in the Franco-German borderlands, areas wracked by the religious struggles of the Reformation.
 The following excerpt comes from the most famous manual for witch hunters, the *Malleus Maleficarum* (Hammer of Witches) written in 1487 by a Dominican monk, Heinrich Kramer (1430-1505). The Pope appointed Kramer an inquisitor in 1484, with the mission to eliminate heresy in southern Germany. Kramer moved ruthlessly to do away with witches, who were believed to gain evil powers through pacts with the Devil. Written to justify his actions, Kramer’s manual presented witchcraft as a growing threat to Christianity, arguing that witches not only used their powers against common folk, but also led Christians to perdition. Kramer also argued that women were particularly susceptible to the crime because of their inability to control their passions, a commonly-held viewpoint. Although never officially accepted by the Church, Kramer’s work greatly influenced secular magistrates across Europe; it was they who ordered the execution of the majority of so-called witches.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module.
@@ -73,12 +77,16 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 
 ![The Voyages and Adventures of Ferdinand Mendez Pinto](/images/voyages-and-adventures-thumbnail.jpeg)
 
+#### Annotation
+
 One of the most important results of the early modern period was the spread of European culture generally, and Christian religion particularly, throughout the globe. The selection below, taken from the diaries of Mendez Pinto, a Portuguese sailor captured by the Chinese, illustrates the early stages of contact between Europe and the East. Pinto was shipwrecked around 1537, and landed in the Chinese town of Sempitay. There he encountered Inez de Leyria, a Chinese Christian of Eurasian ancestry, who boldly approached him as a fellow Christian. The episode demonstrates that unofficial channels of Christianization—most likely through the Silk Road—were available prior to 1580, when the Jesuits were granted official permission to enter China, the most powerful state in the world at the time. The excerpt also shows that women played a crucial role in this early transmission of European culture in Asia. Moreover, we learn that, in contrast to Confucian mores which excluded women from major public roles, Christianity offered de Leyria a leadership role in the local community, as well as ties to a larger global identity.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module and the [*Primer: Transnational History*](https://worldhistorycommons.org/primer-transnational-history) methods module.
 
 ### [Early Modern Period: Fiction, Gargantua and Pantagruel](/early-modern-period-fiction-gargantua-and-pantagruel)
 
 ![Early Modern Period: Fiction, Gargantua and Pantagruel](/images/Icons-Document-thumbnail_391.jpg)
+
+#### Annotation
 
 The following passage comes from one of the most famous literary works of early modern Europe: François Rabelais’s Gargantua and Pantagruel, first published in four volumes between 1532 and 1552. A satirical chronicle of the journey through France of the giant Gargantua and his son, Pantagruel, the story’s intended audience was the French aristocracy, the educated elite upon whose patronage Rabelais—first a lawyer, then a priest, and ultimately a doctor—depended throughout his life. Gargantua and Pantagruel embodies, in part, Northern Renaissance ideals like the belief in man’s ability to fulfill his own potential. However, Rabelais’s story also illustrates the dark side of the “rebirth” of classical learning, as the Renaissance encouraged not only a positive view of man, but also a negative image of women.
 The excerpt below concerns Panurge—Pantagruel’s friend—and his search for expert advice on whether he should marry. One expert, doctor Rondibilis, replies that he should not, as any wife will be unfaithful because she is ultimately an irrational being. His comments reveal contemporary medical views of feminine irrationality, believed to be caused by the uterus’s haphazard wandering about the female body. This quasi-animal’s roaming, as Rondibilis would have it, caused physical and mental unbalance. The theory of the wandering uterus, known as hysteria, was an ancient Greek idea revived during the European Renaissance.
@@ -88,12 +96,16 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 
 ![Early Modern Period: Nonfiction, Confucian Doctrine](/images/Icons-Document-thumbnail_392.jpg)
 
+#### Annotation
+
 This excerpt comes from Onna daigaku, or Greater Learning for Women, which is commonly attributed to Kaibara Ekiken (1630-1714), a Japanese botanist and Neo-Confucian philosopher. Ekiken was most concerned with translating Confucian doctrine into terms people from all classes could understand. His Onna daigaku is considered by many to be the most important ethical text for Japanese women, in part because it was the first Confucian text to include specific prescriptions for what women’s role in society should be. In keeping with traditional Confucian ideals, the book stresses that, in order to maintain order, society must be organized into a clear hierarchy. This hierarchy was decided by a person’s gender and age. Older males, for example, were usually seen as the worthiest members of society. However, one’s place within the hierarchy was also dependent on merit, which Confucians defined as the possession of humanness (love of mankind) and propriety (doing the right actions with the right attitude). Whereas earlier Confucians described humanness and propriety as they pertained to men, Ekiken’s Onna daigaku advocated specific actions and attitudes for early modern Japanese women, and explained the consequences of failing to abide by them.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module.
 
 ### [The Whole Duty of Woman](/whole-duty-woman)
 
 ![The Whole Duty of Woman](/images/whole-duty-of-woman-thumbnail.jpeg)
+
+#### Annotation
 
 The following selection comes from a late 17th-century English advice book for women. Such advice books became extremely popular across early modern Europe as material comforts increased and people felt a need to act more “civilized.” With their practical tips for everyday living, along with their prescriptions for better behavior, advice books offer a glimpse of contemporary social ideals as well as social realities.
 Although *The Whole Duty of a Woman* is attributed to “a Lady,” lacking any other information we cannot be sure whether the author was actually a woman. However, such a distinguished attribution suggests that the book was intended for a female audience from the middle- through upper-levels of English society. The two excerpts below—the pamphlet’s Table of Contents and a selection entitled “The Whole Art of Love,” give a sense of what the ideal roles and virtues for such women were. It was commonly believed in England, as elsewhere in Europe, that women were the weaker sex, physically inferior to men and more prone to irrationality. Related to these qualities, however, were the traits of gentleness and softness, characteristics which some saw as indicating a sense of feminine moral equality, if not superiority, to men.
@@ -102,6 +114,8 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 ### [The True Woman](/true-woman)
 
 ![The True Woman](/images/truewomanlarge-thumbnail.jpeg)
+
+#### Annotation
 
 This is a 17th-century French engraving entitled *The True Woman*. Although its author and its circulation to the public in general is not precisely known, engravings such as this one were ever more popular in the 16th and 17th centuries, when the power of the newly-invented printing press to reach the masses became apparent. Engravings are another tool that helps historians gauge common views and attitudes held in the early modern period, when the majority of the population remained illiterate and pictures were really worth more than a thousand words. Although the picture speaks for itself, the engraving includes a poem, intended to drive home the picture’s message:
 This horrible double-headed monster,
@@ -119,6 +133,8 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 
 ![Early Modern Period: Petition, Ming China](/images/Icons-Document-thumbnail_393.jpg)
 
+#### Annotation
+
 This letter is an official petition to the Ming Emperor of China, Shi Zong (r. 1522-67). Written around 1566, it is attributed to Lady Chang, only wife of Shên Shu, a high bureaucrat in the Chinese court. However, it was likely coauthored by his favorite concubine, whose name is unknown. A Censor for the Ministry of Rites, Shên Shu was accused by a powerful rival of misleading the Emperor with wrongful advice, and imprisoned without trial for more than 14 years. Shên Shu was ultimately liberated in 1567, thanks in part to Lady Chang’s letter and in part to the rise of a new emperor, Mu Zong (r. 1567-72).
 Not much is known about the Lady Chang herself, but her letter gives us a hint of the difficulties she faced during her husband’s prolonged absence. Lady Chang underscores her filial responsibility to her in-laws, as prescribed by Confucian philosophy. It also makes clear that she had access to official channels for justice and did not hesitate to use them when she felt her situation had become impossible. Most intriguingly, this petition shows Lady Chang’s use to her benefit of the very philosophy which prescribed her inferiority and submission.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module.
@@ -126,6 +142,8 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 ### [Early Modern Period: Nonfiction, Jesuit Relations](/early-modern-period-nonfiction-jesuit-relations)
 
 ![Early Modern Period: Nonfiction, Jesuit Relations](/images/Icons-Document-thumbnail_394.jpg)
+
+#### Annotation
 
 This excerpt comes from a 1639 letter written by Mother Marie de Saint Joseph, a French Ursuline nun in Canada. The letter is part of the Jesuit Relations, a collection of official yearly reports on the progress of Catholic missionary efforts based on the first-hand accounts of field missionaries. Published for 41 years beginning in 1632, the Relations offer a glimpse into European-Native American encounters in Canada, and reveal the active official role European women played in spreading Christianity throughout the globe during the Early Modern period.
 The Jesuits were but one of several orders engaged in Christianizing the peoples of America. Female orders such as the Ursulines also played an integral, although complicated, role in this process. Believing in the need for greater control over nuns, as part of Church reforms in the 16th and 17th centuries, the Popes urged that convents be closed to the outside world. However, in practice, the isolation of nuns was never made absolute. In fact, in the New World nuns interacted openly with the outside world, bringing native girls into their monastery in order to educate and convert them. As we learn, Mother Marie believed these efforts, and her role in them, to be necessary—and ultimately successful.
@@ -135,12 +153,16 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 
 ![Early Modern Period: Autobiography, Bahina Bai](/images/Icons-Document-thumbnail_395.jpg)
 
+#### Annotation
+
 This selection comes from the autobiography of Bahina Bai (1628-1700), a Hindu poetess. Most of what we know about Bahina comes from her own writings, where she tells her life story. Born into a family of the Brahmin—or priestly—caste, she was married at the age of five to a widowed thirty-year-old priest, in keeping with the practices of the time. From the age of nine, Bahina traveled throughout the villages of India, where her husband performed religious services. In one of her travels, Bahina heard the devotional verses of the Bhakti priest Tukaram (ca. 1608-1650) recited in the vernacular—not the Sanskrit of the Brahmin—and therefore accessible to all. Bahina’s encounter with Bhakti devotion, which advocates pure devotion over ritual, changed her life. She broke away from the traditions of her caste, choosing instead to follow Tukaram, who was of the lowest caste, the sudra. However, Bahina’s ability to choose her preferred method of worship did not mean a complete break with the traditions and views of her time. Rather, as the excerpt below shows, her views regarding the role of women did not change, remaining instead conservatively traditional.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module.
 
 ### [Early Modern Period: Autobiography, Glückel of Hameln](/early-modern-period-autobiography-gluckel-hameln)
 
 ![Early Modern Period: Autobiography, Glückel of Hameln](/images/Icons-Document-thumbnail_396.jpg)
+
+#### Annotation
 
 The following passages offer us a glimpse into the margins of early modern European society. Glückel of Hameln (1645-1724) was born into the Jewish community of Hamburg, a thriving German commercial center. When Glückel was four, the city expulsed its Jewish residents, forcing her family’s exile. Ten years later, Glückel married Hayim of Hameln, with whom she had twelve children. During her marriage, and continuing after Hayim’s death in 1689, Glückel played an important role in managing her husband’s commercial and financial affairs. Despite her managerial abilities, she felt it necessary to remarry, which she did in 1700. Glückel’s second husband, banker Cerf Lévy, proved incompetent at financial matters, squandering the family’s hard-earned wealth by the time of his death in 1712.
 Beginning in the 1690s, Glückel wrote her memoirs, intending them as a private family history for her children. Her writings reveal the difficulty of being doubly marginalized: by the majority Christian community because of her religion, and by her patriarchal Jewish community—which identified her primarily as a wife—because of her gender. However, Glückel’s involvement in commerce illustrates the opportunities available, even if mostly through unofficial channels, to early modern European women.
@@ -150,6 +172,8 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 
 ![Letters of Lady Mary Wortley Montagu](/images/montagu-thumbnail.jpg)
 
+#### Annotation
+
 The following are excerpts from the letters of Lady Mary Wortley Montagu (1689-1762), a noted English essayist and one of the earliest advocates of women’s rights. She is perhaps best known for her letters from Constantinople, which she wrote to various friends and family members while living abroad with her husband, Lord Edward Wortley Montagu, the British Ambassador to the Ottoman court from 1717 to 1719. Lady Montagu’s letters demonstrate a keen interest in Turkish customs, particularly those relating to women. She was clearly intrigued by the differences between her own sensibilities—and ideas of propriety—and those of Ottoman ladies. She wrote extensively on those differences, always remaining open-minded and conscious of the cultural differences that explained otherwise “weird” behavior. Her commentaries serve to paint simultaneously a picture of European woman’s views of the world and those of their Turkish counterparts, as mediated by a contemporary woman.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module.
 
@@ -157,10 +181,11 @@ This source is a part of the [*Women in the Early Modern World, 1500-1800*](http
 
 ![Susanna and the Elders](/images/susanna-thumbnail.jpeg)
 
+#### Annotation
+
 *Susanna and the Elders*, a 17th-century Italian painting by Artemisia Gentileschi, portrays the biblical story of Susanna, a virtuous Jewish woman preyed upon by two judges, important members of the community. Without her knowing, the men spied on her while she bathed. Overcome with lust, they cornered her, offering a bargain: she could either sleep with them or they would claim to have seen her lying with a young man. Her refusal condemned her to death by stoning. However, she was saved by divine intervention, and the judges were put to death instead.
 Susanna’s story was used throughout medieval Europe to teach that salvation comes to those who put their trust in God. However, Artemisia Gentileschi, one of a very few female artists of her time, used the story to stress instead the dark nature of men. Raped—or seduced with the promise of marriage—by her painting teacher, Artemisia was made to stand trial against him, being tortured to ensure that she was telling the truth. In the early modern period, suing for rape was more than once used to force the hand of a reluctant suitor. Often, the punishment for rape was marriage to the victim—as a way of restoring her lost reputation and virtue.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module.
-
 
 ## Teaching Strategies
 
@@ -203,13 +228,13 @@ After completing this lesson, students will be able to:
 * Sufficient copies of the Material Culture Handout
 * Sufficient copies of the following European visual sources, stapled together:
 
-Source 6: Painting, “The True Woman”  
+Source 6: Painting, “The True Woman”<br>
 Source 12: Painting, “Susanna and the Elders”
 
 * Sufficient copies of the following non-European sources, stapled together:
 
-Source 9: Autobiography, Bahina Bai  
-Source 4: Nonfiction, Confucian Doctrine  
+Source 9: Autobiography, Bahina Bai<br>
+Source 4: Nonfiction, Confucian Doctrine<br>
 Source 7: Petition, Ming China
 
 * Note: You may chose to print out the annotation for each source in addition to the source itself for your students, but I believe this is giving them too much information that they need to discover on their own. Also, if you would like to include the European textual sources in the module you can print them off as well in order to augment the European visual sources.
@@ -225,7 +250,7 @@ Source 7: Petition, Ming China
 
 2. First, pass out copies of the Material Culture Handout. Spend time going over the quotes and explaining to the students that material culture is all around us.
 3. If possible, find an object that does not have any markings or words on it. This could be an artifact/object such as a shard of a pot or a piece of brick. The more simple and mundane looking the better. (I had a student who brought in a piece of cuneiform.) Next, pass the object around the room, and have everyone examine it. You may want students to write a short paragraph explaining what they see.
-4. Have the class now look to the bottom of the Material Culture Handout, and read out loud the process of artifact analysis known as Fleming’s Model.  
+4. Have the class now look to the bottom of the Material Culture Handout, and read out loud the process of artifact analysis known as Fleming’s Model.<br>
    Now, go through each of the steps of the Model using the sample object or image and then list them on the board. Do not allow students to skip ahead. They will try to move past the identification stage, but inform them that this is the most important step.
 
    Once each of the steps is completed, explain to them that all objects are worthy of our examination, and that different groups of people across time have interpreted objects in different ways. Make sure they understand that having an open mind when approaching objects is absolutely crucial when we are trying to discover point of view (POV).

@@ -5,6 +5,7 @@ drupal_node_id: 243
 source_type: "Image"
 url: /drawing-digging-stick-and-stone-weights
 image: /images/diggingstick.jpg
+image_alt: "Drawing of Digging Stick and Stone Weights"
 regions: 
   - "Africa"
 subjects: []

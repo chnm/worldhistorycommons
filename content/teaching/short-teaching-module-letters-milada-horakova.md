@@ -23,6 +23,8 @@ related_sources:
   - link: "/letters-milada-horakova"
     image: "/images/Icons-Document-thumbnail_689.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Letters of Milada Horáková," in World History Commons, https://worldhistorycommons.org/short-teaching-module-letters-milada-horakova [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -61,16 +63,17 @@ Because the letters are poignant, and because they offer excellent points of con
 
 ![Letters of Milada Horáková](/images/Icons-Document-thumbnail_689.jpg)
 
+#### Annotation
+
 In this collection of letters, written by Milada Horáková before her execution in 1950 by the Communist Party in Czechoslovakia, Horáková writes last wishes and notes to her family. Horáková was a Czech politician and prominent feminist in the 20th century who was incredibly politically active, which eventually led to her imprisonment by Nazis during World War II, and her eventual execution. These letters are addressed to her mother-in-law, her daughter, and her husband, who she was not aware was still alive. In them are included pleas for forgiveness to her mother-in-law, confessions of love and longing to her husband, and finally advice on life to her teenage daughter, including values that should guide her in work and love. These letters, written in some of the last days of her life, reflect the experiences of Horáková as a woman in the mid 20th century, as well as a politician, and the balancing act that she walked between the two.
 This source is a part of the [*Letters of Milada Horáková*](https://worldhistorycommons.org/short-teaching-module-letters-milada-hor%C3%A1kov%C3%A1) teaching module.
-
 
 ## Bibliography
 
 (1) Wilma A. Iggers Women of Prague: Ethnic Diversity and Social Change from the Eighteenth Century to the Present (Providence: Berghahn Books, 1995): pp. 287-312.
 
-(2) The questions I most recently gave my students were:  
-1. What can we learn from these letters about the status of women in Europe?  
+(2) The questions I most recently gave my students were:<br>
+1. What can we learn from these letters about the status of women in Europe?<br>
 2. What can we learn from studying just one set of letters written by one person at one particular moment—as compared to what we can learn from reading a diverse set of sources like those assigned for last week’s class?
 
 (3)Weblogs, or simply “blogs,” are a form of online diary or discussion forum that provide visitors with a mixture of commentary, questions, links of interest and personal ruminations. Increasingly, weblogs have become an important sector in online journalism. Many of my students already have their own weblogs and so I find this medium much more conducive to online discussion than a forum product like BlackBoard or WebCT.

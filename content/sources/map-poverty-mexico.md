@@ -5,6 +5,7 @@ drupal_node_id: 2406
 source_type: "Image"
 url: /map-poverty-mexico
 image: /images/Poverty_Percentages_of_Mexico_2012.png
+image_alt: "People living in poverty under the Mexican poverty definition."
 regions: 
   - "North/Central America"
 subjects: 

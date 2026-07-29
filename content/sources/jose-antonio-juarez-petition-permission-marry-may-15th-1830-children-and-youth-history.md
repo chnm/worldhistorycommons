@@ -6,6 +6,7 @@ drupal_node_id: 1140
 source_type: "Text"
 url: /jose-antonio-juarez-petition-permission-marry-may-15th-1830-children-and-youth-history
 image: /images/Icons-Document_14.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

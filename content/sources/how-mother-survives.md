@@ -45,3 +45,7 @@ I saw in the paper that someone named Ducroquet was arrested. I'll admit to you 
 Your mother, Harlay Ducroquet
 
 Undoubtedly you received the letter and the procuration from Sagnier. Today, Monday, I will put the package in the carriage. It is possible that it will leave tomorrow.
+
+## Transcription
+
+From Women in Revolutionary Paris, 1789–1795, edited and translated by Darline Gay Levy, Harriet Branson Applewhite, and Mary Durham Johnson. Copyright 1979 by the Board of Trustees of the University of Illinois. Used with the permission of the University of Illinois Press, 252.

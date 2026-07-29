@@ -5,6 +5,7 @@ drupal_node_id: 573
 source_type: "Image"
 url: /republic
 image: /images/569db6d8c3a9d2a3665b5263d1e4d566.jpg
+image_alt: "Painting of Liberty as the Republic"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,8 @@ how_to_cite: |
 ---
 
 Under the monarchy, the king was the country’s symbolic center. Removing him and establishing a republic made necessary not only a new constitution but also a new set of symbols. Here the revolutionaries transformed "Liberty" into "the Republic." Without her pike and cap, she seems more matriarchal, framed by flourishing plants. Sometimes depicted in more aggressive posture, the Republic was always shown as a female figure, in part to avoid identification with any particular male politician or political group. The female Republic never appeared in contemporary dress; she was a symbol above politics, not a French woman involved in revolutionary action.
+
+## Transcription
+
+**Title in French**  
+La République

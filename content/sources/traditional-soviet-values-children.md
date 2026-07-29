@@ -5,6 +5,7 @@ drupal_node_id: 77
 source_type: "Image"
 url: /traditional-soviet-values-children
 image: /images/poster_4435f05bfe.jpg
+image_alt: "Photo of Soviet propaganda posters"
 regions: []
 subjects: 
   - "Government"

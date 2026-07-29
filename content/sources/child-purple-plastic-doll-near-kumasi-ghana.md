@@ -5,6 +5,7 @@ drupal_node_id: 66
 source_type: "Image"
 url: /child-purple-plastic-doll-near-kumasi-ghana
 image: /images/ghana-girl-plastic-doll_8362a098a0.jpg
+image_alt: "Photo of Asante girl holding plastic baby doll"
 regions: 
   - "Africa"
 subjects: 

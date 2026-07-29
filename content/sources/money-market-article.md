@@ -6,6 +6,7 @@ drupal_node_id: 2619
 source_type: "Image"
 url: /money-market-article
 image: /images/Alff_Paris_Stock_Market.jpg
+image_alt: "image of text of stock market article"
 regions: 
   - "Europe"
   - "Global"

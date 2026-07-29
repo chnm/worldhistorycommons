@@ -5,6 +5,10 @@ drupal_node_id: 95
 source_type: "Text"
 url: /londons-bill-mortality
 image: /images/bill-of-mortality-front_09e0c05008.jpg
+image_alt: "Photo of bill of mortality"
+additional_images:
+  - src: "/images/source-media/95/bill-of-mortality-back_6531640304.jpg"
+    alt: "Page two of bill of mortality"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1225
 source_type: "Image"
 url: /teaching-traditional-polynesian-navigation
 image: /images/studyingnavigation.jpg
+image_alt: "Image of  the teaching of the traditional Polynesian navigation"
 regions: 
   - "North/Central America"
 subjects: 

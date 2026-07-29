@@ -5,6 +5,7 @@ drupal_node_id: 3034
 source_type: "Image"
 url: /engraving-rechentisch-counting-board
 image: /images/WHC_rechentisch.png
+image_alt: "A man sits in front of a counting board with a pile of counters in front of him and a counter in one hand."
 regions: 
   - "Europe"
   - "Global"

@@ -5,6 +5,9 @@ drupal_node_id: 789
 source_type: "Video"
 url: /video-ceausescus-last-speech-december-1989
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "Europe"
 subjects: 

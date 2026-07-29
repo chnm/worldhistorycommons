@@ -5,6 +5,7 @@ drupal_node_id: 2998
 source_type: "Image"
 url: /brochure-south-carolina-inter-state-and-west-indian-exposition-charleston-exposition-1901-1902
 image: /images/SC_Inter-State_and_West_Indian_Exposition_.png
+image_alt: "Brochure Cover reads \"South Carolina Inter-State and West Indian Exposition\" and shows map of southeast U.S. coast."
 regions: 
   - "North/Central America"
 subjects: 

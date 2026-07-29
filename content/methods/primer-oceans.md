@@ -15,6 +15,8 @@ related_sources:
   - link: "/navigational-charts-based-those-used-zheng-he"
     image: "/images/Stellardiagram-ZhenghoTHUMB.jpg"
     alt: "Stellar diagram features a drawing of a ship surrounded by Chinese characters"
+how_to_cite: |
+  "Primer: Oceans," in World History Commons, https://worldhistorycommons.org/primer-oceans [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -41,9 +43,10 @@ While the field continues to evolve and develop, what is clear is that a focus o
 
 ![Navigational Charts Based on Those Used by Zheng He](/images/Stellardiagram-ZhenghoTHUMB.jpg)
 
+#### Annotation
+
 These two woodblock prints are part of a map printed in a seventeenth-century military treatise, and thought to be based on the maps used by Zheng He in his voyages. The map is therefore usually known as “Zheng He Map.” It depicts the coastline from China to the central eastern coast of Africa arranged as a long strip. The first of these prints shows Africa at the bottom and Ceylon at the upper right. (The Indian Ocean is not proportional in size to these, and the map has varying scale and orientation.) The second print is one of four stellar diagrams that were included along with the navigational charts, which shows the guiding stars en route from Hormuz to Calicut, the voyage described by Ma Huan [here](https://worldhistorycommons.org/excerpt-memoirs-ma-huan). At the top is the constellation known in the U.S. as the Big Dipper, long recognized as pointing toward the North Star. Navigators used the height of stellar constellations to determine latitude and help ensure correct navigation. In the middle of this stellar chart is an illustration of a ship similar to those on Zheng He’s voyages.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module, the [*Premodern Chinese Maps and the Global Maritime World*](https://worldhistorycommons.org/short-teaching-module-premodern-chinese-maps-and-global-maritime-world) teaching module, and the [*Primer: Oceans*](https://worldhistorycommons.org/primer-oceans) methods module.
-
 
 ## Bibliography
 

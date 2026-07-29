@@ -5,6 +5,7 @@ drupal_node_id: 2549
 source_type: "Image"
 url: /america-invertida-inverted-america
 image: /images/inverted-america-1943.jpg
+image_alt: "A drawing shows the continent of South American with South at the top."
 regions: 
   - "South America"
 subjects: 

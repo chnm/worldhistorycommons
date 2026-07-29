@@ -5,6 +5,14 @@ drupal_node_id: 3030
 source_type: "Image"
 url: /cueva-de-los-manos-rio-pinturas
 image: /images/Cueva_de_los_Manos_1.jpeg
+image_alt: "Cave painting with red paint outlining hands."
+additional_images:
+  - src: "/images/source-media/3030/Cueva_de_los_Manos_2.jpeg"
+    alt: "Cave painting with red pigment showing animal figures."
+  - src: "/images/source-media/3030/Cueva_de_los_Manos_3.jpeg"
+    alt: "The outside of Cueva de los Manos showing rock formations."
+  - src: "/images/source-media/3030/Cueva_de_los_manos_4.jpeg"
+    alt: "Cave painting with red pigment showing animal figures and a person."
 regions: 
   - "South America"
 subjects: 

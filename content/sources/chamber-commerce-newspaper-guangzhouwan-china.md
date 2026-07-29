@@ -5,6 +5,7 @@ drupal_node_id: 2716
 source_type: "Image"
 url: /chamber-commerce-newspaper-guangzhouwan-china
 image: /images/GuangzhouwanNewspaper.jpeg
+image_alt: "Front page of a newspaper in Chinese"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 94
 source_type: "Image"
 url: /graham-children
 image: /images/the-graham-children_bb2950a7b0.jpg
+image_alt: "Life-size painting of four children"
 regions: 
   - "Europe"
 subjects: 

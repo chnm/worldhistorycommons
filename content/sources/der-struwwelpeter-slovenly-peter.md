@@ -5,6 +5,7 @@ drupal_node_id: 84
 source_type: "Image"
 url: /der-struwwelpeter-slovenly-peter
 image: /images/cyhstruwwelpeterpix_7f1fb5a9e5.jpg
+image_alt: "Illustration of children's book scene"
 regions: 
   - "Europe"
 subjects: 
@@ -32,3 +33,65 @@ Students might analyze the text as well as the images in regard to issues of gen
 A version of the American translation, Struwwelpeter: Merry Tales and Funny Pictures, is available on [The Project Gutenberg EBook](http://www.gutenberg.org/files/12116/12116-h/12116-h.htm).
 
 [1] For a useful scholarly essay see: J. D. (John Daniel) Stahl, Mark Twain's "Slovenly Peter" in the Context of Twain and German Culture. The Lion and the Unicorn, Vol. 20, No 2, December 1996, pp. 166-180.
+
+## Transcription
+
+**Die Geschichte vom Daumenlutscher**  
+"Konrad," sprach die Frau Mama,  
+"ich geh aus und du bleibst da.  
+Sei hübsch ordentlich und fromm,  
+bis nach Haus ich wieder komm.  
+Und vor allem, Konrad, hör!  
+lutsche nicht am Daumen mehr;  
+denn der Schneider mit der Scher  
+kommt sonst ganz geschwind daher,  
+und die Daumen schneidet er  
+ab, als ob Papier es wär."
+
+Fort geht nun die Mutter und  
+wupp! den Daumen in den Mund.
+
+Bauz! da geht die Türe auf,  
+und herein in schnellem Lauf  
+springt der Schneider in die Stub  
+zu dem Daumen-Lutscher-Bub.  
+Weh! jetzt geht es klipp und klapp  
+mit der Scher die Daumen ab,  
+mit der großen, scharfen Scher!  
+Hei! da schreit der Konrad sehr.
+
+Als die Mutter kommt nach Haus,  
+sieht der Konrad traurig aus.  
+Ohne Daumen steht er dort,  
+die sind alle beide fort.
+
+## Translation
+
+**Story of the Thumb-Sucker**  
+"Konrad!" cried his mamma dear,  
+"I'll go out, but you stay here,  
+Try how pretty you can be  
+Till I come again," said she.  
+"Docile be, and good and mild,  
+Pray don't suck your thumb, my child,  
+For if you do, the tailor'll come  
+And bring his shears and snip your thumb  
+From off your hand as clear and clean  
+As if paper it had been."
+
+Before she'd turned the south,  
+He'd got his thumbkin in his mouth!
+
+Bang! here goes the door ker-slam!  
+Whoop! the tailor lands ker-blam!  
+Waves his shears, the heartless grub,  
+and calls for Dawmen-lutscher-bub.  
+Claps his weapon to the thumb,  
+Snips it square as head of grum,  
+While that lad his tongue unfurled  
+And fired a yell heard 'round the world.
+
+Who can tell mother's sorrow  
+When she saw her boy the morrow!  
+There he stood all steeped in shame,  
+And not a thumbkin to his name.

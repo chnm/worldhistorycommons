@@ -5,6 +5,9 @@ drupal_node_id: 1150
 source_type: "Audio"
 url: /song-festival-old-age
 image: 
+audio_files:
+  - src: "/audio/source-media/1150/SONG_FOR_THE_FESTIVAL_OF_OLD_AGE.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 
@@ -24,3 +27,39 @@ how_to_cite: |
 ---
 
 This song was composed for one of the many Directorial festivals that were not overtly political. Several, like the festival for which this song was composed, celebrated important moments in the life cycle.
+
+## Transcription
+
+Chant pour la fête de la vieillesse.  
+Déjà le Génie et la Gloire,  
+Guidant au loin nos étendards,  
+Ont couronné par la victoire  
+Le fer béni par nos vieillards.  
+Hommage à l'auguste vieillesse!  
+A la saison de la sagesse  
+Offrons nos solennels accords!  
+Français, pour célébrer cet âge,  
+De la paix consolant présage,  
+Vertumne étale ses trésors.  
+Dans nos concerts et dans nos fêtes  
+Que nos pères soient révérés!  
+Quand l'âge aura blanchi nos têtes,  
+Comme eux nous serons honorés.
+
+## Translation
+
+Song for the Festival of Old Age  
+Already the genius and the glory,  
+Guiding our standards from afar,  
+By victory have crowned  
+The swords blessed by our elders.  
+Homage to our august elders!  
+During this time of wisdom  
+Let us offer our solemn promise!  
+Frenchmen, to celebrate this age  
+Of comforting peace foretells,  
+Vertume spreads his treasures,  
+At our concerts and our feasts  
+Let our fathers be revered!  
+When age has whitened our heads  
+Like them, we shall be honored.

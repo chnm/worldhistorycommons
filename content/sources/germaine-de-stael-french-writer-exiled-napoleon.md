@@ -5,6 +5,7 @@ drupal_node_id: 964
 source_type: "Text"
 url: /germaine-de-stael-french-writer-exiled-napoleon
 image: /images/considerations-french-revolution.png
+image_alt: "Considerations on the Principal Events of the French Revolution"
 regions: 
   - "Europe"
 subjects: 

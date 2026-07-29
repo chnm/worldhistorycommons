@@ -5,6 +5,7 @@ drupal_node_id: 3026
 source_type: "Image"
 url: /chinchorro-mummies
 image: /images/WHC_Chinchorro_Mummies_wiki.jpeg
+image_alt: "The mummified remains of an adult person and a child lay in a glass container for observation. The adult has a clay mask and black hair attached to their skull. The child lays next to the adult, with red paint on their body and a clay mask."
 regions: 
   - "South America"
 subjects: 
@@ -22,7 +23,7 @@ time_periods:
 source_citation: |
   "Momia Chinchorro,"  *Wikimedia Commons, *February 2008.**
 credits: |
-  "Momia Chinchorro," *Wikimedia Commons*, February 2008,<https://commons.wikimedia.org/wiki/File:MomiaChinchorro.jpg>.
+  "Momia Chinchorro," *Wikimedia Commons*, February 2008, <https://commons.wikimedia.org/wiki/File:MomiaChinchorro.jpg>.
 how_to_cite: |
   "Chinchorro Mummies ," in World History Commons, https://worldhistorycommons.org/chinchorro-mummies [accessed April 8, 2026]
 ---

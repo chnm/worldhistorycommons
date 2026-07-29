@@ -5,6 +5,7 @@ drupal_node_id: 296
 source_type: "Image"
 url: /days-31-may-and-1-2-june-1793
 image: /images/may-31-1793.jpg
+image_alt: "Print of demonstration outside of Legislative Assembly"
 regions: 
   - "Europe"
 subjects: 
@@ -27,3 +28,11 @@ how_to_cite: |
 ---
 
 Even though popular action had unseated the Legislative Assembly and replaced it with the Convention, the elections that followed had not satisfied the radicals of Paris and their artisanal followers. From 31 May to 2 June 1793, these Parisians demonstrated outside the Convention and through intimidation forced the politicians inside to give up the Girondins who were being vilified. Although the winners of this event within the Convention—the Jacobins—managed to eliminate their political opposition, it made most of them quite uneasy to validate popular action of this sort. They were afraid it might be turned on them.
+
+## Transcription
+
+**Title in French**  
+Journées des 31 mai, 1.er et 2 juin 1793
+
+**Caption**  
+ou 12, 13 et 14 prairial an I.er de la République

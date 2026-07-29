@@ -29,6 +29,8 @@ related_sources:
   - link: "/geremek-solidaritys-strategy-restraint-spring-1989"
     image: "/images/Icons-Document-thumbnail_626.jpg"
     alt: ""
+how_to_cite: |
+  "Long Teaching Module: Solidarity Comes to Power in Poland, 1989," in World History Commons, https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -65,8 +67,8 @@ Wojciech Jaruzelski, until then general secretary of the communist party, while 
 
 The months preceding this transfer of power provide a fascinating case study in what historian Timothy Garton Ash famously described as 1989’s “refolutions” (hybrids of “reform” and “revolution”). As in other moments of dramatic historical change, the documentary record reveals the widespread sense of revolutionary upheaval, of long-held expectations being repeatedly overturned, of constant improvisation. And yet one also sees in the record of the era a determination—particularly among Solidarity activists, but also among reformist party members—to avoid the descent into violent confrontations that have characterized most revolutionary eras of the past.
 
-James Bjork  
-Kings College London  
+James Bjork<br>
+Kings College London<br>
 London, England
 
 ## Primary Sources
@@ -75,12 +77,16 @@ London, England
 
 ![Minutes No. 64 from an Expanded Meeting of the PZPR CC [Central Committee of the Communist Party] Secretariat, June 5, 1989](/images/Icons-Document-thumbnail_657.jpg)
 
+#### Annotation
+
 The following are excerpts from a meeting of the leadership of Poland’s communist party held the day after the June 4, 1989 elections, when the magnitude of the party’s electoral defeat was just becoming clear. Particularly embarrassing was the fate of the 35 candidates on the so-called “national list,” well-known dignitaries who were running unopposed. Almost all were simply crossed out by a majority of voters, raising the prospect that those seats would have to be left empty, thus reducing the overall size of the Sejm (lower house). As remarks made at the meeting illustrate, some party leaders were disoriented and eager to place blame: on Solidarity, the Catholic church, even rank-and-file party members who had either failed to show up at the polls or had voted for the opposition. But for others, especially younger reformers like Aleksander Kwaśniewski (who later served as President of Poland from 1995-2005), this sense of bitterness was balanced by a sober assessment of the new situation and an eagerness to avoid violent confrontation. The Solidarity opposition, though sometimes described as “the adversary,” is also seen as a partner in containing social unrest.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
 
 ### [President George H.W. Bush and Solidarity Leader Lech Walesa in Question-and-Answer Session With Reporters Following a Luncheon in Gdansk, 11 July 1989](/president-george-hw-bush-and-solidarity-leader-lech-walesa-question-and-answer-session-reporters)
 
 ![President George H.W. Bush and Solidarity Leader Lech Walesa in Question-and-Answer Session With Reporters Following a Luncheon in Gdansk, 11 July 1989](/images/Icons-Document-thumbnail_658.jpg)
+
+#### Annotation
 
 The transition to a Solidarity-led government in Poland was closely associated with the introduction of market-oriented economic reforms. Many Poles hoped that this might lead to a dramatic improvement in the country’s economy, not only through the stimulation of domestic growth but also through the attraction of investment and outright financial aid from the West. In this brief exchange with reporters at the end of President Bush’s visit to Poland, Bush and Lech Wałesa provide a somewhat confused discussion of the “billion” that cooperation with the West might bring to Poland. While glitches in recording and translation probably account for some of the resulting ambiguities, they also reflect more general uncertainties over what joining the capitalist world would mean.
 [N.B.: There are three errors in the original document. When "billion" is referenced, this should read $10 billion according to press coverage of the press conference.]
@@ -90,12 +96,16 @@ This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https
 
 ![Excerpts from Debate Between Lech Walesa and Alfred Miodowicz, 30 November 1988](/images/Icons-Document-thumbnail_624.jpg)
 
+#### Annotation
+
 In the fall of 1988, Alfred Miodowicz, the head of the official union OPZZ (All-Poland Alliance of Trade Unions), challenged Lech Wałesa, the leader of the outlawed Solidarity trade union, to a televised debate. The offer signaled the growing willingness of many party leaders to compromise with opposition groups, but it was also a sign of the party’s continued self-confidence. Miodowicz, a polished speaker, was expected to out-perform Wałesa, the electrician from Gdansk, proving that there was no alternative to the party elites’ experience in this time of economic crisis. But such predictions proved far from the mark. Rather than withering under pressure, Wałesa kept Miodowicz on the defensive throughout the debate. Among the estimated 78 percent of Polish adults who viewed the event, Wałesa and Solidarity loomed now more than ever as a legitimate alternative to the regime.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
 
 ### [Geremek on Solidarity’s Strategy of Restraint in the Spring of 1989](/geremek-solidaritys-strategy-restraint-spring-1989)
 
 ![Geremek on Solidarity’s Strategy of Restraint in the Spring of 1989](/images/Icons-Document-thumbnail_626.jpg)
+
+#### Annotation
 
 A medieval historian by training, Bronisław Geremek had emerged by the 1980s as one of the Solidarity movement’s leading strategists. At the Round Table talks between Solidarity and the Communist leadership and in the critical months that followed, he was arguably Lech Wałęsa’s most influential advisor. In this interview, published in 1990, a young Solidarity-affiliated journalist asks Geremek to explain why Solidarity leaders remained so cautious after the Round Table talks, seeming to prefer negotiations with the regime to mobilization of its members.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
@@ -104,12 +114,16 @@ This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https
 
 ![The Catholic Church's role in the Roundtable Talks](/images/Icons-Document-thumbnail_625.jpg)
 
+#### Annotation
+
 In following letter, a Solidarity activist writes to Józef Cardinal Glemp, the head of the Roman Catholic church in Poland, to inform him of difficulties in setting up much-anticipated Round Table talks with the Communist regime. The correspondence provides some insight into the complicated relationship between Solidarity and the Catholic church. On the one hand, opposition leaders clearly saw the church as an ally, sharing the same basic principles and objectives. On the other hand, the church needed to serve as an honest broker, a “national” institution capable of mediating between Solidarity and the regime. The content of Stelmachowski’s letter also illustrates the differences in objectives that complicated the setting up of the Round Table talks and that remained a stumbling block even after they got underway. For the regime, the highest priority was achieving consensus on how to tackle Poland’s economic problems. Creating pluralistic institutions was secondary, perhaps even a distraction, and any attempts to stir public demonstrations were seen as a sign of bad faith. For Solidarity, by contrast, gaining legal recognition and guaranteeing the future survival of independent associations was paramount. Any “consensus’ on economic policies would be repudiated by the opposition’s grassroots supporters unless steps toward genuine pluralism were forthcoming.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
 
 ### [Warsaw Embassy Cable, Election '89: Solidarity's Coming Election](/warsaw-embassy-cable-election-89-solidaritys-coming-election)
 
 ![Warsaw Embassy Cable, Election '89: Solidarity's Coming Election](/images/Icons-Document-thumbnail_579.jpg)
+
+#### Annotation
 
 In the following report, the American Ambassador to Poland (John R. Davis, Jr.) outlines possible outcomes of June 4 elections and what consequences might follow from each. Although the analysis reveals a general expectation that the regime would perform poorly, considerable uncertainty remains over whether this will translate into a clear mandate for Solidarity. The cable underscores two dynamics in the American reaction to this unprecedented event: first, the absence of any firm predictions as to the likely outcome of the elections (or their potential impacts). Second (and as interesting), the American diplomat shows some sympathy for the concerns that a dramatic Solidarity victory could be undesirable, since it could alarm both domestic hardliners and ruling circles in Poland’s neighbors.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
@@ -118,6 +132,8 @@ This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https
 
 ![Warsaw Embassy Cable, How to Elect Jaruzelski Without Voting for Him, and Will He Run?](/images/Icons-Document-thumbnail_585.jpg)
 
+#### Annotation
+
 This report analyzes the peculiar dilemma that Solidarity leaders faced in the aftermath of their landslide election victory in June. Their success had been based on opposition to the communist regime, but the framework that had allowed that success was based on a compromise with that regime. The practical issue that best highlighted the apparent incompatibility of those two commitments was the proposed election as president of General Jaruzelski, the Communist party leader. Would support for Jaruzelski mean betraying the Solidarity electorate? Would refusing to support Jaruzelski mean recklessly ripping up the Round Table agreement? In addition to providing third-party analysis of this dilemma, the US ambassador’s report also reveals the influence that the United States exerted on the ongoing drama. The ambassador himself describes providing informal advice to key Solidarity leaders, and the upcoming visit to Poland of President Bush held out the promise of significant Western economic assistance.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
 
@@ -125,12 +141,16 @@ This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https
 
 ![Warsaw Embassy Cable, Conversation with General Kiszczak](/images/Icons-Document-thumbnail_598.jpg)
 
+#### Annotation
+
 For the United States government, the rapid changes unfolding in Poland were a source of hope and excitement but also considerable anxiety. In principle, American diplomats could only welcome the prospect of pro-American, pro-market Solidarity politicians playing a key role in a new Polish government. And yet any change that seemed too much of a threat to Soviet interests held the risk of provoking an internal crackdown or external intervention that would undo previous progress. The reaction of the Polish population to the changes underway was also unpredictable. While Poles had clearly voted for change in the June elections, would they end up turning against a new government if promised ‘reforms’ led to even more economic hardship?
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
 
 ### [Solidarity Election Flier, “How to vote for Solidarity in Żoliborz”](/solidarity-election-flier-how-vote-solidarity-zoliborz)
 
 ![Solidarity Election Flier, “How to vote for Solidarity in Żoliborz”](/images/jak-glosowac-na-solidarnosc-na-zoliborzu---solidarity-poster-1_2fb6ad3695_copy.jpg)
+
+#### Annotation
 
 The flier above, directed at voters in the town of Żoliborz, illustrates the complexity of the elections held on June 4, 1989. Looking at the sample ballots from left to right, Polish voters faced: 1) a “national list” for the Sejm (Lower House of parliament) made up of leading dignitaries running unopposed; 2) candidates for those seats in the Sejm that were reserved for the governing coalition (Communist party plus small satellite parties); 3) candidates for those seats in the Sejm that could be contested by Solidarity and independents, as well as supporters of the regime; and 4) candidates for the Senate, where voters could choose several names from a range of Solidarity, pro-regime, and independent candidates. Government supporters hoped that voters, faced with such a sprawling set of choices, would tend to endorse candidates based on name recognition. Solidarity’s task was to turn the election instead into a referendum, in which voters would systematically select those affiliated with the opposition and cross out those affiliated with the regime. On the ballots on the right, Solidarity candidates are helpfully printed in red. The ballots on the left bear the admonition “We are not here,” meaning that all candidates listed could safely be crossed out.
 Remarkably, most Poles got the message. Very few of “them” (the pro-regime candidates) survived the first round, while almost all of “us” (those endorsed by Solidarity) were swept to victory.
@@ -140,6 +160,8 @@ This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https
 
 ![Solidarity Election Poster, “High Noon, 4 June 1989”](/images/w_samo_poludnie_4_6_89-tomasz_sarnecki_319a9b359a_d1e8be5f83_copy.jpg)
 
+#### Annotation
+
 This is probably the most famous image circulated by Solidarity in the run-up to the June 4 elections. Gary Cooper, the actor who starred in the film “High Noon,” is shown with a Solidarity insignia on his badge and a ballot in hand. In addition to playfully appealing to the popularity of American Westerns—and the popularity of American in general—the “High Noon” theme hammered home the message that the June 4 elections offered a stark choice between two opponents and would have momentous consequences for Poland.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
 
@@ -147,9 +169,10 @@ This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https
 
 ![Scenes from Andrzej Wajda’s film, Man of Iron (1981)](/images/man-of-iron-2_e800fdbc07.jpg)
 
+#### Annotation
+
 Filmed just after Solidarity’s initial spectacular rise in 1980, Andrzej Wajda’s Man of Iron was won immediate global acclaim. Whereas Wajda’s earlier award-winning film, Man of Marble, had focused on the lonely struggle of an idealistic young film student to uncover the truth about the disillusionments and betrayals of the early communist era in Poland, the individual characters in Man of Iron were largely dwarfed by the large-scale contemporary struggle between Solidarity and the regime that served as the film’s backdrop. Indeed, many of the scenes featuring Wajda’s fictional characters were inter-spliced with documentary footage of demonstrations, speeches by Solidarity leaders, and interviews with ordinary Poles. The excerpted scenes are primarily drawn from this documentary footage. They provide some sense of the mix of grievances and ideals that played a role in generating support for Solidarity, as well as the challenges involved in translating this “raw material” of dissatisfaction into a coherent oppositional program. Although Solidarity proved successful in pulling together such an agenda in 1980, the imposition of martial law in December 1981 forced the movement underground and compelled activists to re-think goals and tactics once again.
 This source is a part of the [*Solidarity Comes to Power in Poland, 1989*](https://worldhistorycommons.org/long-teaching-module-solidarity-comes-power-poland-1989) teaching module.
-
 
 ## Teaching Strategies
 

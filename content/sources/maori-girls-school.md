@@ -5,6 +5,7 @@ drupal_node_id: 2848
 source_type: "Text"
 url: /maori-girls-school
 image: /images/MaoriGirlsSchool.png
+image_alt: "Text of article. Transcription below."
 regions: 
   - "Oceania"
 subjects: 
@@ -23,3 +24,15 @@ how_to_cite: |
 
 This article, which was published in the newspaper *Manawatu Times* on April 14, 1905, announces the opening of a school for Māori girls. As described in the article, while missionaries and the colonial state originally focused on educating youth, by which it meant only boys, they gradually realized the necessity of girls’ education. Schools acted as a primary vehicle in the transmission of imperial ideology and European gender ideals. These educational efforts were framed in humanitarian terms, as aiding the progress of the Māori people, but in many cases, such institutions served as a tool of assimilation and “civilization,” as it was envisioned that children would help “reform” these societies with their acquired European habits, values, and culture.  
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
+
+## Transcription
+
+MAORI GIRLS SCHOOL
+
+Opened at Turakina
+
+(Per Press Association)
+
+Wanganui, Yesterday
+
+The Turakina Maori Girls School which has been established by the Presbyterian Church was opened today by the Premier in the presence of about 400 people including Messers Wood, Vile and Remington, M.'sH.R. Mr. Seddon in his speech emphasised the importance of establishing schools for Maori Girls. In the past attention had been paid to the location of Maori youths, but that education had been to a large extent waisted on account of the Maori women whom they married being unfit to mix with Europeans and consequently causing the men to stay in the Kaiangas Schools such as the Turakina would go a long way towards remedying this.

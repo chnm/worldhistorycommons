@@ -6,7 +6,7 @@ url: /caribbean-views
 image: /images/AntiguaTHUMB.jpg
 website_authors: "The British Library"
 reviewer: "Reviewed by Christine A. Kray, Rochester Institute of Technology"
-reviewed_url: "http://www.bl.uk/onlinegallery/onlineex/carviews/index.html"
+reviewed_url: "https://web.archive.org/web/20220706042043/http://www.bl.uk/onlinegallery/onlineex/carviews/index.html"
 pull_quote: "“The online collection is of extraordinary quality, both in terms of the scanned images and the contextual detail provided. ”"
 how_to_cite: |
   "Caribbean Views," in in World History Commons, https://worldhistorycommons.org/caribbean-views [accessed April 8, 2026]

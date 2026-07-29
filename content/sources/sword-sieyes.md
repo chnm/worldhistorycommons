@@ -5,6 +5,7 @@ drupal_node_id: 1101
 source_type: "Image"
 url: /sword-sieyes
 image: /images/04247f3dda8ccbd5133cb126612e8162.jpg
+image_alt: "Image of the ceremonial Sword of Sieyès"
 regions: 
   - "Europe"
 subjects: 

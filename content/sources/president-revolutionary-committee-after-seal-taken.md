@@ -5,6 +5,10 @@ drupal_node_id: 342
 source_type: "Image"
 url: /president-revolutionary-committee-after-seal-taken
 image: /images/b9dd0edeab9b366005ce0dc651193dee.jpg
+image_alt: "Print mocking the people of the revolution"
+additional_images:
+  - src: "/images/source-media/342/7efdca772796a3a98c9ac23cde50fb1f.jpg"
+    alt: "Sketch of print mocking the revolution"
 regions: 
   - "Europe"
 subjects: 
@@ -24,3 +28,8 @@ how_to_cite: |
 ---
 
 Critics of popular action first mastered the art of searing attacks and here sharpen their propaganda skills against this activist worker, who appears to be walking off with his "loot" after the locks have been broken.
+
+## Transcription
+
+**Title in French**  
+Président d'un Comité Révolutionnaire, après la levée d'un Scelé

@@ -28,6 +28,8 @@ related_sources:
   - link: "/rude-pravo-water-pollution"
     image: "/images/Icons-Document-thumbnail_555.jpg"
     alt: ""
+how_to_cite: |
+  "Long Teaching Module: Everyday Life in Eastern Europe in the 1980s," in World History Commons, https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -72,8 +74,8 @@ All documents also come from 1988 and the first ten months of 1989. During perio
 
 In addition to illustrating the nature of everyday life in Eastern Europe, the following documents are also useful for understanding ways in which ordinary people and the government understood the power of everyday life. Its power—both as a site of control and a site of resistance—needs to be considered for a strong understanding of the role that everyday life played in the making of the history of 1989.
 
-**Cathleen Giustino**  
-*Auburn University*  
+**Cathleen Giustino**<br>
+*Auburn University*<br>
 *Auburn, Alabama*
 
 ## Primary Sources
@@ -82,12 +84,16 @@ In addition to illustrating the nature of everyday life in Eastern Europe, the f
 
 ![Vending Machine](/images/m90juicevendingmachine_b6897f9f1f_0.jpg)
 
+#### Annotation
+
 In the United States coin-operated drink machines - generically called "coke machines" - are ubiquitous consumer objects regularly punctuating our everyday landscapes. We feed them our money and out roll individually packaged liquid refreshments. During the last years of the Cold War designers in the East Bloc developed their own regional version of the "coke machine". It did not sell Coca-cola, a Western capitalist product only available in special-access stores. And drinks were not sold in individual containers, but rather fizzled into one single communal glass from which all consumers drank. Below is a picture of an East-Bloc coin-operated drink machine. The photo was taken in the Soviet Union, although similar machines could be found in Czechoslovakia and other East-Bloc countries. In some cases, instead of drinks pouring into a simple glass like the one depicted here, they poured into a beer mug attached to the machine with a chain so that no one could inadvertently (or advertently) walk off with the communal vessel. This photo was taken by David Hlynsky, an American-born photographer of Polish-Ukranian descent living in Canada, and can be found with his other very intriguing pictures of everyday life in the former East Bloc at his website  http://www.photoarts.com/journal/Hlynsky/hlynskyindex.html.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
 
 ### [Rude Pravo, Central Committee Meeting](/rude-pravo-central-committee-meeting)
 
 ![Rude Pravo, Central Committee Meeting](/images/Icons-Document-thumbnail_557.jpg)
+
+#### Annotation
 
 In 1978, one year after the creation of Charter '77, Vaclav Havel wrote his famous essay, "The Power of the Powerless." In it he argued that the countries of the East Bloc were under the rule of post-totalitarian regimes that appealed to popular desires for consumer goods, in order to secure domination over their populations. Indeed, these governments did make consumerist appeals. But they proved unable to make available and affordable the goods and lifestyles implicit in those appeals.
 In this document we find an official Czechoslovak Communist comment on the state of consumer goods and living conditions in Czechoslovakia on the eve of the 1989 revolution. The speaker was Ladislav Adamec, Prime Minister of Czechoslovakia from October 1988 until December 1989.
@@ -97,6 +103,8 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Samizdat, Air Pollution](/images/Icons-Document-thumbnail_556.jpg)
 
+#### Annotation
+
 Pollution from the Black Triangle was a tremendous source of water and air pollution in Eastern Europe, but it was not the only source. Heating systems that relied on coal power, and cars using leaded gas and lacking catalytic converters added to this immense problem, which especially plagued larger cities, including Prague.
 Initially, the Czechoslovak Communist government—like others in Eastern European—tried to suppress public discussion about the state of the environment. Despite their best efforts, public discussion of environmental issues grew beginning in the 1970s. In Czechoslovakia the Brontosaurus Movement, a dissident group comprised largely of high school and university students, began calling for environmental protection in 1974. In the Spring of 1989 the Mothers of Prague, female dissidents concerned about their children, held a demonstration to protest the state of air quality in Prague and to call for wider access to information about environmental health. In Poland, the Polish Ecology Movement, which worked with Solidarity, started doing so 1980. The following document from the samizdat Lidové noviny belongs to the history of public calls for environmental protection in communist Eastern Europe.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
@@ -104,6 +112,8 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 ### [Rude Pravo, Water Pollution](/rude-pravo-water-pollution)
 
 ![Rude Pravo, Water Pollution](/images/Icons-Document-thumbnail_555.jpg)
+
+#### Annotation
 
 Nestled in the very heart of Central Europe is a region that has come to be known as the Black Triangle. It contains land surrounding where the borders of Czechoslovakia, Poland, and East Germany meet. This large tri-state area is rich with natural resources, including lignite, iron ores, and uranium. Lignite is soft coal and is found close to the earth's surface, so it is easy to mine simply by scraping the surface or conducting what is called strip mining.
 During the Communist Era, the natural resources of the Black Triangle region were heavily exploited. The East German part of the Black Triangle had largest concentration of uranium mines in all of Europe. The Czechoslovak and Polish areas had vast open stretches of coal strip mines. The Communists put lignite resources to work right in the Black Triangle region itself, using them in massive factories and plants built close to the mines. A great number of these massive plants were lignite-fired electricity plants. The electricity produced in these plants, however, was not for the countries of Eastern Europe. It was produced for West European countries who purchased it for hard currency that the Communist regimes desperately needed.
@@ -114,6 +124,8 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Prace, Health](/images/Icons-Document-thumbnail_554.jpg)
 
+#### Annotation
+
 Following World War II, the peoples of Eastern Europe not only had increased access to affordable, hygienic housing, they also had improved access to health care. Still, like the new housing opportunities, the new health care offerings were limited in quantity and quality, and other everyday life changes conspired to test their efficacy. In the first years of Communist rule, the health of East Europeans significantly improved. The development of new medicines and improved housing led to the containment of the diseases that had been deadliest prior to the war, including tuberculosis, syphilis, and pneumonia. Increased birth rates and life expectancy resulted from this progress, but only for a short time. By the 1960s, however, the health of East Europeans showed signs of deterioration not due to the return of the old diseases but, instead, due to the rise of so-called "lifestyle" diseases. Lifestyle diseases, sometimes also known as "civilization diseases", include heart, vascular, liver and lung diseases, diabetes, and cancer. They result from changes in lifestyle associated with industrialization and urbanization in mass consumer societies. These changes can include diets that are richer in animal products, sugar, and fats, and increased consumption of alcohol, cigarettes, and recreational drugs.
 Práce was the newspaper of the Revolutionary Trade Union, the only trade union allowed in Communist Czechoslovakia and an important arm of the Communist Party.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
@@ -122,12 +134,16 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Rudé Pravo Alcohol and Cigarette Abuse](/images/Icons-Document-thumbnail_553.jpg)
 
+#### Annotation
+
 Alcohol and cigarette consumption were very regular parts of everyday life for great numbers of Eastern Europeans, including youth, during the Cold War era. In fact, these countries had some of the highest alcoholism rates in the world and a very large percentage of the population smoked. Recreational drug addiction was not as prevalent as it was in the West, largely due to government efforts to keep the borders between East and West closed, but it became a growing problem during the final years before 1989. Intravenous drug use rose in Eastern Europe in the 1980s, contributing to the appearance and spread of HIV during the last decade of Communist rule.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
 
 ### [Rudé Pravo, Music](/rude-pravo-music)
 
 ![Rudé Pravo, Music](/images/Icons-Document-thumbnail_552.jpg)
+
+#### Annotation
 
 The history of music, including rock, punk and heavy metal, forms a fascinating chapter in the history of everyday life in Cold War Eastern Europe. Among the many bands that formed during the three decades before 1989, perhaps none is better known than the Plastic People of the Universe of Czechoslovakia. The group's anti-Communist lyrics led it to be declared illegal. Persecution ranged from confiscation of the band's instruments (many of which were homemade) to jail sentences "for disturbing the peace." This persecution greatly contributed to the founding of the very influential dissident movement Charter '77, started in January 1977 by Vacláv Havel (President of Czechoslovakia and the Czech Republic from 1989 until 2003), Jan Patočka (who died following harsh police interrogations in March 1977), and Jiří Hajek. In Hungary members of the punk band, CPg, who also sang anti-Communist songs, experienced a similar fate. Despite persecution, lack of recording opportunities, and being forced to play underground, Communist efforts to stop the popularity of anti-establishment musicians failed.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
@@ -136,6 +152,8 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Rudé Pravo, Youth Discontent](/images/Icons-Document-thumbnail_551.jpg)
 
+#### Annotation
+
 In Communist Eastern Europe much propaganda was directed toward young people, who party leaders correctly viewed as forces important for the future of the state. This propaganda was filled with messages about the Communist Party's benevolent protection of workers' interests and the evils of Western capitalism. These messages were delivered in schools, where all teachers were required to write their lessons in accordance with the party line; in youth organizations, especially the Pioneers (the Eastern European equivalent of Boy and Girl Scouts); in mass parades celebrating national holidays, most of which commemorated Communist events; and in mass media, including TV, radio and film, all of which was under communist control—with the important exception of broadcasts originating in the West. Mothers and fathers were also supposed to teach their children to be good Communists, although this was difficult to do when parents had so little time for their offspring. As was traditional, fathers worked full-time jobs; and mothers, too, did so during the Cold War. Both parents shared the duties of standing in line on a daily basis to purchase food, although the greater share of this responsibility fell to mothers. The following document is an official Communist commentary on Czechoslovak youth and their discontent written several months before the revolution of 1989.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
 
@@ -143,12 +161,16 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Samizdat, Houses of Culture and Entertainment](/images/Icons-Document-thumbnail_550.jpg)
 
+#### Annotation
+
 During the Cold War era an interesting public space called "the house of culture" (or sometimes "the palace of culture") proliferated throughout the East Bloc. Sometimes they existed as free-standing buildings, sometimes as parts of factory complexes, and very often they were buildings within the massive housing settlements were millions of Eastern Europeans awoke and retired to rest each day. Communist leaders constructed houses of culture with the goal of promoting working-class leisure and entertainment, albeit within the constraints of Communist cultural values. But the leisure and entertainment was not offered for its own sake, but rather it was to help teach ordinary men and women how to be good Communists. Cultural activities in the houses of culture included government-approved movies and concerts, dance, arts, and craft lessons, lectures, and sporting activities. Some were aimed at children or youth; others were aimed at older groups. Some had pubs and restaurants attached to them. Below you will read one description of activities in houses of culture in Prague. It comes from the samizdat publication, Lidové noviny.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
 
 ### [Panelaks and Housing Estates](/panelaks-and-housing-estates)
 
 ![Panelaks and Housing Estates](/images/panelaky_thumb.jpg)
+
+#### Annotation
 
 During the first half of the 20th century shortages of hygienic, affordable housing were common in Eastern Europe. Following World War II, Communist leaders worked to resolve this social problem—one that grew graver as collectivization of agriculture during the 1950s forced millions of people to migrate from the countryside to cities.
 Their solution was the construction of massive, high-rise, multi-unit, pre-fabricated, concrete apartment buildings throughout the region, called panelaks (or paneláky) due to their panel construction. Generally, panelaks had a homogeneous, uniform appearance, that lowered construction costs and also aimed to support the Communist aesthetic of undifferentiated men and women living in a mass society of equals. The limited size of apartments units, in which often more than one family lived together, and their being stacked in rows one atop another, led Czechs to call them "rabbit hutches".
@@ -160,6 +182,8 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Rudé Pravo, Housing](/images/Icons-Document-thumbnail_548.jpg)
 
+#### Annotation
+
 Rudé Pravo was the Czechoslovak equivalent of the Soviet newspaper Pravda. Both were the official daily news publications of their respective Communist governments; both depicted the official version of truth about current events and conditions. Rudé Pravo had a daily circulation of over one million, a fact attributable not to its popularity but rather to the reality that it was the official daily newspaper in a system that aimed to control the dissemination of information (it is said that few people really read it).
 The following document is a Foreign Broadcast Information Service (FBIS) summary of a Rudé Pravo report on the housing situation in Czechoslovakia. FBIS was a non-covert information unit of the U.S. Central Intelligence Agency that collected, translated, and disseminated open news from foreign information sources (it still exists and with these functions, but it 2005 it was placed under the Director of National Intelligence). This document provides a view into an important aspect of everyday life for millions of Eastern Europeans.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
@@ -167,6 +191,8 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 ### [Samizdat, Tuzex](/samizdat-tuzex)
 
 ![Samizdat, Tuzex](/images/Icons-Document-thumbnail_547.jpg)
+
+#### Annotation
 
 Tuzex, short for Tuzemský export (or domestic export), was a set of special stores in Communist Czechoslovakia. The Communist Party established Tuzex in 1957, in order to draw hard currency from citizens' pockets into the coffers of the state. Hard currency, including American dollars and West German marks, was convertible currency linked to the international gold standard (unlike currencies in the East Bloc). The main source of hard currency in the East Bloc was relatives of Eastern Europeans who sent money to their families. Other sources included foreign tourists and wages earned abroad.
 Tuzex stores carried varieties of luxury goods not available in regular stores. Western liquors, cigarettes, and clothing—especially blue jeans—were in-demand items; high-quality goods domestically produced (often for foreign export) were also available. Shopping in Tuzex was expensive due to exchanges one had to make. Initially Czechoslovaks had to use hard currency; later they could use regular Czechoslovak money, but only after purchasing Tuzex vouchers at a very high exchange rate. Special stores like Tuzex existed in other Eastern European countries, as well. In Poland there was Pewex, in Bulgaria Corecom, and in East Germany Intershop. They all existed to draw hard currency into the state budget.
@@ -177,6 +203,8 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Samizdat, Five Year Plan](/images/Icons-Document-thumbnail_546.jpg)
 
+#### Annotation
+
 In 1986 the Czechoslovak Communist Central Committee approved its Eighth Five Year Plan since 1948, which stayed in effect, with modifications, until 1990. The plan built upon the East Bloc practices of following the Soviet command-economy model and emphasizing heavy industry over consumer goods. For example, the plan called for industrial output to grow 15.8% for the five year period (roughly 3.1% per year). During the same time personal consumption was to increase by 11.9% (roughly 2.4% annually). Industries for machine building, electronics, chemicals and metallurgy were to receive special attention, as were the construction of nuclear power plants and natural-gas facilities (the latter stemmed from environmental concerns). Overall, the Eighth Five Year Plan called for the Czechoslovak economy to grow 3.5% per year. These targets were higher than what had been achieved during the period of the Seventh Five Year Plan. Most of this new growth (92% to 95% of it) was to come from improved worker productivity, thereby placing more pressure on ordinary people; the much smaller part of it was to come from decreases in production costs, especially the cost of fuel. Modifications were made to the plan, especially once it became clear that Gorbachev would not be removed from power. One modification in 1987 entailed the creation of 120 enterprises that were expected to achieve centrally planned goals, but could independently decide how to arrive at them.
 The following document on toilet paper illustrates the impact of the Soviet-style command economies on the everyday life of ordinary people in the East Bloc. It also illustrates the existence of public criticism of government management of the economy.
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
@@ -185,10 +213,11 @@ This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](ht
 
 ![Samizdat, Consumer Goods](/images/Icons-Document-thumbnail_545.jpg)
 
+#### Annotation
+
 Czechoslovaks watched the unfolding of perestroika [restructuring] in the Soviet Union and its slow introduction into their own economy with great interest, although there were obstacles to doing so. While the Czechoslovak Communist Party was ready to start experimenting with economic perestroika, it maintained reservations about glasnost [openness or publicity]. It suppressed reports about Soviet developments in the official Czechoslovak news. Still, local interest in Gorbachev's reforms was so strong that Czechoslovaks purchased and read Soviet newspapers (Russian-language study was mandatory in Eastern European schools). Further, samizdat publications contained reports on Soviet developments and their significance for Czechoslovakia. Samizdat, which can be translated as "self-publication", consisted of journals, pamphlets and books that were illegally published, distributed and read. One samizdat publication was Lidové noviny [The People's News; pronounced "Lee-doe-ve No-vee- knee"]. Its editors included Jiří Ruml, Jiří Dienstbier a Ladislav Hejdánek, all of whom were involved with the illegal dissident movement Charter '77. This underground publication began to appear monthly in 1988.
 The following document and many documents found in this teaching module are translations of articles from Lidové noviny. These samizdat pieces represent non-government views on the quality of everyday life in Czechoslovakia and reasons for that quality. A particular point of interest in the next document is the comparison of everyday life between an Eastern and a Western European country. During the 1980s such comparisons became more common in the East Bloc as growing numbers of Eastern Europeans had access to television programs from the West, including the American mini-series "Dallas."
 This source is a part of the [*Everyday Life in Eastern Europe in the 1980s*](https://worldhistorycommons.org/long-teaching-module-everyday-life-eastern-europe-1980s) teaching module.
-
 
 ## Teaching Strategies
 

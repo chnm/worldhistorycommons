@@ -5,6 +5,7 @@ drupal_node_id: 2606
 source_type: "Text"
 url: /selections-eusebius-life-constantine
 image: /images/Text_Image_7.jpg
+image_alt: "document icon"
 regions: 
   - "Asia"
   - "Europe"

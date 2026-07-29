@@ -5,6 +5,7 @@ drupal_node_id: 149
 source_type: "Image"
 url: /soccer-ball-assembly-using-child-labor
 image: /images/soccer-ball-workers-combi_e3ad09a663.jpg
+image_alt: "Boy pictued with soccer balls"
 regions: 
   - "Asia"
 subjects: 

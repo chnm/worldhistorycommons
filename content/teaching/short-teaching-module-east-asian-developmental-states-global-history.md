@@ -22,6 +22,8 @@ related_sources:
   - link: "/showa-steelworks-anshan-northeast-china"
     image: "/images/Showa_Steel_WorksTHUMB.jpeg"
     alt: "Image of factory that links to resource"
+how_to_cite: |
+  "Short Teaching Module: East Asian Developmental States in Global History," in World History Commons, https://worldhistorycommons.org/short-teaching-module-east-asian-developmental-states-global-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -38,7 +40,7 @@ This essay reconsiders the transnational genealogy of the developmental state bo
 
 World War I of 1914-18 redefined the relationship between the state and industry globally. To enhance their military capacity, the major European governments directly controlled many realms of the economy. This shared experience of total war inspired the Bolsheviks, who seized power in Russia in November 1917. In 1918, Vladimir Lenin wrote that “our task is to study the state capitalism of the Germans, to spare *no effort* in copying it.” The Bolsheviks began to place major industrial enterprises under state ownership.
 
-The Soviet Union, established in 1922, continued to be inspired by the models of advanced industrial economies. Thousands of copies of Henry Ford’s autobiography were circulating in Russian translation. The Soviet Union imported machines and invited experts from American or German companies, especially during the First Five-Year Plan (1928–32).  
+The Soviet Union, established in 1922, continued to be inspired by the models of advanced industrial economies. Thousands of copies of Henry Ford’s autobiography were circulating in Russian translation. The Soviet Union imported machines and invited experts from American or German companies, especially during the First Five-Year Plan (1928–32).<br>
 The Soviet Union’s extremely high pace of industrialization impressed many non-Western policymakers and intellectuals, including Japanese bureaucrats in Manchuria (Northeast China), which Japan occupied between 1931 and 1945. Partly emulating the Soviet Union, the Japanese-sponsored government of Manchukuo implemented five-year plans for state-directed heavy industrialization. But rather than place all the industries under state ownership, the Manchukuo government also allowed private businesses, many of which were owned by the Japanese, to operate in Manchuria.
 
 Many Japanese bureaucrats of Manchukuo were later transferred to Japan, where they brought home their recent experiment of regulated capitalism during the Second Sino-Japanese War (1937–45) and the Pacific War (1941–45). The core of Japan’s wartime economic mobilization was the Ministry of Commerce and Industry (MCI), which introduced various forms of bureaucratic control on private enterprises.
@@ -63,6 +65,8 @@ After Mao Zedong’s death in 1976, the PRC gradually introduced the system of a
 
 ![Showa Steelworks in Anshan (Northeast China)](/images/Showa_Steel_WorksTHUMB.jpeg)
 
+#### Annotation
+
 Showa Steelworks, initially established as Anshan Ironworks in 1917, was located in Anshan, Liaoning Province, Northeast China, historically known as Manchuria. Anshan Ironworks was a subsidiary of South Manchurian Railway Company, a Japanese semi-state-owned enterprise that managed railways and other operations in Manchuria.
 
 During Japan’s occupation of Manchuria from 1931 to 1945, Anshan Ironworks was reorganized in 1933 and renamed Showa Steelworks. This reorganization was part of Japan's broader effort to industrialize Manchuria to support its military buildup. By importing advanced steelmaking technology from Nazi Germany, Showa Steelworks became central to Manchukuo's state-directed industrialization. By the late 1930s, the complex had expanded significantly, surrounded by numerous ancillary factories producing a variety of metal products. It was the largest steel producer on Chinese soil, playing a crucial role in Japan’s war efforts, particularly in China. However, its strategic importance also made it a prime target for Allied bombing raids in 1944.
@@ -73,12 +77,13 @@ After Japan's defeat in August 1945, the Soviet Red Army dismantled the most cru
 
 ![Weng Wenhao](/images/Weng_WenhaoTHUMB.jpg)
 
+#### Annotation
+
 Weng Wenhao (翁文灏, 1889-1971) was a distinguished Chinese geologist, politician, and educator who played a crucial role in shaping China's developmental state during the 20th century.
 
 Born in Zhejiang Province, Weng pursued his studies in Belgium, where he earned a Ph.D. in geology from the Catholic University of Leuven. Upon his return to China, he carried out extensive geological research and significantly contributed to the mapping of China's mineral resources. In addition to teaching at Peking and Tsinghua Universities, he also held various government positions. Most notably, under the Nationalist government, he was the director of the National Resources Commission (NRC), an entity that managed state-owned enterprises during the Second Sino-Japanese War. In this capacity, Weng directed the Nationalist government's state-led industrialization efforts during and after World War II. Additionally, he served as the Minister of Economic Affairs and later as the Premier of the Republic of China from 1948 to 1949 under Chiang Kai-shek's leadership.
 
 After the establishment of the People's Republic of China, Weng chose to remain in China under Communist rule, where he continued to hold various government positions until his death in 1971. Many of his colleagues from the NRC also made the same choice. This continuity of NRC managers and engineers into Maoist China represented a significant continuity in the evolution of the Chinese developmental state under the Nationalists and Communists.
-
 
 ## Bibliography
 

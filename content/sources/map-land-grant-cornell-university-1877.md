@@ -5,6 +5,10 @@ drupal_node_id: 2881
 source_type: "Image"
 url: /map-land-grant-cornell-university-1877
 image: /images/Cornell.png
+image_alt: "Map titled Map Showing Cornell University Lands in Wisconsin for sale. Description in annotation"
+additional_images:
+  - src: "/images/source-media/2881/Cornell_2.png"
+    alt: "Gridded map of Wisconsin lands sold. Description in annotation."
 regions: 
   - "Comparative"
   - "North/Central America"

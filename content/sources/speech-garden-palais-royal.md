@@ -5,6 +5,7 @@ drupal_node_id: 197
 source_type: "Image"
 url: /speech-garden-palais-royal
 image: /images/81a741f2c9cc1dabd659362e8c9d8f4a.jpg
+image_alt: "Engraving of speech given against Estates-General"
 regions: 
   - "Europe"
 subjects: 
@@ -24,3 +25,8 @@ how_to_cite: |
 In this artistic rendition, on 12 July 1789 Camille Desmoulins stands on a table and encourages his listeners to rise against the threat to the Estates–General. He, and others of his ilk, would be successful in bringing about the fall of the Bastille on 14 July.
 
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) source collection.
+
+## Transcription
+
+**Title in French**  
+Motion faite au Palais royal, par Camille Desmoulins. Le 12 Juillet 1789.

@@ -5,6 +5,7 @@ drupal_node_id: 2713
 source_type: "Text"
 url: /tell-negroes-join-other-peoples-world
 image: /images/Kiazolu1.png
+image_alt: "Image of the newspaper article. Description in annotation."
 regions: 
   - "Africa"
   - "Global"

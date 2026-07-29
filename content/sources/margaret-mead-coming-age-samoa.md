@@ -5,6 +5,7 @@ drupal_node_id: 325
 source_type: "Text"
 url: /margaret-mead-coming-age-samoa
 image: /images/coming-of-age-in-samoa.jpg
+image_alt: "Margaret Mead standing between two Samoan girls"
 regions: 
   - "Oceania"
 subjects: 

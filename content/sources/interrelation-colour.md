@@ -5,6 +5,7 @@ drupal_node_id: 1316
 source_type: "Text"
 url: /interrelation-colour
 image: /images/Icons-Document_135.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

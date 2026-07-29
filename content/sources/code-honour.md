@@ -5,6 +5,7 @@ drupal_node_id: 1228
 source_type: "Text"
 url: /code-honour
 image: /images/Icons-Book-Excerpt_2.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2089
 source_type: "Text"
 url: /excerpt-history-mary-prince
 image: /images/slaverylaborgender.jpg
+image_alt: "image of the history of mary prince"
 regions: 
   - "Europe"
 subjects: 
@@ -39,7 +40,7 @@ Ah, poor me!--my tasks were never ended. Sick or well, it was work--work--work!-
 
 When we were ill, let our complaint be what it might, the only medicine given to us was a great bowl of hot salt water, with salt mixed with it, which made us very sick. If we could not keep up with the rest of the gang of slaves, we were put in the stocks, and severely flogged the next morning. Yet, not the less, our master expected, after we had thus been kept from our rest, and our limbs rendered stiff and sore with ill usage, that we should still go through the ordinary tasks of the day all the same.--Sometimes we had to work all night, measuring salt to load a vessel; or turning a machine to draw water out of the sea for the salt-making. Then we had no sleep--no rest--but were forced to work as fast as we could, and go on again all next day the same as usual. Work--work--work--Oh that Turk's Island was a horrible place! The people in England, I am sure, have never found out what is carried on there. Cruel, horrible place!
 
----------------------
+\---------------------
 
 My old master often got drunk, and then he would get in a fury with his daughter, and beat her till she was not fit to be seen. I remember on one occasion, I had gone to fetch water, and when I was coming up the hill I heard a great screaming; I ran as fast as I could to the house, put down the water, and went into the chamber, where I found my master beating Miss D---- dreadfully. I strove with all my strength to get her away from him; for she was all black and blue with bruises. He had beat her with his fist, and almost killed her. The people gave me credit for getting her away. He turned round and began to lick me. Then I said, "Sir, this is not Turk's Island." I can't repeat his answer, the words were too wicked--too bad to say. He wanted to treat me the same in Bermuda as he had done in Turk's Island.
 

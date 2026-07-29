@@ -1,0 +1,26 @@
+{{ with .Params.related_sources }}
+<section class="box-border related-sources" aria-labelledby="related-primary-sources">
+  <h2 id="related-primary-sources" class="related-sources__heading">Related Primary Sources</h2>
+  <p class="related-sources__intro">Select a source to view its full record.</p>
+  <ul class="box-tile related-sources__list">
+    {{ range . }}
+      {{ $title := default "Related primary source" .alt }}
+      {{ with where $.Site.RegularPages "Params.url" "eq" .link }}
+        {{ $title = (index . 0).Title }}
+      {{ end }}
+      <li class="related-source-card">
+        <a href="{{ .link }}">
+          <img src="{{ .image }}" alt="">
+          <span class="related-source-card__title">{{ $title }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+{{ else }}
+  {{ with .Params.image }}
+  <div class="box-border box-tile">
+    <img src="{{ . }}" alt="">
+  </div>
+  {{ end }}
+{{ end }}

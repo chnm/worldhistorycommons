@@ -6,7 +6,7 @@ url: /south-texas-border-1900-1920-photographs-robert-runyon-collection
 image: /images/run_12845THUMB.jpg
 website_authors: "Briscoe Center for the American History, University of Texas at Austin"
 reviewer: "Reviewed by Matthew Karush, George Mason University"
-reviewed_url: "https://www.cah.utexas.edu/db/dmr/dmr_result.php?collection=run"
+reviewed_url: "https://web.archive.org/web/20210810112716/https://www.cah.utexas.edu/db/dmr/dmr_result.php?collection=run"
 pull_quote: "“These images represent a valuable visual record of life in the south Texas borderlands during the 1910s and 1920s, as well as an important window onto a relatively understudied phase of the Mexican Revolution.”"
 how_to_cite: |
   "South Texas Border, 1900-1920: Photographs from the Robert Runyon Collection ," in in World History Commons, https://worldhistorycommons.org/south-texas-border-1900-1920-photographs-robert-runyon-collection [accessed April 8, 2026]
@@ -22,7 +22,7 @@ time_periods: []
 
 This
 
-[collection](https://www.cah.utexas.edu/db/dmr/dmr_result.php?collection=run)
+[collection](https://web.archive.org/web/20210810112716/https://www.cah.utexas.edu/db/dmr/dmr_result.php?collection=run)
 
 includes more than 8,000 images produced by Runyon, a commercial photographer based in Brownsville, Texas. These images represent a valuable visual record of life in the south Texas borderlands during the 1910s and 1920s, as well as an important window onto a relatively understudied phase of the Mexican Revolution.
 

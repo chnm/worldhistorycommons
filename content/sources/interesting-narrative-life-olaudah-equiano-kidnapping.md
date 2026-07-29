@@ -5,6 +5,7 @@ drupal_node_id: 393
 source_type: "Text"
 url: /interesting-narrative-life-olaudah-equiano-kidnapping
 image: /images/olaudah-equiano-title-page.jpg
+image_alt: "Title page for The Interesting Narrative of the Life of Olaudah Equiano"
 regions: 
   - "Africa"
 subjects: 

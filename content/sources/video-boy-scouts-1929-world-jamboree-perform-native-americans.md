@@ -5,7 +5,8 @@ drupal_node_id: 2847
 source_type: "Video"
 url: /video-boy-scouts-1929-world-jamboree-perform-native-americans
 image: 
-youtube_id: nMuwMazp_5s
+youtube_id: o_et5tHBczg
+youtube_replaces: nMuwMazp_5s
 regions: 
   - "Global"
 subjects: 

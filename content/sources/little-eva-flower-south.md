@@ -5,6 +5,12 @@ drupal_node_id: 319
 source_type: "Text"
 url: /little-eva-flower-south
 image: /images/littleevaflower1.jpg
+image_alt: "Little Eva, The Flower of the South cover"
+additional_images:
+  - src: "/images/source-media/319/littleevaflower2.jpg"
+    alt: "Little Eva, The Flower of the South page"
+  - src: "/images/source-media/319/littleevaflower3.jpg"
+    alt: "Little Eva, The Flower of the South page"
 regions: 
   - "North/Central America"
 subjects: 

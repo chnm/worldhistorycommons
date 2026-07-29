@@ -5,6 +5,10 @@ drupal_node_id: 937
 source_type: "Text"
 url: /hugo-ninety-three
 image: /images/worksofvictorhugo-1.jpg
+image_alt: "Text of Ninety Three by Victor Hugo"
+additional_images:
+  - src: "/images/source-media/937/worksofvictorhugo-2.jpg"
+    alt: "Text of Ninety Three by Victor Hugo"
 regions: 
   - "Europe"
 subjects: 

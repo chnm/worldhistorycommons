@@ -5,6 +5,7 @@ drupal_node_id: 1069
 source_type: "Image"
 url: /long-live-liberty
 image: /images/fdc47776021614bd907ea0d418eafa23.jpg
+image_alt: "Engraving of King Louis XVI lets birds representing liberty out of a cage"
 regions: 
   - "Europe"
 subjects: 

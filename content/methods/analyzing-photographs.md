@@ -23,6 +23,8 @@ related_sources:
   - link: "/map-ichan-qala"
     image: "/images/ichan_kala-thumbnail.jpeg"
     alt: ""
+how_to_cite: |
+  "Analyzing Photographs," in World History Commons, https://worldhistorycommons.org/analyzing-photographs [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -57,6 +59,8 @@ Knowing the meaning of an image is not simple. Many scientists argue that only f
 
 Of course, these values change over time and place. The same image can be valued differently over time and in different cultures. Take, for example, the long journey in time and space of images and hieroglyphic writing that cover the surfaces of the coffins of mummies from Egypt. In their own period, several thousand years ago, the presence of the images and writing were an essential element in the ritual of death and burial of an important individual. These images were hidden from the view of human beings. Today, many have been removed from their ritual site and these same images are displayed in museums in Cairo, Boston, New York, and elsewhere. To the contemporary viewer these images mean something quite different. They are available for evaluation or are consumed as art and as history.
 
+![](/images/Egyptian-mummy-coffin.png)
+
 To the contemporary Egyptian museum visitor who perceives these images and their materiality (the coffin they are on and the fineness of the painting), they represent the past history of his or her nation. To other museum visitors, these same images on the coffin represent a fascinating ancient civilization other than their own. Still others feel that it is inappropriate for the public to view these excavated images and the bodies that they shield.
 
 These images are also understood and valued in other ways. Visitors pay entrance fees to museums to see these images from the past. Those who do not visit the museum can see pictures of the images in books. Photographs of these images, for which copyright fees have usually been paid, are used in art books, history books, and travel guides or as posters to be hung on walls. Libraries and individuals in turn purchase the books in which the representation of the image is presented. In these many ways, the image is valued and consumed in today’s societies and has multiple meanings across time, culture, and place.
@@ -65,7 +69,11 @@ These images are also understood and valued in other ways. Visitors pay entrance
 
 Look at the image of a town by a stream. What this photograph shows us, and what we can know only by further research, is that this is a detail section of a much larger image known as the Barada panel.
 
+![](/images/Barada-panel.png)
+
 The panel depicts many townscapes along a riverbank identified as the Barada River that flows through Damascus, Syria. The full panel measures 34.5 meters in length and 7.15 meters wide (115 feet x 23.8 feet). The panel shown here is five meters (16.7 feet) above ground level on the wall in the courtyard of the Great Mosque in Damascus. Knowing these details indicates to us that the original image was to be perceived from a distance and from below—not as an image in a book, as most students see it today.
+
+![](/images/Barada-panel-2.png)
 
 The original image is created in mosaic technique. Choosing to execute an image in mosaic involves setting thousands of small pieces of glass, ceramic, or stone into mortar. In antiquity (the technique was invented in the Mediterranean basin in about the 4th century BCE), the individual pieces used to compose the mosaic were usually of standard size. As the technique gained in popularity and spread, mosaics were often made of pieces of different sizes and shapes like the pieces of a puzzle. Mosaic is a difficult technique requiring extraordinary time and labor and can be used on the exterior of a structure, but is most frequently used on interior or partially covered areas, often to protect the mortar.
 
@@ -76,6 +84,8 @@ When we analyze an intricate image such as this mosaic, historians often pay as 
 ##### What are the social conditions of the use of the image?
 
 Look at this famous photograph of the July 1969 moon landing. It depicts the American flag, Apollo, the lunar module (LEM), and an astronaut.
+
+![](/images/1969-moon-landing.png)
 
 When we look at an image like this, historians ask not only what the image shows us, but also how the image was used and how various audiences reacted to it. On the one hand, the photograph itself represented a triumph of technology. Minimally speaking, U.S. technology met the challenge of preserving film against the high temperatures on the moon, temperatures at which film burns. Yet the impact of this image did not rest in its technological prowess. Rather, the image of the flag of the United States was the focus of worldwide attention. Because the photograph was distributed in print media and television, it had a global audience.
 
@@ -103,12 +113,16 @@ Taking a bite of an apple is to partake of temptation. Taking a bite [or a byte]
 
 ![Egyptian Mummy Coffin](/images/Coffin_and_mummy_of_Meresamun-thumbnail.jpeg)
 
+#### Annotation
+
 The same image can be valued differently over time and in different cultures. Take, for example, the long journey in time and space of images and hieroglyphic writing that cover the surfaces of the coffins of mummies from Egypt. In their own period, several thousand years ago, the presence of the images and writing were an essential element in the ritual of death and burial of an important individual. These images were hidden from the view of human beings. Today, many have been removed from their ritual site and these same images are displayed in museums in Cairo, Boston, New York, and elsewhere. To the contemporary viewer these images mean something quite different. They are available for evaluation or are consumed as art and as history. To the contemporary Egyptian museum visitor who perceives these images and their materiality (the coffin they are on and the fineness of the painting), they represent the past history of his or her nation. To other museum visitors, these same images on the coffin represent a fascinating ancient civilization other than their own. Still others feel that it is inappropriate for the public to view these excavated images and the bodies that they shield. These images are also understood and valued in other ways. Visitors pay entrance fees to museums to see these images from the past. Those who do not visit the museum can see pictures of the images in books. Photographs of these images, for which copyright fees have usually been paid, are used in art books, history books, and travel guides or as posters to be hung on walls. Libraries and individuals in turn purchase the books in which the representation of the image is presented. In these many ways, the image is valued and consumed in today’s societies and has multiple meanings across time, culture, and place.
 This source is a part of the [*Analyzing Photographs*](https://worldhistorycommons.org/analyzing-photographs) methods module.
 
 ### [Barada Panel in Great Mosque in Damascus](/barada-panel-great-mosque-damascus)
 
 ![Barada Panel in Great Mosque in Damascus](/images/Umayyad_Great_Mosque-thumbnail.jpeg)
+
+#### Annotation
 
 The panel shown here is five meters (16.7 feet) above ground level on the wall in the courtyard of the Great Mosque in Damascus. The original image is created in mosaic technique. Choosing to execute an image in mosaic involves setting thousands of small pieces of glass, ceramic, or stone into mortar. In antiquity (the technique was invented in the Mediterranean basin in about the 4th century BCE), the individual pieces used to compose the mosaic were usually of standard size. As the technique gained in popularity and spread, mosaics were often made of pieces of different sizes and shapes like the pieces of a puzzle. Mosaic is a difficult technique requiring extraordinary time and labor and can be used on the exterior of a structure, but is most frequently used on interior or partially covered areas, often to protect the mortar. When we analyze an intricate image such as this mosaic, historians often pay as much attention to the many trained artists who made this image as we do to the content of the image itself. Paying attention to the ways that a wall was transformed into a luminous landscape by the application of hundreds of thousands of glass cubes tells us much about the technological and artistic skill as well as the resources and cultural values of a given society.
 This source is a part of the [*Analyzing Photographs*](https://worldhistorycommons.org/analyzing-photographs) methods module.
@@ -117,6 +131,8 @@ This source is a part of the [*Analyzing Photographs*](https://worldhistorycommo
 
 ![Apollo 11 Moonwalk](/images/moon-landing-1969-thumbnail.jpeg)
 
+#### Annotation
+
 Look at this famous photograph of the July 1969 moon landing. When we look at an image like this, historians ask not only what the image shows us, but also how the image was used and how various audiences reacted to it. On the one hand, the photograph itself represented a triumph of technology. Minimally speaking, U.S. technology met the challenge of preserving film against the high temperatures on the moon, temperatures at which film burns. Yet the impact of this image did not rest in its technological prowess. Rather, the image of the flag of the United States was the focus of worldwide attention. Because the photograph was distributed in print media and television, it had a global audience.
 This source is a part of the [*Analyzing Photographs*](https://worldhistorycommons.org/analyzing-photographs) methods module.
 
@@ -124,29 +140,40 @@ This source is a part of the [*Analyzing Photographs*](https://worldhistorycommo
 
 ![Map of Ichan Qala](/images/ichan_kala-thumbnail.jpeg)
 
+#### Annotation
+
 This type of image is known as a map. Represented on this paper is the old, walled city that forms a part of the larger, contemporary city of Khiva, Uzebekistan. This image covers one half of one side of the page of the map. Looking at it closely tells us as much about contemporary material culture as it does about the old city that it represents.
 This source is a part of the [*Analyzing Photographs*](https://worldhistorycommons.org/analyzing-photographs) methods module.
 
-
 ## Sample Analysis
+
+![](/images/Khiva-map.png)
 
 This type of image is known as a map. Represented on this paper is the old, walled city that forms a part of the larger, contemporary city of Khiva, Uzebekistan. This image covers one half of one side of the page of the map. Looking at it closely tells us as much about contemporary material culture as it does about the old city that it represents.
 
 A careful examination of this image reveals a great deal. The upper left-hand corner displays a label of two words repeated three times. The sound of the name, in Uzbek, of this walled section of the city appears in two different alphabets. The first is the name written in the Cyrillic alphabet, the alphabetic letters in which Russian and several other Slavic languages are written, and in which Uzbek was written before the breakup of the Soviet Union. The next two are written in Latin letters, Ichan Qala and Ichan Kala. The differences between these two may seem to be two different ways to spell the same name, but actually indicate variations in transliteration systems. The first is a transliteration system based on English language conventions for representing sounds; the second a German one.
 
+![](/images/Khiva-label.png)
+
 Compare these representations of words with the label of the map that displays the name of the city as a whole, Khiva. This large label is placed on the page to the right of the representation of Ichan Qala. The largest word, placed in the center, is in Cyrillic letters. “Khiva” on the left represents the transliteration by English standards and “Chiwa” on the right, those in German.
 
 What can we understand about the intended audiences of this image of the city from the representations of alphabetic letters? The audience given primacy of place in both labels is one that reads the Cyrillic alphabet. What is interesting to note is that on this side of the map an absence occurs. When, after the breakup of the Soviet Union, Uzebekistan became an independent country, it officially adopted Latin letters for its language. “Khiva” in contemporary Uzbek is spelled Xiva. Representing the name of the city in its new alphabet is present only on the other side of the map when it is fully opened. Of course, the use of Latin alphabetic letters is quite new, and most people who speak Uzbek are more used to seeing it represented in the Cyrillic alphabet. In addition, most of the adult population of Uzbekistan and the neighboring countries are also literate in Russian and thus familiar with the Cyrillic alphabet.
 
+![](/images/Khiva-flag.png)
+
 The other audiences to which this map is aimed are those literate in English and German. On the reverse side of this page where the Index to the numbered buildings is located, flags indicate the language by nationality. The Uzbek flag, British flag, and German flag are represented. The Uzbek section is presented in Cyrillic letters, and the English and German names are presented according to the transliteration systems in those languages, as on the front side.
 
 Look again at the representation of the old section of Khiva, the Ichan Qala. Note the walled, rectangular enclosure with gates in each of the four sides. Note the number of buildings represented within the walls with some outside them. Look at the representation of streets. All of the buildings are facing us directly or are presented so that we see the building as a whole.
+
+![](/images/large-kiva-map.png)
 
 For example, number 21, the khan-madrassa of Muhammad Rahim. Naturally, if we were on the street in the Ichan Qala, we would not see the building in this fashion. This image of the city shares many similarities with the images of cities that developed in the 19th century and have continued since then.
 
 This type of mapping presents a “bird’s-eye” view of the street layout of the city, one that a pedestrian cannot see but which helps the user of the map navigate connections of streets. It promotes knowledge of the overview of a city. In the 19th century, such maps usually represented buildings by displaying their ground plans. The pedestrian, of course, would not see the ground plan as she walked through the city, but the ground plan represented an expected typology of buildings. The users of such maps are usually not local inhabitants. Such maps do not represent all buildings, but only those deemed important. The map of the Ichan Qala follows in this tradition and displays only important buildings.
 
 Absences occur in this image of Ichan Qala. No street names appear. Perhaps the streets have no names. Scale is not represented. How large is this section of the city? Are the buildings represented to scale? No indications as to the site of the buildings are present. For example, the facade of the Shergozi kahn-madressa, number 11, faces the viewer, but appears to have its back to the street. How is access to the building achieved? What is the spatial relationship between buildings? In one glance, each is shown clearly to the viewer and no buildings overlap.
+
+![](/images/kiva-legend.png)
 
 For whom then, and why, is this kind of image of the city made? The legend on the reverse tells us that Shams al-Din Matasulov produced this map in 2003.
 

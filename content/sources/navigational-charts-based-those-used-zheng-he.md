@@ -5,6 +5,10 @@ drupal_node_id: 2389
 source_type: "Image"
 url: /navigational-charts-based-those-used-zheng-he
 image: /images/Wu_bei_zhi_LOC_2004633695-18.jpg
+image_alt: "A map, oriented toward the east; on the right hand-segment Africa is at the bottom and Ceylon at the upper right."
+additional_images:
+  - src: "/images/source-media/2389/Stellardiagram-Zhengho.jpg"
+    alt: "Stellar diagram features a drawing of a ship surrounded by Chinese characters"
 regions: 
   - "Asia"
 subjects: 

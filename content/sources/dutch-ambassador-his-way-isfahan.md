@@ -5,6 +5,7 @@ drupal_node_id: 2318
 source_type: "Image"
 url: /dutch-ambassador-his-way-isfahan
 image: /images/SK-A-3879.jpg
+image_alt: "Painting of The Dutch Ambassador on his Way to Isfahan"
 regions: 
   - "Africa"
   - "Asia"

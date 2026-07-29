@@ -5,6 +5,7 @@ drupal_node_id: 300
 source_type: "Image"
 url: /transplanting-teeth
 image: /images/transplanting-teeth.jpg
+image_alt: "Engraving of transplanting teeth"
 regions: 
   - "Europe"
 subjects: 

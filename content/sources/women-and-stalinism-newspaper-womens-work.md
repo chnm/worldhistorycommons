@@ -5,6 +5,7 @@ drupal_node_id: 1551
 source_type: "Text"
 url: /women-and-stalinism-newspaper-womens-work
 image: /images/Icons-Article-Excerpt_11.jpg
+image_alt: "image of the article"
 regions: 
   - "Europe"
 subjects: 

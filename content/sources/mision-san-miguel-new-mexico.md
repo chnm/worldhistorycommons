@@ -5,6 +5,9 @@ drupal_node_id: 2640
 source_type: "Image"
 url: /mision-san-miguel-new-mexico
 image: /images/san_miguel.jpg
+additional_images:
+  - src: "/images/source-media/2640/S_Miguel_sta_fe_ap_2019_14.jpg"
+    alt: ""
 regions: []
 subjects: []
 time_periods: []

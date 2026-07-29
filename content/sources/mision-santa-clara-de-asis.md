@@ -5,6 +5,7 @@ drupal_node_id: 2691
 source_type: "Image"
 url: /mision-santa-clara-de-asis
 image: /images/Mission_Santa_Clara.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

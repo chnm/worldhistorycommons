@@ -5,6 +5,7 @@ drupal_node_id: 933
 source_type: "Image"
 url: /game-great-men-minot-elder
 image: /images/327d0fa11ae70b70a6cb8331d913a7e5.jpg
+image_alt: "Redesigned revolutionary pack of cards"
 regions: 
   - "Europe"
 subjects: 
@@ -23,3 +24,8 @@ how_to_cite: |
 ---
 
 Revolutionaries redesigned playing cards in order to eliminate references to royalty (kings, queens, jacks) and replace them with great men and abstract virtues.
+
+## Transcription
+
+**Title in French**  
+Cartes de jeux révolutionnaires

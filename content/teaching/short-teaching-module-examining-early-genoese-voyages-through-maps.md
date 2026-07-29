@@ -26,6 +26,8 @@ related_sources:
   - link: "/catalan-map-world-c1450"
     image: "/images/PresterJohnInsetTHUMB.jpeg"
     alt: "Inset of Prester John from larger world map. Shows a man sitting in front of a tent."
+how_to_cite: |
+  "Short Teaching Module: Examining Early Genoese Voyages through Maps," in World History Commons, https://worldhistorycommons.org/short-teaching-module-examining-early-genoese-voyages-through-maps [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -56,18 +58,21 @@ Further reading: “Outsourcing the Colonial Project: the Genoese role in Iberia
 
 ![Catalan Map of the World, c.1450](/images/PresterJohnInsetTHUMB.jpeg)
 
-Dated to the mid-fifteenth century, this Catalan world map is over a meter in diameter on a sheet of vellum (high-quality parchment made of calfskin). Unlike many other surviving charts, this was not meant for practical navigation, though it was based on such nautical charts. Unlike most previous medieval maps, Jerusalem is not at the center – though the crusading ethos remains, as the center of the map is near the mythical land of Prester John. Rendered here as *Presta Iohan*, whom the artist depicts between two branches of the upper Nile. (see the inset image below the image of the main map). Prester John was a mythical Christian king of the east, variously located in Ethiopia or India, who crusaders hoped would soon join in the fight against Islam.  
-  
+#### Annotation
+
+Dated to the mid-fifteenth century, this Catalan world map is over a meter in diameter on a sheet of vellum (high-quality parchment made of calfskin). Unlike many other surviving charts, this was not meant for practical navigation, though it was based on such nautical charts. Unlike most previous medieval maps, Jerusalem is not at the center – though the crusading ethos remains, as the center of the map is near the mythical land of Prester John. Rendered here as *Presta Iohan*, whom the artist depicts between two branches of the upper Nile. (see the inset image below the image of the main map). Prester John was a mythical Christian king of the east, variously located in Ethiopia or India, who crusaders hoped would soon join in the fight against Islam.<br>
+<br>
 This source is part of the [examining early Genoese voyages through maps teaching module](https://worldhistorycommons.org/short-teaching-module-examining-early-genoese-voyages-through-maps).
 
 ### [Nautical Chart, 1385](/nautical-chart-1385)
 
 ![Nautical Chart, 1385](/images/SolerMapInsetTHUMB.jpeg)
 
+#### Annotation
+
 This nautical chart is signed by Majorcan cartographer Guglielmo Soler and dated to 1385, and ranges from the Black Sea to the Atlantic. Less beautiful than [the Catalan map](https://worldhistorycommons.org/catalan-map-world-c1450), it was also more practical for navigators to use. Note the succession of steadily larger holes across the bottom, perhaps made as the map was loosely rolled and then hung on a hook. Note also the networks of lines radiating outwards from various points on the map  (see the inset image below the image of the main map which shows close-up of the island of Lanzarote in the Canaries). These lines were used as navigation aids.
 
 This source is part of the [examining early Genoese voyages through maps teaching module](https://worldhistorycommons.org/short-teaching-module-examining-early-genoese-voyages-through-maps).
-
 
 ## Credits
 

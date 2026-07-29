@@ -5,6 +5,7 @@ drupal_node_id: 2954
 source_type: "Image"
 url: /tomoe-gozen
 image: /images/Tomoe_Gozen__Wikimedia_Commons.jpg
+image_alt: "A woodblock print of Tomoe Gozen dressed in samurai armor, seated on a horse"
 regions: 
   - "Asia"
 subjects: 

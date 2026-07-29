@@ -35,6 +35,8 @@ related_sources:
   - link: "/scotland-forever"
     image: "/images/Scotland_Forever-thumbnail.jpeg"
     alt: ""
+how_to_cite: |
+  "Long Teaching Module: Women in the British Empire, 1800-2000," in World History Commons, https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000 [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -87,12 +89,16 @@ Thus, regardless of whether the interactions were marked by condescending disreg
 
 ![The Secret of England's Greatness](/images/The-Secret-of-Englands-Greatness-thumbnail.jpeg)
 
+#### Annotation
+
 There are many paintings that represent the British Empire, but *The Secret of England’s Greatness* (1863) by Thomas Jones Barker is one of the most powerful. It depicts Queen Victoria presenting a bible to a kneeling African chief in the Audience Chamber at Windsor. In the background are her husband, Albert, and members of the government. The painting was reproduced in engravings and was very popular at the time. Despite the frequent depiction of empire as a masculine world, the queen was the symbolic figurehead of the British Empire, especially after she was crowned Empress of India in 1876. As you look at the painting, try to imagine what it might suggest to someone living in Victorian Britain about the British Empire. Do you think it possible for a Victorian to imagine switching the position of the two central figures—in other words, Queen Victoria kneeling to an African chief?
 This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
 
 ### [The Children of Edward Holden Cruttenden](/children-edward-holden-cruttenden)
 
 ![The Children of Edward Holden Cruttenden](/images/englandlarge-thumbnail.jpeg)
+
+#### Annotation
 
 This 18th-century painting of the children of Edward Cruttenden depicted with their ayah was painted in Britain by Joshua Reynolds. The earliest immigrants from India came to Britain as the servants of employees of the East India Company. Many Indian women came to Britain employed as ayahs or nannies. British families who had spent time serving in India brought an ayah back with them to care for the children on the long journey back to Britain. If they no longer needed their services, they were expected to provide for the return voyage home—many did not. Some ayahs were able to return home to India by advertising in newspapers for a position with a family traveling to India. Some Indian women found themselves permanently stranded in Britain. It was not until 1897 that a home for ayahs was opened in London, providing them with a place to stay until they could get a return passage home.
 This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
@@ -101,12 +107,16 @@ This source is a part of the [*Women in the British Empire, 1800-2000*](https://
 
 ![British Empire: Letter, Mary Moffat](/images/Icons-Document-thumbnail_398.jpg)
 
+#### Annotation
+
 Mary Moffat (1795-1871) was the wife of Robert Moffat, the missionary for the London Missionary Society who established a mission center at Kuruman in southern Africa. Their daughter married David Livingstone. In 1816, Robert Moffat was ordained and accepted as a missionary by the London Missionary Society (LMS). The previous year, while working as a gardener, Moffat had proposed to Mary Smith, the daughter of his employer. Both young people were 20. Like Robert, Mary had attended a missionary meeting earlier in her life, and she shared his interest in missionary work. Initially, her parents objected to the match because they feared they would never see her again if she went overseas as a missionary wife. For a number of years, Robert Moffat worked as an itinerant preacher in the Cape Colony. On December 27, 1819, after waiting two years for her parents to agree to the match, Moffat married Mary Smith in Cape Town. In 1820, he was appointed to evangelize among the Twsana at the Kuruman mission station. Taking his new wife with him, Moffat moved to take up his new position, arriving after a long and exhausting journey of several months. Kuruman, the most northerly LMS mission station, was situated on the edge of the Kalahari desert, so the soil was sandy and the area was frequently short of water. Although Kuruman would eventually become a major center of missionary activity, when the Moffats arrived the mission had barely begun. In order to survive, Robert Moffat needed to be a hunter, farmer, builder, and carpenter in an unstable frontier area, where struggles over land, labor, cattle, and water between competing groups were endemic. Mary Moffat struggled alongside him, raising her growing family. On December 18, 1828, pregnant with her fourth child and feeling unwell and fearful that she might die in childbirth, Mary wrote to a friend (Mrs. Wrigley) expressing her concern that she would leave “a beloved partner with 3 or 4 small children in the midst of barbarians without a civilized female . . .to keep up a civilized establishment in the midst of barbarians is attended with much care and labour on our parts.” Like other missionary wives, Mary Moffat was expected to create a domestic space, in keeping with evangelical values of domestic femininity. Robert Moffat retired from missionary service in 1870 and the couple returned to England. Mary Moffat died the following year in January.
 This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
 
 ### [Scotland Forever](/scotland-forever)
 
 ![Scotland Forever](/images/Scotland_Forever-thumbnail.jpeg)
+
+#### Annotation
 
 Painted by Elizabeth Butler, Scotland Forever (1881), depicts the charge of the Heavy Cavalry at the battle of Waterloo fought in 1815. The British victory at Waterloo ended the Napoleonic Wars, and ensured Britain’s position as the worlds most dominant imperial power. Elizabeth Thompson, later Lady Butler, was a leading artist of military scenes in the late nineteenth century, and she continued to exhibit at the Royal Academy until 1920. Her pictures depicting soldiers in battle led John Ruskin to admit that he’d been wrong in asserting that women could not paint military scenes. Married to Lieut. Gen. Sir William Butler, Elizabeth Butler took care to draw soldiers as accurately as possible. Although she never observed soldiers fighting in battle, she did watch soldiers training on maneuvers and took great care to correctly represent military uniforms. The enormous popularity of military paintings in the late 19th century, especially those depicting the Napoleonic period, suggests that there was a nostalgic desire to return to a past imagined as glorious and unchallenged.
 This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
@@ -115,12 +125,16 @@ This source is a part of the [*Women in the British Empire, 1800-2000*](https://
 
 ![Lady Florentia Sale Diary](/images/Florentia-ne-Wynch-Lady-Sale-thumbnail.jpeg)
 
+#### Annotation
+
 Lady Florentia Sale (1790-1853), wife of Major-General Sir Robert Henry Sale, wrote a journal of her experiences during the First Afghan War. In January 1842, in what is usually seen as a humiliating defeat for the British army, 4,500 British and Indian troops with around 12,000 camp followers retreated 116 miles from Kabul back to the British garrison at Jalalabad. Within a month, the majority were dead from exposure due to the appalling winter conditions, starvation or bullet wounds. A few were captured, including Florentia Sale. She was held in captivity for nine months before being rescued by British forces dispatched from India. The British then withdrew from Afghanistan. Florentia Sale wrote her journal during her captivity, probably with the hope that one day she would publish it. In 1843, after her rescue, her journal was published rapidly becoming a bestseller in Britain. A sketch of her was included in the work. Notice that she is wearing a turban in the sketch.
 This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
 
 ### [In Memoriam](/memoriam)
 
 ![In Memoriam](/images/in-memoriam-thumbnail.jpeg)
+
+#### Annotation
 
 In 1857, British rule in India was challenged when Indian sepoy troops of the British Indian Army began a year-long insurrection against the British. To the British, the most shocking aspect of the events in India was the massacre of white women and children by Indian men. There was extensive coverage in the press and illustrated journals, which stimulated calls for revenge. Paton’s famous painting *In Memoriam* was dedicated by the artist to the Christian heroism of “British Ladies in India during the Mutiny of 1857.” In 1858, the first version of the painting, which depicted Indian sepoy troops bursting through the door, was exhibited at the Royal Academy of Art in London. The painting aroused immediate debate, as it was thought to suggest that British women were about to be raped by Indian soldiers. The review in *The Illustrated London News* on May, 15, 1858 stated: “The subject is too revolting . . .The picture is one which ought not to have been hung.” Although British women and children were known to have died during the insurrection, there was no evidence of rape. The artist painted out the Indian soldiers in the original painting, and substituted Scottish highlanders. It was this version that was engraved and sold, leaving intact the myth of the British woman as sexually inviolable by colonial men.
 This source is a part of the [*Women and Empire*](https://worldhistorycommons.org/long-teaching-module-women-and-empire?page=0%2C3) and the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching modules.
@@ -129,6 +143,8 @@ This source is a part of the [*Women and Empire*](https://worldhistorycommons.or
 
 ![British Empire: Autobiography, Mary Seacole](/images/Icons-Document-thumbnail_399.jpg)
 
+#### Annotation
+
 In 1857, only 24 years after the British had abolished slavery in the empire, Mary Seacole (1805-1881) published her autobiography entitled the Wonderful Adventures of Mrs. Seacole in Many Lands. Written in Britain, following Seacole’s experiences working among sick and wounded British soldiers fighting in the Crimean War, the book became an immediate bestseller. Seacole, who had grown up in Jamaica, was the daughter of a Scottish solder and a free woman of African descent who had taught her daughter the art of healing. Seacole traveled to the Crimea at her own expense and in the face of considerable opposition from the British War office, who refused to support sending “a motherly yellow woman” to the Crimea so she could “nurse her sons.” When she arrived in the Crimea, she set up the British Hotel where she sold goods, supplied hot food, and gave medical help to officers and soldiers. Although Mary Seacole is less well known than her contemporary Florence Nightingale, her work earned her the love and respect of the soldiers who served in the Crimean War. This brief excerpt from her book highlights Seacole’s representation of herself as a professional relied upon by soldiers for medical treatment, her attitude towards British soldiers and the war, and the opportunities available during a 19th-century war for a determined woman. Seacole’s book also complicates our understanding of colonial identities, and raises interesting questions about how a woman from a British colony could create a role for herself at the heart of an imperial war.
 This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
 
@@ -136,11 +152,15 @@ This source is a part of the [*Women in the British Empire, 1800-2000*](https://
 
 ![British Empire: Travel Narrative, Mary Kingsley](/images/Icons-Document-thumbnail_400.jpg)
 
+#### Annotation
+
 Mary Kingsley (1862-1900) is one of the best known British women to have visited West Africa during the period historians call the Age of New Imperialism. Her early life gave no indication of her future renown. She spent the early part of her life confined to her home taking care of an invalid father. In possession of a small income following the death of her parents, she made two trips to Africa, one in 1893, and then another two years later. While in West Africa, she stayed with missionaries whose work she admired. She also traveled up rivers in a canoe collecting fish specimens for the British Museum and making ethnological observations on the people she met. On her return to Britain, she found people were fascinated by her experiences. She published a book Travels in West Africa (1897), and became a very popular speaker on the lecture circuit, talking about her experiences in Africa. She died of typhoid during the South African War (1899-1902), having traveled to Africa to nurse British soldiers. Despite the fact that she made choices in her own life that challenged the accepted gender norms for middle-class Victorian women, she was not in favor of giving women the vote. She argued that women were not well educated and well informed enough to vote responsibly. This excerpt from a lecture Kingsley gave highlights her attitude to Africa and Africans. Imagine if you were in the audience what you might understand about racial difference and the importance of the role of the British Empire in Africa. This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
 
 ### [British Empire: Fiction, Indian Tales of the Great Ones](/british-empire-fiction-indian-tales-great-ones)
 
 ![British Empire: Fiction, Indian Tales of the Great Ones](/images/Icons-Document-thumbnail_402.jpg)
+
+#### Annotation
 
 Born in 1870 into a Parsee family in India, Cornelia Sorabji (1870–1954) became a writer and a lawyer. By the end of the Victorian period, many elite Indian men had traveled to Britain to study. Cornelia Sorabji became the first female law student at Oxford University, where she studied from 1889 to 1894. Since women were barred from practicing as lawyers in Britain until 1919, after graduating she returned to India. There she used her legal skills to work for the interests of women property holders who lived in purdah. In 1923 she was called to the English bar, but continued to practice in India. She was in favor of continued British rule, and in later years lived in London. Apart from Indian Tales of the Great Ones, written for children, she published a number of other works including Love Life Behind the Purdah (1901), India Recalled (1936), and her memoir India Calling (1934).
 Indian Tales of the Great Ones is a book of children’s stories that was published in Bombay, India, and London. The central elements of the story are based on Indian history. In 1236, following the death of her father, Raziya came to the throne after a succession struggle with her half-brothers. She only ruled for four years, before she was defeated in battle by opponents. However, she is remembered in Indian history as a wise and capable ruler, even though her gender handicapped her ability to rule in a Muslim world.
@@ -149,6 +169,8 @@ This source is a part of the [*Women in the British Empire, 1800-2000*](https://
 ### [British Empire: Fiction, Nervous Conditions](/british-empire-fiction-nervous-conditions)
 
 ![British Empire: Fiction, Nervous Conditions](/images/Icons-Document-thumbnail_401.jpg)
+
+#### Annotation
 
 In 1959, Tsitsi Dangarembga was born in Africa in the British colony known as Rhodesia, now called Zimbabwe. From the age of two, she spent four years living in Britain. On her return to Rhodesia, she attended a missionary school in Mutare. In 1977, she went back to Britain to attend Cambridge University, but became disillusioned with life and politics in Britain, returning home without completing her medical degree. She continued her education in University of Harare in psychology. In 1988, Dangarembga achieved success as a novelist with the publication of Nervous Conditions, the first novel to be published in English by a black Zimbabwean woman. In 1989, Nervous Condition won the African section of the Commonwealth Writers Prize. Dangarembga took the title of her book from Jean-Paul Sartre's introduction to Franz Fanon's Wretched of the Earth: “The condition of native is a nervous condition.”
 From around 1850, British explorers, settlers, and missionaries moved north from southern Africa, eventually leading to the creation of the colony of Rhodesia, named after Cecil Rhodes of the British South Africa Company. During the 1960s, demands by black Rhodesians to be included in the political process led a conservative white-minority government to declare independence from Britain. Under Ian Smith, white Rhodesians withstood British pressure, economic sanctions, and guerrilla attacks until 1980, in an attempt to cling to white supremacy. In 1980, the white minority finally consented to hold multiracial elections, and Robert Mugabe won a landslide victory. The country achieved independence on April 17, 1980, under the name Zimbabwe.
@@ -160,11 +182,12 @@ This source is a part of the [*Women in the British Empire, 1800-2000*](https://
 
 ![British Empire: Autobiography, Head Above Water](/images/Icons-Document-thumbnail_403.jpg)
 
+#### Annotation
+
 Buchi Emecheta was born in Nigeria in 1944 to Igbo parents. She was orphaned at a young age, and subsequently educated at a missionary school in Nigeria. She was married at the age of 16 to Sylvester Onwordi, a student she had been engaged to since childhood. In 1960, she moved to Britain with her husband and children, where she worked as a librarian. Despite the difficulties she encountered living in Britain and raising her five children on her own, she not only received her doctorate in sociology, but she became a best-selling writer. Today she is an internationally renowned novelist who has published many books mostly set in Africa. She also published an autobiography about her life in Britain called Head Above Water, which documents her experiences as an immigrant in Britain in the 1960s.
 Immigrants have moved to live in the British Isles from Africa and the Asian subcontinent for at least 500 years. However, the demographics of Britain only really began to shift after World War II, when the British government encouraged immigration from Commonwealth countries to help resuscitate a war-devastated Britain. In 1951, the population in Britain of people of African, Afro-Caribbean and Asian descent was estimated to be 74,500; by 1962 it was 500,000. This rapid rise in immigration created a climate of anxiety, and what came to be perceived in Britain as a “social problem.” In 1958, the first race riots in Britain occurred in West London and Nottingham as white reaction to immigration began to escalate. Today Britain is a multiracial society. The 1991 General Census showed that 2.5 million or 4.5% of the population were part of minority groups. Ten years later in the 2001 census, the figures were higher, with one in twelve Britons coming from an ethnic minority.
 In this excerpt, Buchi Emecheta describes her expectations before she arrived in Britain, and the very different reality she experienced.
 This source is a part of the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching module.
-
 
 ## Teaching Strategies
 
@@ -183,7 +206,7 @@ As the range of primary sources selected for this module demonstrates, women mov
 
 ##### Women and the British Empire: A Talking DBQ
 
-**Time Estimated**  
+**Time Estimated**<br>
 One 80-minute class period and DBQ as an independent assignment.
 
 Because students need a background on the British Empire in order to complete this lesson, the lesson would be most appropriately placed near the end of a unit on imperialism.
@@ -201,11 +224,11 @@ After completing this lesson, students will be able to:
 ##### Materials
 
 * Source 4: Painting, Scotland Forever (1881) by Elizabeth Butler, to be projected on a screen.
-* Duplicate enough copies of the following four sources so that each group has one copy:  
-  Source 1: Painting, The Secret of England’s Greatness (1863) by Thomas Jones Barker  
-  (Use painting only, not annotation.)  
-  Source 7: Autobiography, Mary Seacole (Use excerpt and annotation.)  
-  Source 10: Fiction, Nervous Conditions (Use excerpt only, not annotation.)  
+* Duplicate enough copies of the following four sources so that each group has one copy:<br>
+  Source 1: Painting, The Secret of England’s Greatness (1863) by Thomas Jones Barker<br>
+  (Use painting only, not annotation.)<br>
+  Source 7: Autobiography, Mary Seacole (Use excerpt and annotation.)<br>
+  Source 10: Fiction, Nervous Conditions (Use excerpt only, not annotation.)<br>
   Source 3: Letter, Mary Moffat (Use excerpt and annotation.)
 * Duplicate enough copies of the Primary Source Analysis Worksheet: Images so that each student has 2 copies.
 * Duplicate enough copies of the Primary Source Analysis Worksheet: Texts so that each student has 3 copies.
@@ -227,14 +250,14 @@ After completing this lesson, students will be able to:
 
    If students are having difficulty formulating questions, offer some models. For example, one of the pieces of information they need is point of view. A question for the Scotland Forever painting might be:
 
-   Was the artist British?  
-   Was the artist loyal to the British Empire?  
-   Was the artist trying to encourage support for the British military?  
+   Was the artist British?<br>
+   Was the artist loyal to the British Empire?<br>
+   Was the artist trying to encourage support for the British military?<br>
    Questions that could be generated for the authorship might be:
 
-   Was the artist British?  
-   Was the artist a soldier?  
-   Was the artist a man?  
+   Was the artist British?<br>
+   Was the artist a soldier?<br>
+   Was the artist a man?<br>
    After you feel that students have gained an understanding of how to formulate and ask questions, go on to the first document they will analyze in their small groups. Continue to remind them of the types of information they are seeking and the question they are trying to answer. Answer any questions the students might have about the lesson procedures.
 5. **Small-group Analysis:**Put students into groups. When everyone is ready, begin by passing out a copy of the first document to each group. The first document is Source 1: Painting, The Secret of England’s Greatness (1863) by Thomas Jones Barker. You might also want to project a larger image of the painting for the students to study. Give them five to ten minutes to analyze and formulate a couple of questions.
 

@@ -5,6 +5,7 @@ drupal_node_id: 2865
 source_type: "Image"
 url: /original-manuscripts-anne-frank
 image: /images/Original_manuscripts_of_Anne_Frank.jpg
+image_alt: "Original manuscripts by Anne Frank, with the diary, the loose sheets and the exercise books with short stories and beautiful sentences."
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1675
 source_type: "Text"
 url: /gender-and-health-latin-america-personal-account-education-honduras
 image: /images/Icons-Document_426.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 951
 source_type: "Text"
 url: /charles-fourier-revolution
 image: /images/Hw-fourier.jpg
+image_alt: "Charles Fourier"
 regions: 
   - "Europe"
 subjects: 

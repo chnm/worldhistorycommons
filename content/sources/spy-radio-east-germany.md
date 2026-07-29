@@ -5,6 +5,9 @@ drupal_node_id: 836
 source_type: "Image"
 url: /spy-radio-east-germany
 image: /images/IMG_4122_9eb790c4f3.jpg
+additional_images:
+  - src: "/images/source-media/836/IMG_4130_b74919dc94_copy.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

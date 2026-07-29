@@ -5,6 +5,7 @@ drupal_node_id: 3004
 source_type: "Image"
 url: /wooden-stockade-penang-island-18th-century
 image: /images/FortCornwallis.png
+image_alt: "Water color painting of a wooden fort-like structure. Buildings can be seen inside the fence along with tropical trees."
 regions: 
   - "Asia"
   - "Europe"

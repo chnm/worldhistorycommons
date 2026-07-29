@@ -5,6 +5,7 @@ drupal_node_id: 2782
 source_type: "Image"
 url: /hmm-algeciras
 image: /images/HMM_Algeciras.jpeg
+image_alt: "Photograph of a large ship loaded with shipping containers"
 regions: 
   - "Global"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 261
 source_type: "Object"
 url: /lila-pilipina-brochure
 image: /images/comfortwomenbrochure.jpg
+image_alt: "Lila-Pilipina Brochure"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2825
 source_type: "Image"
 url: /heading-east-portal-tunnel-no-8
 image: /images/service-pnp-stereo-1s00000-1s00000-1s00500-1s00553v.jpeg
+image_alt: "Two side by side photos of a man carrying some debris from a tunnel"
 regions: 
   - "Asia"
   - "North/Central America"

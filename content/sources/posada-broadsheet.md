@@ -5,6 +5,7 @@ drupal_node_id: 2683
 source_type: "Image"
 url: /posada-broadsheet
 image: /images/771px-José_Guadalupe_Posada__Calavera_oaxaqueña__broadsheet__1903.jpg
+image_alt: "Posada Broadsheet"
 regions: 
   - "North/Central America"
 subjects: 

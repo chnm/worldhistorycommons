@@ -30,6 +30,8 @@ related_sources:
   - link: "/marshall-islands-stick-chart"
     image: "/images/MattangChartTHUMB.png"
     alt: "Chart with curved sticks emanating from pebbles on either side"
+how_to_cite: |
+  "Short Teaching Module: History of the Pacific Ocean," in World History Commons, https://worldhistorycommons.org/short-teaching-module-history-pacific-ocean [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -46,7 +48,7 @@ But the Pacific is different. Its sheer size and diverse histories make a unitar
 
 First is the island Pacific, the ocean’s heart. This encompasses three broad cultural areas: Micronesia (roughly from Palau east to Kiribati), Melanesia (from New Guinea east to Fiji), and Polynesia (formed by the triangle between Aotearoa/New Zealand, Hawaiʻi, and Rapa Nui/Easter Island). Together with Australasia, these form Oceania. Human maritime migrations out of Asia to settle these islands started at least 35,000 years ago, with voyagers reaching the eastern-most islands about 800 years ago. "In what is the major theme of Pacific history," writes Damon Salesa, "Pacific peoples were voyaging earlier, and much further than anyone else."2 Amid decolonization in the 1960s, scholars writing from Oceania articulated a postcolonial scholarly agenda centered on the islands and their peoples.3 Today, political, economic, cultural, and kinship ties continue to link islanders to each other and to the wider world.
 
-Second is the Pacific Rim. Although the phrase itself is recent, originating in the late twentieth century, it evokes a longer history of European imperialism in the Pacific, which initially concentrated on the ocean’s shores.4 Transpacific connections define this geography. Starting in the late fifteenth century, European nations sought new maritime trade routes with Asia, especially China.5 In the nineteenth century, steam power accelerated flows of people, capital, and goods across the Pacific Ocean, deepening links between long-established Asian polities and settler societies in the Americas and Australasia, while often bypassing Pacific islands.6 Scholars writing from the rim tend to position national histories in a Pacific context—in the ocean but not quite of it—and the field continues to grapple with how a transpacific framework, in Lisa Yoneyama’s words, "inherits problematic cartographic legacies of militarized global capitalism and its political rationality that have long vacated the people and histories of the Pacific Islands."7 
+Second is the Pacific Rim. Although the phrase itself is recent, originating in the late twentieth century, it evokes a longer history of European imperialism in the Pacific, which initially concentrated on the ocean’s shores.4 Transpacific connections define this geography. Starting in the late fifteenth century, European nations sought new maritime trade routes with Asia, especially China.5 In the nineteenth century, steam power accelerated flows of people, capital, and goods across the Pacific Ocean, deepening links between long-established Asian polities and settler societies in the Americas and Australasia, while often bypassing Pacific islands.6 Scholars writing from the rim tend to position national histories in a Pacific context—in the ocean but not quite of it—and the field continues to grapple with how a transpacific framework, in Lisa Yoneyama’s words, "inherits problematic cartographic legacies of militarized global capitalism and its political rationality that have long vacated the people and histories of the Pacific Islands."7
 
 Across these geographies, three primary approaches characterize Pacific histories. First is a focus on connections, circulation, and exchange. Epeli Hauʻofa, the influential Tongan and Fijian scholar, sees the  Pacific not  as "islands in a sea," separated by waters between them, but as a "sea of islands," full of places connected by the ocean.8 Scholars have adopted this archipelagic approach with productive results.. Second is a desire to trace these connections between geographic scales of analysis. Matt Matsuda describes this "trans-localism" as investigating "specific linked places" across the Pacific "where direct engagements took place […] tied to histories dependent on the ocean." Trans-local stories, Matsuda argues, "take on full meanings only when linked to other stories and places."9 Third is a curiosity about how the Pacific’s environments (terrestrial, coastal, oceanic); natural forces (winds, waves, weather, earthquakes); and more-than-human inhabitants (including fish, marine mammals, seabirds, and plants) have shaped (and been shaped by) human goals and decisions.
 
@@ -58,17 +60,17 @@ Ultimately, while the Pacific Ocean’s scale can seem intimidating, its vastnes
 
 ---
 
-1David Igler, The Great Ocean: Pacific Worlds from Captain Cook to the Gold Rush (New York: Oxford University Press, 2013), 10–11  
-2Damon Salesa, "The Pacific in Indigenous Time," in Pacific Histories: Ocean, Land, People, ed. David Armitage and Alison Bashford (New York: Palgrave Macmillan, 2014), 32–35. The '-nesia' divisions, originally racialized names created by Europeans, have since been adopted by islanders themselves. Salesa, "The Pacific in Indigenous Time," 32.  
-3David Armitage and Alison Bashford, "Introduction: The Pacific and its Histories," in Pacific Histories: Ocean, Land, People, ed. David Armitage and Alison Bashford (New York: Palgrave Macmillan, 2014), 12–13.  
-4 Bruce Cumings, "Rimspeak; or, the Discourse of the 'Pacific Rim,'" in What is in a Rim?: Critical Perspectives on the Pacific Region Idea, ed. Arif Dirlik (Boulder, Colo.: Westview Press, 1993).  
-5Joyce Chaplin, "The Pacific before Empire, c.1500–1800" in Pacific Histories: Ocean, Land, People, ed. David Armitage and Alison Bashford (New York: Palgrave Macmillan, 2014): 53–74.  
-6Sean Fraga, "'An Outlet to the Western Sea': Puget Sound, Terraqueous Mobility, and  Northern Pacific Railroad’s Pursuit of Trade with Asia, 1864–1892," Western Historical Quarterly 51, no. 4 (Winter 2020): 439–458, DOI:10.1093/whq/whaa114. Frances Steel, Oceania under Steam: Sea Transport and the Cultures of Colonialism, c.1870–1914 (Manchester, U.K.: Manchester University Press, 2017.  
-7Armitage and Bashford, "Introduction," 11–13. Lisa Yoneyama, "Toward a Decolonial Genealogy of the Transpacific," American Quarterly 69, no. 3 (Sept. 2017): 471-482. DOI:10.1353/aq.2017.0041  
-8Epeli Hauʻofa, "Our Sea of Islands," The Contemporary Pacific 6 no. 1 (Spring 1994): 148–161.  
-9Matt K. Matsuda, Pacific Worlds: A History of Seas, Peoples, and Cultures (New York: Cambridge University Press, 2012), 5.  
-10Alison Bashford, "Terraqueous Histories," The Historical Journal 60, no. 2 (June 2017): 253–272. doi:10.1017/S0018246X16000431.  
-11Igler, Great Ocean, 11.  
+1David Igler, The Great Ocean: Pacific Worlds from Captain Cook to the Gold Rush (New York: Oxford University Press, 2013), 10–11<br>
+2Damon Salesa, "The Pacific in Indigenous Time," in Pacific Histories: Ocean, Land, People, ed. David Armitage and Alison Bashford (New York: Palgrave Macmillan, 2014), 32–35. The '-nesia' divisions, originally racialized names created by Europeans, have since been adopted by islanders themselves. Salesa, "The Pacific in Indigenous Time," 32.<br>
+3David Armitage and Alison Bashford, "Introduction: The Pacific and its Histories," in Pacific Histories: Ocean, Land, People, ed. David Armitage and Alison Bashford (New York: Palgrave Macmillan, 2014), 12–13.<br>
+4 Bruce Cumings, "Rimspeak; or, the Discourse of the 'Pacific Rim,'" in What is in a Rim?: Critical Perspectives on the Pacific Region Idea, ed. Arif Dirlik (Boulder, Colo.: Westview Press, 1993).<br>
+5Joyce Chaplin, "The Pacific before Empire, c.1500–1800" in Pacific Histories: Ocean, Land, People, ed. David Armitage and Alison Bashford (New York: Palgrave Macmillan, 2014): 53–74.<br>
+6Sean Fraga, "'An Outlet to the Western Sea': Puget Sound, Terraqueous Mobility, and  Northern Pacific Railroad’s Pursuit of Trade with Asia, 1864–1892," Western Historical Quarterly 51, no. 4 (Winter 2020): 439–458, DOI:10.1093/whq/whaa114. Frances Steel, Oceania under Steam: Sea Transport and the Cultures of Colonialism, c.1870–1914 (Manchester, U.K.: Manchester University Press, 2017.<br>
+7Armitage and Bashford, "Introduction," 11–13. Lisa Yoneyama, "Toward a Decolonial Genealogy of the Transpacific," American Quarterly 69, no. 3 (Sept. 2017): 471-482. DOI:10.1353/aq.2017.0041<br>
+8Epeli Hauʻofa, "Our Sea of Islands," The Contemporary Pacific 6 no. 1 (Spring 1994): 148–161.<br>
+9Matt K. Matsuda, Pacific Worlds: A History of Seas, Peoples, and Cultures (New York: Cambridge University Press, 2012), 5.<br>
+10Alison Bashford, "Terraqueous Histories," The Historical Journal 60, no. 2 (June 2017): 253–272. doi:10.1017/S0018246X16000431.<br>
+11Igler, Great Ocean, 11.<br>
 12Matt K. Matsuda, "The Pacific," American Historical Review 111 no. 3 (June 2006), 764.
 
 ## Primary Sources
@@ -76,6 +78,8 @@ Ultimately, while the Pacific Ocean’s scale can seem intimidating, its vastnes
 ### [Marshall Islands stick chart](/marshall-islands-stick-chart)
 
 ![Marshall Islands stick chart](/images/MattangChartTHUMB.png)
+
+#### Annotation
 
 Across millennia, Pacific people voyaged out to sea and settled the ocean’s thousands islands and atolls, linking new discoveries back to existing territories. Opening and sustaining these links was fundamentally a spatial project, requiring the development, refinement, and repeated mobilization of oceanic geographic knowledge. This navigation chart, produced by a Marshall Islander whose name was not recorded, likely in the late nineteenth or early twentieth century, is a material encapsulation of the knowledge that enabled generations of these voyages.
 
@@ -86,6 +90,8 @@ This source is part of the [History of the Pacific Ocean teaching module](https:
 ### [Heading of east portal Tunnel No. 8](/heading-east-portal-tunnel-no-8)
 
 ![Heading of east portal Tunnel No. 8](/images/service-pnp-stereo-1s00000-1s00000-1s00500-1s00553vTHUMB.jpeg)
+
+#### Annotation
 
 In the late nineteenth century, multiple transcontinental railroads were built across the United States and Canada. These were Pacific projects twice over: Each railroad aimed to open new routes for global trade with Asia, and each depended heavily on Asian laborers for their construction. This photograph, taken by Central Pacific Railroad’s official photographer, shows a Chinese railroad worker near the mouth of a tunnel, carrying tools or debris on a shoulder pole.
 
@@ -103,6 +109,8 @@ This source is part of the [History of the Pacific Ocean teaching module](https:
 
 !["We can stop this Makapuu madness!"](/images/StopThisMadnessTHUMB.jpeg)
 
+#### Annotation
+
 After World War II, the rise of jet travel and mass tourism brought new visitors—and new pressures—to many places within the Pacific Ocean. Hawaiʻi is a prime example of how tourism-driven development and activist responses have shaped local environments. This flyer, created by the grassroots environmental organization Save Our Surf, mobilized community opposition to resort construction at Awāwamalu, also known as Wāwāmalu Beach or Sandy Beach, at Oahu’s southeastern corner.
 
 Native Hawaiians recount how Pele, deity of fire and volcanoes, created Oahu and the other Hawaiian islands by digging into the earth as she moved from east to west. On Oahu, Pele dug first at Leʻahi, or Diamond Head, midway between Awāwamalu and Honolulu, Oahu’s largest city. For nineteenth-century sailing ships, the Pacific Ocean’s prevailing winds and currents encouraged voyages via Hawaiʻi, and Honolulu emerged as a central, convenient supply point—a primary reason the United States annexed the Kingdom of Hawaiʻi in the late nineteenth century. After World War II and the establishment of Hawaiian statehood in 1959, the Hawaiian islands increasingly became a leisure destination, drawing tourists and outside investment from Japan and the mainland United States.
@@ -112,7 +120,6 @@ But resort construction frequently involved privatizing and industrializing the 
 In the early 1970s, mainland developers proposed building a 7,700-room resort at Awāwamalu. Save Our Surf argued that this development would dramatically increase traffic and pollution, raise housing prices, and "destroy the only remaining open space on east Oahu." The rally was just the start. After more than four decades of sustained community organizing, court battles over rezoning and ballot initiatives, and multiple additional development attempts, the State of Hawaii reclassified this shoreline as conservation land. Since 2017, Awāwamalu has been part of the Ka Iwi Coast, a seven-mile stretch of coastline preserved in perpetuity for public benefit. But dependence on tourism continues to roil Hawaiʻi—most recently during the COVID-19 pandemic, when locals worried that irresponsible visitors would spread disease and strain hospitals—and environmental activism remains an important part of the Hawaiian sovereignty movement. Across the Pacific Ocean, tensions over access, use, and benefit continue to structure human engagement with coastal environments.
 
 This source is part of the History of the Pacific Ocean teaching module.
-
 
 ## Credits
 

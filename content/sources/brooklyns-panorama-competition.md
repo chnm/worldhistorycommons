@@ -5,6 +5,14 @@ drupal_node_id: 2505
 source_type: "Image"
 url: /brooklyns-panorama-competition
 image: /images/Brooklyn_Panorama_Comp.jpg
+image_alt: "Brooklyn's Annual Panorama Competition"
+additional_images:
+  - src: "/images/source-media/2505/Panorama_Steel_Pans.jpg"
+    alt: "Steel pans used for Panorama competition"
+  - src: "/images/source-media/2505/Panorama_Practice_Session.jpg"
+    alt: "Panorama practice session"
+  - src: "/images/source-media/2505/Gay_Magnus.jpg"
+    alt: "Steelpan artist Gay Magnus"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 405
 source_type: "Text"
 url: /noticias-de-portugal
 image: /images/noticiasdeportugal.jpg
+image_alt: "Title page of Noticias de Portugal"
 regions: 
   - "Europe"
 subjects: 

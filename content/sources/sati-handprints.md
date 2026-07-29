@@ -5,6 +5,7 @@ drupal_node_id: 246
 source_type: "Image"
 url: /sati-handprints
 image: /images/handprints.jpg
+image_alt: "Sati Handprints"
 regions: 
   - "Asia"
 subjects: 

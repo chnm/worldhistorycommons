@@ -5,6 +5,7 @@ drupal_node_id: 176
 source_type: "Image"
 url: /abuses-suppress
 image: /images/a35ba1bfe676a569026b16e9d1503568.jpg
+image_alt: "Print of man in carriage running over servants"
 regions: 
   - "Europe"
 subjects: 
@@ -20,3 +21,10 @@ how_to_cite: |
 ---
 
 This print depicts the Third Estate—represented by the peasant at the rear of the chariot, the worker leading the horse, and the merchant driving—delivering to the National Assembly a petition listing "abuses" to be remedied.
+
+## Transcription
+
+**Titile**  
+Abus à supprimé
+
+Présentée à l'Assemblée Nationale par le Tiers-etats, cy devant nommée

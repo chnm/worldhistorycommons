@@ -5,6 +5,7 @@ drupal_node_id: 2906
 source_type: "Image"
 url: /page-pentaglot-manchu-glossary
 image: /images/Image_2.jpeg
+image_alt: "Page from the Pentaglot Manchu Glossary"
 regions: 
   - "Asia"
 subjects: 

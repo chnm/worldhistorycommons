@@ -28,6 +28,8 @@ related_sources:
   - link: "/bhakti-poets-poem-mirabai-3"
     image: "/images/krishna_2THUMB.jpg"
     alt: "Image of the god krishna"
+how_to_cite: |
+  "Long Teaching Module: Bhakti Poets," in World History Commons, https://worldhistorycommons.org/long-teaching-module-bhakti-poets [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -54,6 +56,8 @@ Most Hindus, today, identify themselves with the worship of one of these gods. D
 
 ![Bhakti Poets: Poem, Janabai](/images/veena_0.jpg)
 
+#### Annotation
+
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 In this poem, Janabai, a 13th century poet from a low-caste surda family, presents herself as shrugging off social conventions enshrining women’s honor (covering her body) and taking up musical instruments (cymbals and the veena) to go sing and dance in the marketplace. Janabai, though a low-caste woman, was brought up in the household of Namdev, a popular poet-saint, and thus treated with a certain amount of respect in light of the egalitarian ethos of Namdev’s message. Nonetheless, she is still well aware of her “place” in society; she is a servant, one who is perhaps more aware of social conventions because of her associations with Namdev, and is here apparently flaunting these very conventions, imagining herself as a woman who is utterly outside the bounds of respectability. Shedding these bonds of respectability, she is left with nothing. In essence, there is nothing standing between herself and her Beloved Vithoba, another name for Krishna, incarnation of the god Vishnu in human form.
 This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/long-teaching-module-bhakti-poets) teaching module.
@@ -61,6 +65,8 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 ### [Bhakti Poets: Poem, Mirabai](/bhakti-poets-poem-mirabai)
 
 ![Bhakti Poets: Poem, Mirabai](/images/krishna_0THUMB.jpg)
+
+#### Annotation
 
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 In Caturvedi 42, Mirabai (ca. 1498–ca. 1546), famous devotee of Krishna, speaks of her struggles within the domestic sphere, particularly with her in-laws, as a high-caste woman who chooses to defy conventional expectations and family roles. Here we see how her extended family through marriage is attempting to dissuade Mirabai from her associations with fellow devotees of Krishna. Her in-laws (particularly the king, the rana) are said to have attempted to poison Mirabai who was breaking all societal norms in search of her true love, Krishna. Krishna, here presented as the “Mountain Lifter,” refers to a story of Krishna widely known in Rajasthan, where Krishna held up Mount Govardhan to protect the cattle and herders from the rain-god Indra’s wrath; Indra’s anger was directed at the people of Braj because they turned their devotion away from him and toward Krishna instead.
@@ -70,6 +76,8 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 
 ![Bhakti Poets: Poem, Mirabai 2](/images/krishna2_0THUMB.jpg)
 
+#### Annotation
+
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 In Caturvedi 27, Mirabai’s (ca. 1498–ca. 1546) “unshakable” belief in her “marriage” to Krishna (the Lord of Braj) is highlighted. Perhaps the most famous female bhakta, Mirabai’s description of the “wedding,” though in dream, is highly sensual and palpable; her devotion to her “divine spouse” has replaced her actual relationship with her earthly husband. We are given a description of the number of wedding guests, the wedding ritual (Hindu wedding ceremonies are solemnized by walking around the sacred fire), and her sense of well-being as the bride of Krishna.
 This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/long-teaching-module-bhakti-poets) teaching module.
@@ -77,6 +85,8 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 ### [Bhakti Poets: Poem, Mirabai 3](/bhakti-poets-poem-mirabai-3)
 
 ![Bhakti Poets: Poem, Mirabai 3](/images/krishna_2THUMB.jpg)
+
+#### Annotation
 
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 Here Mirabai (ca. 1498–ca. 1546), famous devotee of Krishna, speaks of the depth of her longing for her Lord, a longing that has left her physically weak and visibly ill. The doctor is called in to examine her condition, yet Mirabai already knows what the cause of her “illness” is, as well as its cure: to be caressed by her Lover’s lips, to experience fully the love of the Divine, and only thus be fully made well.
@@ -86,6 +96,8 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 
 ![Bhakti Poets: Poem, Mirabai 4](/images/krishna2_4THUMB.jpg)
 
+#### Annotation
+
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 In this poem Mirabai (ca. 1498–ca. 1546) writes of her devotion to her Lord Krishna, which included ecstatic dancing and singing out of sheer love for the Divine. Certainly her behavior was not appreciated by her in-laws, who made many attempts to subdue Mirabai’s passion for her Lord. Here Mirabai is referring to the coloring of her lord Krishna, generally pictured as blue or black. Krishna is an avatar of the Supreme God Vishnu, who is also associated with the color blue, given his association with water. Mira here is making a connection with her own longing which is having the effect of making her ill and thus explaining the discoloring of her complexion. She also writes of the attempt made on her life by a member of the royal household, through poisoning. The Rana (king) simply could not accept her strange behavior, and particularly, Mirabai’s detachment and even rejection of her earthly husband. Just as Krishna had been poisoned by the nursemaid Putana in order to thwart the powers of the infant Krishna, yet ultimately was killed by the child, so too the poison of the Rana could have no adverse effects on Mirabai, except for her discoloring.
 This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/long-teaching-module-bhakti-poets) teaching module.
@@ -93,6 +105,8 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 ### [Bhakti Poets: Poem, Akkamahadevi](/bhakti-poets-poem-akkamahadevi)
 
 ![Bhakti Poets: Poem, Akkamahadevi](/images/siva3_0.jpg)
+
+#### Annotation
 
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 In this 12th century vacana (poem), Akkamahadevi, or Akka, is lamenting her separation from her lord, Siva, (Lord White as Jasmine). At times in Akkamahadevi’s poetry, Siva is her illicit lover, and at times, he is her legitimate husband. In this poem, she writes of her wandering, in search of Siva. Her travels took her to various parts of India, where, traveling naked and forlorn in search of her true love, Akkamahadevi often had to ward off molesting men and the harsh criticism of other wandering saints who were aghast at her imprudent nakedness.
@@ -102,6 +116,8 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 
 ![Bhakti Poets: Poem, Akkamahadevi 2](/images/siva3_2.jpg)
 
+#### Annotation
+
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 The 12th century poet Akka, perhaps more than any other female-saint, utilizes carnal expressions to convey her love for her Lord. But it is not to portray her femaleness that she wanders naked through the streets; instead, her nakedness is a symbol of her having forsaken all in search of her divine love, Chennamallikarjuna (Siva), the Lord White as Jasmine.
 This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/long-teaching-module-bhakti-poets) teaching module.
@@ -109,6 +125,8 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 ### [Bhakti Poets: Poem, Bahinabai](/bhakti-poets-poem-bahinabai)
 
 ![Bhakti Poets: Poem, Bahinabai](/images/Icons-Literary-Source-thumbnail_9.jpg)
+
+#### Annotation
 
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 The possibility of Bahinabai’s Vedic training, or training in Hindu religious hymns, comes to the fore in her 17th-century poetry, in that she consistently refers to the Vedas and their regulations on married life. In this abhanga, a song that accompanied women’s work, readers become aware of Bahinabai’s anguished decision-making process. The Vedas are clear on the duties of women toward their husbands, particularly women’s deference to their husband’s wishes. But Bahinabai is called to a different life, a different object of affection and duty than her husband, namely, reverence and affection toward her teacher, the low-caste poet-saint Tukaram. Bahinabai’s husband initially scorned Tukaram and stressed the invincibility of the Vedas and Vedic rituals over and against Tukaram’s message of devotion over ritual.
@@ -119,10 +137,11 @@ This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/lo
 
 ![Bhakti Poets: Poem, Bahinabai 2](/images/Icons-Literary-Source-thumbnail.jpg)
 
+#### Annotation
+
 Bhakti poets—who were in some cases lower-caste Hindu women—and their audiences drew emotional sustenance from these verses, which expressed a pure devotion to Hindu deities. Their poetry, written in local languages beginning in the 6th century in South India and the 12th century in North India, attracted large audiences among the marginalized in Hindu society, such as women and “untouchables.”
 In this 17th-century abhanga (women’s labor song), Bahinabai appears to have come to a more substantive conclusion about her place in society, as the wife and daughter of a Brahmin, and thus members of the priestly class. She has reconciled her duties as a Brahmin and a wife with her own devotion to the mystic Tukaram, partially perhaps because of her husband’s change of heart toward the low-caste poet-saint.
 This source is a part of the [*Bhakti Poets*](https://worldhistorycommons.org/long-teaching-module-bhakti-poets) teaching module.
-
 
 ## Teaching Strategies
 
@@ -157,14 +176,14 @@ After completing this lesson, students will be able to:
 
 * Sufficient copies of the following sources (in this sequence):
 
-Source 4: Poem, Mirabai 3  
-Source 6: Poem, Akkamahadevi  
-Source 5: Poem, Mirabai 4  
-Source 3: Poem, Mirabai 2  
-Source 8: Poem, Bahinabai  
-Source 1: Poem, Janabai  
-Source 2: Poem, Mirabai  
-Source 7: Poem, Akkamahadevi 2  
+Source 4: Poem, Mirabai 3<br>
+Source 6: Poem, Akkamahadevi<br>
+Source 5: Poem, Mirabai 4<br>
+Source 3: Poem, Mirabai 2<br>
+Source 8: Poem, Bahinabai<br>
+Source 1: Poem, Janabai<br>
+Source 2: Poem, Mirabai<br>
+Source 7: Poem, Akkamahadevi 2<br>
 Source 9: Poem, Bahinabai 2
 
 * Colored paper or construction paper
@@ -176,24 +195,24 @@ Source 9: Poem, Bahinabai 2
 
 1. Prerequisite knowledge: Students should be familiar with Hinduism, with the identity of the gods Vishnu and Siva, and with the avatar of Vishnu Krishna. Explain to students that the gods Krishna and Siva have several names, some of which are used in the poems studied in this module (e.g., “Mountain Lifter” and “Lord White as Jasmine”). Ensure students are also familiar with conventions of modesty and marriage in India in the period under consideration.
 2. Hook: Ask students to describe God as represented in the Judeo-Christian-Muslim tradition. They may describe God as an old man with a beard who sits on a throne in heaven, as a “father,” or as one who grants blessings, performs miracles, or distributes punishment. Then ask students to imagine their ideal boyfriend or girlfriend. What would he or she be like? Finally, ask students to meld the two ideas in their minds. What if they were to seek love with God instead of with a human partner? Students may react with a variety of emotions such as disgust, shock, or curiosity. Explain to students that “bhakti” means devotion or love. Bhakti poets expressed a yearning for passionate union with a deity. However, such desire often carried a high price as poets and devotees defied social convention in order to embrace their love for and with the divine.
-3. Distribute copies of Source 4: Poem, Mirabai 3 to students. Have a student read the poem out loud. Ask students to discuss their initial impression of the poem. For whom does the poet long? Why does she defiantly tell the country doctor to go away? Have another student read the same poem out loud, instructing students to listen for phrases that express the poet’s desire to be united with the divine. Have students underline these phrases. Then ask students to circle phrases or images that express the poet’s pain.  
+3. Distribute copies of Source 4: Poem, Mirabai 3 to students. Have a student read the poem out loud. Ask students to discuss their initial impression of the poem. For whom does the poet long? Why does she defiantly tell the country doctor to go away? Have another student read the same poem out loud, instructing students to listen for phrases that express the poet’s desire to be united with the divine. Have students underline these phrases. Then ask students to circle phrases or images that express the poet’s pain.<br>
    Distribute copies of Source 6: Poem, Akkamahadevi. Repeat the same study of this poem. Give students sheets of colored paper and colored pencils or markers. Instruct them to write the word “bhakti” in the center of the page. Using the pencils or markers, students should copy onto their papers phrases from Source 4: Poem, Mirabai 3 and Source 6: Poem, Akkamahadevi that describe the poets’ passion and pain.
 4. Provide students with copies of Source 5: Poem, Mirabai 4. Have a student read the poem out loud. Ask students to explain the actions described by the poem. Then ask students to study the poem for literary evidence of Mirabai’s passion. Finally, what lines in the poem indicate the ways Mirabai was viewed and treated by others? Assign students to emulate the poem by writing a poem of their own using this poem structure handout.
 5. Arrange students in small groups. Provide each group with copies of Source 3: Poem, Mirabai 2. Instruct the students to read the poem and discuss the following questions among themselves:
 
-   To whom is this poem addressed?  
-   What does the poem describe?  
-   What details does the poet include?  
-   What consequences might a woman experience if she chose marriage to her God rather than to a human man?  
+   To whom is this poem addressed?<br>
+   What does the poem describe?<br>
+   What details does the poet include?<br>
+   What consequences might a woman experience if she chose marriage to her God rather than to a human man?<br>
    Have groups share their thoughts with the whole class. Distribute white paper and colored pencils or markers to each group. Instruct each group to illustrate the poem and write a toast for Mirabai to be made at her wedding to the Lord.
 6. Students may remain in the small groups created for Activity 5. Distribute copies of Source 8: Poem, Bahinabai to each group. Explain that the Vedas are a body of ancient Indian literature that includes myths, hymns, and rules for worship and social conduct. Instruct students to read the poem and identify the primary conflict this poet experiences (between her desire for devotion to God and her responsibility as a wife). Invite students to interpret the image of the hissing serpent. Who or what might the great serpent be? Discuss.
 
    Instruct each group to think of other examples from their study of literature or history in which women have made unconventional choices, rejecting marriage and family in order to follow other passions or pursuits. What positive and negative consequences have these women experienced? Discuss.
 7. Give each group copies of one of the following: Source 1: Poem, Janabai, Source 2: Poem, Mirabai, or Source 7: Poem, Akkamahadevi 2. Assign groups to read the poems and discuss the following questions:
 
-   In Source 1, how does Janabai defy social convention? How does she express her defiance? Why does she call herself a “slut?”  
-   In Source 2, what conflicts does Mirabai describe? Are the battling in-laws or locked door metaphors? If so, what might they mean?  
-   In Source 7, why does the poet wander naked? Why does she say she is “no woman?” What is her attitude toward men who would see her as a whore?  
+   In Source 1, how does Janabai defy social convention? How does she express her defiance? Why does she call herself a “slut?”<br>
+   In Source 2, what conflicts does Mirabai describe? Are the battling in-laws or locked door metaphors? If so, what might they mean?<br>
+   In Source 7, why does the poet wander naked? Why does she say she is “no woman?” What is her attitude toward men who would see her as a whore?<br>
    Using the blackboard or an overhead, have students share their thoughts and collect the results of student work on a summarizing the struggles and conflicts described by female bhakti poets.
 8. Wrap up: Have students review their notes and other work completed as part of this lesson. Ask students to imagine and discuss the qualities of a woman who would pursue her spiritual devotion despite the profound criticism and even danger experienced by female bhakti poets. Should such women be compelled to give up their spiritual passion for their duties as wives and mothers?
 
@@ -207,7 +226,7 @@ Less Advanced Students: Complete Activities 1, 2, 3, 4, 5, 6 as instructed. For 
 
 ## Document Based Question
 
-Document Based Question (Suggested writing time: 40 minutes)  
+Document Based Question (Suggested writing time: 40 minutes)<br>
 Directions: The following question is based on the documents included in this module. This question is designed to test your ability to work with and understand historical documents. Write an essay that:
 
 * Has a relevant thesis and supports that thesis with evidence from the documents.
@@ -301,48 +320,48 @@ A theoretical and historical overview of the Bhakti movement at large as it pert
 
 ##### Websites
 
-Other Women's Voices: Translations of women's writing before 1700: Akka Mahadevi /Mahadeviyakka (1100s)  
-Dorothy Disse  
+Other Women's Voices: Translations of women's writing before 1700: Akka Mahadevi /Mahadeviyakka (1100s)<br>
+Dorothy Disse<br>
 http://home.infionline.net/~ddisse/mahadevi.html#anchor186952
 
-An extensive website devoted to women’s voices, pre-1700s from around the world, including a selection of Akka Mahadevi’s poetry in the Tamil language from South India.  
-Other Women's Voices: Translations of women's writing before 1700: Antal/ Andal/ Goda /Kotai (mid-800s?)  
-Dorothy Disse  
+An extensive website devoted to women’s voices, pre-1700s from around the world, including a selection of Akka Mahadevi’s poetry in the Tamil language from South India.<br>
+Other Women's Voices: Translations of women's writing before 1700: Antal/ Andal/ Goda /Kotai (mid-800s?)<br>
+Dorothy Disse<br>
 http://home.infionline.net/~ddisse/antal.html
 
-An extensive website devoted to women’s voices, pre-1700s from around the world, including a selection of Antal’s writings in the Kannada language from India.  
-Sri Vaishnava Home Page  
-Mani Varadarajan  
+An extensive website devoted to women’s voices, pre-1700s from around the world, including a selection of Antal’s writings in the Kannada language from India.<br>
+Sri Vaishnava Home Page<br>
+Mani Varadarajan<br>
 http://www.ramanuja.org/sv/alvars/andal/
 
-A website devoted to Vaishnavism, a dominant strain within Hinduism. Andal was one of the Alvar Saints of South India.  
-Sri Vaishnava Home Page  
-Mani Varadarajan  
+A website devoted to Vaishnavism, a dominant strain within Hinduism. Andal was one of the Alvar Saints of South India.<br>
+Sri Vaishnava Home Page<br>
+Mani Varadarajan<br>
 http://www.ramanuja.org/sv/alvars/andal/tiruppavai/verse1.html
 
-"Tiruppavai" (Andal’s first work), here presented in both the Kannada language and English literal translation.  
-[tamil] tiruppavai and Tiruvempavai – English, "Dr.N.Ramani"  
-Tamil.net  
+"Tiruppavai" (Andal’s first work), here presented in both the Kannada language and English literal translation.<br>
+[tamil] tiruppavai and Tiruvempavai – English, "Dr.N.Ramani"<br>
+Tamil.net<br>
 http://www.tamil.net/list/2000-12/frm00575.html
 
-This email, part of a larger discussion from Tamil.net, focuses on Andal’s poetry, including her poems "Thiruppavai," "Thiruvempavai," and "Thiruppalliyelucci," translated from Kannada by N. Ramani.  
-Other Women's Voices: Translations of women's writing before 1700: Mirabai /Mira /Meera (c.1498-aft.1550)  
-Dorothy Disse  
+This email, part of a larger discussion from Tamil.net, focuses on Andal’s poetry, including her poems "Thiruppavai," "Thiruvempavai," and "Thiruppalliyelucci," translated from Kannada by N. Ramani.<br>
+Other Women's Voices: Translations of women's writing before 1700: Mirabai /Mira /Meera (c.1498-aft.1550)<br>
+Dorothy Disse<br>
 http://home.infionline.net/~ddisse/mirabai.html
 
-An extensive website devoted to women’s voices, pre-1700s from around the world, including a selection of Mirabai’s poetry in English, originally from the Gujarati language.  
-Madhu Kishwar, “Traditional Female Moral Exemplars in India.”  
-The Infinity Foundation  
+An extensive website devoted to women’s voices, pre-1700s from around the world, including a selection of Mirabai’s poetry in English, originally from the Gujarati language.<br>
+Madhu Kishwar, “Traditional Female Moral Exemplars in India.”<br>
+The Infinity Foundation<br>
 http://www.infinityfoundation.com/mandala/s\_es/s\_es\_kishw\_EAA.htm
 
 An excellent article by Madhu Kishwar, Senior Fellow at the Center for the Study of Developing Societies in Delhi, India, and founding editor of Manushi—A Journal about Women and Society from India. This article focuses on female “moral exemplars” or “role models” from within the Hindu tradition, from the divine feminine creative energy known as “shakti,” village goddesses, Pan-Indian goddesses (devis) such as Parvati, Sita, and Durga, as well as bhakti poets, including Mirabai (spelled Meerabai in this article) and Antal (here spelled Andal).
 
 ## Credits
 
-About the Author  
+About the Author<br>
 **Doris Jakobsh** is an Instructor of Religious Studies at the University of Waterloo in Canada. She is author of Relocating Gender in Sikh History: Transformation, Meaning and Identity and has been awarded fellowships and awards from Harvard University, the University of British Columbia, and the Social Sciences and Humanities Research Council of Canada. In 2002, she was nominated for the “Excellence in Teaching with Technology Award” from Wilfrid Laurier University for her work with distance education in “Asian Spiritual Disciplines.”
 
-About the Lesson Plan Author  
+About the Lesson Plan Author<br>
 **Elizabeth Ten Dyke** teaches 9th- and 10th-grade Global History and Geography at Kingston High School in Kingston, New York. In the past she has also taught secondary sociology, psychology, and AP Human Geography, as well as undergraduate and graduate courses in cultural anthropology. Trained as a cultural anthropologist, Dr. Ten Dyke is the author of Dresden: Paradoxes of Memory in History, published with Routledge in 2001. This study explores tensions and contradictions in social memory and historical understanding in the former German Democratic Republic during the post-socialist transition.
 
 Grateful acknowledgement is made to the following institutions for primary sources:

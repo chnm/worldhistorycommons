@@ -5,6 +5,7 @@ drupal_node_id: 63
 source_type: "Image"
 url: /scouts-and-kings-african-rifles-uniforms
 image: /images/scouts-soldiers_201c1533f5.jpg
+image_alt: "Photo of South African scout troop"
 regions: 
   - "Africa"
 subjects: 

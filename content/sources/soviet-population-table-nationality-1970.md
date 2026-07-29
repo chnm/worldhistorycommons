@@ -5,6 +5,7 @@ drupal_node_id: 1878
 source_type: "Text"
 url: /soviet-population-table-nationality-1970
 image: /images/poptl.jpg
+image_alt: "A table of the Soviet population sorted by nationality in 1970."
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 67
 source_type: "Image"
 url: /bat-mitzvah
 image: /images/batmitzvah_26ab135067.jpg
+image_alt: "Photograph of girl reading from Torah"
 regions: 
   - "North/Central America"
 subjects: 

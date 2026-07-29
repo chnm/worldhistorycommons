@@ -5,6 +5,7 @@ drupal_node_id: 1477
 source_type: "Text"
 url: /saint-justs-speech-kings-fate-27-december-1792
 image: /images/Icons-Document_251.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

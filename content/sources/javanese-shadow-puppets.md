@@ -5,6 +5,7 @@ drupal_node_id: 2477
 source_type: "Image"
 url: /javanese-shadow-puppets
 image: /images/famfestpuppets3.jpg
+image_alt: "Wayang Kulit Performance"
 regions: 
   - "Asia"
 subjects: 

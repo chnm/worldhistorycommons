@@ -5,6 +5,7 @@ drupal_node_id: 1632
 source_type: "Text"
 url: /cultural-contact-southern-africa-law-alcohol-sale
 image: /images/Icons-Document_385.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

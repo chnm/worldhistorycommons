@@ -5,6 +5,7 @@ drupal_node_id: 1647
 source_type: "Image"
 url: /divorce-soviet-union-0
 image: /images/1988_a_kak_zhe_ia_bba193752e_0.jpg
+image_alt: "image of a child between two parents at odds"
 regions: 
   - "Europe"
 subjects: 

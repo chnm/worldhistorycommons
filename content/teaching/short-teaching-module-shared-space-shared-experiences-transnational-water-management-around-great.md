@@ -23,6 +23,8 @@ related_sources:
   - link: "/emmerton-letter-1926"
     image: "/images/EmmertonLetterTHUMB.jpg"
     alt: "Image of typed emmerton letter"
+how_to_cite: |
+  "Short Teaching Module: Shared Space, Shared Experiences: Transnational Water Management around the Great Lakes," in World History Commons, https://worldhistorycommons.org/short-teaching-module-shared-space-shared-experiences-transnational-water-management-around-great [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -65,9 +67,10 @@ Many people experienced profound and lasting changes in their home environments 
 
 ![Emmerton Letter, 1926](/images/EmmertonLetterTHUMB.jpg)
 
+#### Annotation
+
 Between 1919 and 1935, citizens of the U.S. and Canada complained about industrial pollution from an American company called the Solvay Process Company (also called the Michigan Alkali Corporation), which dumped its wastes on Fighting Island, in the Detroit River. The island is in the United States, but the boundary line runs past it through the Detroit River. Until the mid-1920s, the island’s eastern side was bounded by Canadian marshes that were highly valued as bird and fish habitat by recreational sportsmen, professional hunters and fishermen, and conservationists. In 1926, the pollution on Fighting Island was framed as an international problem for the first time. Local Canadian activists mobilized their Member of Parliament and also contacted the federal Minister for the Interior. The activists were a businessmen’s group from the Ontario side, complaining that pollution from the Michigan Alkali Company was driving valuable fish and game away from the Detroit River around Fighting Island. American officials had been raising similar concerns about other points along the boundary, and the transnational nature of the pollution prompted Canadian federal ministers write to their counterparts in Ontario, asking for an inspection and reminding them that there had been complaints in 1922. The provincial Department of Game and Fisheries again agreed to make an inspection. It is clear that the existing procedures for assessing environmental impact were totally inadequate to detect the environmental changes that people in the watershed were noticing, even when the machinery of the state was engaged to investigate. An extremely simple and unscientific personal visit seems to have been the best inspection that any level of government was willing or able to execute.
 The 1926 inspection was carried out by the Game Warden for the Essex area, a Mr. B. Emmerton, who reported directly to Mr. McDonald, the Deputy Minister for Game and Fisheries for Ontario. His report, a single page of typescript, written in the first person, was accepted and referenced as the sole official Canadian account of the pollution problem at Fighting Island until the 1950s. Emmerton described the company’s waste dump and asserted none of it could be getting into the river, without explaining how he arrived at that reassuring conclusion or supporting it in any way. He went on to note that the workmen were all Canadian and that the superintendent of the company was a conservationist, presumably as further evidence that the American company’s activities would not harm Canada. Warden Emmerton’s report ends with his opinion about why the complaints had appeared, which gives the reader several clues about his attitude to the complainants and the chemical company. He was clearly suspicious of the people complaining, and linked their concerns to the smuggling problems that were presumably a familiar part of his job. This source is a part of the [*Transnational Water Management around the Great Lakes*](https://worldhistorycommons.org/short-teaching-module-shared-space-shared-experiences-transnational-water-management-around-great) teaching module.
-
 
 ## Credits
 

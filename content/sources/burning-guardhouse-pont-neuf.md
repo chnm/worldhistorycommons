@@ -5,6 +5,7 @@ drupal_node_id: 1002
 source_type: "Image"
 url: /burning-guardhouse-pont-neuf
 image: /images/burning-the-guardhouse.jpg
+image_alt: "Burning the Guardhouse on the Pont Neuf"
 regions: 
   - "Europe"
 subjects: 
@@ -25,3 +26,8 @@ how_to_cite: |
 This retrospective shows that early in the French Revolution targets were often economic. This should be no surprise as the populace had a long tradition of taking the law into its own hands to rectify what they saw as injustices. Here a guardhouse is destroyed during a riot focused on a network of facilities regulating the market. Most dangerously, the crowd burned an effigy of Brienne, the leading minister in the government. Economic complaints were spilling into the political arena.
 
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) source collection.
+
+## Translation
+
+Title (French)  
+Incendie du corps de garde sur le Pont Neuf, le 29 aout 1788

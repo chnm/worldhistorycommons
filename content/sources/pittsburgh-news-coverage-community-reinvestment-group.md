@@ -5,6 +5,7 @@ drupal_node_id: 2913
 source_type: "Image"
 url: /pittsburgh-news-coverage-community-reinvestment-group
 image: /images/PCRG_Clip.jpg
+image_alt: "Clip from Pittsburgh's North Hills News Record in 1993 with the headline \"“PCRG challenges financial institution lending practices.\""
 regions: 
   - "North/Central America"
 subjects: 

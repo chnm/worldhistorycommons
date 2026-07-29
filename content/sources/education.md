@@ -5,6 +5,7 @@ drupal_node_id: 1281
 source_type: "Text"
 url: /education
 image: /images/Icons-Document_113.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

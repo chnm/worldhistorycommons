@@ -5,6 +5,7 @@ drupal_node_id: 1291
 source_type: "Text"
 url: /how-teach-children-childrearing-and-confucian-doctrine
 image: /images/Icons-Book-Excerpt_10.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

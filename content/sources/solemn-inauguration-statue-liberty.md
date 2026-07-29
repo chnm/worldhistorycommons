@@ -5,6 +5,7 @@ drupal_node_id: 1005
 source_type: "Image"
 url: /solemn-inauguration-statue-liberty
 image: /images/solemn-inauguration.jpg
+image_alt: "Solemn Inauguration of the Statue of Liberty"
 regions: 
   - "North/Central America"
 subjects: 

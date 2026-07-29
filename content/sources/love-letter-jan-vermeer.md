@@ -5,6 +5,7 @@ drupal_node_id: 2963
 source_type: "Image"
 url: /love-letter-jan-vermeer
 image: /images/Vermeer_-_The_Love_Letter.png
+image_alt: "A detail of the Love Letter, showing two women. One holds a letter while the other stands next to her."
 regions: 
   - "Europe"
 subjects: 

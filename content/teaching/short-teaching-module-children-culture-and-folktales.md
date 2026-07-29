@@ -20,6 +20,8 @@ related_sources:
   - link: "/red-shoes"
     image: "/images/red_shoesTHUMB.jpg"
     alt: "Thumbnail of drawing of girl and angel"
+how_to_cite: |
+  "Short Teaching Module: Children, Culture, and Folktales," in World History Commons, https://worldhistorycommons.org/short-teaching-module-children-culture-and-folktales [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -34,6 +36,8 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![The Red Shoes](/images/red_shoesTHUMB.jpg)
 
+#### Annotation
+
 Folktales have been used for generations to teach moral tales to children. They have shifted over time depending upon the generation and location of the tale but remain part of the childhood experience for many young people. "The Red Shoes" published by Hans Christian Andersen in 1845 is a quintessential European folktale. It tells a moral tale based upon the idea of temptation and eventual redemption. The story is based upon the protagonist's desire for a pair of shoes and the consequences of her temptation. Andersen's use of Christian morality in his tale offers insight into European culture during the 19th century. Christianity was a powerful cultural influence and that is evident in the story. The church is a focal point throughout the moral tale and the themes of redemption and temptation directly connect to the Christian values that are taught to children.
 The illustration is a woodcut from the 1849 German and Danish editions of a collection of Hans Christian Andersen stories. The illustrator is Thomas Vilhelm Pedersen (1820-1859), a Danish naval lieutenant whose illustrations were favored by Andersen himself, and have been closely associated with the tales since. Pedersen captures the story's mood with the sparse, dramatic background of the churchyard with gravestones, scraggly vegetation, and undulating horizon. The two figures present a stark contrast: the large, unyielding figure of the male angel with its arm outstretched to decree Karen's fate, and the helpless motion of Karen's figure, her windswept hair and dress, her feet in mid-air, and the frightened expression of her face and arms as if trying to flee.
 This source is a part of the [*Children, Culture, and Folktales*](https://worldhistorycommons.org/short-teaching-module-children-culture-and-folktales) teaching module.
@@ -42,9 +46,10 @@ This source is a part of the [*Children, Culture, and Folktales*](https://worldh
 
 ![The Taoist Priest of Lao-Shan](/images/taoist-priest-thumbnail.jpeg)
 
+#### Annotation
+
 "The Taoist Priest of Lao-Shan" is a folktale with a moral lesson. The tale uses religion as a device to instill in children the traits desired by upstanding citizens within the culture at that time. "The Taoist Priest of Lao-Shan" comes from a collection of stories called Strange Stories from a Chinese Studio written by P'u Sung-ling. The stories derive from an oral tradition and were first published in the 1700s. This folktale, like many others in the collection, critiques the culture of China during this period. The document tells a story of temptation and greediness. The folktale portrays a man who is tempted by immortality and is not willing to work for his goal. Eventually, his greediness leads him to humiliation. The story is useful in understanding Chinese culture and what was expected of children as it examines the Taoist beliefs and the moral expectations in China.
 This source is a part of the [*Children, Culture, and Folktales*](https://worldhistorycommons.org/short-teaching-module-children-culture-and-folktales) teaching module.
-
 
 ## Teaching Strategies
 

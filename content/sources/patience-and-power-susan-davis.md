@@ -5,6 +5,7 @@ drupal_node_id: 2868
 source_type: "Image"
 url: /patience-and-power-susan-davis
 image: /images/Susan_Davis_-_Patience_and_Power.png
+image_alt: "Title page of Patience and Power by Susan Schaefer Davis, with the subtitle \"Women's Lives in a Moroccan Village.\""
 regions: 
   - "Africa"
 subjects: 

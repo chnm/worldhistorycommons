@@ -5,6 +5,12 @@ drupal_node_id: 2724
 source_type: "Image"
 url: /newspaper-coverage-pearl-harbor-bombing
 image: /images/Evening_Star_Dec_7__1941.jpeg
+image_alt: "Evening Star newspaper headline reads Roosevelt Sends Note to Hirohito Japanese Convoy Nears Thailand US takes over Finnish vessels"
+additional_images:
+  - src: "/images/source-media/2724/Evening_Star_published_as_THE_EVENING_STAR1024_1_0.jpeg"
+    alt: "Evening Star headline reads President signs declaration of war; 350 casualties as Japs blast Manila"
+  - src: "/images/source-media/2724/Evening_Star_Dec_9__1941.jpeg"
+    alt: "Evening Star headline reads DC to have partial blackout tonight"
 regions: 
   - "North/Central America"
 subjects: 

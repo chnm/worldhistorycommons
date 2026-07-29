@@ -5,6 +5,9 @@ drupal_node_id: 1114
 source_type: "Audio"
 url: /hymn-21-january
 image: 
+audio_files:
+  - src: "/audio/source-media/1114/d650f19d894ac51651f6647781b60aaf.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 
@@ -25,3 +28,31 @@ how_to_cite: |
 ---
 
 With lyrics drawn from a Republican Ode composed by the revolutionary poet Lebrun in 1793, this hymn commemorates the execution of France's Louis XVI.
+
+## Transcription
+
+Hymne du 21 janvier.
+
+Les flammes d'Etna sur ses laves antiques  
+Ne cessent de verser des flots plus dévorants.  
+Des monstres couronnés, les fureurs despotiques.  
+Ne cessent d'ajouter aux forfaits des tyrans.  
+S'il en est qui veulent un maître,  
+De rois en rois dans l'univers  
+Qu'ils aillent mendier des fers,  
+Ces français indignes de l'être,  
+Ces français indignes de l'étre!
+
+## Translation
+
+Hymn of 21 January
+
+Etna's flames of ancient lava  
+Ceaselessly flow, ever more devouring.  
+Crowned monsters, despotic furies.  
+Ceaselessly add to tyrants' hideous crimes.  
+If some want a master,  
+In a world from King to king  
+Let them beg for shackles  
+Unworthy to be called Frenchmen,  
+Unworthy to be called Frenchmen!

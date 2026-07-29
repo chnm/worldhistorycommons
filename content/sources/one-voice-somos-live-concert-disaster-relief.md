@@ -5,6 +5,9 @@ drupal_node_id: 3018
 source_type: "Audio"
 url: /one-voice-somos-live-concert-disaster-relief
 image: 
+media_unavailable:
+  type: audio
+  message: "The original site lists downloadable audio, but its media URL is empty."
 regions: 
   - "Global"
   - "North/Central America"

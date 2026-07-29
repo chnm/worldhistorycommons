@@ -30,6 +30,8 @@ related_sources:
   - link: "/fears-bastille-generals-concern"
     image: "/images/Icons-Document-thumbnail_148.jpg"
     alt: ""
+how_to_cite: |
+  "Source Collection: Paris and the Politics of Rebellion," in World History Commons, https://worldhistorycommons.org/source-collection-paris-and-politics-rebellion [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -88,11 +90,15 @@ The world was shocked by the swiftness and strength with which radicalism emerge
 
 ![The Death of Marat](/images/death-of-marat-thumbnail.jpeg)
 
+#### Annotation
+
 This famous depiction of Marat’s assassination (1793) is by the unofficial (and sometimes official) artist of the French Revolution, Jacques–Louis David, a leading exponent of the neoclassical style. Scholars have seen this vision as a revolutionary pietà because of the repose of the corpse, so different from that of a normal body in a stage of rigor mortis. David also planned Marat’s funeral on behalf of the government.
 
 ### [The Réveillon Riot (28 April 1789)](/reveillon-riot-28-april-1789)
 
 ![The Réveillon Riot (28 April 1789)](/images/Icons-Document-thumbnail_147.jpg)
+
+#### Annotation
 
 The "manufactory" owned by Jean–Baptiste Réveillon in the Saint–Antoine neighborhood of Paris made decorative wallpaper, a lucrative luxury item that required highly skilled (and generally well–paid) workers. When a rumor circulated about Réveillon’s ill–timed speech in which he linked reduced wages and lower prices, the animosity of many guildsmen to Réveillon erupted in violence. When troops intervened to suppress the protest by force, bloodshed ensued. To some observers, such as the nobleman the Marquis de Ferrières from whose letter the following passage is excerpted, this "riot" suggested a dangerous environment of popular unrest on the eve of meeting of the Estates–General.
 
@@ -100,11 +106,15 @@ The "manufactory" owned by Jean–Baptiste Réveillon in the Saint–Antoine nei
 
 ![Fusillade in the Faubourg St. Antoine, 28 April 1789](/images/fusillade-thumbnail.jpg)
 
+#### Annotation
+
 This image chronicles a riot. Many believe it was caused by artisans who attacked the Reveillon wallpaper shop and factory because they believed that the owner was about to lower wages. Over two days, more than 6,000 attacked the place. On 28 April troops were called and fired on the crowd. The official report noted 71 killed, wounded, or detained. This conflict reveals the animosity between the artisans and authorities as well as divisions between commoner owners and artisans that would eventually turn the Third Estate against itself.
 
 ### [Fears for the Bastille: A General’s Concern](/fears-bastille-generals-concern)
 
 ![Fears for the Bastille: A General’s Concern](/images/Icons-Document-thumbnail_148.jpg)
+
+#### Annotation
 
 In this excerpt from a letter of 5 July 1789, the Marshal de Broglie, head of the royal army who led a conservative faction at court, expresses his fears that amid the current unrest, the royal garrison and prison at the Bastille might come under attack. He advocates stationing reinforcements there to suppress an uprising.
 
@@ -112,17 +122,23 @@ In this excerpt from a letter of 5 July 1789, the Marshal de Broglie, head of th
 
 ![Street Demonstrations of Support for Necker (12 July 1789)](/images/Icons-Document-thumbnail_149.jpg)
 
+#### Annotation
+
 Gouverneur Morris, an American in Paris, wrote about the street protests that followed the King’s dismissal of the royal minister of finance, the popular Jacques Necker. Many Parisians considered Necker the man most able to enact reforms that might solve France’s fiscal and economic problems. His dismissal left many skeptical about the King’s interest in substantive reforms.
 
 ### [Desmoulins on His Own Role](/desmoulins-his-own-role)
 
 ![Desmoulins on His Own Role](/images/Icons-Document-thumbnail_150.jpg)
 
+#### Annotation
+
 Camille Desmoulins, an aspiring journalist and author of an anti–aristocratic pamphlet, had been closely following political events. Like many observers, he interpreted Necker’s dismissal as evidence that the King would soon use the troops stationed in Paris to dispel the Estates–General and suppress any demonstrations. Upon receiving the news, he headed to the Palais Royal, a gathering place for the politically aware to exchange news and give speeches. In this letter, he describes how he called upon the people of Paris to act decisively by giving a rousing speech that inspired a crowd to "take arms" and defend the Estates–General against royal troops.
 
 ### [Speech in the Garden of the Palais-Royal](/speech-garden-palais-royal)
 
 ![Speech in the Garden of the Palais-Royal](/images/81a741f2c9cc1dabd659362e8c9d8f4aTHUMB.jpg)
+
+#### Annotation
 
 In this artistic rendition, on 12 July 1789 Camille Desmoulins stands on a table and encourages his listeners to rise against the threat to the Estates–General. He, and others of his ilk, would be successful in bringing about the fall of the Bastille on 14 July.
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) source collection.
@@ -131,11 +147,15 @@ This source is a part of the [*Legacies of the Revolution*](https://worldhistory
 
 ![Parisian Riots on 14 July](/images/Icons-Document-thumbnail_151.jpg)
 
+#### Annotation
+
 As demonstrations spread across Paris on the morning of 14 July, Pierre–Victor Besenval, commander of the royal soldiers stationed in the capital, contemplated ordering his men to suppress the protests. However, as reports poured in from across the city, he realized that the situation was moving beyond his control. As he describes below, his primary concern was to refrain from taking any action that could lead to widespread and unnecessary violence.
 
 ### [A Conqueror of the Bastille Speaks](/conqueror-bastille-speaks)
 
 ![A Conqueror of the Bastille Speaks](/images/Icons-Document-thumbnail_152.jpg)
+
+#### Annotation
 
 Having assembled at the traditional protest place in front of the City Hall, known as place des grèves (meaning sandbar, which it was, but which has come to mean "strike"), the crowd set off in search of ammunition. Eventually arriving at the Bastille, the crowd demanded that the few guardians of the fortress surrender. One participant, Keversau, here describes in heroic terms the event that came to symbolize the outbreak of the Revolution—the "taking of the Bastille."
 
@@ -143,11 +163,15 @@ Having assembled at the traditional protest place in front of the City Hall, kno
 
 ![A Defender of the Bastille Explains His Role](/images/Icons-Document-thumbnail_153.jpg)
 
+#### Annotation
+
 The soldiers stationed at the fortress did not see themselves as resisting the Revolution so much as keeping watch on a rather insignificant outpost that had nothing at all to do with the major events transpiring in Versailles. In this passage, a Swiss officer named Louis de Flue describes how his contingent was overrun and how he was brought back to the City Hall where, to his surprise, he found himself accused of having used force against the people. Only in retrospect could he be seen as opposing "the Revolution" since in the uncertain moments of 14 July, some people—especially royal officers—believed that the event transpiring was little more than meaningless violence.
 
 ### [Victims on Display](/victims-display)
 
 ![Victims on Display](/images/Icons-Document-thumbnail_154.jpg)
+
+#### Annotation
 
 Meaningless violence was precisely how the Duchess of Gontaut viewed the events of July 14th, especially the murder of the military governor of the Bastille and of the mayor of Paris, whose heads were placed on pikes and paraded around the city.
 
@@ -155,11 +179,15 @@ Meaningless violence was precisely how the Duchess of Gontaut viewed the events 
 
 ![Taking of Weapons at the Invalides](/images/invalides-thumbnail.jpeg)
 
+#### Annotation
+
 From the City Hall, the crowd that had gathered on the morning of 14 July crossed the Seine River and sacked the royal veterans’ hospital known as the Invalides, where it hoped to capture arms. In Berthault’s engraving, the scene appears chaotic. The guards seem unsure how to react to the surging, leaderless, yet determined crowd.
 
 ### [Taking of the Bastille](/taking-bastille-0)
 
 ![Taking of the Bastille](/images/taking-the-bastille-thumbnail.jpeg)
+
+#### Annotation
 
 This painting emphasizes the populace’s participation in the storming of the Bastille, showing the urban population fighting under a red banner with muskets, swords, and pikes against the royal soldiers.
 
@@ -167,11 +195,15 @@ This painting emphasizes the populace’s participation in the storming of the B
 
 ![The Third Incident of 14 July 1789](/images/third-incident-thumbnail.jpeg)
 
+#### Annotation
+
 This engraving from the Berthault series depicts Stanislas Maillard bravely climbing on a plank over the dry moat surrounding the fortress to accept from one of the soldiers Launay’s "capitulation" of the Bastille.
 
 ### [Taking of the Bastille](/taking-bastille-1)
 
 ![Taking of the Bastille](/images/taking-the-bastille-thumbnail.jpeg)
+
+#### Annotation
 
 The "bravery of the citizens united against" the royal army, as the text suggests, enabled them to conquer in four hours a fortress that had defeated invasions since 1368.
 
@@ -179,11 +211,15 @@ The "bravery of the citizens united against" the royal army, as the text suggest
 
 ![Taking of the Bastille](/images/taking-the-bastille-thumbnail.jpeg)
 
+#### Annotation
+
 This color print emphasizes the populace’s participation in the storming of the Bastille, showing the urban population fighting under a red banner with muskets, swords, and pikes against the royal soldiers. Stunning images such as these—as well as dramatic press reports—contributed to what has become the widespread view that the taking of the Bastille was a spontaneous, brave, and widely popular revolt against royal authority.
 
 ### [Attack on the Bastille](/attack-bastille)
 
 ![Attack on the Bastille](/images/attack-on-bastille-thumbnail.jpeg)
+
+#### Annotation
 
 This engraving of the attack highlights the heroism of the people charging determinedly into the billowing clouds and firing relentlessly in the face of strong resistance emanating from the fortress.
 
@@ -191,11 +227,15 @@ This engraving of the attack highlights the heroism of the people charging deter
 
 ![The Seventh Incident of 14 July 1789](/images/7th-incident-thumbnail.jpeg)
 
+#### Annotation
+
 Upon returning to City Hall, the now heavily armed crowd stormed that building as well, arresting the "Provost of Markets" (or mayor) and his son–in–law, another municipal official. Both men were beheaded and their severed heads were placed on pikes and paraded around, graphically illustrating both the power and the danger of popular insurrections like that of July 14th.
 
 ### [Punishment of Foulon](/punishment-foulon)
 
 ![Punishment of Foulon](/images/foulon-thumbnail.jpeg)
+
+#### Annotation
 
 This engraving reveals the aftermath of the seizure of the Bastille. Here the crowd parades the severed head of the official, Foulon.
 
@@ -203,11 +243,15 @@ This engraving reveals the aftermath of the seizure of the Bastille. Here the cr
 
 ![Demolition of the Bastille](/images/demolition-of-bastille-thumbnail.jpeg)
 
+#### Annotation
+
 This watercolor painting illustrates the "demolition" of what the text refers to as the "horrible prison" of the Bastille. As workmen tear down the spires on the roof, ordinary people rip stones off the base. These stones soon became collectors’ items, souvenirs of the people’s role in the outbreak of the Revolution—and symbols of the way in which many more people wanted to commemorate the event than had participated in it.
 
 ### [Farewell Bastille](/farewell-bastille)
 
 ![Farewell Bastille](/images/farewell-bastille-thumbnail.jpeg)
+
+#### Annotation
 
 This hand–colored engraving equates the taking of the Bastille with the rise of the Third Estate against the clergy and nobility. A commoner in a black hat sporting a tricolor cockade plays the bagpipe triumphantly over the fallen lion of the absolutist monarchy. To the side, a revolutionary soldier raises his sword to menace a priest.
 
@@ -215,11 +259,15 @@ This hand–colored engraving equates the taking of the Bastille with the rise o
 
 ![The Day of 21 July 1789](/images/july-1789-thumbnail.jpeg)
 
+#### Annotation
+
 More common than clashes by workers against employers were protests over the rising price of bread. This color drawing depicts events at the City Hall of Strasbourg on 21 July 1789. Notice that the protesters are tearing up the roof and throwing the tiles down into the street to ward off soldiers; similarly, protesters in other buildings are pitching objects out of windows.
 
 ### [Royalists Desecrate the Revolutionary Cockade (3 October 1789)](/royalists-desecrate-revolutionary-cockade-3-october-1789)
 
 ![Royalists Desecrate the Revolutionary Cockade (3 October 1789)](/images/Icons-Document-thumbnail_155.jpg)
+
+#### Annotation
 
 Military officers in several regiments of the royal army favored a military strike to dispel the National Assembly, but by the fall of 1789 they saw clearly that this order would not be given. Their frustration with the National Assembly’s affront to the dignity of the royal family became evident to all on 3 October, in an event recorded by Bailly, then mayor of Paris, in his memoirs.
 
@@ -227,11 +275,15 @@ Military officers in several regiments of the royal army favored a military stri
 
 ![October Days: The Warning from the People](/images/Icons-Document-thumbnail_171.jpg)
 
+#### Annotation
+
 In response to the news that royal soldiers had desecrated a symbol of national rejuvenation, the revolutionary cockade, Marat published in his newspaper, The Friend of the People, the following letter calling for all patriotic citizens to take up arms since the royal soldiers had shown themselves to be both debauched and hostile to the people.
 
 ### [Stanislaus Maillard Describes the Women’s March](/stanislaus-maillard-describes-womens-march)
 
 ![Stanislaus Maillard Describes the Women’s March](/images/Icons-Document-thumbnail_172.jpg)
+
+#### Annotation
 
 Stanislas Maillard, a National Guardsman and "veteran" of the taking of the Bastille, here testifies at a police court, on the events of 5–6 October. Notice that he ultimately supports the activism of the market women.
 
@@ -239,11 +291,15 @@ Stanislas Maillard, a National Guardsman and "veteran" of the taking of the Bast
 
 ![October Days: An Alternate View](/images/Icons-Document-thumbnail_173.jpg)
 
+#### Annotation
+
 A Revolutionary activist named Fournier, known as "the American" because he had been born in the French colony of Guadeloupe, here recalls his own role as a National Guardsman in the October Days as being more important than that of the market women.
 
 ### [October Days: Deposition of a Marcher](/october-days-deposition-marcher)
 
 ![October Days: Deposition of a Marcher](/images/Icons-Document-thumbnail_174.jpg)
+
+#### Annotation
 
 The commission investigating the October Days took testimony from twenty–five women who had participated, including Marie–Rose Barré, a twenty–year old unmarried lace–worker, whose testimony is excerpted below. Barré had been one of the women chosen to meet directly with the King to present the women’s concerns.
 
@@ -251,11 +307,15 @@ The commission investigating the October Days took testimony from twenty–five 
 
 ![Memorable Day at Versailles, 5 October 1789](/images/memorable-day-thumbnail.jpeg)
 
+#### Annotation
+
 This engraving marks success and reconciliation among revolutionaries, as men and women, as well as soldiers and civilians, relax together.
 
 ### [Vanguard of Women Going to Versailles](/vanguard-women-going-versailles)
 
 ![Vanguard of Women Going to Versailles](/images/vanguard-of-women-thumbnail.jpeg)
+
+#### Annotation
 
 Publicity about political machinations, coupled with the continued high price of bread, mobilized market women and encouraged many men to support them. They hoped to fetch the King and his family to end attempts against the Revolution and stabilize prices. This action was so threatening to the middle class elite that Lafayette, head of the Parisian National Guard, tried first to dissuade the marchers and then belatedly followed them to try to control the situation.
 
@@ -263,11 +323,15 @@ Publicity about political machinations, coupled with the continued high price of
 
 ![Triumph of the Parisian Army and the People](/images/triump-of-parisian-thumbnail.jpeg)
 
+#### Annotation
+
 Returning home from the October march to Versailles, the women and the guardsmen display the heads of troops who confronted the marchers. Note the use of tree branches, symbolizing support for the revolution here as in other prints.
 
 ### [Champ de Mars: Petitions of the Cordelier and Jacobin Clubs](/champ-de-mars-petitions-cordelier-and-jacobin-clubs)
 
 ![Champ de Mars: Petitions of the Cordelier and Jacobin Clubs](/images/Icons-Document-thumbnail_48.jpg)
+
+#### Annotation
 
 In the aftermath of the King’s failed flight in June 1791, the more radical clubs circulated petitions calling on the National Assembly to depose the King rather than grant him executive power as a constitutional monarch, under the new constitution. Below are excerpts from two such petitions, from the Cordeliers and Jacobin clubs, respectively; note that these efforts technically violated a law passed the previous 10 May, which had proscribed the circulation of petitions by clubs.
 
@@ -275,11 +339,15 @@ In the aftermath of the King’s failed flight in June 1791, the more radical cl
 
 ![The Massacre of the Champ de Mars [Parade ground], in the Révolutions de Paris](/images/Icons-Document-thumbnail_175.jpg)
 
+#### Annotation
+
 On 15 July 1791, the Jacobins held a demonstration on the Champ de Mars in Paris to gain signatures for their petition. A contingent of National Guard soldiers, led by General Lafayette, fired on the crowd, killing at least fifty, in what became known as "the massacre of the Champ de Mars." To some observers, such as the radical newspaper writer whose account is reproduced here, the massacre proved definitively the counterrevolutionary desires of the royalists, the need for good patriots to mobilize on behalf of the more radical elements of the Parisian municipal council and the National Assembly, and the importance of taking direct action in defense of the "fatherland."
 
 ### [The "Second Revolution" of 10 August 1792](/second-revolution-10-august-1792)
 
 ![The "Second Revolution" of 10 August 1792](/images/Icons-Document-thumbnail_176.jpg)
+
+#### Annotation
 
 The popular demonstration of 10 August 1792, occurred because the Legislative Assembly could not decide what to do about the King, the constitution, the ongoing war, and above all the political uprisings in Paris. On 4 August, the most radical Parisian section, "the Section of the 300s," issued an "ultimatum" to the Legislative Assembly, threatening an uprising if no action was taken by midnight August 9th. On the appointed evening, the tocsin (alarm) sounded from the bell tower, and a crowd gathered before the City Hall and headed toward the Tuileries Palace. The crowd overran the Swiss Guards defending the Tuileries Palace, from which the royal family fled. Here a member of the Paris municipality, Pierre–Louis Roederer, describes the scene. In Roederer’s account, it is the mob’s action rather than the vote of the assembly that deposes the King.
 
@@ -287,11 +355,15 @@ The popular demonstration of 10 August 1792, occurred because the Legislative As
 
 ![The Carmagnole](/images/Icons-Song-thumbnail_10.jpg)
 
+#### Annotation
+
 Sharing its name with a popular dance, this song heaps scorn upon the queen (Madame Veto), believed to be a traitor, and the "aristocrats" who support her. Like "It’ll Be Okay", the simple tune of the "Carmagnole" permitted even the illiterate to learn lyrics with which to proclaim their conviction in the Revolution’s progress.
 
 ### [It’ll Be Okay](/itll-be-okay)
 
 ![It’ll Be Okay](/images/Icons-Song-thumbnail_3.jpg)
+
+#### Annotation
 
 Popular during the early years of the French Revolution, this song’s lively tune and repetitive chorus expressed revolutionaries’ hopefulness about the future. Singers manipulated its malleable lyrics to address a broad range of topical issues.
 
@@ -299,11 +371,15 @@ Popular during the early years of the French Revolution, this song’s lively tu
 
 ![Siege of the Tuileries](/images/tuileries-thumbnail.jpeg)
 
+#### Annotation
+
 This hand–tinted engraving depicts the storming of the Tuileries Palace by what appear to be small groups of well–organized soldiers of the Marseilles National Guard. The positive image of the sans–culottes is reinforced by commentaries that attribute their action to the "despotism" of Louis XVI and the "treason" of his agents against France.
 
 ### [Day of 10 August 1792](/day-10-august-1792)
 
 ![Day of 10 August 1792](/images/august-1792.jpg)
+
+#### Annotation
 
 This engraving gives a ground–eye view of the action; far from an orderly operation, the "day" appears chaotic and menacing, as the inspired people face what appear to be cannons being fired by royal soldiers. This romantic image would become the predominant view of this event.
 
@@ -311,11 +387,15 @@ This engraving gives a ground–eye view of the action; far from an orderly oper
 
 ![Foundation of the Republic, August 10, 1792](/images/foundation-of-republic-thumbnail.jpeg)
 
+#### Annotation
+
 One of the sharper engagements of 10 August between the revolutionaries and the royal defenders occurred on the palace’s steps. The caption emphasizes the revolutionaries’ point of view.
 
 ### [The September Massacres](/september-massacres)
 
 ![The September Massacres](/images/Icons-Document-thumbnail_177.jpg)
+
+#### Annotation
 
 In late summer 1792, news reached Paris that the Prussian army had invaded France and was advancing quickly toward the capital. Moreover, rumors circulated that the Prussians would find ready support from Parisians who secretly opposed the Revolution, especially refractory priests. On September 3 and 4, inflamed by radical propaganda, ongoing food shortages, and fear of the invasion, crowds broke into the prisons where they attacked the prisoners, including refractory clergy, who were feared to be counterrevolutionaries who would aid the invading Prussians. The writer Nicolas–Edme Restif de la Bretonne here describes what he saw on the second day of the massacres. This outbreak of violence in the name of defending an imperiled Revolution from its enemies within France has been cited by some historians as evidence of an inherent tendency toward bloodshed on the part of the Jacobins. To others, the event suggests the unfortunate excesses to which well–meaning and sincerely frightened revolutionaries were willing to go to advance the cause of social and political change, in the face of difficult wartime circumstances.
 
@@ -323,11 +403,15 @@ In late summer 1792, news reached Paris that the Prussian army had invaded Franc
 
 ![A British Observer of the September Massacres](/images/Icons-Document-thumbnail_178.jpg)
 
+#### Annotation
+
 A British diplomat in Paris here describes, in dispatches back to London, the goings–on in Paris in early September, in light of news of advances by the Duke of Brunswick’s Prussian forces toward the capital. This diplomat was naturally most concerned with reporting the readiness of the Parisians to resist the British, which is evident in his focus on the National Assembly’s call to arms and the outbreak of popular violence.
 
 ### [Massacre of the Prisoners of St. Germain Abbey](/massacre-prisoners-st-germain-abbey)
 
 ![Massacre of the Prisoners of St. Germain Abbey](/images/massacre-of-prisoners-thumbnail.jpeg)
+
+#### Annotation
 
 In one of the most widely reported incidents of the September massacres, a "jury" of twelve "commissioners" was formed spontaneously in the Saint–Germain Abbey to judge the refractory clergy held there as prisoners. After an interrogation and threats of "prealable interrogation" (a form of torture used by the Inquisition), the convicted criminals were put to death in the name of "the people." The event was discussed favorably by the radical newspaper, the R\*volutions de Paris. This woodcut appeared alongside the article.
 
@@ -335,11 +419,15 @@ In one of the most widely reported incidents of the September massacres, a "jury
 
 ![Massacre of the Priests](/images/massacre-of-priests-thumbnail.jpeg)
 
+#### Annotation
+
 This image, also reproduced from the newspaper *R\*volutions de Paris*, shows crowds massacring refractory clergy and prisoners. The panels depict the former convent of the Carmelites (where 163 were killed) and the prison known as the Force, which had formerly been used to incarcerate prostitutes, where approximately 300 defrocked clergy were executed.
 
 ### [Massacre of the Prisoners](/massacre-prisoners)
 
 ![Massacre of the Prisoners](/images/massacre-of-prisoners-thumbnail_0.jpeg)
+
+#### Annotation
 
 Yet another image from the newspaper *R\*volutions de Paris* shows crowds massacring refractory clergy and prisoners. These panels reveal similar occurrences at the police prisons of the Chatelet and the Bic\*tre, where altogether an estimated 800 were killed in the first week of September.
 
@@ -347,11 +435,15 @@ Yet another image from the newspaper *R\*volutions de Paris* shows crowds massac
 
 ![Prudhomme’s Description of the Coup against the Girondins (31 May–2 June 1793)](/images/Icons-Document-thumbnail_179.jpg)
 
+#### Annotation
+
 Throughout the spring of 1793, radicals in the Convention, in the Paris Commune, and in the sections struggled for power against Jean–Pierre Brissot and his allies, known as the "Girondins." They differed over how the revolution should be affected by popular pressure. In late May, Robespierre proposed a motion that accused the Girondins of being a threat to the Republic and ordered their arrest. When the moderate deputies of the "Plain" resisted passing this measure, radicals from the sections mobilized over the course of three days, from 31 May to 2 June, culminating in a show of force by surrounding the Convention Hall. Duly intimidated, the Convention deputies voted for the measure. But even though the die was cast, most Jacobins were uneasy about resorting to such a direct threat that might later undermine their authority. Twenty–nine deputies from the Girondin faction were expelled from the Convention and placed under house arrest. In the aftermath of the coup, the radical faction known as "the Mountain," which usually followed Robespierre’s lead, took control of the Convention and the Committee of Public Safety.
 
 ### [The Days of 31 May and 1-2 June 1793](/days-31-may-and-1-2-june-1793)
 
 ![The Days of 31 May and 1-2 June 1793](/images/may-31-1793-thumbnail.jpeg)
+
+#### Annotation
 
 Even though popular action had unseated the Legislative Assembly and replaced it with the Convention, the elections that followed had not satisfied the radicals of Paris and their artisanal followers. From 31 May to 2 June 1793, these Parisians demonstrated outside the Convention and through intimidation forced the politicians inside to give up the Girondins who were being vilified. Although the winners of this event within the Convention—the Jacobins—managed to eliminate their political opposition, it made most of them quite uneasy to validate popular action of this sort. They were afraid it might be turned on them.
 
@@ -359,11 +451,15 @@ Even though popular action had unseated the Legislative Assembly and replaced it
 
 ![The Eighth of Thermidor](/images/Icons-Document-thumbnail_180.jpg)
 
+#### Annotation
+
 By the summer of 1794, Revolutionary Tribunals had tried over 200,000 suspects, of whom approximately 20,000 had been convicted of treasonous behavior and sent to the guillotine. Moreover, the work of the Terror was intensifying, although the worst threats to the Republic of invasion from without and anarchy within had subsided. Fear and mistrust were widespread, even within the Convention, the Committee of Public Safety (CPS) and the Jacobin Club. In the excerpt below from the Jacobin Club meeting of 8 Thermidor Year II (26 July 1794), Collot d’Herbois, a member of the CPS, questions Robespierre’s motives, accusing him of seeking to become a dictator. (Indeed, rumors that Robespierre wanted to become a king were circulating in Paris.) However, Collot’s speech is poorly received, and those in attendance call for the "conspirators" to be sent to the guillotine.
 
 ### [The Ninth of Thermidor](/ninth-thermidor)
 
 ![The Ninth of Thermidor](/images/Icons-Document-thumbnail_181.jpg)
+
+#### Annotation
 
 Having carried the day in the Jacobin Club, Robespierre rose to speak the next day in the Convention, where he attacked members of the Committee of Public Safety and Committee of General Security, until now his closest collaborators, for their extreme use of the Terror. He also hinted that such "terrorists" should be purged from the Convention. Fearing for their own safety, some members of those committees, a number of deputies noted for their harsh repressive measures, and others who feared for their safety introduced to the Convention measures they had prepared in advance that condemned Robespierre. In effect, the "Incorruptible’s" turn against immoderate use of the Terror created a conspiracy against him where one had not existed before. The resolution was passed and Robespierre, his brother Augustin, Louis–Antoine Saint–Just, Georges Couthon, and several others were arrested. Robespierre’s supporters, hoping to mobilize the sections to influence the Convention deputies on their own behalf, called for a general mobilization. As the text below shows, a crowd gathered outside the Convention Hall to demand "liberty" for the arrested leaders.
 
@@ -371,11 +467,15 @@ Having carried the day in the Jacobin Club, Robespierre rose to speak the next d
 
 ![The Eleventh of Thermidor](/images/Icons-Document-thumbnail_182.jpg)
 
+#### Annotation
+
 During the night of the 9th and 10th, with the outcome in doubt, deputies opposing Robespierre went to speak in the sections, hoping to convince the activists of the rightness of their cause. Whether out of political exhaustion, loss of their ability to organize rapidly, disbelief that the liberty of the Republic was any longer in doubt, or simply dissatisfaction with Robespierre’s leadership, not enough sections mobilized to turn the day, and the coup succeeded. It culminated on 10 Thermidor with the guillotining of Robespierre, Saint–Just, and the others. The Convention declared that "justice" should replace "terror" as the order of the day.
 
 ### [The Death of Robespierre](/death-robespierre)
 
 ![The Death of Robespierre](/images/79753331c9430c6b7bfce009609cfb07_Thumbnail_0.jpg)
+
+#### Annotation
 
 This engraving, based on a color portrait by Beys, depicts the death of Robespierre on the guillotine. The executioners wear not the traditional hangman’s hood but red bonnets representing liberty. This judgment notes Robespierre’s failure to the Revolution itself. Contemporaries emphasized that Robespierre’s punishment was just because it was the same to which "he had condemned so many thousands of innocent victims."
 
@@ -383,11 +483,15 @@ This engraving, based on a color portrait by Beys, depicts the death of Robespie
 
 ![Act of Justice](/images/act-of-justice.jpg)
 
+#### Annotation
+
 Here Robespierre’s death is depicted as divine retribution, as in a classical myth. Numerous heads, presumably of those who had perished at the guillotine, watch two male figures (bearing a strong resemblance to Hercules, who had been an early symbol of the Revolution) carry the freshly severed heads of Robespierre and his followers toward the mythological river Styx, guarded by the three–headed dog Cerberus.
 
 ### [Hymn of 9 Thermidor](/hymn-9-thermidor)
 
 ![Hymn of 9 Thermidor](/images/Icons-Song-thumbnail_2.jpg)
+
+#### Annotation
 
 This hymn commemorates the overthrow of Robespierre and the Committee of Public Safety by the men of the National Convention during the French Revolution. It had its debut performance on the first anniversary of that event (27 July 1795).
 
@@ -395,11 +499,15 @@ This hymn commemorates the overthrow of Robespierre and the Committee of Public 
 
 ![Mercier, The New Paris: "Sections"](/images/Icons-Document-thumbnail_183.jpg)
 
+#### Annotation
+
 With the founding of the Republic, the forty–eight sectional assemblies of Paris declared themselves in "permanent session" so they could exercise constant vigilance over the Convention and over political events in general. In addition to their local administrative and judicial powers, the sections served as important forums for radical voices, such as Hébert and Marat. Those in the sections spoke of themselves as sans–culottes ("without breeches") and considered themselves the most committed and sincere revolutionaries of all—and thus responsible for ensuring the virtue and patriotism of all others. To this end, the sections planned the great "journées" (day–long demonstrations), such as that of 31 May–2 June, designed to pressure the Commune and Convention to adopt ever more radical positions and thus to push the Revolution forward. In this article from his periodical The New Paris, Louis–Sébastien Mercier describes the sections with a mixture of mockery (of their self–importance) and respect (of their power to mobilize the people).
 
 ### [Rules of the Jacobins](/rules-jacobins)
 
 ![Rules of the Jacobins](/images/Icons-Document-thumbnail_184.jpg)
+
+#### Annotation
 
 In contrast to Le Chapelier’s fears that all clubs, even the Jacobins, actually subverted the political process, the Jacobins saw themselves as ensuring the proper functioning of the constitution and allowing full participation by patriotic citizens in the political process, as seen in this excerpt from the club’s rules drawn up in 1790.
 
@@ -407,11 +515,15 @@ In contrast to Le Chapelier’s fears that all clubs, even the Jacobins, actuall
 
 ![Activities of the Jacobins](/images/Icons-Document-thumbnail_185.jpg)
 
+#### Annotation
+
 The Englishman Arthur Young, who was in France during the early stages of the Revolution, recorded his observations. In this letter from mid–January 1790, he describes a Jacobin club meeting, which he depicts as being highly procedural in nature as it elects new leaders.
 
 ### [Police Report on a Session of the Cordeliers](/police-report-session-cordeliers)
 
 ![Police Report on a Session of the Cordeliers](/images/Icons-Document-thumbnail_186.jpg)
+
+#### Annotation
 
 In the passage below, a police observer of a Cordelier Club meeting notes the ongoing concern of the participants to identify and then to denounce "conspiracies" against the republic, even when the conspitators had been very recently integral to the club. In this case, the focus is on Hébert, editor of the Père Duchesne.
 
@@ -419,11 +531,15 @@ In the passage below, a police observer of a Cordelier Club meeting notes the on
 
 ![Women at the Jacobins](/images/Icons-Document-thumbnail_187.jpg)
 
+#### Annotation
+
 An observer of Jacobin club meetings in 1791, in the passage below, describes somewhat disorderly debates, in which speakers are shouted down from the rostrum and women participate openly. This is indicative of what this author sees as the "ungovernable" situation in Paris.
 
 ### [Women at the Cordeliers](/women-cordeliers)
 
 ![Women at the Cordeliers](/images/Icons-Document-thumbnail_188.jpg)
+
+#### Annotation
 
 Popular clubs in Paris, unlike electoral assemblies, were not limited to men, at least in the early months of the Republic. One of the most active and radical clubs composed entirely of women, the Society of Revolutionary Republican Women, collaborated with the Cordeliers and Jacobins in petitioning for aggressive action by the government against what they called "enemies of the Republic,"meaning Girondin deputies, "aristocratic" landowners, "hoarding"peasants, and unpatriotic "speculators," all of whom were accused of placing short–term personal interest and profit over the general goodof all citizens.In the first weeks following the formation of the Society of Revolutionary Republican Women, the Society’s members cemented advantageous working alliances with well–established, influential revolutionary organizations that shared their demand for a systematic politics of terror against enemies of the Republic—Girondins, aristocrats, hoarders, speculators. Exploiting its members’ earlier affiliations with the Cordeliers Club, delegates joined forces with members of that club and formed a joint deputation to the all–powerful Jacobin Society. In this way, nine days after its formation, the society was able to publicize its petition recapitulating the tactics and goals of terror.
 
@@ -431,11 +547,15 @@ Popular clubs in Paris, unlike electoral assemblies, were not limited to men, at
 
 ![Clubs for the People](/images/Icons-Document-thumbnail_189.jpg)
 
+#### Annotation
+
 By creating a fictional man named Jacques who must go to his workshop every day so he can support his family, yet who also wants to do his patriotic duty by following political events, the Révolutions de Paris, in this article that appeared in late 1790, calls upon the government to create and to support popular political clubs. The purpose is to ensure that the most patriotic elements of the "people" (and not just wealthy and well–educated professionals) can have their say in the course of the Revolution.
 
 ### [Proceedings of the Quinze–Vingts Section](/proceedings-quinze-vingts-section)
 
 ![Proceedings of the Quinze–Vingts Section](/images/Icons-Document-thumbnail_190.jpg)
+
+#### Annotation
 
 In late July and early August 1792, amid ongoing rancor over the King’s role in the government and fears that he would betray the nation to the invading Prussians, various Parisian sections began petitioning for Louis to be deposed. In the text below, the radical "Section of the 300" decides to join with other sections in a demonstration being organized against the King.
 
@@ -443,11 +563,15 @@ In late July and early August 1792, amid ongoing rancor over the King’s role i
 
 ![National Assembly Debate on Clubs (20 September 1791)](/images/Icons-Document-thumbnail_191.jpg)
 
+#### Annotation
+
 The "Champ de Mars Massacre" inaugurated a brief period of political repression directed at the popular movement and dramatized the growing tension between the claims of political activism and the desire of moderates to bring the Revolution to an orderly close. This issue was foremost in the minds of the representatives in the very last days of the Constituent Assembly, as they debated a proposal for a new decree limiting the political role of clubs. The decree was adopted but never implemented.
 
 ### [Opening of the Club of the Revolution: Circus Act](/opening-club-revolution-circus-act)
 
 ![Opening of the Club of the Revolution: Circus Act](/images/824c708f09e542a311d72ad955765acc_Thumbnail.jpg)
+
+#### Annotation
 
 This engraving depicts a revolutionary club as a circus act complete with dancing dogs and clowns, all celebrating "the law and the King." This image might have been visual propaganda on behalf of clubs, suggesting that they could bring different people together under a big tent, in support of the constitutional monarchy, or it might have been visual farce, suggesting that the clubs and the constitutional monarchy were nothing but a sideshow.
 
@@ -455,11 +579,15 @@ This engraving depicts a revolutionary club as a circus act complete with dancin
 
 ![President of a Revolutionary Committee Distracting Himself with His Art While Waiting](/images/6625a22d1d437c0313a61ac75354b2b9_Thumbnail.jpg)
 
+#### Annotation
+
 The shoemaker shown here is president of his neighborhood revolutionary committee. Although this engraving does not portray a specific political activity, the character evokes hostility toward laborers and artisans who involved themselves in politics. The president hardly seems presidential.
 
 ### [President of a Revolutionary Committee After the Seal Is Taken Off](/president-revolutionary-committee-after-seal-taken)
 
 ![President of a Revolutionary Committee After the Seal Is Taken Off](/images/b9dd0edeab9b366005ce0dc651193dee_Thumbnail.jpg)
+
+#### Annotation
 
 Critics of popular action first mastered the art of searing attacks and here sharpen their propaganda skills against this activist worker, who appears to be walking off with his "loot" after the locks have been broken.
 
@@ -467,11 +595,15 @@ Critics of popular action first mastered the art of searing attacks and here sha
 
 ![Marat’s Impeachment](/images/Icons-Document-thumbnail_192.jpg)
 
+#### Annotation
+
 A leading voice on behalf of greater popular participation and for social policies that would benefit the poor, the journalist Jean–Paul Marat used his radical newspaper The Friend of the People to criticize moderation. On 12 April 1793, the Girondins introduced into the Convention a measure condemning him, but the Jacobins, led by Georges Danton, defended him and used the occasion to portray the Girondins as enemies of liberty and the Republic. In the excerpt below, we see the Girondin view of the matter.
 
 ### [Patriotic Song on the Unveiling of the Busts of Marat and Le Pelletier (1793)](/patriotic-song-unveiling-busts-marat-and-le-pelletier-1793)
 
 ![Patriotic Song on the Unveiling of the Busts of Marat and Le Pelletier (1793)](/images/Icons-Song-thumbnail_5.jpg)
+
+#### Annotation
 
 This song illustrates the fluid boundary between "high" and "popular" musical forms. Althought these lyrics were set to a new composition by Joseph Gossec, they could also be sung to a tune already familiar to many French men and women. The song honors journalist Jean–Paul Marat and deputy Michel LePelletier, both of whom had been assasinated and were considered martyrs to the Revolution.
 
@@ -479,11 +611,15 @@ This song illustrates the fluid boundary between "high" and "popular" musical fo
 
 ![The Assassination of Marat by Charlotte Corday](/images/assassination-of-marat-thumbnail.jpeg)
 
+#### Annotation
+
 In the fall of 1793, the radical journalist was confined to his bathtub by a paralyzing skin disease he had contracted while hiding from the police in the sewers. He nevertheless continued to pour out populist tracts and remained highly influential in the sections. Whether out of personal obsession or prompting, Charlotte Corday sneaked into his home to silence this self–declared tribune of the people.
 
 ### [Assassination of J. P. Marat](/assassination-j-p-marat)
 
 ![Assassination of J. P. Marat](/images/a1e18b799b73a2b97d6d92adb79179e9_Thumbnail.jpg)
+
+#### Annotation
 
 An arrested Corday is hustled out of the door, while the inquest begins. The expired Marat, ghastly pale, looks much more realistic than in the David rendition of his death. Also, the bath in the shape of a boot, which differs from most images, is apparently accurate.
 
@@ -491,11 +627,15 @@ An arrested Corday is hustled out of the door, while the inquest begins. The exp
 
 ![Bust of Marat](/images/4f46c15ed89fd944c31ee4d86b9af080_Thumbnail.jpg)
 
+#### Annotation
+
 After Marat’s death, his defenders glamorized him, forgetting both his physical deformities and his vitriolic calls for more and more heads. One common approach was to give him secular sainthood (a halo in this image) incongruous for someone with so little patience with the church.
 
 ### [In Memory of Marat, Friend of the People, Assassinated 13 July, 1793](/memory-marat-friend-people-assassinated-13-july-1793)
 
 ![In Memory of Marat, Friend of the People, Assassinated 13 July, 1793](/images/de0e5f42c1b9d1db8eaf4ed64b21671d_Thumbnail.jpg)
+
+#### Annotation
 
 A leading voice on behalf of greater popular participation and social policies that would benefit the poor, the journalist Jean–Paul Marat used his radical newspaper the Friend of the People to criticize moderation.
 
@@ -503,11 +643,15 @@ A leading voice on behalf of greater popular participation and social policies t
 
 ![A Second Jean d'Arc](/images/joan-of-arc.jpg)
 
+#### Annotation
+
 To those who considered Marat insincere and dangerous in his unrelenting populism, the true martyr was Charlotte Corday, who had come to Paris from Caen—a city then serving as a base for the federalist insurgency—apparently with the express intent of killing Marat. In this engraving by the English caricaturist Cruikshank, Corday is depicted as "A Second Joan of Arc," saving her country by ridding it of oppressive rulers.
 
 ### [Critics of Robespierre](/critics-robespierre)
 
 ![Critics of Robespierre](/images/Icons-Document-thumbnail_193.jpg)
+
+#### Annotation
 
 The passage below, excerpted from the newspaper the French Patriot of 6 December 1792, is hostile to Robespierre. It suggests Robespierre’s appreciation for the importance of political symbolism, in calling for the smashing of Mirabeau’s bust, and it reveals his interest in retaining popular adherents, evident in his support for the transportation of Mirabeau’s remains out of the Pantheon.
 
@@ -515,11 +659,15 @@ The passage below, excerpted from the newspaper the French Patriot of 6 December
 
 ![Robespierre 10 Thermidor—Exposition of 1877](/images/1c8c640fedce6943f77cba71a456fe1b_Thumbnail.jpg)
 
+#### Annotation
+
 This painting from 1877 shows in romantic style Robespierre dying in a large room, surrounded by soldiers and others. His shirt is bloodied and his left hand is on his chest; visible in the background is a tablet of the Declaration of Rights of Man and Citizen, suggesting that it was the cause for which Robespierre died. The image might be seen as a moment of secular apotheosis.
 
 ### [Robespierre Laid on the Table of the Committee of Public Safety](/robespierre-laid-table-committee-public-safety)
 
 ![Robespierre Laid on the Table of the Committee of Public Safety](/images/c1dfbc1d1323302980beaa0a57e642df_Thumbnail.jpg)
+
+#### Annotation
 
 This Dutch engraving, based on a sketch by Berthault, shows Robespierre laid out on the table where his Committee of Public Safety did its work. It is the morning of 10 Thermidor and having been condemned to death by the Convention the night before, Robespierre and his followers now face their demise, as soldiers come to take them to the guillotine.
 
@@ -527,11 +675,15 @@ This Dutch engraving, based on a sketch by Berthault, shows Robespierre laid out
 
 ![Hymn of 21 January](/images/Icons-Song-thumbnail_1.jpg)
 
+#### Annotation
+
 With lyrics drawn from a Republican Ode composed by the revolutionary poet Lebrun in 1793, this hymn commemorates the execution of France's Louis XVI.
 
 ### [A Royal History](/royal-history)
 
 ![A Royal History](/images/Icons-Document-thumbnail_197.jpg)
+
+#### Annotation
 
 This 1790 article from the Journal Universel, a leading radical newspaper, recounts the long desperate history of the monarchy that ironically led the revolution.
 
@@ -539,11 +691,15 @@ This 1790 article from the Journal Universel, a leading radical newspaper, recou
 
 ![Fear of Aristocratic Politics](/images/Icons-Document-thumbnail_194.jpg)
 
+#### Annotation
+
 In this article from April 1791, Fréron, a journalist allied to the radical Jean–Paul Marat, focuses on foreign enemies.
 
 ### [Aristocratic Values](/aristocratic-values)
 
 ![Aristocratic Values](/images/Icons-Document-thumbnail_195.jpg)
+
+#### Annotation
 
 This 1789 article from the Révolutions de Paris, a leading radical newspaper, argues that the Revolution has not been achieved, because all of the changes to date could still be reversed. Moreover, it warns that "anti–patriots"—"nobles" in the National Assembly and "aristocrats" in the royal ministry—would like to do just that by starting a "civil war." To prevent this, it calls on civic–minded readers of the newspaper to follow vigilantly the doings of the assembly.
 
@@ -551,11 +707,15 @@ This 1789 article from the Révolutions de Paris, a leading radical newspaper, a
 
 ![The Annoyance of Walking](/images/the-annoyance-of-walking-thumbnail.png)
 
+#### Annotation
+
 French nobles had been used to riding in carriages or on horseback. Now, so radicals hoped, they could no longer afford to do so either financially or politically. The imagined response of this social elite reveals clearly to their attackers the worthlessness of such people.
 
 ### [The Voracious Oath](/voracious-oath)
 
 ![The Voracious Oath](/images/ca98c49527a772da250b6ae55a0ae9c5_Thumbnail.jpg)
+
+#### Annotation
 
 This fascinating print is modeled on Jacques–Louis David’s Oath of the Horatii. In that famous painting, the artist sought to exemplify patriotic virtue by showing an austere father making his sons swear to defend Roman honor. Here this image turns David’s idea on its head, as aristocrats seem to be in league to some nefarious end. The woman on the right, quite unlike the approving, if resigned, female in David, shows her revolutionary disapproval through a forlorn expression.
 
@@ -563,11 +723,15 @@ This fascinating print is modeled on Jacques–Louis David’s Oath of the Horat
 
 ![The Roman Aristocrat](/images/c6cfc95ef7f45efe8ae9add4339a7816_Thumbnail.jpg)
 
+#### Annotation
+
 The fattened clergyman and the well–bedecked nobleman go off unbothered while the figure in the foreground assesses carefully the value of a commoner. This complex image also includes a pig—likely a symbol for Louis XVI—with the cleric and the noble. Thus the print clearly attacks the upper classes and likely the monarch. But there is more. Specifically, the National Assembly had set a means test for voters, and a higher one for prospective officeholders. So the gigantic female is measuring the commoner for his right to participate in the new revolutionary society. This then is also a critique of the National Assembly. Who, then, is the figure in the foreground? Perhaps it is the revolutionary legislature, represented here as an arrogant Roman Senate, a clearly oligarchical body.
 
 ### [A French Gentleman of The Court of Louis XVI](/french-gentleman-court-louis-xvi)
 
 ![A French Gentleman of The Court of Louis XVI](/images/court-of-egalite.jpg)
+
+#### Annotation
 
 A sarcastic treatment from England of French manners that contrasts the weakness of the old regime with revolutionary arrogance. The engraver also seems to be pointing toward two entirely different views of masculinity.
 
@@ -575,11 +739,15 @@ A sarcastic treatment from England of French manners that contrasts the weakness
 
 ![The Clergy as a Target: A Political Problem](/images/Icons-Document-thumbnail_198.jpg)
 
+#### Annotation
+
 Camille Desmoulins, an influential populist writer, here attacks the distinction between "active" and "passive" citizenry based on personal wealth, by pointing out that Christ himself would have been relegated to "passive" citizenry. Desmoulins holds the clergy responsible for this undemocratic policy, charging that the 300 representatives of the clergy in the National Assembly, as well as those from the nobility, should have only a "consultative" vote and that any laws passed with the votes of these deputies should be disregarded by all patriots.
 
 ### [Procession of Refractory Clergy](/procession-refractory-clergy)
 
 ![Procession of Refractory Clergy](/images/4af01ae8c04e973031a571d9626b21b6_Thumbnail.jpg)
+
+#### Annotation
 
 Of particular interest in this caricature of refractory clergy here are the long noses, traditionally used to caricature Jews, that suggest the refractory clergy were not of the people. This image shows resistant clergy marching in their last procession. The satyr at the rear with a coffin seems to threaten their very lives.
 
@@ -587,11 +755,15 @@ Of particular interest in this caricature of refractory clergy here are the long
 
 ![Refractory (Clergy) Going to the Promised Land](/images/9862fe56ebe0bd460bf8a4e3db53278b_Thumbnail.jpg)
 
+#### Annotation
+
 Many refractory clergy left France to join other detractors, as this print shows, or wishfully encourages. However, this is an ambiguous image, which leaves open the possibility that rather than joining foreign monarchies, the clergy are crossing the river leading to Hell.
 
 ### [Patience Monsignor Your Turn Will Come](/patience-monsignor-your-turn-will-come)
 
 ![Patience Monsignor Your Turn Will Come](/images/1503356bbcdea9d00860ec62f3f5acd8_Thumbnail.jpg)
+
+#### Annotation
 
 Cartoons attacked the refractory clergy. Here, fat, overfed, and underworked clergy are squeezed down to an appropriate size. As elsewhere, visual images mocked the clergy by depicting them as subject to the threats and physical attacks of others.
 
@@ -599,11 +771,15 @@ Cartoons attacked the refractory clergy. Here, fat, overfed, and underworked cle
 
 ![Ah! Monsignor!](/images/monsignor.jpg)
 
+#### Annotation
+
 Not uncommonly, revolutionary prints invoked excretory humor directed toward those priests who would not swear allegiance to the Revolution. Revolutionaries eliminated on their enemies; the latter might also receive enemas. Of course, in a world of chamber pots everyone got the message loudly and clearly.
 
 ### [The Great Nausea of Monsignor](/great-nausea-monsignor)
 
 ![The Great Nausea of Monsignor](/images/4ed35d45d648077ac3f3107e1b0cfa06_Thumbnail.jpg)
+
+#### Annotation
 
 This engraving focuses on expurgating the clergy, this time with vomiting as the intended method. Here, the cleric spits up the unfair advantages enjoyed in the old regime.
 
@@ -611,11 +787,15 @@ This engraving focuses on expurgating the clergy, this time with vomiting as the
 
 ![Mea Culpa of the Pope](/images/94b70135599ec428a23c70c1314ac1bd_Thumbnail.jpg)
 
+#### Annotation
+
 Although the revolutionaries long regarded the Pope as an enemy, their anger was stoked significantly by the papal decision to decree as unacceptable the Civil Constitution of the Clergy. This decision, hardly unexpected given the way that the revolutionary settlement upended church tradition and papal authority, apparently weighed heavily on Louis XVI. Some scholars believe it was this decision in Rome that turned the King down the path of no compromise.
 
 ### [Decree against Profiteers](/decree-against-profiteers)
 
 ![Decree against Profiteers](/images/Icons-Document-thumbnail_199.jpg)
+
+#### Annotation
 
 In July 1793, faced with a restive populace angered by continuing shortages of food in Paris, the Convention followed the lead of the sections in blaming the high price of bread on "profiteers" in the countryside, who were taking advantage of their fellow citizens by charging abnormally high prices for grain. This decree, the first of a series of such condemnations by the Convention, responded to the notion that manipulation of the marketplace for the purpose of self–enrichment was contrary to morality and to law because it harmed fellow citizens and thus undermined the liberty of all.
 
@@ -623,11 +803,15 @@ In July 1793, faced with a restive populace angered by continuing shortages of f
 
 !["Terror Is the Order of the Day"](/images/Icons-Document-thumbnail_39.jpg)
 
+#### Annotation
+
 Responding to pressure from the sections, the Convention voted on 5 September 1793, to declare that "Terror is the Order of the Day," meaning that the government, through internal "revolutionary armies" that were formed two days later,should and would use force against its own citizens to ensure compliance with its laws, including the law of the Maximum.
 
 ### [The Law of Suspects](/law-suspects)
 
 ![The Law of Suspects](/images/Icons-Document-thumbnail_200.jpg)
+
+#### Annotation
 
 This law, passed on 17 September 1793, authorized the creation of revolutionary tribunals to try those suspected of treason against the Republic and to punish those convicted with death. This legislation in effect made the penal justice system into the enforcement arm of the revolutionary government, which would now set as its primary responsibility not only the maintenance of public order but also the much more difficult and controversial task of identifying internal enemies of the Republic—such as "profiteers" who violated the Maximum—and then removing them from the citizenry, where they might subvert the general will.
 
@@ -635,11 +819,15 @@ This law, passed on 17 September 1793, authorized the creation of revolutionary 
 
 ![The Maximum](/images/Icons-Document-thumbnail_201.jpg)
 
+#### Annotation
+
 In September 1793 the Convention furthered its role as the guarantor of the basic right to subsistence of all citizens by instituting price maximums on all essential consumer goods, especially foodstuffs, and on wages paid in the production of those goods. The Maximum was to remain in effect, at least theoretically, until the end of 1794 and thereafter would remain for historians evidence that the "revolutionary government" was concerned with more than merely executions, but with enlarging the meanings of "virtue" and "fraternity" to include a concern for the material well–being as well as political rights of all citizens. Yet the gradual abandonment of price controls, as politicians faced pressure from producers, suggested hypocrisy to many contemporaries.
 
 ### [Robespierre, "On Political Morality"](/robespierre-political-morality)
 
 ![Robespierre, "On Political Morality"](/images/Icons-Document-thumbnail_202.jpg)
+
+#### Annotation
 
 In this speech to the Convention, delivered on 5 February 1794, Robespierre offered a justification of the Terror. By this date, the Federalist revolt and Vendée uprisings had been by and large pacified and the threat of invasion by the Austrians, British, and Prussians had receded, yet Robespierre emphasized that only a combination of virtue (a commitment to republican ideals) and terror (coercion against those who failed to demonstrate such a commitment) could ensure the long–term salvation of the Republic, since it would always be faced with a crisis of secret enemies subverting it from within, even when its overt enemies had been subdued.
 
@@ -647,14 +835,17 @@ In this speech to the Convention, delivered on 5 February 1794, Robespierre offe
 
 ![Women’s Activities during the Prairial Uprising](/images/Icons-Document-thumbnail_203.jpg)
 
+#### Annotation
+
 Popular radical activity continued throughout the period of the Terror (see Chapter 7) and did not end with 9 Thermidor. On 1–4 Prairial, Year III (20–23 May 1795), a large group composed largely of women surrounded the Convention Hall and massacred a deputy to force the legislature to satisfy its demand that the democratic constitution drafted by the Jacobins, but never put into effect, be implemented. This mobilization, as much as any earlier journée, demonstrated social stresses, pitting urban poor against a government they perceived to represent property owners. The sizable role of women in Prairial also demonstrates that social cleavages divided women as well as men throughout the Revolution. This letter was addressed to the president of this Section and was read to the General Assembly of the Section du Museum, 10 Prairial, Year III (30 May 1795).
 
 ### [Military Suppression of Prairial](/military-suppression-prairial)
 
 ![Military Suppression of Prairial](/images/Icons-Document-thumbnail_204.jpg)
 
-The Prairial insurrection of Year III (May 1795) would prove to be among the last major episodes of popular activism during the Revolution, due in part to the Convention’s forceful use of National Guard units, leading to the arrest of many activists and the execution of several popular leaders. While radicals viewed this outcome as evidence that the government had definitively turned its back on "the people," others—such as General Kilmane who commanded the troops on that day—viewed this event as the restoration of order by a government that had finally rejected Jacobin radicalism and firmly established its authority over an unruly Parisian population.
+#### Annotation
 
+The Prairial insurrection of Year III (May 1795) would prove to be among the last major episodes of popular activism during the Revolution, due in part to the Convention’s forceful use of National Guard units, leading to the arrest of many activists and the execution of several popular leaders. While radicals viewed this outcome as evidence that the government had definitively turned its back on "the people," others—such as General Kilmane who commanded the troops on that day—viewed this event as the restoration of order by a government that had finally rejected Jacobin radicalism and firmly established its authority over an unruly Parisian population.
 
 ## Credits
 

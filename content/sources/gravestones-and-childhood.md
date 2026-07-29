@@ -5,6 +5,7 @@ drupal_node_id: 119
 source_type: "Object"
 url: /gravestones-and-childhood
 image: /images/cyhgraveskull_cb68e93c2f.jpg
+image_alt: "17th century New England tombstone"
 regions: []
 subjects: 
   - "Health/ Disease"

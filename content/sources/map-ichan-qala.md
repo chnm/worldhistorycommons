@@ -5,6 +5,10 @@ drupal_node_id: 235
 source_type: "Image"
 url: /map-ichan-qala
 image: /images/ichan_kala.jpg
+image_alt: "Map of Ichan Qala"
+additional_images:
+  - src: "/images/source-media/235/khiva.jpg"
+    alt: ""
 regions: 
   - "Asia"
 subjects: 

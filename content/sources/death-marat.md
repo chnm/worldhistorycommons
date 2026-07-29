@@ -5,6 +5,7 @@ drupal_node_id: 700
 source_type: "Image"
 url: /death-marat
 image: /images/death-of-marat.jpg
+image_alt: "The Death of Marat painting"
 regions: 
   - "Europe"
 subjects: 

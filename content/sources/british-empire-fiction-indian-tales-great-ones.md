@@ -5,6 +5,7 @@ drupal_node_id: 1645
 source_type: "Text"
 url: /british-empire-fiction-indian-tales-great-ones
 image: /images/Icons-Document_398.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
   - "Europe"

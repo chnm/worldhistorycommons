@@ -18,6 +18,8 @@ related_sources:
   - link: "/baaka-women-dancing-hunting-dance-ndambo"
     image: "/images/womendancing-thumbnail_0.jpeg"
     alt: "BaAka Women Dancing the Hunting Dance thumbnail image"
+how_to_cite: |
+  "Analyzing Music," in World History Commons, https://worldhistorycommons.org/analyzing-music [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -30,6 +32,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![BaAka Women Dancing the Hunting Dance, Ndambo](/images/womendancing-thumbnail_0.jpeg)
 
+#### Annotation
+
 This is an image of female BaAka dancers from the southwestern Central African Republic in the rainforest region dancing a hunting dance called Ndambo. Music and dance are important in BaAka culture. They can be performed for many reasons—sometimes in preparation for a hunt, other times to display skill. Dance and music bring together neighboring groups, helping people build social ties while sharing strategies for survival.
 This source is a part of the [*Analyzing Music*](https://worldhistorycommons.org/analyzing-music) methods module.
 
@@ -37,9 +41,10 @@ This source is a part of the [*Analyzing Music*](https://worldhistorycommons.org
 
 ![Mabo Song](/images/fullmabocycle-thumbnail.jpeg)
 
+#### Annotation
+
 This is a written representation of the music from the dance mabo, BaAka music is complex. It is polyphonic (many voices) and polyrhythmic (many rhythms). During a dance, participants engage in structured improvisation, knowing when and how to add or change a phrase or a beat and doing so in relation to others. The social and the aesthetic work together.
 This source is a part of the [*Analyzing Music*](https://worldhistorycommons.org/analyzing-music) methods module.
-
 
 ## Credits
 

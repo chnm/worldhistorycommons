@@ -5,6 +5,7 @@ drupal_node_id: 988
 source_type: "Image"
 url: /moscow-campaign-1812
 image: /images/moscow-campaign.jpg
+image_alt: "The Moscow Campaign 1812"
 regions: 
   - "Europe"
 subjects: 

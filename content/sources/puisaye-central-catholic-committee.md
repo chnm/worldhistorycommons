@@ -5,6 +5,7 @@ drupal_node_id: 1505
 source_type: "Text"
 url: /puisaye-central-catholic-committee
 image: /images/Icons-Document_277.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

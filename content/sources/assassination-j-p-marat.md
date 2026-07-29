@@ -5,6 +5,10 @@ drupal_node_id: 343
 source_type: "Image"
 url: /assassination-j-p-marat
 image: /images/a1e18b799b73a2b97d6d92adb79179e9.jpg
+image_alt: "Engraving of death of Marat"
+additional_images:
+  - src: "/images/source-media/343/68d24d230827d515870b27984f53c381.jpg"
+    alt: "Color print of death of Marat"
 regions: 
   - "Europe"
 subjects: 
@@ -25,3 +29,8 @@ how_to_cite: |
 ---
 
 An arrested Corday is hustled out of the door, while the inquest begins. The expired Marat, ghastly pale, looks much more realistic than in the David rendition of his death. Also, the bath in the shape of a boot, which differs from most images, is apparently accurate.
+
+## Translation
+
+**Title in French**  
+Assassinat de J.P. Marat : le 13 Juillet 1793

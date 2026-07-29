@@ -5,6 +5,7 @@ drupal_node_id: 2815
 source_type: "Image"
 url: /quebec-order-7-july-1796
 image: /images/Quebec_Order.jpg
+image_alt: "The title page of the Quebec Order, titled Order of the Governor in Council of the 7th july 1796 for the regulation of commerce between this province and the United States of America"
 regions: 
   - "North/Central America"
 subjects: 

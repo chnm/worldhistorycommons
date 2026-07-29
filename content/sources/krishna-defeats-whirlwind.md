@@ -5,6 +5,7 @@ drupal_node_id: 151
 source_type: "Image"
 url: /krishna-defeats-whirlwind
 image: /images/krishna-defeats-the-whirlwind_739ac027d5.jpg
+image_alt: "Krishna Defeats the Whirlwind"
 regions: 
   - "Asia"
 subjects: 

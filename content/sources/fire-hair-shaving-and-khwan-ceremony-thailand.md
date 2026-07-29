@@ -5,6 +5,7 @@ drupal_node_id: 148
 source_type: "Image"
 url: /fire-hair-shaving-and-khwan-ceremony-thailand
 image: /images/khwan-fire-hair-shaving-combi_c66b8f1062.jpg
+image_alt: "Photo of traditional birth ritual"
 regions: 
   - "Asia"
 subjects: 

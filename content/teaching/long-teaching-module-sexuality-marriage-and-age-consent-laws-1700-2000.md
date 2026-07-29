@@ -32,6 +32,8 @@ related_sources:
   - link: "/review-age-consent-legislation-texas"
     image: "/images/Icons-Article-Excerpt-thumbnail_3.jpg"
     alt: "thumbnail of the article"
+how_to_cite: |
+  "Long Teaching Module: Sexuality, Marriage, and Age of Consent Laws, 1700-2000," in World History Commons, https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -98,12 +100,16 @@ More than 800 years after the first recorded age of consent laws, the one consta
 
 ![The Trial of Stephen Arrowsmith (1678)](/images/Icons-Document-thumbnail_8.jpg)
 
+#### Annotation
+
 The Proceedings of the Old Bailey includes accounts of trials at London's most important court. These were published at the end of each session in an inexpensive form for a popular, rather than a legal, audience. They provide a reliable, although incomplete, account of events and do not record everything that was said. For example, statements by witnesses were frequently summarized or omitted, and little of what lawyers did was recorded. This trial highlights several aspects common in age of consent prosecutions into the 20th century, most notably defense attacks on the character of the defendant, in this case a girl and her family, and the unwillingness of jurors to enforce the law. It was unusual in this period, and subsequently, for a judge to insist, as the one in this trial did, that the law be enforced.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
 
 ### [The Violation of Virgins](/violation-virgins)
 
 ![The Violation of Virgins](/images/Icons-Article-Excerpt-thumbnail.jpg)
+
+#### Annotation
 
 W.T. Stead, an English newspaper editor and advocate of social reform, was an early exponent of "new journalism" focused on the sensational. In the 1880s, he turned the London newspaper The Pall Mall Gazette into a precursor of the modern tabloid. The series of articles from which this excerpt, "The Violation of Virgins," is taken was his tour de force. It exposed in graphic detail the entrapment, abduction, and "sale" of young, poor girls to London brothels. Within days, the series was an international sensation and the question of "age of consent" began appearing on reform agendas throughout the Anglo-American world. Stead and several of his accomplices were later brought to trial for procuring a 13-year-old girl during the investigation to prove how easily it could be done, and he spent three months in prison for abduction. A key feature of this article is the association it established between the age of consent and prostitution.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
@@ -112,6 +118,8 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 
 ![Petition to Raise the Age of Consent (1887)](/images/Icons-Document-thumbnail_69.jpg)
 
+#### Annotation
+
 Petitions played a major role in campaigns to raise the age of consent and they represented a way for women, who did not have the vote, to seek legislative action. This petition, drafted by leaders of the Women's Christian Temperance Union (WCTU) and social purity reformers in New York City, was circulated through the organization's state and local branches in the U.S. Thousands of forms were submitted to state and federal legislatures; one petition to raise the age of consent in District of Columbia alone contained 200,000 signatures. The WCTU also solicited letters of support to legislators from prominent citizens, organized mass meetings, lectures, and speeches, and sought favorable press coverage. The petition deliberately does not use the term "age of consent" but instead the WCTU used "age of protection," which its members found "less objectionable."
 The petitions are notable for several reasons: in addition to sexual violence, it highlights new scenarios as justifications for an increased age of consent; it also draws a link between the age of consent and the age of majority, 20 years of age in this period, when a girl could enter into contracts and control her own property.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
@@ -119,6 +127,8 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 ### [Review of the Age-of-Consent Legislation in Texas](/review-age-consent-legislation-texas)
 
 ![Review of the Age-of-Consent Legislation in Texas](/images/Icons-Article-Excerpt-thumbnail_3.jpg)
+
+#### Annotation
 
 The Arena was an evangelical Christian periodical published in Boston that was known for its advocacy of social reform and women's issues, such as birth control. In 1895, it published a series of articles on age of consent reform edited by Helen Hamilton Gardener. Gardener, an American feminist, was a lecturer and the author of articles and fiction, including two novels written to assist the age of consent campaign.
 The publication of "The Maiden Tribute of Modern Babylon" directed the attention of American reformers to the age of consent in their country and they were not pleased with what they found. The age of consent in the U.S., determined by each state, ranged from seven years, in Delaware, to an average of 10 to 12 years, lower than the age the British had recently deemed too low. Efforts to change those laws met significant opposition from male legislators. Accounts of these arguments, made by those opposed to changing existing laws, were featured in Gardener's articles and reports of state campaigns.
@@ -129,6 +139,8 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 
 ![Speech Defending an Increased Age of Consent in India](/images/Icons-Document-thumbnail_133.jpg)
 
+#### Annotation
+
 Mr Javeril Umiashankar Yajnik was a member of the Bombay Legislative Council and Chairman of the Bombay Public Meeting of the Hindoo Supporters of the Age of Consent Bill, held on February 22, 1891. On January 9, 1891, British colonial authorities had introduced a bill to raise the age of consent for unmarried and married Indian girls from 10 to 12 years. The law targeted the Hindu practice of child marriage. Once enacted, the law served to prohibit the consummation of marriage rather than the practice itself. In several high profile cases, husbands had caused the death of their child brides and the British public was outraged.
 This approach represented a compromise, an attempt to address public indignation without breaching a commitment not to interfere in Hindu religious practices. Nonetheless, the bill provoked fierce opposition that rejuvenated nationalist politics in India. Even supporters of the bill framed their defense in terms of the issue of religious autonomy, as Yajnik did in this speech. His other argument drew on eugenic ideas to turn concerns about individual girls into a crisis for the Indian race. The bill became law in 1891, but further reform targeting child marriage stalled for more than 30 years.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
@@ -137,6 +149,8 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 
 ![Adolescent Sexual Experimentation Should Not Be a Crime](/images/Icons-Book-Excerpt-thumbnail_1.jpg)
 
+#### Annotation
+
 Morris Ploscowe was a graduate of Harvard law school who served as chief clerk of the Court of Special Sessions, and later as magistrate, in New York City. Ploscowe also served on the staff of the Wickersham Commission that investigated Prohibition and a variety of other crimes in the U.S. By the 1950s, he was an influential commentator on criminal and family law.
 The book from which this excerpt is drawn had a major influence on policymaking in the area of sex crime, including the American Law Institute's Model Penal Code, a touchstone for law reform into the 1980s. Ploscowe's commentary on the age of consent is notable for how it employs new ideas about adolescence and for its emphasis on the gap between the law, public opinion, and legal practice.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
@@ -144,6 +158,8 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 ### [Jailbait (1957)](/jailbait-1957)
 
 ![Jailbait (1957)](/images/Icons-Document-thumbnail_68.jpg)
+
+#### Annotation
 
 Zeffrey 'Andre' Williams, a Rhythm and Blues performer, born in Chicago in 1936, is best known as co-writer and producer of songs such as "Shake a Tailfeather" by the Five Dutones. After moving to Detroit in his teens, he befriended the owners of Fortune Records. Among the recordings he released on that label in 1957 was "Jailbait," one of two solo singles in which he talked over a funky rhythm.
 The slang term jailbait appeared in the US in the 1930s, and captured the awareness of the legal significance of age that had percolated through popular culture by the early decades of the 20th century. It is not just underage girls look sexually attractive that makes them jailbait, but that they also express sexual desire, something that experts argued was a normal feature of adolescence. Acting on that desire, however, was not. Girls might walk free from age-of-consent prosecutions, as Williams laments, but working-class girls at least would have suffered consequences in the juvenile justice system.
@@ -154,12 +170,16 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 
 ![U.S. Supreme Court Decision Justifying Gender-Based Age of Consent Laws](/images/Icons-Document-thumbnail_67.jpg)
 
+#### Annotation
+
 The Supreme Court is the final court of appeal in the American legal system, with the power to determine whether laws enacted by state and federal legislators comply with the American constitution. The following appeal was made, and accepted by the court, in the context of a broader campaign for formal legal equality between males and females, through the enactment of gender-neutral laws. In this instance, the majority of the court held that there were grounds for only applying the age of consent to girls. That decision allowed state legislatures to retain their existing laws, but most still chose to enact gender-neutral laws. Nonetheless, the court drew a link between the age of consent and pregnancy that highlighted what would become the new focus for discussion and enforcement of the law in the U.S. by the end of the 20th century.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
 
 ### [Rejection of a Higher Age of Consent for Homosexual Acts](/rejection-higher-age-consent-homosexual-acts)
 
 ![Rejection of a Higher Age of Consent for Homosexual Acts](/images/Icons-Document-thumbnail_7.jpg)
+
+#### Annotation
 
 The European Commission on Human Rights was the vehicle by which individuals could appeal to the European Court of Human Rights, an arm of the Council of Europe and an organization committed to European integration. In 1994, in the context of a campaign by gay rights activists to have the British age of consent for homosexual acts set at the same level as the age for heterosexual acts, Euan Sutherland appealed to the Commission. He was not facing trial, but made his case on the basis that he feared prosecution due to evidence that the law was being enforced.
 The Commission's decision, excerpted here, held that the unequal age of consent in British law was a breach of human rights. A Labor Government elected in 1997 agreed to amend the law, so the Commission stayed its decision. In 1998 and 1999, the House of Commons passed bills that were defeated in the House of Lords. When a third bill was defeated in 2000, the British government used the Parliament Act to override the House of Lords and enact an equal age. In a previous decision, the Commission endorsed the right of governments to legislate different ages. This excerpt highlights the background of growing tolerance and changing expert opinion that lay behind the argument that equal age was a human right.
@@ -169,11 +189,15 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 
 ![Isn't she a little young?](/images/billboard.jpg)
 
+#### Annotation
+
 This billboard was erected across the American state of Virginia in the summer of 2004 as part of a state health department campaign aimed at reducing statutory rape (the crime of sex with an underage girl). Napkins, stickers, coasters, and matchbooks bearing the same message were distributed to bars and restaurants where young men congregated. It followed similar public education campaigns mounted by other states in the late 1990s. Ads and billboards in Connecticut in 1994 depicted men in prison accompanied by the slogan, "Rob the cradle and get yourself a brand new crib." Ads in California in 1997 featured a young man saying, "Nobody told me that sex could be against the law. Statutory rape? Never heard of it." A voiceover then added, "Sex with a minor is a major crime . . . If you're an adult and have sex with a minor—someone under 18—you'll do major time." The ad ended with the sound of a jail door slamming shut. The Virginia Department of Health was motivated by a concern about teenage pregnancy, and a perception that enforcing the age of consent would reduce the number of girls who became pregnant by older men. That connection made the age of consent a public health problem. The billboard highlights a belief that education and awareness of the law could shape public opinion and behavior. This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
 
 ### [Age of Consent Laws](/age-consent-laws)
 
 ![Age of Consent Laws](/images/Age-Limit-in-Age-of-Consent-Laws-thumbnail.jpeg)
+
+#### Annotation
 
 Information on the ages used historically in western age of consent laws is not readily available. This table has been compiled from a combination of historical and contemporary sources. By 1880, the first date chosen, many western nations had established an age of consent for the first time, typically of 12 or 13 years. By 1920, when the influence of reform campaigns that established a new link between the age of consent and prostitution had run its course, most had revised their age upward, to 14 or 15 in European nations, and 16 in the Anglo-American world. In the last decades of the 20th century, states and nations with ages below those averages amended their laws to move closer to them. In Europe that growing conformity owed much to moves toward greater European integration. Given that the rationale for the age of consent has remained essentially unchanged in its emphasis on the need to protect 'immature' children, the table highlights the shifting and various definitions of childhood employed across time and cultures.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
@@ -182,9 +206,10 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 
 ![Age of Menarche in Norway](/images/menarche-chart-thumbnail.jpeg)
 
+#### Annotation
+
 This graph shows us the average year of menarche, a female's first menstrual cycle (often considered the beginning of puberty), from 1860 to 1980 reported by adult female patients at maternity clinics in Norway. It also includes data from Oslo school girls that follow the same trend downward in age. The downward curve flattens around 1960 between the ages of 13 and 14. A graph like this helps to counter a single interpretation of causes for the rise in age of consent laws.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
-
 
 ## Teaching Strategies
 
@@ -225,13 +250,13 @@ Discuss how historians study and find evidence of the developing concept of chil
 
 ##### Materials
 
-* Sufficient copies of sources:  
-  The Trial of Stephen Arrowsmith  
-  "The Violation of Virgins"  
-  Petition to Raise the Age of Consent  
-  "Review of the Age-of-Consent Legislation in Texas"  
-  Adolescent Sexual Experimentation Should Not Be a Crime  
-  Jailbait  
+* Sufficient copies of sources:<br>
+  The Trial of Stephen Arrowsmith<br>
+  "The Violation of Virgins"<br>
+  Petition to Raise the Age of Consent<br>
+  "Review of the Age-of-Consent Legislation in Texas"<br>
+  Adolescent Sexual Experimentation Should Not Be a Crime<br>
+  Jailbait<br>
   U.S. Supreme Court Decision Justifying Gender-Based Age of Consent Laws
 * Copies of the "Childhood in Medieval England" article
 * Copies of the "Age of Menarche in Norway" chart
@@ -240,47 +265,47 @@ Discuss how historians study and find evidence of the developing concept of chil
 
 ##### Day One
 
-Hook (10 minutes)  
+Hook (10 minutes)<br>
 To get the students thinking about what childhood means, have them write a short description of their daily lives when they were eight. Then, have them share their descriptions with each other in groups of two or three.
 
-In-class Reading (25 minutes)  
+In-class Reading (25 minutes)<br>
 Explain to the students that they will be comparing their childhood to children's lives in medieval England. Have the students read the "Childhood in Medieval England" article, either individually or in pairs. Then, ask the students the following questions:
 
 * How was children's work life similar and different from today's?
 * How was children's leisure time similar to and different from today's?
 * In general, how were people's understanding of the boundary between childhood and adulthood similar to and different from our understanding of that boundary today?
 
-Lecture (10 minutes)  
+Lecture (10 minutes)<br>
 Give students a brief lecture to provide them with a basic understanding of age of consent laws: what they are, why they were made, and how they can indirectly define childhood by setting a boundary between childhood and adulthood. The purpose of the lecture is to prepare the students to read the introductory article at home before the next class; the first paragraph of the article is a good source for this lecture.
 
-Homework  
+Homework<br>
 Assign students background reading from the introductory article. You may also wish to have them respond in two to three paragraphs to the following prompt: "What should the age of consent be in America, today? Defend your answer, citing at least three issues discussed in the reading."
 
 ##### Day Two
 
-Share (5 minutes)  
+Share (5 minutes)<br>
 Have students share the specific age they selected, as well as their findings on historical age of consent laws from the reading.
 
-Small-Group Work (30 minutes)  
+Small-Group Work (30 minutes)<br>
 This activity helps students further understand the various issues around age of consent laws, as well as give them a chance to practice their document analysis skills. Break up the class into groups of two to three students. Assign half of the student groups all three documents from group A (below) and the remaining student groups all three documents from group B.
 
-* Group A  
-  Source 2: "The Violation of Virgins" Newspaper Article  
-  Source 7: U.S. Supreme Court Decision Justifying Gender-Based Age of Consent Laws Legal Document  
+* Group A<br>
+  Source 2: "The Violation of Virgins" Newspaper Article<br>
+  Source 7: U.S. Supreme Court Decision Justifying Gender-Based Age of Consent Laws Legal Document<br>
   Source 9: "Isn't she a little young?" Billboard
-* Group B  
-  Source 3: Petition to Raise the Age of Consent  
-  Source 5: Increased Age of Consent Speech  
+* Group B<br>
+  Source 3: Petition to Raise the Age of Consent<br>
+  Source 5: Increased Age of Consent Speech<br>
   Source 6: Adolescent Sexual Experimentation Should Not Be a Crime Commentary
 
 Have the students analyze their sources to find the point of view and purpose in each source. The students then should identify how the sources show a continuity or change in the age of consent law for that country, region, or colony. Each group should fill out an APPARTS worksheet for each document as part of this analysis. Then, have each group jigsaw share their findings with a group that analyzed the other set of documents to share their findings with each other.
 
-Lecture/discussion (10 minutes)  
+Lecture/discussion (10 minutes)<br>
 To help students understand how the Enlightenment influenced these changes, have the students read this short excerpt from Rousseau's Emile, or read it to them aloud (along with the background information). In a short discussion, have them explain how these Enlightenment ideas might relate to changes in age of consent laws.
 
 ##### Day Three (Optional Activities)
 
-Data Analysis (25 minutes):  
+Data Analysis (25 minutes):<br>
 This activity will help students see the major changes and continuities in age of consent laws. Divide the students into groups of two. Pass out copies of two secondary sources to each group: Source 10, the Age of Consent Laws Table, and the Age of Menarche in Norway chart. Explain to the class that menarche is a female's first menstrual cycle, and is often considered the beginning of puberty. Before beginning the analysis, ask the students the following two questions, either in a short discussion or in pairs:
 
 * Are these primary or secondary sources? How do you know?
@@ -295,12 +320,12 @@ Next, ask the students to analyze the two sources by answer the following questi
 * What might have caused the age of puberty to change over time? (Note to teacher: many scholars believe that this is only due to improvements in nutrition during childhood, possibly during the prenatal period, too.)
 * What might be the political, economic, and social effects of changes you see in both sets of data?
 
-Writing Assignment  
+Writing Assignment<br>
 Finally, have the students write a thesis statement (1-2 sentences) to address the prompt:
 
 * Analyze the changes and continuities in age of consent laws in Western Europe between 1850 and the present. Be sure to include causes of changes and/or continuities in your thesis.
 
-Socratic Circle (20 minutes)  
+Socratic Circle (20 minutes)<br>
 This activity helps students understand the political and social implications of age of consent laws. Using a Socratic Circle, have students discuss how a state-defined concept of childhood could affect minority groups and/or colonized peoples. Ask the students to re-read Source 5 (Increased Age of Consent Speech), then discuss the following questions:
 
 * Why were British officials anxious about changing the age of consent laws? What could the potential consequences of these changes have been?
@@ -310,7 +335,7 @@ This activity helps students understand the political and social implications of
 
 ##### Differentiation
 
-Advanced Students  
+Advanced Students<br>
 Have students evaluate the use of age of consent laws by historians (i.e. historiography) as a tool to trace the development of the concept of childhood and other stages of the lifespan (e.g., teenage years). Students should write a paper or create a presentation that responds to the following questions:
 
 * Should historians use age of consent laws to trace the changes and continuities in the concept of childhood and/or teenage years? Why or why not?
@@ -318,7 +343,7 @@ Have students evaluate the use of age of consent laws by historians (i.e. histor
 * What other types of information should they also examine?
 * What viewpoints are omitted by focusing on the legal age of consent? How could historians better understand those viewpoints? What types of documents would help in this effort?
 
-Less Advanced Students  
+Less Advanced Students<br>
 Help students understand what they are reading by creating a vocabulary list, and/or using shorter excerpts of the articles and documents rather than entire excerpts. Create scaffolding worksheets to help students record the changes and continuities they find in the documents; e.g., providing a grid for students to record the political, economic, social, cultural changes in each document.
 
 ## Document Based Question

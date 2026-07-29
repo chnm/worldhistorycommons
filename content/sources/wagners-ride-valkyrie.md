@@ -5,6 +5,7 @@ drupal_node_id: 2475
 source_type: "Image"
 url: /wagners-ride-valkyrie
 image: /images/Wagner_Valkyries.png
+image_alt: "Richard Wagner's \"The Ride of the Valkyries\""
 regions: 
   - "Europe"
 subjects: 

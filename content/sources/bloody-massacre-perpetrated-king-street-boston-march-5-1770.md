@@ -5,6 +5,7 @@ drupal_node_id: 3148
 source_type: "Image"
 url: /bloody-massacre-perpetrated-king-street-boston-march-5-1770
 image: /images/The_Bloody_Massacure_0.jpg
+image_alt: "Scan of the Paul Reever engraving titled “The Bloody Massacre Perpetrated in King Street, Boston, March 5, 1770”. British soldiers to the right fire into a crowd of unarmed colonial men."
 regions: 
   - "North/Central America"
 subjects: 

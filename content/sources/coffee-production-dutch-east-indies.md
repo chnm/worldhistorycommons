@@ -5,6 +5,7 @@ drupal_node_id: 2766
 source_type: "Image"
 url: /coffee-production-dutch-east-indies
 image: /images/RP-P-OB-200.551.jpg
+image_alt: "Drawing shows various stages of coffee production from growing, harvesting, roasting, and pouring the drink"
 regions: 
   - "Asia"
 subjects: []

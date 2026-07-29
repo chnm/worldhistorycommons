@@ -5,6 +5,7 @@ drupal_node_id: 2979
 source_type: "Image"
 url: /travel-writing-al-biruni-11th-century-persian-scholar
 image: /images/al-BiruniMain.jpg
+image_alt: "Page from al-Biruni's writing. Description in annotation."
 regions: 
   - "Asia"
 subjects: 

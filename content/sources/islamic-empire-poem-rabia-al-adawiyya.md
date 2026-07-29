@@ -5,6 +5,7 @@ drupal_node_id: 1215
 source_type: "Text"
 url: /islamic-empire-poem-rabia-al-adawiyya
 image: /images/Icons-Literary-Source_6.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

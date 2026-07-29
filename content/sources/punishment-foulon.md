@@ -5,6 +5,7 @@ drupal_node_id: 271
 source_type: "Image"
 url: /punishment-foulon
 image: /images/foulon.jpg
+image_alt: "Engraving of the aftermath of the attack on the Bastille"
 regions: 
   - "Europe"
 subjects: 
@@ -21,3 +22,8 @@ how_to_cite: |
 ---
 
 This engraving reveals the aftermath of the seizure of the Bastille. Here the crowd parades the severed head of the official, Foulon.
+
+## Transcription
+
+**Title in French**  
+Supplice du Sieur Foulon

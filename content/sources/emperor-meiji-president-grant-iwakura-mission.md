@@ -5,6 +5,7 @@ drupal_node_id: 1288
 source_type: "Text"
 url: /emperor-meiji-president-grant-iwakura-mission
 image: /images/Icons-Document_116.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

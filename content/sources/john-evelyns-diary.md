@@ -5,6 +5,7 @@ drupal_node_id: 1305
 source_type: "Text"
 url: /john-evelyns-diary
 image: /images/Icons-Book-Excerpt_12.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Europe"
 subjects: 

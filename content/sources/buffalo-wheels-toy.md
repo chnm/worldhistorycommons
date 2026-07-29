@@ -5,6 +5,7 @@ drupal_node_id: 298
 source_type: "Object"
 url: /buffalo-wheels-toy
 image: /images/louvre-buffalo-pull-toy.jpg
+image_alt: "Photograph of Buffalo on Wheels toy"
 regions: 
   - "Europe"
 subjects: 

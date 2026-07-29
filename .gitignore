@@ -5,9 +5,13 @@ drupal_urls.txt
 hugo_urls.txt
 missing_in_hugo.txt
 extra_in_hugo.txt
+review_link_audit.csv
+review_link_audit_cache.json
 .claude/
 node_modules/
 images_bak/
+__pycache__/
+*.py[cod]
 
 # Redirect pipeline: transient HTTP audit outputs (regenerated on demand).
 # static/redirects.caddy and utils/redirect_map.csv ARE committed.
@@ -16,3 +20,9 @@ utils/redirect_verify.csv
 utils/redirect_crosscheck.csv
 utils/redirect_parity.csv
 utils/old_urls.csv
+utils/content_parity.json
+utils/content_parity.csv
+utils/accessibility_audit.json
+utils/accessibility_audit.csv
+utils/source_media_parity.json
+utils/source_media_parity.csv

@@ -5,6 +5,7 @@ drupal_node_id: 993
 source_type: "Image"
 url: /map-europe-1812
 image: /images/map-europe-1812.jpg
+image_alt: "Map of Europe in 1812"
 regions: 
   - "Europe"
 subjects: 

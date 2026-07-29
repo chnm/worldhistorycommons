@@ -5,6 +5,11 @@ drupal_node_id: 839
 source_type: "Image"
 url: /celebrating-soviet-achievements-1980s
 image: /images/1986_da_zdravstvuet_part2_d828b6e1a2_copy.jpg
+additional_images:
+  - src: "/images/source-media/839/1986_da_zdravstvuet_part3_9a4e2a26fc.jpg"
+    alt: ""
+  - src: "/images/source-media/839/1986_da_zdravstvyet_part1_eb4ac1f594.jpg"
+    alt: ""
 regions: 
   - "Europe"
 subjects: 

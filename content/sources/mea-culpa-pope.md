@@ -5,6 +5,7 @@ drupal_node_id: 453
 source_type: "Image"
 url: /mea-culpa-pope
 image: /images/94b70135599ec428a23c70c1314ac1bd.jpg
+image_alt: "Print mocking the clergy and the Pope"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,8 @@ how_to_cite: |
 ---
 
 Although the revolutionaries long regarded the Pope as an enemy, their anger was stoked significantly by the papal decision to decree as unacceptable the Civil Constitution of the Clergy. This decision, hardly unexpected given the way that the revolutionary settlement upended church tradition and papal authority, apparently weighed heavily on Louis XVI. Some scholars believe it was this decision in Rome that turned the King down the path of no compromise.
+
+## Transcription
+
+**Title in French**  
+Le Meâ Culpâ du Pape

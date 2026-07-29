@@ -5,6 +5,7 @@ drupal_node_id: 167
 source_type: "Image"
 url: /day-10-august-1792
 image: /images/8c38324fe290e624ea95a4ba2c7f4240.jpg
+image_alt: "Engraving of riot uprising"
 regions: 
   - "Europe"
 subjects: 

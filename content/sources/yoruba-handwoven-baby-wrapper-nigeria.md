@@ -5,6 +5,7 @@ drupal_node_id: 48
 source_type: "Object"
 url: /yoruba-handwoven-baby-wrapper-nigeria
 image: /images/yoruba_c4e23fb82f_0.jpg
+image_alt: "Traditional Yoruba cloth"
 regions: 
   - "Africa"
 subjects: 

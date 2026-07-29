@@ -5,6 +5,7 @@ drupal_node_id: 2613
 source_type: "Text"
 url: /ginger-bread-recipe
 image: /images/150887__1_.jpg
+image_alt: "Handwritten black ink recipe written in a paragraph format."
 regions: 
   - "Europe"
 subjects: 

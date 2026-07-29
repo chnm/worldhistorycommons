@@ -5,6 +5,7 @@ drupal_node_id: 374
 source_type: "Object"
 url: /clothing
 image: /images/children-clothing.jpg
+image_alt: "Newborn Outfit"
 regions: 
   - "North/Central America"
 subjects: 

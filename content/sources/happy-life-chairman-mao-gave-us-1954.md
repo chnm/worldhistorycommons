@@ -5,6 +5,7 @@ drupal_node_id: 70
 source_type: "Image"
 url: /happy-life-chairman-mao-gave-us-1954
 image: /images/cult03_f1a23c6397.jpg
+image_alt: "Photo of Chinese family at dinner table"
 regions: 
   - "Asia"
 subjects: 

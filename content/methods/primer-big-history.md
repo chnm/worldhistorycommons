@@ -22,6 +22,8 @@ related_sources:
   - link: "/history-earth-cycle"
     image: "/images/2000px-Geologic_Clock_with_events_and_periodsTHUMB.png"
     alt: "Geologic clock with events and time periods noting the formation of earth and development of life."
+how_to_cite: |
+  "Primer: Big History," in World History Commons, https://worldhistorycommons.org/primer-big-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -46,13 +48,13 @@ Big History, in various forms, has been taught for several decades, so there are
 
 **Big History Resources**
 
-You can find a TED talk surveying all of time in 18 minutes at https://www.ted.com/talks/david\_christian\_the\_history\_of\_our\_world\_in\_18\_minutes?language=en  
-The International Big History Association web site is at https://bighistory.org/  
-OER’s free online course in Big History can be found at https://www.oerproject.com/  
-Brown, Cynthia Stokes. *Big History: From the Big Bang to the present*, 2nd ed., New York, New Press, 2012.  
-Christian, David, Cynthia Stokes Brown and Craig Benjamin. *Big History: Between Nothing and Everything*, McGraw-Hill, 2013.  
-Christian, David. “What is Big History?” *Journal of Big History*, Vol. 1, No. 1 (2017), 4-19 [see https://journalofbighistory.org/index.php/jbh]  
-Christian, David *Origin Story: A Big History of Everything*. Little Brown, & Penguin, 2018.  
+You can find a TED talk surveying all of time in 18 minutes at https://www.ted.com/talks/david\_christian\_the\_history\_of\_our\_world\_in\_18\_minutes?language=en<br>
+The International Big History Association web site is at https://bighistory.org/<br>
+OER’s free online course in Big History can be found at https://www.oerproject.com/<br>
+Brown, Cynthia Stokes. *Big History: From the Big Bang to the present*, 2nd ed., New York, New Press, 2012.<br>
+Christian, David, Cynthia Stokes Brown and Craig Benjamin. *Big History: Between Nothing and Everything*, McGraw-Hill, 2013.<br>
+Christian, David. “What is Big History?” *Journal of Big History*, Vol. 1, No. 1 (2017), 4-19 [see https://journalofbighistory.org/index.php/jbh]<br>
+Christian, David *Origin Story: A Big History of Everything*. Little Brown, & Penguin, 2018.<br>
 Spier, Fred. *Big History and the Future of Humanity*, 2nd ed., Malden, MA, Wiley-Blackwell, 2015.
 
 ## Primary Sources
@@ -61,6 +63,8 @@ Spier, Fred. *Big History and the Future of Humanity*, 2nd ed., Malden, MA, Wile
 
 ![History of the Earth in a Cycle](/images/2000px-Geologic_Clock_with_events_and_periodsTHUMB.png)
 
+#### Annotation
+
 Our sense of time has been extended into the deep past in the last two centuries or so, and particularly since the 1950s, when Willard Libby showed that you could use the breakdown of radioactive molecules such as Carbon-14 to date events thousands of years before there were any written documents. Since then, geologists and biologists and astronomers have developed a whole battery of techniques for dating events in the remote past. This graphic uses these techniques to construct a modern timeline for the earth’s history. It’s a remarkable timeline and a foundational document for modern geology. Without such timelines it would be impossible to teach big history. This source is part of David Christian's essay on [Big History](https://worldhistorycommons.org/primer-big-history)
 This source is a part of the [*Primer: Big History*](https://worldhistorycommons.org/primer-big-history?page=0%2C1) methods module.
 
@@ -68,11 +72,12 @@ This source is a part of the [*Primer: Big History*](https://worldhistorycommons
 
 ![Salisbury Crags](/images/clerk1THUMB.jpeg)
 
+#### Annotation
+
 Before about 1800, most people in the Christian world assumed that the earth was just a few thousand years old. But growing interest in fossils and strange geological formations made some people think the earth must actually be much older.
 If you were interested in geology but lived at the time of the French Revolution, and came across this curious geological formation, what would you think? What sense could you make of it? You’re seeing a pretty normal layer of horizontal rocks, but then they seem to start bending upwards. And sitting on top of them there seems to be a layer of rocks that has been twisted through 90 degrees so it is vertical. What could have done that? Evidence such as this persuaded geologists that the earth must have changed profoundly over time. And because geological changes are so slow, that had to mean that the earth was millions of years old. That was much older than biblical accounts seemed to suggest. This image is from a drawing by John Clerk, who prepared some illustrations for one of the pioneering works of modern geology, James Hutton’s Theory of the Earth, published in two volumes in 1795. Hutton’s book laid out a lot of evidence to show that the earth must be very very old. In fact Hutton thought it might be infinitely old. His book was part of a larger body of scholarship that slowly persuaded people that earth and the Universe as a whole have histories that extend back a vast amount of time.
 By 1900 most geologists agreed that the earth had changed over perhaps hundreds of millions of years as a result of slow geological and biological processes. (Darwin had published his breakthrough book on biology, Origin of the Species, in 1859.) But they had no way of giving precise dates and no idea of when the earth was first formed because the only way of determining absolute dates was by using written documents. So historians knew the date of the first Olympic games (776 BCE), but could not give precise dates for major turning points in geological or biological history. All that changed in the middle of the twentieth century. In the 1950s, Willard Libby showed that you could use the breakdown of radioactive molecules such as Carbon-14 to date events thousands of years before there were any written documents. Since then, geologists and biologists and astronomers have developed a whole battery of techniques for dating events in the remote past.
 This source is a part of the [*Primer: Big History*](https://worldhistorycommons.org/primer-big-history?page=0%2C1) methods module.
-
 
 ## Credits
 

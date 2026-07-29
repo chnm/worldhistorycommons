@@ -25,6 +25,10 @@ scrape-pages:
 scrape-types:
     cd scraper && uv run python scrape_source_types.py
 
+# Preserve Drupal Text, Transcription, and Translation source sections
+scrape-source-sections *args:
+    cd scraper && uv run python scrape_source_text.py {{args}}
+
 # Scrape listing thumbnails for teaching, methods, and reviews
 scrape-thumbnails:
     cd scraper && uv run python scrape_thumbnails.py
@@ -75,6 +79,29 @@ docker-run tag="worldhistorycommons:latest":
 verify-urls:
     hugo
     cd scraper && uv run python verify_urls.py
+
+# Compare rendered Hugo content with the live Drupal site.
+parity-audit *args:
+    hugo
+    cd scraper && uv run python audit_parity.py {{args}}
+
+# Run the semantic parity audit against the team review CSV.
+parity-audit-reviewed *args:
+    hugo
+    cd scraper && uv run python audit_parity.py --input-csv "../WHC Review - Category Review.csv" {{args}}
+
+# Unit tests for the semantic parity and section migration tooling (no network).
+parity-audit-test:
+    cd scraper && uv run python -m unittest discover -s tests -p 'test_*.py'
+
+# Build and run static accessibility checks without Pagefind.
+a11y-audit:
+    hugo
+    cd scraper && uv run python audit_accessibility.py
+
+# Rate-limited external-link audit for Website Reviews.
+review-link-audit *args:
+    cd scraper && uv run python audit_review_links.py {{args}}
 
 # Full rebuild: fix yaml, build, and index
 rebuild: fix-yaml build

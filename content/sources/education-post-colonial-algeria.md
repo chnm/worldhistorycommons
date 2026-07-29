@@ -5,6 +5,7 @@ drupal_node_id: 1146
 source_type: "Text"
 url: /education-post-colonial-algeria
 image: /images/Icons-Article-Excerpt_0.jpg
+image_alt: "image of the article"
 regions: 
   - "Middle East"
 subjects: 

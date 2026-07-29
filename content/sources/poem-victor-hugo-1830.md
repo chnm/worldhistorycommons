@@ -5,6 +5,10 @@ drupal_node_id: 961
 source_type: "Text"
 url: /poem-victor-hugo-1830
 image: /images/hugo-poem-1.jpg
+image_alt: "A Poem by Victor Hugo (1830)"
+additional_images:
+  - src: "/images/source-media/961/hugo-poem-2.jpg"
+    alt: "A Poem by Victor Hugo (1830)"
 regions: 
   - "Europe"
 subjects: 

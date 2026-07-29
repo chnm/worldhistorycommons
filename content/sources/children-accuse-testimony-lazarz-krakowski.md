@@ -5,6 +5,7 @@ drupal_node_id: 1131
 source_type: "Text"
 url: /children-accuse-testimony-lazarz-krakowski
 image: /images/Icons-Document_6.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

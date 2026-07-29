@@ -5,6 +5,7 @@ drupal_node_id: 64
 source_type: "Image"
 url: /pathfinder-warrant
 image: /images/pathfinderwarrant_bb450eb304.jpg
+image_alt: "Warrant of South African scoutmasters"
 regions: 
   - "Africa"
 subjects: 

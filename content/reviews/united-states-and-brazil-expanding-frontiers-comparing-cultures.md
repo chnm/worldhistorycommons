@@ -6,7 +6,7 @@ url: /united-states-and-brazil-expanding-frontiers-comparing-cultures
 image: /images/brazil-thumbnail.jpeg
 website_authors: "Library of Congress and National Library of Brazil"
 reviewer: "Reviewed by Matthew Karush, George Mason University"
-reviewed_url: "http://international.loc.gov/intldl/brhtml/"
+reviewed_url: "https://web.archive.org/web/20210410220048/http://international.loc.gov/intldl/brhtml/"
 pull_quote: "“The goals of the site are to illuminate Brazilian history, to explore the historical and cultural interactions between Brazil and the United States, and to draw attention to the similarities and differences between these two societies.”"
 how_to_cite: |
   "United States and Brazil: Expanding Frontiers, Comparing Cultures," in in World History Commons, https://worldhistorycommons.org/united-states-and-brazil-expanding-frontiers-comparing-cultures [accessed April 8, 2026]

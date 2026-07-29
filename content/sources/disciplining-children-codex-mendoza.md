@@ -5,6 +5,7 @@ drupal_node_id: 306
 source_type: "Image"
 url: /disciplining-children-codex-mendoza
 image: /images/Codex_Mendoza_folio_59r.jpg
+image_alt: "Disciplining Children in the Codex Mendoza"
 regions: 
   - "North/Central America"
 subjects: 

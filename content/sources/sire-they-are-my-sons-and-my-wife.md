@@ -5,6 +5,7 @@ drupal_node_id: 1022
 source_type: "Image"
 url: /sire-they-are-my-sons-and-my-wife
 image: /images/sire-they-are-my-sons.jpg
+image_alt: "Sire, They Are My Sons and My Wife"
 regions: 
   - "Europe"
 subjects: 

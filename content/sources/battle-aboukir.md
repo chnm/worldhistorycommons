@@ -5,6 +5,7 @@ drupal_node_id: 1049
 source_type: "Image"
 url: /battle-aboukir
 image: /images/battle.jpg
+image_alt: "Battle of Aboukir"
 regions: 
   - "Africa"
 subjects: 
@@ -24,3 +25,8 @@ how_to_cite: |
 ---
 
 Napoleon’s eventual acquisition of political power may be attributed partly to his success in publicizing his Egyptian campaign as a great victory for France that spread the values of the Revolution. These engravings by the writer and artist Vivant Denon were published in 1802, four years after the campaign when Napoleon was already in power. This first image depicts The Battle of the Pyramids where, within three weeks of landing, Napoleon encountered the opposition and routed them with only thirty French soldiers killed.
+
+## Translation
+
+Title (French)  
+Combat d’Abou-qyr

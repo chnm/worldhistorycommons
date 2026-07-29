@@ -28,6 +28,8 @@ related_sources:
   - link: "/life-lycurgus"
     image: "/images/Icons-Document-thumbnail_727.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Women in Classical Athens and Sparta," in World History Commons, https://worldhistorycommons.org/short-teaching-module-women-classical-athens-and-sparta [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -62,7 +64,7 @@ The students’ essays for the class have come out of the facilitation assignmen
 
 Overall, the texts work well, because they show that the lives of Athenian and Spartan women are so dramatically different from each other and yet students generally come to the class with the assumption that Greek society is a monolithic entity. Since I am trying to get them to recognize that social structure and gender attributes are culturally specific, it is even more powerful to use evidence from two different cultures that they have seen as one.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
 1 For classical Athens and Sparta I am going to start using Thomas R. Martin, An Overview of Classical Greek History from Mycenae to Alexander. Looking particularly useful are chapters 5.1-5.2; 6.2-6.4; 6.22; 6.30; 9.2.3; 9.3 and 9.3.1. The chapter number can be typed into the “go to” box; a table of contents is also available.
 
 ## Primary Sources
@@ -71,11 +73,15 @@ Overall, the texts work well, because they show that the lives of Athenian and S
 
 ![On the Murder of Eratosthenes](/images/Icons-Document-thumbnail_725.jpg)
 
+#### Annotation
+
 In this speech, an Athenian man, Euphiletos, defends himself against a murder accusation, claiming that his killing of his wife’s lover was justifiable homicide. The case reveals much about gender in Athens including details about family structure, the presence of “women’s quarters” in the Athenian household, and attitudes toward women with regard to questions of chastity, loyalty, and weakness. The speech reveals the gendered expectations for behavior for both men and women in Athenian society. It can also be used to understand more about Athenian family life. When read alongside sources about life for women in Sparta, students are often surprised by the relative lack of freedom and independence accorded to women in democratic Athens compared to militaristic Sparta. This source is a part of the [*Women in Classical Athens and Sparta*](https://worldhistorycommons.org/short-teaching-module-women-classical-athens-and-sparta) teaching module.
 
 ### [Excerpt from Against Neaira](/excerpt-against-neaira)
 
 ![Excerpt from Against Neaira](/images/Icons-Document-thumbnail_729.jpg)
+
+#### Annotation
 
 In this speech *Against Neaira* revolves around the activities of a non-Athenian courtesan and reveals information about “proper” Athenian women. Note that several of the accusations involve the woman in question, Neaira, simply eating and drinking with men in public. The implication is that "proper" Athenian women did not engage in this kind of behavior revealing the relative lack of independence according to women in Athens. Although included with the writings of Demosthenes, most scholars believe the speech was given by Apollodorus, a political rival of the accused Stephanus. When read alongside sources about life for women in Sparta, students are often surprised by the relative lack of freedom and independence accorded to women in democratic Athens compared to militaristic Sparta. This source is a part of the [*Women in Classical Athens and Sparta*](https://worldhistorycommons.org/short-teaching-module-women-classical-athens-and-sparta) teaching module.
 
@@ -83,11 +89,15 @@ In this speech *Against Neaira* revolves around the activities of a non-Athenian
 
 ![Constitution of the Lacedaemonians](/images/Icons-Document-thumbnail_726.jpg)
 
+#### Annotation
+
 Very little extant information exists on the life of Spartan women, but one of the main sources is Xenophon, Constitution of the Lacedaemonians which catalogs Sparta's institutions and customs with the goal of explaining how Sparta came to be a powerful city-state despite its relatively small population. This excerpt concerns the education of children and marriage arrangements in Sparta and demonstrates that women in Sparta were often accorded more independence than women in other Greek city-states. This source is a part of the [*Women in Classical Athens and Sparta*](https://worldhistorycommons.org/short-teaching-module-women-classical-athens-and-sparta) teaching module.
 
 ### [Life of Lycurgus](/life-lycurgus)
 
 ![Life of Lycurgus](/images/Icons-Document-thumbnail_727.jpg)
+
+#### Annotation
 
 Part of Plutarch's *Parallel Lives*, *Life of Lycurgus*, is a collection of anecdotes on the Spartan law-giver, Lycurgus, that provides valuable information about the laws and customs of the Greek city-state. This excerpt concerns laws related to the education of women and marriage. It reveals that Spartan girls were encouraged to engage in similar exercise and physical activity under the reasoning that physical strength was necessary for giving birth to children. Also evident is the relative independence accorded to Spartan women in their home life. This source is a part of the [*Women in Classical Athens and Sparta*](https://worldhistorycommons.org/short-teaching-module-women-classical-athens-and-sparta) teaching module.
 
@@ -95,8 +105,9 @@ Part of Plutarch's *Parallel Lives*, *Life of Lycurgus*, is a collection of anec
 
 ![Moralia](/images/Icons-Document-thumbnail_728.jpg)
 
-Part of Plutarch's *Moralia*, these sayings by Spartan women demonstrate not only the martial culture of Sparta that emphasized physical courage and honor, but also the role of women in reinforcing that culture. Some sayings pertain to the reaction of Spartan mothers to their sons' death in battle while others purport to be the reaction of Spartan women to the cowardice of their sons. According to the sayings, cowards in Sparta were in danger of being disowned by their mothers implying that women had an important role in maintaining military discipline. This source is a part of the [*Women in Classical Athens and Sparta*](https://worldhistorycommons.org/short-teaching-module-women-classical-athens-and-sparta) teaching module.
+#### Annotation
 
+Part of Plutarch's *Moralia*, these sayings by Spartan women demonstrate not only the martial culture of Sparta that emphasized physical courage and honor, but also the role of women in reinforcing that culture. Some sayings pertain to the reaction of Spartan mothers to their sons' death in battle while others purport to be the reaction of Spartan women to the cowardice of their sons. According to the sayings, cowards in Sparta were in danger of being disowned by their mothers implying that women had an important role in maintaining military discipline. This source is a part of the [*Women in Classical Athens and Sparta*](https://worldhistorycommons.org/short-teaching-module-women-classical-athens-and-sparta) teaching module.
 
 ## Credits
 

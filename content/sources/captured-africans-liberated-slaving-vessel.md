@@ -5,6 +5,7 @@ drupal_node_id: 61
 source_type: "Image"
 url: /captured-africans-liberated-slaving-vessel
 image: /images/captured-africans-liberated-from-a-slaving-vessel_-east-africa_-1884-_image__82057ae7ec.jpg
+image_alt: "Photo of captured Africans"
 regions: 
   - "Africa"
 subjects: 

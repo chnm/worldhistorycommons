@@ -5,6 +5,7 @@ drupal_node_id: 1429
 source_type: "Text"
 url: /sumerian-school-days
 image: /images/clay_stone.jpg
+image_alt: "picture of the clay tablet"
 regions: 
   - "Middle East"
 subjects: 

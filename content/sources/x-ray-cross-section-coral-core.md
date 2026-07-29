@@ -5,6 +5,7 @@ drupal_node_id: 2459
 source_type: "Image"
 url: /x-ray-cross-section-coral-core
 image: /images/CoralThumb.jpg
+image_alt: "Coral image shows a series of wavy striped lines"
 regions: 
   - "Global"
 subjects: 

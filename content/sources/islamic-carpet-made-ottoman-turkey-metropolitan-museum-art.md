@@ -5,6 +5,7 @@ drupal_node_id: 2515
 source_type: "Object"
 url: /islamic-carpet-made-ottoman-turkey-metropolitan-museum-art
 image: /images/Ottoman_Prayer_Rug_18th_Century_MET_1.jpeg
+image_alt: "Prayer (Sajjadah) Rug"
 regions: 
   - "Asia"
   - "Middle East"

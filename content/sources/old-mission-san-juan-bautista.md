@@ -5,6 +5,7 @@ drupal_node_id: 2670
 source_type: "Image"
 url: /old-mission-san-juan-bautista
 image: /images/Mission_San_Juan_Bautista.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

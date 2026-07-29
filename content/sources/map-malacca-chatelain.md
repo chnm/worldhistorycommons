@@ -5,6 +5,7 @@ drupal_node_id: 2282
 source_type: "Image"
 url: /map-malacca-chatelain
 image: /images/melaccamap.jpg
+image_alt: "Map detail of eighteenth century map of Malacca and its surrounding territories"
 regions: 
   - "Asia"
 subjects: 

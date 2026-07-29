@@ -34,6 +34,8 @@ related_sources:
   - link: "/islamic-empire-religious-text-mosque-customs-and-public-behavior"
     image: "/images/Icons-Literary-Source-thumbnail_3.jpg"
     alt: "Literary Source Thumbnail"
+how_to_cite: |
+  "Long Teaching Module: Women in the Islamic World, 600-1600 ," in World History Commons, https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -72,12 +74,16 @@ Although they became less apparent in the historical record as the Islamic conqu
 
 ![Islamic Empire: Religious Text, Women Sura](/images/Icons-Literary-Source-thumbnail_0.jpg)
 
+#### Annotation
+
 This Sura (or chapter) of the Qur’an, known as al-Nisa’, or “Women,” details a variety of legal rights and restrictions for Muslims in the realm of marriage, inheritance, and other male-female relationships. Containing verses on polygamy, property maintenance, and child custody, it is one of the foundation chapters for the development of sharia, or Islamic law, vis-à-vis women’s legal rights, behavior, and treatment.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
 
 ### [Islamic Empire: Religious Text, Confederation Sura](/islamic-empire-religious-text-confederation-sura)
 
 ![Islamic Empire: Religious Text, Confederation Sura](/images/Icons-Literary-Source-thumbnail_1.jpg)
+
+#### Annotation
 
 This Sura (or chapter) of the Qur’an, known as al-Ahzab, or the “Confederation,” is known for its many verses extolling modesty in women, as well as detailing aspects of ideal marriage. Because of its references directly to the wives of the Prophet Muhammad, there has been controversy over whether or not the restrictions it places on women’s movement in the public sphere are to be universally applied. At the same time, this Sura’s assertion in the equality of men and women in the eyes of God makes it one of the most important and appealing chapters of the Qur’an.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
@@ -86,12 +92,16 @@ This source is a part of the [*Women in the Islamic World, 600-1600*](https://wo
 
 ![Islamic Empire: Religious Text, Marriage Customs](/images/Icons-Literary-Source-thumbnail_2.jpg)
 
+#### Annotation
+
 The Hadith, or ways of the Prophet Muhammad, were collected upon his death from those who were close to him in life. Known as the Companions, these people played a key role in filling in the sayings and practices of Muhammad and his behaviors, recording them for future generations. Many of the key Companions to relay Hadith were Muhammad’s wives, particularly ‘A’isha bint Abu Bakr. In this collection, ‘A’isha and other female Companions relay important hadith related to marriage, including the importance of the practice for the maintenance of Islam and the value of modesty in pious wives.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
 
 ### [Islamic Empire: Religious Text, Mosque Customs and Public Behavior](/islamic-empire-religious-text-mosque-customs-and-public-behavior)
 
 ![Islamic Empire: Religious Text, Mosque Customs and Public Behavior](/images/Icons-Literary-Source-thumbnail_3.jpg)
+
+#### Annotation
 
 The Hadith, or ways of the Prophet Muhammad, were collected upon his death from those who were close to him in life. Known as the Companions, these people played a key role in filling in the sayings and practices of Muhammad and his behaviors, recording them for future generations. Many of the Hadith collected from the female companions detailed the Prophet’s ways concerning proper public behaviors. Topics such as how to act while attending prayers at the mosque and what women should do in sites of warfare laid out various standards for female behavior. These hadith, transmitted by the female Companions, illustrate the close relationships with women that Muhammad enjoyed during his life as well.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
@@ -100,12 +110,16 @@ This source is a part of the [*Women in the Islamic World, 600-1600*](https://wo
 
 ![Islamic Empire: Poem, Abbasid-era](/images/Icons-Literary-Source-thumbnail_4.jpg)
 
+#### Annotation
+
 The Abbasid period is known as a time during which women’s public roles became more restricted in the Muslim population (umma). With the conquest of Sasanian and Byzantine lands, Arabs incorporated ideals of cloistering females and eliminating them from political life, with many ramifications in women’s daily lives. Moreover, strong patriarchal urges already ran through Arabian society, as the Qur’anic verses banning female infanticide testify. These verses, composed upon the death of a daughter, demonstrate the bittersweet public position of women in Abbasid society.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
 
 ### [Islamic Empire: Miracle Story, Rabi’a al-‘Adawiyya](/islamic-empire-miracle-story-rabia-al-adawiyya)
 
 ![Islamic Empire: Miracle Story, Rabi’a al-‘Adawiyya](/images/Icons-Literary-Source-thumbnail_5.jpg)
+
+#### Annotation
 
 Rabi’a al-‘Adawiyya from Basra was one of the most important founders of the mystical element of Islam, known as Sufism. The stories about her life and teachings illustrate a woman free from many of the traditional constraints placed on women’s lives. In miracle stories such as this one, we see an essential element of Sufi thought: do not expect anything from God, but rather, recognize the larger greatness of the deity beyond your small existence.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
@@ -114,12 +128,16 @@ This source is a part of the [*Women in the Islamic World, 600-1600*](https://wo
 
 ![Islamic Empire: Poem, Rabi’a al-‘Adawiyya](/images/Icons-Literary-Source-thumbnail_6.jpg)
 
+#### Annotation
+
 In these poetic lines by Rabi’a al-‘Adawiyya, one of the most important founders of the mystical element of Islam, known as Sufism, we see an essential element of Sufi thought, the creation of which is often attributed to her: the ideal of divine love. Using the language of romance, Rabi’a’s verses elevate the divinity of God, all the while evoking the most intense elements of human love. Moreover, these verses reassert a central Islamic tenant—that is, the unity of one sole deity.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
 
 ### [Islamic Empire: Official Document, Jewish Marriage Contract](/islamic-empire-official-document-jewish-marriage-contract)
 
 ![Islamic Empire: Official Document, Jewish Marriage Contract](/images/Icons-Literary-Source-thumbnail_7.jpg)
+
+#### Annotation
 
 Within the context of patriarchal societies, women are dependent upon their male relatives to look out for their best interests. In both Jewish and Muslim marriages, contracts have traditionally been drawn up, illustrating that a marriage is as much a familial contract as a union between two people. In Fatimid Cairo, Jewish families took great pains to draw up ketubbot, or marriage contracts, that looked out for the financial and emotional interests of women. Many examples of such contracts were found in the Cairo Geniza, a treasure trove of documents that allowed historians, such as Shmuel Goitein, to reconstruct the world of Cairene Jewry living under Shi’a Islamic rule.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
@@ -128,9 +146,10 @@ This source is a part of the [*Women in the Islamic World, 600-1600*](https://wo
 
 ![Ayyubid and Ottoman Architecture](/images/architecture3large-thumbnail.jpeg)
 
+#### Annotation
+
 In the Islamic world, women were able to own and control their own property at a time when Christian women in Europe were unable to do so. Many wealthy women endowed public buildings as a mark of their piety. In these examples, we see the way that Ayyubid and Ottoman women used the endowment of public architecture to engage directly in public life. Built in their names and with their money, these buildings demonstrate the prestige some women were able to achieve in the era of the Islamic empires. The first image is of the Madrasa al-Sahiba in Damascus (1233), commissioned by Salah al-Din’s sister Rabia Khatun. The second image, the Mausoleum of Salih Najm al-Din Ayyub in Cairo, was commissioned by Salah al-Din’s wife Shajara al-Durr, to be attached to her husband's Madrasa. The Madrasa was built in 1242, and the mausoleum was added in 1250 after Salih Najm al-Din's death. The third image is of the Haseki Hürrem Baths in Istanbul (1557), which were commissioned by Hürrem Sultan, the wife of Sultan Suleyman I.
 This source is a part of the [*Women in the Islamic World, 600-1600*](https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600) teaching module.
-
 
 ## Teaching Strategies
 
@@ -164,13 +183,13 @@ After completing this lesson, students will be able to:
 
 ##### Materials
 
-* Provisioning: Duplicate required number of each of the following items for each student. Make a packet for each student and distribute at the beginning of class for efficiency.  
+* Provisioning: Duplicate required number of each of the following items for each student. Make a packet for each student and distribute at the beginning of class for efficiency.<br>
   Islamic Empire Introduction
 
-Primary Sources:  
-Source 6: Poem, Abbasid-era  
-Source 3: Religious Text, Marriage Customs  
-Source 4: Religious Test, Mosque Customs and Public Behavior  
+Primary Sources:<br>
+Source 6: Poem, Abbasid-era<br>
+Source 3: Religious Text, Marriage Customs<br>
+Source 4: Religious Test, Mosque Customs and Public Behavior<br>
 Source 10: Architecture, Ayyubid and Ottoman
 
 * Sufficient copies of Primary Source Analysis Worksheet: Images
@@ -180,33 +199,33 @@ Source 10: Architecture, Ayyubid and Ottoman
 
 1. Historical Context (20 minutes):
 
-Read: Islamic Empire Introduction  
-Discuss: What bias have male historians traditionally brought to the study of women in the Islamic empire?  
-Identify: Islam, Hadith, Companion, Fitna, Patriarchal, Sufism, Private Sphere, Sharia  
+Read: Islamic Empire Introduction<br>
+Discuss: What bias have male historians traditionally brought to the study of women in the Islamic empire?<br>
+Identify: Islam, Hadith, Companion, Fitna, Patriarchal, Sufism, Private Sphere, Sharia<br>
 Key People: Identify-Muhammad, Khadija, A’isha, Umm Salama
 
 2. Think-Share (20 minutes):
 
-Divide class into groups of four to facilitate discussion.  
-Assign one question to each group based on the reading.  
-Each group will present its response to the class.  
-Discuss briefly the responses and check for understanding.  
-Suggested Questions:  
-Who was Khadija? List reasons why she has been a most revered woman throughout Islamic history.  
-Outline the evidence that supports the fact that Islamic women played integral roles in Islamic Civilization both politically and spiritually.  
-What is the significance of the Battle of Camel to Islamic women?  
-The article suggests that the majority of Islamic women were most influential in the “private sphere.” Explain what that means and give examples of that influence.  
+Divide class into groups of four to facilitate discussion.<br>
+Assign one question to each group based on the reading.<br>
+Each group will present its response to the class.<br>
+Discuss briefly the responses and check for understanding.<br>
+Suggested Questions:<br>
+Who was Khadija? List reasons why she has been a most revered woman throughout Islamic history.<br>
+Outline the evidence that supports the fact that Islamic women played integral roles in Islamic Civilization both politically and spiritually.<br>
+What is the significance of the Battle of Camel to Islamic women?<br>
+The article suggests that the majority of Islamic women were most influential in the “private sphere.” Explain what that means and give examples of that influence.<br>
 Compare the spiritual relationship of Islamic women to the deity to the position given them in the patriarchal social structure.
 
 3. Reading Primary Resources (25 minutes):
 
-Check for understanding: What is the critical difference to historical research between secondary and primary resources?  
-Individually read the primary resources in the packet and answer each of the following questions.  
-Review responses with the students.  
-Questions:  
-Source 6: Poem, Abbasid-era: Explain why this poem reflects the patriarchal beliefs and attitudes toward Islamic women.  
-Source 3: Religious Text, Marriage Customs: Women as Teachers: Give specific examples from the three excerpts that show Islamic women as spiritual teachers.  
-Source 4: Religious Test, Mosque Customs and Public Behavior: Which Hadith, or ways of Muhammad, do Islamic women discuss in these sources?  
+Check for understanding: What is the critical difference to historical research between secondary and primary resources?<br>
+Individually read the primary resources in the packet and answer each of the following questions.<br>
+Review responses with the students.<br>
+Questions:<br>
+Source 6: Poem, Abbasid-era: Explain why this poem reflects the patriarchal beliefs and attitudes toward Islamic women.<br>
+Source 3: Religious Text, Marriage Customs: Women as Teachers: Give specific examples from the three excerpts that show Islamic women as spiritual teachers.<br>
+Source 4: Religious Test, Mosque Customs and Public Behavior: Which Hadith, or ways of Muhammad, do Islamic women discuss in these sources?<br>
 Source 10: Architecture, Ayyubid and Ottoman: How did the prestige of Islamic women influence architecture?
 
 4. Responding to Primary Sources (25 Minutes): Distribute Primary Source Analysis Worksheet: Images and Primary Source Analysis Worksheet: Texts from to each student. Assign an equal number of students to work independently and complete the work sheet for Primary Source 6, 3, 4, or 4. Discuss.
@@ -265,10 +284,10 @@ This is an insightful examination of various interpretations of women’s positi
 
 ## Credits
 
-About the Author  
+About the Author<br>
 **Nancy Stockdale** is Assistant Professor of Middle Eastern History at the University of Central Florida. Her recent publications include “Biblical Motherhood: English Women and Empire in Palestine, 1860-1948,” “Murder in the Holy Land: Matilda Creasy and the Mystery of Missionary Death,” and “Writing Empire in Palestine 1800-1939: English Women in the ‘Holy Land.’” She has received numerous fellowships and awards enabling her to pursue research overseas in India, Israel, Turkey, Morocco, and the United Kingdom. Her academic interests include the Modern Middle East, Islamic History, the British Empire, and the History of Religions in Modern Palestine.
 
-About the Lesson Plan Author  
+About the Lesson Plan Author<br>
 **Frances Patchett** is a Mentor Resource Teacher in the Fairfax County Public Schools in Virginia, where she works extensively training and evaluating beginning teachers. In the past she has worked with the American Council on Education, and worked closely with Fairfax County, teaching AP World History, Sociology, U.S./Virginia History, and Current Affairs. She has advanced degrees in both secondary education and U.S. history.
 
 Grateful acknowledgement is made to the following institutions for primary sources:

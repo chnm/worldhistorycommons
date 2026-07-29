@@ -5,6 +5,9 @@ drupal_node_id: 1113
 source_type: "Audio"
 url: /hymn-festival-marriage
 image: 
+audio_files:
+  - src: "/audio/source-media/1113/3739e932f550dab51c7783ecca0bd110__1_.mp3"
+    label: "Download audio"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +29,23 @@ how_to_cite: |
 ---
 
 Although festivals drew much smaller audiences during the final years of the Revolution, the government continued to celebrate them. Now, however, they tended to commemorate apolitical events: thus a festival, and hymn, devoted to the subject of marriage.
+
+## Transcription
+
+Hymne pour la fête des époux, 10 floréal (1798)  
+Dieu, qui créas nos coeurs,  
+Tu les as faits sensibles;  
+Nous te devons l'amour,  
+Le plus doux des penchants,  
+Rends par le chaste hymen nos moeurs incorruptibles,  
+Notre bonheur plus pur, nos devoirs plus touchants.
+
+## Translation
+
+Hymn for the Festival of Marriage (1798)  
+Lord, who created our hearts,  
+You have made them sensitive;  
+We owe you the most  
+Gentle of human love  
+By our nuptial bond our morals made incorruptible,  
+Our happiness more pure, our tasks more moving.

@@ -22,6 +22,8 @@ related_sources:
   - link: "/wolffs-justification-omitting-hay-values"
     image: "/images/Wolff_in_Mentzel_Lengerke_1864_p50.jpg"
     alt: "Clip from Wolff's article on hay's nutritional values"
+how_to_cite: |
+  "Short Teaching Module: Agricultural Knowledge in the Late Nineteenth Century," in World History Commons, https://worldhistorycommons.org/short-teaching-module-agricultural-knowledge-late-nineteenth-century [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -58,6 +60,8 @@ Knowledge history makes clear how knowledge moved and changed between different 
 
 ![Wolff’s justification for omitting hay values](/images/Wolff_in_Mentzel_Lengerke_1864_p50.jpg)
 
+#### Annotation
+
 In 1864, for the first time, Emil Wolff did not include hay values alongside nutritional components in the data tables published annually in the calendar. In this accompanying article, Wolff reframed his previous translation into hay values as merely educational. The contrast between the hay values and the nutritional values had been intended to transition farmers to the correct system of nutritional values. Instead of hay values, Wolff added columns for the nutritional values of phosphoric acid and calcium oxide, minerals which scientists could now detect in chemical analysis and found to be important in nutrition. Scientific complexity replaced ease of use. He explained this decision as the result of the complexity that scientific research had found in the subject of animal nutrition. Improvements in chemical analysis and new experimental findings about nutrient digestibility, especially in certain nutrient combinations, made the compromise of single equivalent values between feeds impossible. He essentially told improvers that scientists’ knowledge had superseded theirs irreversibly.
 
 His description that “intelligent” farmers had adopted his scientific feeding method was less a description of reality but an implicit threat. If farmers rejected scientific feeding, they were backward and stubborn conservatives of yesteryear. Scientists frequently identified farmers who used their suggested methods as intelligent, progressive, turned towards the future. Using scientific methods became a form of distinction. If farmers decided to use scientific methods and could even afford to do so, they were better than their neighbors who did not.
@@ -70,6 +74,8 @@ This source is part of the [teaching module on agricultural knowledge in the lat
 
 ![Togo farm families cracking oil palm kernels](/images/Togo_Family_cracking_oil_palm_kernels.jpg)
 
+#### Annotation
+
 This photo was part of a short photo series documenting palm oil production in the German colonies in Africa, included in a report by a special oil commission of the German Colonial Society (Deutsche Kolonialgesellschaft) in 1913. The subtitle reads “Cracking of palm kernels by women and children in Togo.” The work of native farmers or laborers started the journey of palm oil and kernels to European consumers. This source suggests that agricultural knowledge and innovation could be found in many places. It can also show how the knowledge negotiation amongst consumers of colonial products was intertwined with the relations, negotiations, and resistance between colonizers and the colonized.
 
 This source is part of the [teaching module on agricultural knowledge in the late nineteenth century](https://worldhistorycommons.org/short-teaching-module-agricultural-knowledge-late-nineteenth-century).
@@ -78,18 +84,19 @@ This source is part of the [teaching module on agricultural knowledge in the lat
 
 ![Ideal ration recipe](/images/Parsons_Fact_Book.jpg)
 
+#### Annotation
+
 This is one page out of a notebook kept by Stephen Robinson Parsons, a somewhat improvement-minded farmer in South Paris, Maine. Around 1896, Stephen copied into his fact book an ideal ration:
 
-Ration for one day for animal weighing 1000 lbs  
-    16 lbs    meadow hay  
-    8    “       bran  
-    2    “     O[ld]. P[rocess]. [linseed] oil meal  
+Ration for one day for animal weighing 1000 lbs<br>
+    16 lbs    meadow hay<br>
+    8    “       bran<br>
+    2    “     O[ld]. P[rocess]. [linseed] oil meal<br>
     6    “     corn meal
 
 The formatting of this little copied text hinted at its origin. It had found its way to Stephen from one of the standard feeding manuals of the day, probably through one of the farm journals to which he subscribed. First published in 1883, Elliott W. Stewart’s “Feeding Animals: A Practical Work upon the Laws of Animal Growth” had become a widely respected work on animal feeding from an improver’s perspective. Several other publications (including this one) quoted his sample rations, usually endorsed by dairymen’s associations. In Maine, it was assigned as a textbook at the State College along with Henry Prentiss Armsby’s “Manual of Cattle Feeding.” It included several sample ideal rations which Stewart had adapted from the productive rations of a Thomas Horsfall of England, who published in the 1850s and 1860s. Stewart used the methods of American and German scientists, including Armsby and Emil Wolff, to recalculate these rations to include American feedstuffs. However, Stewart’s ideal ration was not immediately useful to Stephen. Underneath it, he noted the conversion of the ingredients from weight to volume, pounds to quarts, rounded “for feeding purposes.” As in previous experiments, Stephen seems to have used a measuring cup rather than a scale when assembling the rations for his cows. It made measuring easier and faster. This document demonstrates how asking the question of where a particular piece of knowledge came from can reveal the adaptations made by multiple actors in the translation chain from laboratory to barn and from Germany and England to the United States. Also, this tracing of knowledge emphasizes the advantage of fully indexed digital source archives, such as HathiTrust, which allowed the identification of the origins and part of the lineage of Parsons note of an ideal ration.
 
 This source is part of the [teaching module on agricultural knowledge in the late nineteenth century](https://worldhistorycommons.org/short-teaching-module-agricultural-knowledge-late-nineteenth-century).
-
 
 ## Bibliography
 

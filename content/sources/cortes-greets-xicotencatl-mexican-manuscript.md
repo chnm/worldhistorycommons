@@ -5,6 +5,7 @@ drupal_node_id: 278
 source_type: "Image"
 url: /cortes-greets-xicotencatl-mexican-manuscript
 image: /images/lienzolarge.jpg
+image_alt: "“Cortés Greets Xicotencatl.” Mid-16th century. Detail from Lienzo de Tlaxcala."
 regions: 
   - "Europe"
   - "North/Central America"

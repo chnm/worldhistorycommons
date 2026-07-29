@@ -5,6 +5,7 @@ drupal_node_id: 2768
 source_type: "Image"
 url: /view-coffee-plantation-marienbosch-surinam
 image: /images/SK-A-4087.jpg
+image_alt: "View of the Coffee Plantation Marienbosch in Surinam"
 regions: 
   - "South America"
 subjects: 

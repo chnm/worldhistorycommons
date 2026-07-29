@@ -5,6 +5,7 @@ drupal_node_id: 2972
 source_type: "Image"
 url: /mahabodhi-temple
 image: /images/Temple.jpeg
+image_alt: "Image of the Mahabodhi Temple: a stepped pyramid with round dome-shaped structure (stupa) on top"
 regions: 
   - "Asia"
 subjects: 

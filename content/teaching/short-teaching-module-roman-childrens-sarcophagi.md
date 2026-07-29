@@ -23,6 +23,8 @@ related_sources:
   - link: "/m-cornelius-statius"
     image: "/images/sarcophogus1sm_e1132fc499THUMB.jpg"
     alt: "Thumbnail of sarcophagus detail"
+how_to_cite: |
+  "Short Teaching Module: Roman Children’s Sarcophagi," in World History Commons, https://worldhistorycommons.org/short-teaching-module-roman-childrens-sarcophagi [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -37,6 +39,8 @@ This short teaching module includes historical context and guidance on introduci
 
 ![M. Cornelius Statius](/images/sarcophogus1sm_e1132fc499THUMB.jpg)
 
+#### Annotation
+
 Death is part of every society, but the rituals and objects surrounding death have varied across centuries and continents. They can often reveal many things about the role of children and families within a culture, from the nature of grieving to representations of childhood, from artistic preferences to child rearing norms. Dating from the first half of the 2nd century, CE, this Roman marble sarcophagus was an expensive funerary item created to commemorate the death of a young boy. The sarcophagus depicts a series of points in the life cycle of a child, from a newborn infant to a young child at play to an older child engaged in studies. The epitaph was dedicated by the boy's parents and the boy's name indicates that he was a freeborn Roman citizen.
 This source is a part of the [*Roman Children’s Sarcophagi*](https://worldhistorycommons.org/short-teaching-module-roman-children%E2%80%99s-sarcophagi) teaching module.
 
@@ -44,9 +48,10 @@ This source is a part of the [*Roman Children’s Sarcophagi*](https://worldhist
 
 ![Child’s Life Course](/images/sarcophogus-thumbnail.jpg)
 
+#### Annotation
+
 Death is part of every society, but the rituals and objects surrounding death have varied across centuries and continents. They can often reveal many things about the role of children and families within a culture, from the nature of grieving to representations of childhood, from artistic preferences to child rearing norms. Dating from the first half of the 2nd century, CE, this Roman marble sarcophagus was an expensive funerary item created to commemorate the death of a child. The sarcophagus depicts an infant, in the arms of a parent riding in a carriage, on the far right of the stone. The center of the stone shows a young child at play with a wheeled toy and moving to the left, an older child with a pet goose. The last scene, on the far left, signifies death. The parents ride in a carriage with a child between them. The torches symbolize a funeral, as does the winged Cupid.
 This source is a part of the [*Roman Children’s Sarcophagi*](https://worldhistorycommons.org/short-teaching-module-roman-children%E2%80%99s-sarcophagi) teaching module.
-
 
 ## Teaching Strategies
 

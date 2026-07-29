@@ -5,6 +5,7 @@ drupal_node_id: 68
 source_type: "Image"
 url: /studying-mother-country-1986
 image: /images/vis01_e017778035.jpg
+image_alt: "Photo of little girl at desk with Chinese propoganda in background"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 624
 source_type: "Image"
 url: /commonwealth-independent-states-map-1994
 image: /images/commonwealth.jpg
+image_alt: "Commonwealth of Independent States Map"
 regions: 
   - "Asia"
   - "Europe"

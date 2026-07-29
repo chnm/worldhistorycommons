@@ -13,6 +13,8 @@ related_sources:
   - link: "/narrative-life-and-adventures-venture-native-africa"
     image: "/images/venture-smith-thumbnail.jpeg"
     alt: "Title page of A Narrative of the Life and Adventures of Venture A Native of Africa, but Resident Above Sixty Years in the United States of America Related by Himself"
+how_to_cite: |
+  "Primer: Global Microhistory ," in World History Commons, https://worldhistorycommons.org/primer-global-microhistory [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -73,9 +75,10 @@ Jessica Hanser, Mr. Smith Goes to China: Three Scots in the Making of Britain’
 
 ![A Narrative of the Life and Adventures of Venture A Native of Africa](/images/venture-smith-thumbnail.jpeg)
 
+#### Annotation
+
 In this excerpted source, Venture Smith recalls his experiences in the slave trade as a child. This source is especially important, as Smith gives a very vivid account of slave raiding, a common practice that took place during the peak years of the slave trade in the 18th century. Smith, the son of a Guinean Prince, was sold into slavery at the young age of three by his own mother. Unable to support the boy after a separation with his father, Smith was sold to a rich farmer. At the age of six, he was captured by a slave raiding party within the interior of Africa, traveling with them until he made his way to the coast two years later. This was not uncommon during the slave trade, as children were often sold to several parties before traveling the Middle Passage.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module and the [*Primer: Global Microhistory*](https://worldhistorycommons.org/primer-global-microhistory) methods module.
-
 
 ## Bibliography
 

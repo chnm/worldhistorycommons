@@ -5,6 +5,7 @@ drupal_node_id: 97
 source_type: "Image"
 url: /childs-life-course
 image: /images/sarcophogus2sm_b01752133d.jpg
+image_alt: "Photo of a sarcophogus"
 regions: []
 subjects: 
   - "Culture"

@@ -5,6 +5,7 @@ drupal_node_id: 286
 source_type: "Image"
 url: /massacre-priests
 image: /images/massacre-of-priests.jpg
+image_alt: "Print of crowd attacking and killing clergy and prisoners"
 regions: 
   - "Europe"
 subjects: 
@@ -28,3 +29,8 @@ how_to_cite: |
 ---
 
 This image, also reproduced from the newspaper *R\*volutions de Paris*, shows crowds massacring refractory clergy and prisoners. The panels depict the former convent of the Carmelites (where 163 were killed) and the prison known as the Force, which had formerly been used to incarcerate prostitutes, where approximately 300 defrocked clergy were executed.
+
+## Transcription
+
+**Title in French**  
+Carmes du Luxembourg ; Hotel de la Force: Massacre des Prêtres

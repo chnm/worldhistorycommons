@@ -5,6 +5,7 @@ drupal_node_id: 289
 source_type: "Image"
 url: /life-histories-chile-table
 image: /images/mooneychartlarge.jpg
+image_alt: "Life Histories (Chile)"
 regions: 
   - "South America"
 subjects: 

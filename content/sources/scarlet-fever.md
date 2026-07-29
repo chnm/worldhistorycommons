@@ -6,6 +6,7 @@ drupal_node_id: 402
 source_type: "Text"
 url: /scarlet-fever
 image: /images/observationes.jpg
+image_alt: "Title page of Observationes Medicae"
 regions: 
   - "Europe"
 subjects: 

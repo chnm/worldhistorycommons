@@ -5,6 +5,7 @@ drupal_node_id: 1501
 source_type: "Text"
 url: /constitution-year-iii-1795
 image: /images/Icons-Document_273.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

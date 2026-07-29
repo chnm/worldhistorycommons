@@ -17,6 +17,8 @@ related_sources:
   - link: "/market-southeastern-nigeria"
     image: "/images/way-to-market-thumbnail.jpeg"
     alt: ""
+how_to_cite: |
+  "Analyzing Commission Records," in World History Commons, https://worldhistorycommons.org/analyzing-commission-records [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -29,6 +31,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Market in Southeastern Nigeria](/images/way-to-market-thumbnail.jpeg)
 
+#### Annotation
+
 This is an image of local women at a market in southeastern Nigeria in the 1930s. In the precolonial period, women in this society had a very strong role in the economy. They were, in fact, the major traders in palm oil. As palm oil becomes a more valuable export commodity in the late 19th and early 20th centuries, men take over that trade. Women always maintain a role, although it becomes increasingly a subordinate one. But they plainly do have a role in the economy. When colonial officials come and look at institutions in the society through which they can govern, they are not looking for women’s institutions. They are looking for male institutions. Women really lose out in the political realm and then ultimately in the economic realm.
 This source is a part of the [*Analyzing Commission Records*](https://worldhistorycommons.org/analyzing-commission-records) methods module.
 
@@ -36,9 +40,10 @@ This source is a part of the [*Analyzing Commission Records*](https://worldhisto
 
 ![Commission Hearing Excerpt](/images/commission-hearing-excerpt-thumbnail.png)
 
+#### Annotation
+
 This is an excerpt from a commission hearing conducted in southeastern Nigeria in 1930 by British colonial officials. The hearing investigated a series of disturbances by local women following a rumor that the British were going to tax women. This excerpt is a statement by one of these woman. These commission records are one of the few places in the colonial record where West African women’s voices can be heard.
 This source is a part of the [*Analyzing Commission Records*](https://worldhistorycommons.org/analyzing-commission-records) methods module.
-
 
 ## Credits
 
@@ -46,9 +51,9 @@ Meredith McKittrick is Associate Professor of History at Georgetown University. 
 
 Grateful Acknowledgement is made to the following institutions and individuals for permission to publish material from their collections:
 
-Eliot Elisofon Photographic Archives, Smithsonian Institution  
-Felix K. Ekechi  
-National Anthropological Archives, Smithsonian Institution (06025800)  
-Percy Amaury Talbot  
-University of Cambridge Museum of Archeology and Anthropology  
+Eliot Elisofon Photographic Archives, Smithsonian Institution<br>
+Felix K. Ekechi<br>
+National Anthropological Archives, Smithsonian Institution (06025800)<br>
+Percy Amaury Talbot<br>
+University of Cambridge Museum of Archeology and Anthropology<br>
 Victor Uchendu

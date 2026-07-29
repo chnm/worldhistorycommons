@@ -5,6 +5,7 @@ drupal_node_id: 568
 source_type: "Image"
 url: /day-1-prairial-year-iii
 image: /images/9e3d1a14301a755daf4cf2d032e09375.jpg
+image_alt: "Print of people threatening deputies"
 regions: 
   - "Europe"
 subjects: 
@@ -28,3 +29,11 @@ how_to_cite: |
 ---
 
 Men and women threaten the deputies on 20 May 1795. They demand "Bread and the Constitution of 1793." This day marked one of the last interventions of ordinary women into national politics.
+
+## Transcription
+
+**Title in French**  
+Journée du 1er Prairial de l’an IIIe
+
+**Caption**  
+Ferraud, Représentant du Peuple assassiné dans la Convention Nationale. Paris chez l’Auteur, Rue Honoré

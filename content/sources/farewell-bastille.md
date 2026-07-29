@@ -5,6 +5,7 @@ drupal_node_id: 273
 source_type: "Image"
 url: /farewell-bastille
 image: /images/farewell-bastille.jpg
+image_alt: "Engraving of man in foreground wearing French colors and observing two others in combat"
 regions: 
   - "Europe"
 subjects: 
@@ -25,3 +26,8 @@ how_to_cite: |
 ---
 
 This hand–colored engraving equates the taking of the Bastille with the rise of the Third Estate against the clergy and nobility. A commoner in a black hat sporting a tricolor cockade plays the bagpipe triumphantly over the fallen lion of the absolutist monarchy. To the side, a revolutionary soldier raises his sword to menace a priest.
+
+## Transcription
+
+**Title in French**  
+Adieu Bastille

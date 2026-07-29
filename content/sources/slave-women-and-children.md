@@ -5,6 +5,7 @@ drupal_node_id: 1377
 source_type: "Text"
 url: /slave-women-and-children
 image: /images/Icons-Document_167.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

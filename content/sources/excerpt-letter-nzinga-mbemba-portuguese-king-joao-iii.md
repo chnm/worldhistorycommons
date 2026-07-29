@@ -8,6 +8,7 @@ aliases:
   - /excerpt-letter-nzinga-mbemba-portuguese-king-joão-iii
   - /EXCERPT-LETTER-NZINGA-MBEMBA-PORTUGUESE-KING-JOAO-III
 image: /images/Icons-Document_716_0.jpg
+image_alt: "Document icon"
 regions: 
   - "Africa"
   - "Europe"

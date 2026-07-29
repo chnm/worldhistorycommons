@@ -5,6 +5,7 @@ drupal_node_id: 360
 source_type: "Image"
 url: /custom-cutting-topknot-thailand
 image: /images/cutting-topknot.jpg
+image_alt: "Custom of Cutting the Topknot in Thailand"
 regions: 
   - "Asia"
 subjects: 

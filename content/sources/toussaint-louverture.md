@@ -5,6 +5,7 @@ drupal_node_id: 1034
 source_type: "Image"
 url: /toussaint-louverture
 image: /images/louverture.jpg
+image_alt: "Toussaint L’Ouverture"
 regions: 
   - "North/Central America"
 subjects: 

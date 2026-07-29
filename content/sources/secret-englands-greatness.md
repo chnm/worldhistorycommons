@@ -5,6 +5,7 @@ drupal_node_id: 21
 source_type: "Image"
 url: /secret-englands-greatness
 image: /images/The-Secret-of-Englands-Greatness-Queen-Victoria-presenting-a-Bible-in-the-Audience-Chamber-at-Windsor.jpg
+image_alt: "Image of The Secret of England's Greatness painting."
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1058
 source_type: "Image"
 url: /louiss-separation-his-family
 image: /images/51ac89cd596b6d866cdd365bc30cf369__1_.jpg
+image_alt: "Engraving of King Louis XVI being taken from his family"
 regions: 
   - "Europe"
 subjects: 

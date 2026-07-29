@@ -5,6 +5,7 @@ drupal_node_id: 192
 source_type: "Image"
 url: /arrest-louis-capet-varennes-june-22-1791
 image: /images/ae1969e76b853f6eff07f7278872e428.jpg
+image_alt: "Print of angry crowd of revolutionaries"
 regions: 
   - "Europe"
 subjects: 
@@ -23,3 +24,8 @@ how_to_cite: |
 ---
 
 This print shows an angry crowd of fervent revolutionaries breaking down doors to arrest the King.
+
+## Transcription
+
+**Title in French**  
+Arrestation de Louis Capet à Varennes, le 22 Juin 1791

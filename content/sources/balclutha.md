@@ -5,6 +5,7 @@ drupal_node_id: 2783
 source_type: "Image"
 url: /balclutha
 image: /images/Balclutha.jpeg
+image_alt: "Photograph of a ship with three masts tied to a dock."
 regions: 
   - "Global"
 subjects: 

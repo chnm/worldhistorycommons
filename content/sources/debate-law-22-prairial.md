@@ -5,6 +5,7 @@ drupal_node_id: 1497
 source_type: "Text"
 url: /debate-law-22-prairial
 image: /images/Icons-Document_269.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

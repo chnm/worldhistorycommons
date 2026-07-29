@@ -25,6 +25,8 @@ related_sources:
   - link: "/grid-map-judicial-independence"
     image: "/images/JudicialIndependenceTHUMB.png"
     alt: "Map of the world with colors indicating the level of judicial independence in each state's constitution."
+how_to_cite: |
+  "Primer: Comparative History," in World History Commons, https://worldhistorycommons.org/primer-comparative-history [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -57,25 +59,26 @@ As these and other examples should make clear, there is no single, perfect, way 
 
 ![Grid Map of Judicial Independence](/images/JudicialIndependenceTHUMB.png)
 
+#### Annotation
+
 Comparisons across world history can be productive if done with care. For example, the Constitute Project from the University of Texas-Austin has created a database of world constitutions that includes a feature for comparing various nations' constitutions to look for similarities and differences. The Constitute website lets users pin and export relevant passages for comparison. For example, students can search how constitutions across the world address “freedom of religion.” Students can view side-by-side text comparisons of two constitutions after clicking the “Compare” button for two results, like France and Liberia. The Constitute Project has also created maps like this one that allows for comparisons of how much political independence the judiciary in various nations' constitutions. A slider bar allows users to view change over time. To read more about the Constitute Project and how to use it in a world history classroom, take a look at [Sara Collini's review](https://worldhistorycommons.org/constitute-world%E2%80%99s-constitutions-read-search-and-compare).
 This source is a part of the [*Primer: Comparative History*](https://worldhistorycommons.org/primer-comparative-history) methods module.
 
-
 ## Bibliography
 
-Austin, Gareth. “Reciprocal Comparisons and African History: Tackling Conceptual Eurocentrism in the Study of Africa’s Economic Past,” *African Studies Review* 50:3 (December, 2007): 1-28.  
-Chakrabarty, Dipesh. *Provincializing Europe: Post-colonial Thought and Historical Difference*. Princeton: Princeton University Press, 2000.  
-Cooper, Frederic. “Race, Ideology, and the Perils of Comparative History,” *American Historical Review* 101:4 (October, 1996): 1122-1138.  
-Eisenstadt, S.N. *The Political Systems of Empires.* London and New York: Free Press, 1963.  
-Elliott, J. H. *Empires of the Atlantic World: Britain and Spain in America, 1492-1830*. New Haven: Yale University Press, 2006.  
-Gould, Eliga. “Entangled Histories, Entangled Worlds: The English-Speaking Atlantic as a Spanish Periphery.” *American Historical Review* v. 112, no. 3 (June 2007): 764-786.  
-Hill, Alette Olin, et. al. “AHR Forum: Marc Bloch and Comparative History,” *American Historical Review* 85:4 (October, 1980): 828-857.  
-Mill, John Stuart. *A System of Logic, Ratiocinative and Inductive*. London: John W. Parker, 1843.  
-Moore, Barrington. *Social Origins of Dictatorship and Democracy: Lord and peasant in the Making of the Modern World. Boston: Beacon Press, 1967.  
-Pomeranz, Kenneth. *The Great Divergence: China, Europe, and the Making of the Modern World Economy*. Princeton: Princeton University Press, 2000.  
-Porter, David, ed. *Comparative Early Modernities, 1100-1800*. New York: Palgrave MacMillan, 2012.  
-Tilly, Charles. *Big Structures, Large Processes, Huge Comparisons*. New York: Russell Sage Foundation, 1984.  
-Werner, Michael, and Benédicte Zimmerman. “Beyond Comparison: Histoire Croisée and the Challenge of Reflexivity,” *History and Theory* 45:1 (February, 2006): 30-50.  
+Austin, Gareth. “Reciprocal Comparisons and African History: Tackling Conceptual Eurocentrism in the Study of Africa’s Economic Past,” *African Studies Review* 50:3 (December, 2007): 1-28.<br>
+Chakrabarty, Dipesh. *Provincializing Europe: Post-colonial Thought and Historical Difference*. Princeton: Princeton University Press, 2000.<br>
+Cooper, Frederic. “Race, Ideology, and the Perils of Comparative History,” *American Historical Review* 101:4 (October, 1996): 1122-1138.<br>
+Eisenstadt, S.N. *The Political Systems of Empires.* London and New York: Free Press, 1963.<br>
+Elliott, J. H. *Empires of the Atlantic World: Britain and Spain in America, 1492-1830*. New Haven: Yale University Press, 2006.<br>
+Gould, Eliga. “Entangled Histories, Entangled Worlds: The English-Speaking Atlantic as a Spanish Periphery.” *American Historical Review* v. 112, no. 3 (June 2007): 764-786.<br>
+Hill, Alette Olin, et. al. “AHR Forum: Marc Bloch and Comparative History,” *American Historical Review* 85:4 (October, 1980): 828-857.<br>
+Mill, John Stuart. *A System of Logic, Ratiocinative and Inductive*. London: John W. Parker, 1843.<br>
+Moore, Barrington. *Social Origins of Dictatorship and Democracy: Lord and peasant in the Making of the Modern World. Boston: Beacon Press, 1967.<br>
+Pomeranz, Kenneth. *The Great Divergence: China, Europe, and the Making of the Modern World Economy*. Princeton: Princeton University Press, 2000.<br>
+Porter, David, ed. *Comparative Early Modernities, 1100-1800*. New York: Palgrave MacMillan, 2012.<br>
+Tilly, Charles. *Big Structures, Large Processes, Huge Comparisons*. New York: Russell Sage Foundation, 1984.<br>
+Werner, Michael, and Benédicte Zimmerman. “Beyond Comparison: Histoire Croisée and the Challenge of Reflexivity,” *History and Theory* 45:1 (February, 2006): 30-50.<br>
 Wong, R. Bin. *China Transformed: Historical Change and the Limits of European Experience. Ithaca: Cornell University Press, 1997.**
 
 ## Credits

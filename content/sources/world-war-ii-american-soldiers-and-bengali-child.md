@@ -5,6 +5,7 @@ drupal_node_id: 157
 source_type: "Image"
 url: /world-war-ii-american-soldiers-and-bengali-child
 image: /images/mukhta_new-sari_village3_849d33c04d.jpg
+image_alt: "Set of three images of WWII soldiers interacting with children"
 regions: 
   - "Middle East"
 subjects: 

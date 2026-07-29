@@ -5,6 +5,7 @@ drupal_node_id: 1196
 source_type: "Text"
 url: /declaration-rights-man-and-citizen-26-august-1789
 image: /images/Icons-Document_55.jpg
+image_alt: "an icon of a document. beneath it are the words view document."
 regions: 
   - "Europe"
 subjects: 

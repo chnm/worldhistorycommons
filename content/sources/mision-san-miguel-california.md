@@ -5,6 +5,7 @@ drupal_node_id: 2674
 source_type: "Image"
 url: /mision-san-miguel-california
 image: /images/MissionSanMiguelArches.JPG
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

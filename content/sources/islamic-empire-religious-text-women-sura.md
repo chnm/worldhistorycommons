@@ -5,6 +5,7 @@ drupal_node_id: 1208
 source_type: "Text"
 url: /islamic-empire-religious-text-women-sura
 image: /images/Icons-Literary-Source_0.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

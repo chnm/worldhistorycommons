@@ -5,6 +5,7 @@ drupal_node_id: 1644
 source_type: "Text"
 url: /british-empire-fiction-nervous-conditions
 image: /images/Icons-Document_397.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

@@ -26,6 +26,8 @@ related_sources:
   - link: "/testament-father-during-black-death"
     image: "/images/Icons-Document-thumbnail_124.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Long Teaching Module: Children during the Black Death," in World History Commons, https://worldhistorycommons.org/long-teaching-module-children-during-black-death [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -44,6 +46,8 @@ The Black Death was the first and most lethal outbreak of a disease that entered
 
 ![Decameron](/images/ildecameron-thumbnail.jpeg)
 
+#### Annotation
+
 Giovanni Boccaccio provided the most famous description of what happened during the Black Death in Italy. His report on the behavior of the Florentines after plague entered their city during the spring of 1348 serves as introduction and frame for his collection of 100 tales entitled the *Decameron*. The epidemic provides the pretext for a group of young men and women to leave Florence and retire to a pleasant villa in the countryside where they entertain themselves by telling stories over 10 days. Though the *novella* range from the bawdy to the pious, the story telling is light hearted in keeping with the purpose of restorative diversion.
 Boccaccio's introduction, however, has a very different tone. Here the author relates in precise detail the gruesome symptoms of the disease and the horrific circumstances that took place in Florence as the epidemic swept through the town disrupting all forms of normal human relations. Government, medical care, and neighborliness broke down. Some people secluded themselves and restricted their diet, others recklessly gave themselves over to pleasure, and still others tried to behave temperately. But most distressing of all, according to Boccaccio, was the collapse of families and the abandonment of children. The English translation is followed by the original in Italian.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
@@ -52,6 +56,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![Italian accounts of the Black Death](/images/Icons-Document-thumbnail_126.jpg)
 
+#### Annotation
+
 Several chroniclers wrote about the Black Death in their own town or region. They described the symptoms of the disease, which they generally called "the mortality," how it arrived with portents of warning from the East, and how many people it killed. Some accounts are long and embellished with the descriptions of townspeople's actions, but most are brief, providing little more than the dates for the plague's entry and mortality rates, which they usually inflated. The description of families and children, if present, is often quite short. The chroniclers wrote in either Latin or Italian. Note the terms they use in the original language as well as the modern English translation.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
 
@@ -59,12 +65,16 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![Health Ordinances of Pistoia, 1348](/images/pestilenza-thumbnail.jpeg)
 
+#### Annotation
+
 Cities in Italy passed legislation aimed at preventing or reducing the effects of plague. Since the scientific view was that plague was caused by miasma or bad air, the measures targeted rotting and smelling matter, viz. cloth which could retain miasma and spread disease as it was passed person to person, dead bodies, and rotting meat. Thus, the ordinances regulated burials and restricted the mobility of cloth and the activities of butchers and tanners. These ordinances were not really new to the Black Death; governments simply re-enforced the sanitary legislation in effect in cities from the 13th century.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
 
 ### [Testament of a Father during the Black Death](/testament-father-during-black-death)
 
 ![Testament of a Father during the Black Death](/images/Icons-Document-thumbnail_124.jpg)
+
+#### Annotation
 
 Below is a will that offers a window into the family life of Carinus, a parchment worker, or cartolarius, a fairly common trade in the university town of Bologna. Although many wealthy people left long and complicated wills filled with lists of pious bequests, this simple will is more typical of artisans who, despite modern assumptions to the contrary, commonly made wills in medieval Italy. According to intestate law in medieval Italian towns, sons were to inherit the patrimony equally while daughters were to receive a dowry, which their husbands could use while they were married and which was returned to them at the end of that marriage.
 Carinus made his will when he was ill at the beginning of July and his wife, Ursollina, newly widowed, made hers two weeks later. The only other will to remain from this family is that of their married son, Johannes, who made his will on July 30, naming his unborn child as heir (his wife was pregnant at the time). Petrobellus, the brother of Mengorius, husband of Carinus and Ursollina's daughter, made his will on the same day as Ursollina. The same notary and parish priest were present for all four of these wills. The English translation has left out most of the legalistic and formulaic language.
@@ -74,6 +84,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![Testament of a Mother during the Black Death](/images/Icons-Document-thumbnail_122.jpg)
 
+#### Annotation
+
 Below is a will that offers a window into the family life of Ursollina, wife of a parchment worker named Carinus. Although many wealthy people left long and complicated wills filled with lists of pious bequests, these simple wills are more typical of artisans who, despite modern assumptions to the contrary, commonly made wills in medieval Italy. According to intestate law in medieval Italian towns, sons were to inherit the patrimony equally while daughters were to receive a dowry, which their husbands could use while they were married and which was returned to them at the end of that marriage.
 Carinus made his will when he was ill at the beginning of July and Ursollina made hers, newly widowed, two weeks later. The only other will to remain from this family is that of their married son, Johannes, who made his will on July 30, naming his unborn child as heir (his wife was pregnant at the time). Petrobellus, the brother of Mengorius, husband of Carinus and Ursollina's daughter, made his will on the same day as Ursollina. The same notary and parish priest were present for all four of these wills. The English translation has left out most of the legalistic and formulaic language.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
@@ -81,6 +93,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 ### [Testament of an Elite Husband during the Black Death](/testament-elite-husband-during-black-death)
 
 ![Testament of an Elite Husband during the Black Death](/images/Icons-Document-thumbnail_118.jpg)
+
+#### Annotation
 
 The following will belongs to the butcher Phylippinus. The butcher and his wife were a well-off couple, owning at least two shops in Bologna's central meat market as well as land outside of Bologna in Borgo Panigale. Their last wishes reflect this wealth as they leave more charitable bequests, especially in the form of dowries, and pious bequests, such as the butcher's dedication of an altar and funding for a pilgrim.
 During the time of the Black Death, Phylippinus' children were grown, and he and his wife were concerned about the welfare of their young grandchildren, the children of their deceased daughter Agnesia. His other daughter, Chadiana, was an adult although she was not yet married and was given much responsibility. While alive, Phylippinus had the wealth and responsibility–evidenced by his wife's will which named him as heir and left money for her daughter and grandchildren to have only after the patriarch died. (Note that the grand-daughters get more money from their grandmother than the grandsons, who presumably were the heirs of their father.)
@@ -92,6 +106,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![Testament of an Elite Wife during the Black Death](/images/Icons-Document-thumbnail_119.jpg)
 
+#### Annotation
+
 The following will belongs to the butcher Phylippinus' wife. The butcher and his wife were a well-off couple, owning at least two shops in Bologna's central meat market as well as land outside of Bologna in Borgo Panigale. Their last wishes reflect this wealth as they leave more charitable bequests, especially in the form of dowries, and pious bequests, such as the butcher's dedication of an altar and funding for a pilgrim. The wife makes her will at the end of July and within 10 days she is dead.
 During the time of the Black Death, the wife of the butcher's children were grown, and she and her husband were concerned about the welfare of their young grandchildren, the children of their deceased daughter Agnesia. Her other daughter, Chadiana, was an adult although she was not yet married and was given much responsibility. While alive, the butcher had the wealth and responsibility–evidenced by his wife's will which named him as heir and left money for her daughter and grandchildren to have only after the patriarch died. (Note that the grand-daughters get more money from their grandmother than the grandsons, who presumably were the heirs of their father.)
 Following the wife's death, when the butcher was sick of plague and had to make a will, he named as guardian his daughter Chadiana who was to take charge of the young grandchildren and to benefit from the estate as heir. She was aided as executor by two clerics and as guardian by a notary, for whose young daughters Phylippinus provided a dowry.
@@ -102,6 +118,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![Will-making among the general populace of Bologna during 1348](/images/cyh-184_d6978d9d91THUMB.jpg)
 
+#### Annotation
+
 The graph displays the number of wills by gender made each month in the city and countryside of Bologna during 1348 that were copied into the city notarial registers, known as the Libri Memoriali. The graph shows that during the first half of the year there are more female than male testators, which is unusual for medieval Italy. In general, women's wills made up about 40% of all wills, but in Bologna men had the option to make a secret will which they could deposit in the Mendicant friaries and keep out of the public record of the Libri Memoriali. It appears that men chose this option more frequently during the first part of the year, before the epidemic took hold. In order to make a will in medieval Italy, one needed a notary to write up the testator's declared wishes in legal form. In July 1348, there were 185 notaries who redacted wills that appeared in the Libri Memoriali, compared to 85 in June and 89 in August. The majority of notaries working in July (125 out of 185) were writing up only one or two wills, but a smaller group of six notaries wrote up between 10 and 30 wills during that plague-filled month. The notaries went into the homes of most of the testators, the vast majority of whom declared themselves sick.
 In Bologna, a member of the clergy, usually a parish priest, had to be present to confirm the identity of sick testators. For every will recorded in the Memoriali, there is at least one priest or friar present as witness. After the redaction they were also required to go with the testator and notary to the public registration of the will in the Libri Memoriali.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
@@ -110,6 +128,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![The Dance of Death](/images/dance-of-death_fd255603ccTHUMB.jpg)
 
+#### Annotation
+
 Children are not frequent subjects of medieval art, but the figure of the child does occur in a medieval artistic and literary form known as the Danse macabre or Dance of the Dead. Originating before 1348, this art form was not the result of the plague epidemics, but medieval artists found the iconic image a useful means to express the morbid and anxious views of death prevalent in the later medieval and early modern periods. Poems and murals painted on the walls of churches depicted Death, portrayed by skeletons, as drawing all members of society, from the highest secular and religious officials, down to the lowest, such as the peasant, beggar, and child, into a deadly dance to the grave. The human subjects express their dismay as intractable Death is not swayed by their riches or pleas for mercy. Although, again, this artistic form is not directly related to plague, it can be noted for our purposes that it is death that separates the child from his or her family and not the family that has abandoned the child to die. In this woodcut, Death takes a child snatched from his family and home.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
 
@@ -117,9 +137,10 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![The Dance of the Dead](/images/dance-of-the-dead_131a9d25c4THUMB.jpg)
 
+#### Annotation
+
 Children are not frequent subjects of medieval art, but the figure of the child does occur in a medieval artistic and literary form known as the Danse macabre or Dance of the Dead. Originating before 1348, this art form was not the result of the plague epidemics, but medieval artists found the iconic image a useful means to express the morbid and anxious views of death prevalent in the later medieval and early modern periods. Poems and murals painted on the walls of churches depicted Death, portrayed by skeletons, as drawing all members of society, from the highest secular and religious officials, down to the lowest, such as the peasant, beggar, and child, into a deadly dance to the grave. The human subjects express their dismay as intractable Death is not swayed by their riches or pleas for mercy. Although, again, this artistic form is not directly related to plague, it can be noted for our purposes that it is death that separates the child from his or her family and not the family that has abandoned the child to die.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
-
 
 ## Lesson Plan
 

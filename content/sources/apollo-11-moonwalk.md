@@ -5,6 +5,7 @@ drupal_node_id: 232
 source_type: "Image"
 url: /apollo-11-moonwalk
 image: /images/moon-landing-1969.jpg
+image_alt: "Buzz Aldrin walking on the moon"
 regions: []
 subjects: 
   - "Science/ Technology"

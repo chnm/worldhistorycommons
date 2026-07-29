@@ -5,6 +5,7 @@ drupal_node_id: 354
 source_type: "Image"
 url: /refractory-clergy-going-promised-land
 image: /images/9862fe56ebe0bd460bf8a4e3db53278b.jpg
+image_alt: "Print of clergy leaving France"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,8 @@ how_to_cite: |
 ---
 
 Many refractory clergy left France to join other detractors, as this print shows, or wishfully encourages. However, this is an ambiguous image, which leaves open the possibility that rather than joining foreign monarchies, the clergy are crossing the river leading to Hell.
+
+## Transcription
+
+**Title in French**  
+Les Refractaires allant a la terre promise

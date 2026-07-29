@@ -5,6 +5,7 @@ drupal_node_id: 1107
 source_type: "Image"
 url: /summoning-execution
 image: /images/56ecfbdd40a8c05dbd1acbce695647f0.jpg
+image_alt: "Image of the condemned being summoned to be executed"
 regions: 
   - "Europe"
 subjects: 

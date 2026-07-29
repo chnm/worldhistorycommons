@@ -5,6 +5,12 @@ drupal_node_id: 3031
 source_type: "Image"
 url: /moche-portrait-vessels
 image: /images/WHC_moche_portrait_vessel_paralysis.jpeg
+image_alt: "A portrait vessel with a stirrup spout depicting a man with paralytic features on his face."
+additional_images:
+  - src: "/images/source-media/3031/WHC_Huaca_Retrato_Mochica.jpeg"
+    alt: "The well-known portrait vessel called Huaco Retrato Mochica, which depicts a man's head wearing a turban with red detailing and a two headed bird on either side."
+  - src: "/images/source-media/3031/WHC_Moche_portrait_vessel.jpg"
+    alt: "A portait vessel showing the head of a man wearing a turban/hat with geometric detailing and has a stirrup spout."
 regions: 
   - "South America"
 subjects: 

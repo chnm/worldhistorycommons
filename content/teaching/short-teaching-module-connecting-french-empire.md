@@ -28,6 +28,8 @@ related_sources:
   - link: "/ship-plan-late-19th-century-steamship"
     image: "/images/ShipPlan_1_.jpg"
     alt: "Ship Plan of a Late-19th Century Steamship"
+how_to_cite: |
+  "Short Teaching Module: Connecting the French Empire," in World History Commons, https://worldhistorycommons.org/short-teaching-module-connecting-french-empire [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -62,6 +64,8 @@ Inside these ships, political and business elites of European empires socialized
 
 ![Ship Plan of a Late-19th Century Steamship](/images/ShipPlan_1_.jpg)
 
+#### Annotation
+
 This ship plan from the late-19th century offers a partial view of spatial arrangements within a *Messageries* steamship. The diagram comes from a book of commercial publicity and imperial propaganda written by a *Messageries* ship-captain, Louis Tillier, and a famous journalist, novelist, and veteran of French colonial wars, Paul Bonnetain.
 
 Steamships heading “beyond Suez” intertwined the paths and aspirations of military men and bureaucrats, entrepreneurs and entertainers, tourists, servants, and migrants, men, women, and children, animals and cargo, convicts, and the mentally and physically ill – not to mention the maritime laborers who kept the entire operation running. In dividing these groups into intricate social and spatial orders, shipboard authorities had a complex job cut out for them. To varying degrees, passengers were divided by class, gender, age, race, profession, rank, and health. These groups might have different food regimes, cabins, and levels of access to the deck. Every time that a ship began a layover, moreover, the question of who could disembark meant that these hierarchies had to be rearranged. Finally, the collection of beating hearts aboard the ship included animals kept onboard for dairy, meat, and labor (or as cargo), which had to be maintained in their own pens, well away from some human dwellings, though all too close to others.
@@ -72,10 +76,11 @@ Compounding this immense labor of categorizing passengers and keeping them withi
 
 ![Shipping Company Route Map from 1889](/images/Compagnie_des_Messageries_maritimes_Carte_1_.jpg)
 
+#### Annotation
+
 This route-map of the *Messageries* *Maritimes* shipping company displays the main routes connecting metropolitan France to its empire in the Indo-Pacific. While the map dates to 1889, these routes retained their basic structure through the 1950s. Classified by contemporaries as the routes “beyond Suez” (au-delà de Suez, in French; a parallel of the British referent, “east of Suez”), I prefer to call them Trans-Suez routes, which echoes the more familiar geographical referent, Trans-Atlantic. These Trans-Suez highways crossed the Mediterranean, passing through the Suez Canal, down the Red Sea, and around the Horn of Africa, before splitting in three directions: to East Asia, Australia and the South Pacific, or Southern Africa. Of course, such routes were reversible by definition, and might be better understood as paths connecting the Mediterranean, Red Sea, Indian Ocean, South China Sea, Sea of Japan, and the Pacific Ocean. Finally, such routes were, in another sense, constellations of port cities where layovers took place. Along the so-called “China Line,” (pictured in blue) for instance, ships generally stopped at Naples, Port-Said, Aden or Djibouti, Bombay or Colombo, Singapore, Saigon, Hong Kong, Shanghai, Kobe, and Yokohama, before doing it all again in reverse – a trans-imperial voyage that required roughly forty days in each direction throughout the late-19th and early-20th centuries.
 
 Trans-Suez routes of the *Messageries* tracked French imperial expansion from the 1850s-forward. Privately owned, but subcontracted by the French government, the company’s ships carried troops, state personnel, postal service, commercial and government cargo, tourists, and migrants. They provided critical maritime infrastructure for the French Empire, allowing it to expand as far as it did, and to survive in times of crisis. At the same time, the routes pictured here should not be considered solely as French property. Their viability depended to a great extent on the coal depots, workers, port facilities, and passengers of foreign powers.
-
 
 ## Bibliography
 
@@ -83,7 +88,7 @@ Jane Burbank and Frederick Cooper, *Empires in World History: Power and the Poli
 
 ---
 
-Paul Butel (ed.), *Un officier et la conquête coloniale. Emmanuel Ruault* *(1878-1896)* (Bordeaux : Presses Universitaires de Bordeaux, 2007).  
+Paul Butel (ed.), *Un officier et la conquête coloniale. Emmanuel Ruault* *(1878-1896)* (Bordeaux : Presses Universitaires de Bordeaux, 2007).<br>
 Nancy Delanoë, “Poussières d’empire : les soldats marocains dans le Corps expéditionnaire français en Extrême Orient (1947-1972),” in Taraud and Lorin (eds.), *Nouvelle histoire des colonisations européennes, XIXe-XXe siècles* (Presses Universitaires de France, 2013).
 
 ---

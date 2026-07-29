@@ -5,6 +5,7 @@ drupal_node_id: 1053
 source_type: "Image"
 url: /image-attack-20-june-1792
 image: /images/bdcc113de7b79e36b20d6952441c4815.jpg
+image_alt: "Etching of rioters forcing the king to wear a Phyrgian cap and drink to the health of the nation"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 410
 source_type: "Text"
 url: /ancient-history-maori
 image: /images/ancient-history-maori.png
+image_alt: "Title page of The Ancient History of the Maori"
 regions: 
   - "Oceania"
 subjects: 

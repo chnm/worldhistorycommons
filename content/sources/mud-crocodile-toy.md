@@ -5,6 +5,7 @@ drupal_node_id: 311
 source_type: "Object"
 url: /mud-crocodile-toy
 image: /images/mud_crocodile.jpg
+image_alt: "Small sculpture of a crocodile is made of Nile River mud"
 regions: 
   - "Africa"
 subjects: 

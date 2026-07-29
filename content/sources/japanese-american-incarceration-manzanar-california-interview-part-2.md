@@ -5,6 +5,9 @@ drupal_node_id: 412
 source_type: "Video"
 url: /japanese-american-incarceration-manzanar-california-interview-part-2
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "Oceania"
 subjects: 

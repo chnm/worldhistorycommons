@@ -5,6 +5,7 @@ drupal_node_id: 2595
 source_type: "Text"
 url: /pedro-de-cieza-de-leon-cronicas
 image: /images/Text_Image_1.jpg
+image_alt: "document icon"
 regions: 
   - "South America"
 subjects: 

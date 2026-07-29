@@ -5,6 +5,7 @@ drupal_node_id: 164
 source_type: "Image"
 url: /little-cartesian-devil
 image: /images/6017bd4a3b9d3edb18995a3a76057a34.jpg
+image_alt: "Cartoon of two men looking at Napoleon in a glass cage"
 regions: 
   - "Europe"
 subjects: 
@@ -23,3 +24,8 @@ how_to_cite: |
 The reversal of circumstances that German cartoonists emphasized seemed generally to exercise considerable sway over this use of symbols. Here, Napoleon, who strode so large over Europe, is bottled and examined. Obsessed with his small stature, Napoleon might have been particularly displeased with this image.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Transcription
+
+**Title in French**   
+Das Carthesianische Teufelchen

@@ -5,6 +5,7 @@ drupal_node_id: 3050
 source_type: "Image"
 url: /haamonga-maui-tonga
 image: /images/WHC_ha_amonga.png
+image_alt: "A stone monument with two stones acting as posts and a third stone sitting vertically atop the others. The monument sits on grass and there are trees seen in the background."
 regions: 
   - "Oceania"
 subjects: 
@@ -19,7 +20,7 @@ time_periods:
 source_citation: |
   "Ha'amonga 'a Maui," Wikimedia Commons, 2008.
 credits: |
-  "Ha'amonga 'a Maui," Wikimedia Commons, 2008,<https://en.wikipedia.org/wiki/Ha%CA%BBamonga_%CA%BBa_Maui#/media/File:Ha%CA%BBamonga.jpg>.
+  "Ha'amonga 'a Maui," Wikimedia Commons, 2008, <https://en.wikipedia.org/wiki/Ha%CA%BBamonga_%CA%BBa_Maui#/media/File:Ha%CA%BBamonga.jpg>.
 how_to_cite: |
   "Ha’amonga ‘a Maui in Tonga ," in World History Commons, https://worldhistorycommons.org/haamonga-maui-tonga [accessed April 8, 2026]
 ---

@@ -5,6 +5,7 @@ drupal_node_id: 414
 source_type: "Text"
 url: /malleus-maleficarum-witch-hunter-manual
 image: /images/Malleus_maleficarum.jpg
+image_alt: "Title page of witch hunter manual, Malleus Maleficarum"
 regions: 
   - "Europe"
 subjects: 

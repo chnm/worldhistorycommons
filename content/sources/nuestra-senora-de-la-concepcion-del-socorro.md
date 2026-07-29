@@ -5,6 +5,9 @@ drupal_node_id: 2641
 source_type: "Image"
 url: /nuestra-senora-de-la-concepcion-del-socorro
 image: /images/Socorro_mission_front.jpg
+additional_images:
+  - src: "/images/source-media/2641/socorro2.jpg"
+    alt: ""
 regions: 
   - "North/Central America"
 subjects: 

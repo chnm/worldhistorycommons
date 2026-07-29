@@ -5,6 +5,7 @@ drupal_node_id: 1595
 source_type: "Text"
 url: /southeast-asian-politics-nonfiction-philippine-suffrage
 image: /images/Icons-Document_350.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

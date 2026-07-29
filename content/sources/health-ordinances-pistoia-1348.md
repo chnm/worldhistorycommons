@@ -5,6 +5,7 @@ drupal_node_id: 418
 source_type: "Text"
 url: /health-ordinances-pistoia-1348
 image: /images/pestilenza.jpg
+image_alt: "Health Ordinances of Pistoia"
 regions: 
   - "Europe"
 subjects: 

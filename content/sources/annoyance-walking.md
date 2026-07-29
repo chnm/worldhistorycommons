@@ -5,6 +5,7 @@ drupal_node_id: 984
 source_type: "Image"
 url: /annoyance-walking
 image: /images/the-annoyance-of-walking.png
+image_alt: "The Annoyance of Walking etching"
 regions: 
   - "Europe"
 subjects: 

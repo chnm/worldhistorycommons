@@ -5,6 +5,7 @@ drupal_node_id: 1219
 source_type: "Text"
 url: /1879-cleveland-protestant-orphan-asylum-annual-reports
 image: /images/Icons-Document_67.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

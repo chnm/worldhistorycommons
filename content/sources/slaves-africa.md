@@ -5,6 +5,7 @@ drupal_node_id: 1521
 source_type: "Text"
 url: /slaves-africa
 image: /images/Icons-Document_292.jpg
+image_alt: "Transcription"
 regions: 
   - "Global"
 subjects: 

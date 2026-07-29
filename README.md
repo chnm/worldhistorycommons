@@ -33,6 +33,58 @@ just serve    # Dev server at localhost:1313
 just dev      # Build + index + serve
 ```
 
+## Drupal-to-Hugo Parity Audit
+
+The semantic parity auditor compares the four migrated content sections
+(primary sources, teaching modules, methods, and website reviews) against the
+live Drupal site. It reads rendered Hugo pages from `public/` and does not
+modify content.
+
+```bash
+# Audit every migrated page (runs Hugo first)
+just parity-audit
+
+# Audit only one or more sections
+just parity-audit --section sources --section teaching
+
+# Audit specific canonical URLs
+just parity-audit --url /suffrage-atelier-postcard-1909/
+
+# Audit the pages in the team review spreadsheet
+just parity-audit-reviewed
+
+# Continue an interrupted run using completed pages in the JSON report
+just parity-audit --resume
+
+# Return a nonzero exit code for migration/rendering differences or fetch errors
+just parity-audit --fail-on-difference
+```
+
+Requests are rate-limited to one every 0.5 seconds by default. Use `--delay`
+to change the interval and `--timeout` to change the per-page timeout. Reports
+are written to `utils/content_parity.json` and `utils/content_parity.csv`;
+both include the canonical page URL, field or section, Drupal and Hugo values,
+classification, and any note imported from the review CSV.
+
+Interpret classifications as follows:
+
+- `migration_loss`: Drupal content is missing from Hugo.
+- `rendering_mismatch`: both pages render, but their semantic content differs.
+- `upstream_gap`: the Drupal page itself lacks content or cannot be checked.
+- `editorial_improvement`: Hugo intentionally supplies a validated improvement.
+
+Treat migration losses and rendering mismatches as work to resolve. Upstream
+gaps and editorial improvements should remain in the report as the explanation
+for an intentional difference. Run the network-free fixtures with
+`just parity-audit-test`.
+
+## Accessibility Checks
+
+Run `just a11y-audit` to build Hugo without Pagefind and scan every generated
+HTML page for structural accessibility regressions. See the
+[WCAG 2.2 AA audit](docs/accessibility-audit.md) for the automated and manual
+results, remediation, and tracked content exceptions.
+
 ## License
 
 Content is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

@@ -5,6 +5,7 @@ drupal_node_id: 1548
 source_type: "Text"
 url: /women-and-stalinism-newspaper-womens-roles
 image: /images/Icons-Article-Excerpt_10.jpg
+image_alt: "image of the article"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 46
 source_type: "Image"
 url: /girl-mossi-doll-burkina-faso
 image: /images/mossi-doll-burkina-faso_d9aa356e3c.jpg
+image_alt: "Photograph of girl from a village in the Mossi country of Burkina Faso"
 regions: 
   - "Africa"
 subjects: 

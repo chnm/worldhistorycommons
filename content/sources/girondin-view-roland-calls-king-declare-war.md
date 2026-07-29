@@ -5,6 +5,7 @@ drupal_node_id: 1487
 source_type: "Text"
 url: /girondin-view-roland-calls-king-declare-war
 image: /images/Icons-Document_260.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2916
 source_type: "Image"
 url: /plans-social-housing-france
 image: /images/Plans_for_La_Duchère.jpg
+image_alt: "Plans for La Duchère, in western Lyon, c. 1960.  Lyon Municipal Archives, Lyon, France."
 regions: 
   - "Europe"
 subjects: 

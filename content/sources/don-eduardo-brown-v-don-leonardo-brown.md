@@ -5,6 +5,7 @@ drupal_node_id: 1142
 source_type: "Text"
 url: /don-eduardo-brown-v-don-leonardo-brown
 image: /images/Icons-Document_16.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

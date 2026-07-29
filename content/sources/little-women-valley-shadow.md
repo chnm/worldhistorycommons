@@ -5,6 +5,7 @@ drupal_node_id: 422
 source_type: "Text"
 url: /little-women-valley-shadow
 image: /images/Little-Women.jpg
+image_alt: "Little Women"
 regions: 
   - "North/Central America"
 subjects: 

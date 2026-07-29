@@ -30,6 +30,8 @@ related_sources:
   - link: "/act-declaration-independence-ukraine"
     image: "/images/UrkraineIndependenceTHUMB.jpeg"
     alt: "Image of text in Ukrainian of Declaration. Transcription and translation provided with source."
+how_to_cite: |
+  "Long Teaching Module: Border Changes of the Soviet Union," in World History Commons, https://worldhistorycommons.org/long-teaching-module-border-changes-soviet-union [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -66,6 +68,8 @@ Although relatively bloodless, the post-Soviet transition has not been an easy o
 
 ![Map of Europe, 1918](/images/Europe_1918THUMB.jpeg)
 
+#### Annotation
+
 This map illustrates European borders prior to the start of WWI in 1914 with black lines and new states formed by the First World War in red. As the map illustrates, a number of states became independent from Tsarist Russia. What new states were these? Do you think that newly found independence had an affect on nationalist movements in these areas? Take a look at [this source](https://worldhistorycommons.org/cold-war-europe-military-alliances-map), which is a map of European borders after WWII. Do you think the borders after WWI helped to prevent nationalist movements and tensions between neighbors in the interwar years? For states that lost territory, do you think independence was accepted by the former controlling empire? For states that remained independent for only a fraction of time or the duration of the interwar years, do you think that they voluntarily became incorporated into new states? Might these two periods of rapid and substantial border changes have had lasting consequences to the present day?
 
 This source is part of the [teaching module on border changes of the Soviet Union.](https://worldhistorycommons.org/long-teaching-module-border-changes-soviet-union)
@@ -73,6 +77,8 @@ This source is part of the [teaching module on border changes of the Soviet Unio
 ### [Cold War Europe Military Alliances Map](/cold-war-europe-military-alliances-map)
 
 ![Cold War Europe Military Alliances Map](/images/Cold_war_europe_military_alliances_map_enTHUMB.png)
+
+#### Annotation
 
 This map illustrates which states in Europe belonged to NATO or the Warsaw Pact military alliance. The white states were neutral. This map illustrates the infamous Iron Curtain and the split between West and East. Which of these states belonged to the Warsaw Pact? For the states that belonged to the Warsaw Pact, were they satellite states or republics of the Soviet Union? Compare your list of Warsaw Pact states with the new NATO states illustrated on [this map](https://worldhistorycommons.org/history-nato-expansion-map). Which states had been Warsaw Pact states and now belong to NATO?
 
@@ -82,6 +88,8 @@ This source is part of the [teaching module on border changes of the Soviet Unio
 
 ![History of NATO Expansion Map](/images/History_of_NATO_enlargementTHUMB.png)
 
+#### Annotation
+
 This map shows the expansion of NATO over time. Have students identify the most recently states to join NATO. Which states have joined NATO after the collapse of communism? Which of these newer NATO states had been Soviet satellite states as opposed to full republics of the Soviet Union? Which countries of interest do these newer members of NATO border? What are current relations like between the two types of former Warsaw Pact nations, those that joined NATO and those that have not? Is there any correlation between a breakdown of relations between nations over the transition from Warsaw Pact to NATO? Why might this be the case? Could those states that have not joined NATO be worried about neighbors joining their former foes? Do they feel threatened or that a foreign power in intervening in their sphere of influence? If so, why? What historical justifications might these nations have, perhaps related to the borders as shown the [1918 map of Europe](https://worldhistorycommons.org/map-europe-1918)?
 
 This source is part of the [teaching module on border changes of the Soviet Union.](https://worldhistorycommons.org/long-teaching-module-border-changes-soviet-union)
@@ -89,6 +97,8 @@ This source is part of the [teaching module on border changes of the Soviet Unio
 ### [Act of Declaration of Independence of Ukraine](/act-declaration-independence-ukraine)
 
 ![Act of Declaration of Independence of Ukraine](/images/UrkraineIndependenceTHUMB.jpeg)
+
+#### Annotation
 
 This source is one example of a former Soviet republic declaring its independence from the Soviet Union. Who created this document? What reasons does the document creator give for wanting to secede from the Soviet Union? What does this document suggest and what is the most telling language in this document that supports its main claims? Do the authors of the document have any justification for the claims they make? Are they historical and if so, how far back in time do they go? Looking at the [map of NATO and current post-Soviet state borders](https://worldhistorycommons.org/history-nato-expansion-map), can you identify the borders of Ukraine? How long as Ukraine had these borders?
 
@@ -98,6 +108,8 @@ This source is part of the [teaching module on border changes of the Soviet Unio
 
 ![The Alma-Ata Declaration](/images/Icons-Document-thumbnail.jpg)
 
+#### Annotation
+
 This document is a translation of the Belovezh Accords, the agreement which essentially declared that the Soviet Union ceased to exist. Those who signed it agreed to form a Commonwealth of Independent States (CIS). Which states were signatories of the Belovezh Accords? Were these all of the former Soviet republics or not? Which states did not sign? What did signing the accords declare the end of? What did signing the accords create? What did signatories promise in relation to one another? Do you see any evidence of these accords existing to this day? To what extent do you see a major break from these accords to this day? Do you think the CIS still exists, and if so, who do you think is still part of it? Do you think some states might have left the CIS in recent years? If so, who might they have been and why?
 
 This source is part of the [teaching module on border changes of the Soviet Union.](https://worldhistorycommons.org/long-teaching-module-border-changes-soviet-union)
@@ -106,10 +118,11 @@ This source is part of the [teaching module on border changes of the Soviet Unio
 
 ![Mikhail Gorbachev’s Resignation Speech](/images/Icons-Document-thumbnail_713_0.jpeg)
 
+#### Annotation
+
 This is a transcript of Gorbachev’s resignation speech. This speech signified the complete end of the Soviet Union. According to the speech, what reasons does Gorbachev give for his resignation? What is the overall tone of this document? Why do you think Gorbachev uses this tone? Look again at the [Act of Declaration of Independence of Ukraine](https://worldhistorycommons.org/act-declaration-independence-ukraine) and the [Alma-Ata Declaration](https://worldhistorycommons.org/alma-ata-declaration), how are the events captured in these two documents referenced by Gorbachev in this document? Do you think that Gorbachev’s actions were accepted? How might different countries that had been part of the Warsaw Pact or the Soviet Union have reflected upon Gorbachev’s resignation at the time? Do you think some of these countries might reflect differently about this event over 30 years later? If so, why? For another perspective on this speech view this [contemporary news report on YouTube](https://www.youtube.com/watch?v=4lPjMh1zpEo).
 
 This source is part of the [teaching module on border changes of the Soviet Union.](https://worldhistorycommons.org/long-teaching-module-border-changes-soviet-union)
-
 
 ## Credits
 

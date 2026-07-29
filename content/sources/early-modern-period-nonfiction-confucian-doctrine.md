@@ -5,6 +5,7 @@ drupal_node_id: 1635
 source_type: "Text"
 url: /early-modern-period-nonfiction-confucian-doctrine
 image: /images/Icons-Document_388.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1209
 source_type: "Text"
 url: /islamic-empire-religious-text-confederation-sura
 image: /images/Icons-Literary-Source_1.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

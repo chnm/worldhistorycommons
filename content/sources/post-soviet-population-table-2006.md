@@ -5,6 +5,7 @@ drupal_node_id: 625
 source_type: "Image"
 url: /post-soviet-population-table-2006
 image: /images/Post-Soviet-Population.jpg
+image_alt: "Post-Soviet population table"
 regions: 
   - "Asia"
   - "Europe"

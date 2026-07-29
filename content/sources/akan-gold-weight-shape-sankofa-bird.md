@@ -5,6 +5,7 @@ drupal_node_id: 2772
 source_type: "Object"
 url: /akan-gold-weight-shape-sankofa-bird
 image: /images/Brooklyn_Museum_45.11.5_Gold_Weight_in_Form_of_Sankofa_Bird.jpg
+image_alt: "Gold sculpture of a bird with it's head turned backwards"
 regions: 
   - "Africa"
 subjects: 

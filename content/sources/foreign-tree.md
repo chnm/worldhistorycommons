@@ -5,6 +5,7 @@ drupal_node_id: 170
 source_type: "Image"
 url: /foreign-tree
 image: /images/da5b1f6952d24063ebf568431861924a.jpg
+image_alt: "Print of symbolic tree of British liberty"
 regions: 
   - "Europe"
 subjects: 

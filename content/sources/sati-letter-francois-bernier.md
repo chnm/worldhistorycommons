@@ -5,6 +5,7 @@ drupal_node_id: 1640
 source_type: "Text"
 url: /sati-letter-francois-bernier
 image: /images/Icons-Document_393.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

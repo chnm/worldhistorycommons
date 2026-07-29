@@ -5,6 +5,7 @@ drupal_node_id: 1211
 source_type: "Text"
 url: /islamic-empire-religious-text-marriage-customs
 image: /images/Icons-Literary-Source_2.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 138
 source_type: "Image"
 url: /children-and-daguerreotypes
 image: /images/daguerreotype_handout1_5100fdfa23.jpg
+image_alt: "Four examples of the first commercially available photo process"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1159
 source_type: "Text"
 url: /ottoman-decree-1856
 image: /images/Icons-Document_21.jpg
+image_alt: "image of the text"
 regions: 
   - "Middle East"
 subjects: 

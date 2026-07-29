@@ -5,6 +5,7 @@ drupal_node_id: 203
 source_type: "Image"
 url: /people-reading-gazette
 image: /images/gazette.jpg
+image_alt: "People Reading the Gazette"
 regions: 
   - "Europe"
 subjects: []

@@ -5,6 +5,7 @@ drupal_node_id: 158
 source_type: "Image"
 url: /cremation-rites-youngest-son-calcutta-1944
 image: /images/wwii-0003-cremation-photos-calcutta_9d05452cf9.jpg
+image_alt: "Photograph of Hindu cremation ceremony"
 regions: 
   - "Asia"
 subjects: 

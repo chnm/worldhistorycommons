@@ -5,6 +5,7 @@ drupal_node_id: 1639
 source_type: "Text"
 url: /early-modern-period-autobiography-gluckel-hameln
 image: /images/Icons-Document_392.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

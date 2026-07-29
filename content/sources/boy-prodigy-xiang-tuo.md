@@ -5,6 +5,7 @@ drupal_node_id: 291
 source_type: "Image"
 url: /boy-prodigy-xiang-tuo
 image: /images/xiangtuo.jpg
+image_alt: "The Boy Prodigy: Xiang Tuo"
 regions: 
   - "Asia"
 subjects: 

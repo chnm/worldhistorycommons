@@ -19,6 +19,8 @@ related_sources:
   - link: "/fundraising-palestinian-families-jerusalem"
     image: "/images/fundraising-for-family-thumbnail.jpeg"
     alt: "Fundraising for Palestinian Families in Jerusalem image thumbnail"
+how_to_cite: |
+  "Analyzing Oral Histories," in World History Commons, https://worldhistorycommons.org/analyzing-oral-histories [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -31,6 +33,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Fundraising for Palestinian Families in Jerusalem](/images/fundraising-for-family-thumbnail.jpeg)
 
+#### Annotation
+
 This is a photograph of Palestinian women activists, shedding light on the political experience of women in Palestine. The leadership of the movement ended up mostly being single women because most of the women involved in the movement were married, had family responsibilities.
 This source is a part of the [*Analyzing Oral Histories*](https://worldhistorycommons.org/analyzing-oral-histories?page=0%2C1) methods module.
 
@@ -38,9 +42,10 @@ This source is a part of the [*Analyzing Oral Histories*](https://worldhistoryco
 
 ![Interview with Sa’ida Jarallah](/images/saida-jarallah-interview-thumbnail.png)
 
+#### Annotation
+
 Read the excerpt on this page of an oral history interview taken by Professor Ellen Fleischmann. In it, Sa’ida Jarallah, one of the first Palestinian Muslim women to study abroad, discusses her life, especially the social and cultural aspects of growing up as a young woman in the 1930s.
 This source is a part of the [*Analyzing Oral Histories*](https://worldhistorycommons.org/analyzing-oral-histories?page=0%2C1) methods module.
-
 
 ## Credits
 
@@ -48,10 +53,10 @@ Ellen Fleischmann received her PhD from Georgetown University and is Associate P
 
 Grateful Acknowledgement is made to the following institutions and individuals for permission to publish material from their collections:
 
-Aziz al-Azmeh, Private collection  
-Orayb Najjar, Palestine Exploration Fund  
-Walid Khalidi, Before Their Diaspora: A Photographic History of the Palestinians,1876-1948 (Washington, D.C.: Institute for Palestine Studies, 1991), and the  
-Institute for Palestine Studies, http://www.palestine-studies.org/  
+Aziz al-Azmeh, Private collection<br>
+Orayb Najjar, Palestine Exploration Fund<br>
+Walid Khalidi, Before Their Diaspora: A Photographic History of the Palestinians,1876-1948 (Washington, D.C.: Institute for Palestine Studies, 1991), and the<br>
+Institute for Palestine Studies, http://www.palestine-studies.org/<br>
 For:
 
 * Palestinian women, Jerusalem, 1930s

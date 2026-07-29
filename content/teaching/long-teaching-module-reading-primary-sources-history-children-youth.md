@@ -33,6 +33,8 @@ related_sources:
   - link: "/egyptian-ramadan-lanterns"
     image: "/images/2053_067-children-night-street-lanterns-combined_0dd1dfe4b6THUMB.jpg"
     alt: "Thumbnail of girl looking at lantern"
+how_to_cite: |
+  "Long Teaching Module: “Reading” Primary Sources on the History of Children & Youth," in World History Commons, https://worldhistorycommons.org/long-teaching-module-reading-primary-sources-history-children-youth [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -59,12 +61,16 @@ How do you study the history of young people? What can primary source documents 
 
 ![Puppeteers Painting](/images/itcho_children_thumbnail.jpeg)
 
+#### Annotation
+
 This is an ink painting on a scroll by Hanabusa Itchô (born Taga Shinkô), a Japanese artist of the early Tokugawa period (1600–1868). Tokugawa artists typically used pen names and Itchô used several names at different times as an artist and poet. This black and white image, showing two puppeteers entertaining children, is a detail from one of 36 paintings in Itchô's *zatsu-gachô* or "miscellany sketchbook," many of which have been lost. Itchô is best known for his *genre paintings*, scenes of ordinary life on the streets of Edo. Children sometimes appear in these scenes, along with dogs, street vendors, traveling entertainers and other characters, often portrayed with a light, almost humorous touch.
 This source is a part of the [*Play in Tokugawa Japan*](https://worldhistorycommons.org/short-teaching-module-play-tokugawa-japan) teaching module and the [*Students’ Guide to “Reading” Primary Sources on the History of Children & Youth*](https://worldhistorycommons.org/students%E2%80%99-guide-%E2%80%9Creading%E2%80%9D-primary-sources-history-children-youth) methods module.
 
 ### [Komori [Nursemaid] Songs (kazoe-uta)](/komori-nursemaid-songs-kazoe-uta)
 
 ![Komori [Nursemaid] Songs (kazoe-uta)](/images/Icons-Document-thumbnail_167.jpg)
+
+#### Annotation
 
 During the modern Imperial period (1868-1945), daughters of poor Japanese families worked as komori taking care of their own siblings or working as indentured servants for other poor families. The state's efforts to foster Japanese citizenship and feminize the komori led to programs aimed at making them more maternal.
 The first song is one that was sung by a teacher who taught komori girls in the town of Matsumoto around the turn of the century. This song was part of the broader educational curriculum designed to replace the songs of the komori that were deemed "coarse" and "vulgar" by teachers and other adults who represented the interests of the modern state.
@@ -76,6 +82,8 @@ This source is a part of the [*Students’ Guide to “Reading” Primary Source
 
 ![Child Labor at La Rinconada](/images/412_1e7a8e3180THUMB.jpg)
 
+#### Annotation
+
 This photograph is of a boy between 6-10 years of age who works in the La Rinconada gold mine in the mountainous region of Peru. La Rinconada is the highest gold mine in the world, 5,500 meters above sea level in the Andes, and under a glacier, and its camp is populated by about 20,000 people who live under economically exploitative and impoverished conditions. The boy seen here works as a quimbalatero, or stone crusher, who quarries ore from gold-bearing rocks by striking them with a heavy hammer.
 The image was taken as documentation of child labor by a photographer for the International Labour Organization (ILO) for its [International Programme on the Elimination of Child Labour (IPEC)](http://www.ilo.org/ipec/lang--en/) project. According to ILO definitions, unacceptable types of child labor are those that can be harmful to physical and mental development, to children’s dignity, and of a kind that “deprives children of their childhood.” Such child labor should be eliminated if it is mentally, physically, socially or morally dangerous and harmful to children; if it interferes with their schooling by preventing them from attending school, obligates them to leave school prematurely, or requires excessively long and heavy work so as to compromise children's ability to attend school or learn effectively. Mining work such as this meets the criteria as harmful because it exposes child workers to hazards of extreme cold, is physically demanding, and provides no protection for their eyes and hands. Children in mining camps are routinely exposed to mercury poisoning in so-called “artisanal mines,” family mining operations in which whole families are employed, sometimes including toddlers. Such operations often produce tiny amounts of gold by quarrying flakes from large quantities of rock, bringing in very little income for the expense in time and toxic exposure.
 A recent ILO Global Report "The end of child labor: Within reach" published in 2006 showed that Latin American and Caribbean countries have experienced declining numbers of child laborers. Projects such as Bolsa Familia in Brazil offers families financial incentives to send their children to school, in addition to citing employers who exploit children, and educating parents and older children on the hazards of child labor. The number of children at work in the region has fallen by two-thirds, with just 5 percent of children now engaged in unsatisfactory child labor. The IPEC project in La Rinconada works to help families access health, education, and nutrition services, and to address working conditions for adults in the mines.
@@ -83,6 +91,8 @@ A recent ILO Global Report "The end of child labor: Within reach" published in 2
 ### [Egyptian Ramadan Lanterns](/egyptian-ramadan-lanterns)
 
 ![Egyptian Ramadan Lanterns](/images/2053_067-children-night-street-lanterns-combined_0dd1dfe4b6THUMB.jpg)
+
+#### Annotation
 
 The photograph at the top shows two children gazing into the soft light of a fanoos [fan-NOOS], or traditional Ramadan lantern. In the photograph below, Ramadan lanterns are hung outside a shop in a section of medieval Cairo. As far as is known, the tradition originated in Egypt, perhaps as long ago as pharaonic times, when it may have announced the Nile flood. The tradition in its current form may date to the Fatimid period (969-1171 CE). It isn’t clear when the custom became associated with the Islamic holiday of Ramadan, the ninth month of the Islamic lunar calendar, when Muslims keep the fast from dawn to sunset. Indeed, lanterns and lamps of various kinds, of many hues and degrees of brightness, and even both real and imaginary, have always been special to Egypt. For centuries before the coming of electricity, Cairo itself was noted for its spectacular use of lanterns to illuminate the city, especially during the holy month of Ramadan.
 The tradition of the colorful lanterns is coupled with the song, which children sing as they process through the streets of Egyptian, and especially Cairene neighborhoods announcing the coming of Ramadan, and collecting coins and sweets. The words of the song that are not translated are obscure, perhaps referring to fire or light (wahawi, ya wahawi). "You have gone, O Sha'ban" refers to the lunar month before Ramadan, and "the daughter of the Sultan is wearing her caftan" means she is dressed in a loose, often embroidered garment worn when going out and on holidays. "Give us this season's gift" is a plea for the small presents children would receive from adults for going out in procession to announce the coming of Ramadan.
@@ -92,17 +102,23 @@ Children are typically very excited about the coming of Ramadan, because it is a
 
 ![Soccer Ball Assembly Using Child Labor](/images/soccer-ball-workers.jpg)
 
+#### Annotation
+
 This photograph of a boy stitching together the parts of a soccer ball was taken in Pakistan in 1998 to document the use of child labor in manufacturing soccer balls and other athletic equipment in South Asia. In the upper right hand corner of the photo, a young girl is also working. Working long hours after or instead of school, child laborers suffer back injuries from crouching over a wooden device that helps tightly hold the pentagonal tiles that make up the surface of the ball. Child laborers also suffer cuts from the waxed cord and needles used to stitch the pieces together. The city of Sialkot in Pakistan, a center of mass production for sports equipment for more than a century, produced three out of four match-grade balls used in the world in 1998—a $200 million dollar export industry for the city, according to a CNN report broadcast in April 1998. Sialkot came to the attention of consumer groups and sports journalists during the late 1990s, for the city’s extensive use of child laborers producing brand-name sports equipment for the largest multi-national corporations globally. Use of child labor is especially ironic since soccer is such a popular game for children worldwide, and a staple of youth recreation programs. In order to avoid boycotts of their products, a campaign of public awareness sought to assure consumers that the balls were not produced by children and that adult laborers were paid a fair-wage. While the soccer balls included labels stating that they were made without the use of child labor, photographs reveal that the labels were actually attached to the balls by child workers. Large companies have escaped responsibility and visibility by using middle-men as contractors. Since the 1990s, the industry has shifted to other locations, including northern India, and continues to employ child laborers. This photograph is part of an extensive International Labour Organization archive that documents child labor around the world.
 
 ### [Traditional Soviet Values for Children](/traditional-soviet-values-children)
 
 ![Traditional Soviet Values for Children](/images/poster_4435f05bfeTHUMB.jpg)
 
+#### Annotation
+
 Soviet propaganda posters presented positive images of healthy, active people engaged in useful service to the state, including children. This Soviet poster from 1953 was typical of this image. Its slogan, "Pioneers and Students, Get Interested in Modeling!", coupled with the image of a happy child in the open air on a bright, sunny day, suggested the positive results of state-approved actions. The Young Pioneer Organization of the Soviet Union was a Soviet youth organization that encouraged students to be physically active and take an interest in occupations appropriate for Soviet adults. Here the students are encouraged to develop an interest in aeronautics. Other Pioneer activities included traveling to the countryside to help with the spring planting or daily exercise in the form of military-styled calisthenics. Propaganda such as this poster was one method for the Soviet regime to create an image of the positive future, an important strategy to help avoid the reality of massive shortages of food and material goods following World War II.
 
 ### [The Dance of Death](/dance-death)
 
 ![The Dance of Death](/images/dance-of-death_fd255603ccTHUMB.jpg)
+
+#### Annotation
 
 Children are not frequent subjects of medieval art, but the figure of the child does occur in a medieval artistic and literary form known as the Danse macabre or Dance of the Dead. Originating before 1348, this art form was not the result of the plague epidemics, but medieval artists found the iconic image a useful means to express the morbid and anxious views of death prevalent in the later medieval and early modern periods. Poems and murals painted on the walls of churches depicted Death, portrayed by skeletons, as drawing all members of society, from the highest secular and religious officials, down to the lowest, such as the peasant, beggar, and child, into a deadly dance to the grave. The human subjects express their dismay as intractable Death is not swayed by their riches or pleas for mercy. Although, again, this artistic form is not directly related to plague, it can be noted for our purposes that it is death that separates the child from his or her family and not the family that has abandoned the child to die. In this woodcut, Death takes a child snatched from his family and home.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
@@ -111,12 +127,16 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![The Dance of the Dead](/images/dance-of-the-dead_131a9d25c4THUMB.jpg)
 
+#### Annotation
+
 Children are not frequent subjects of medieval art, but the figure of the child does occur in a medieval artistic and literary form known as the Danse macabre or Dance of the Dead. Originating before 1348, this art form was not the result of the plague epidemics, but medieval artists found the iconic image a useful means to express the morbid and anxious views of death prevalent in the later medieval and early modern periods. Poems and murals painted on the walls of churches depicted Death, portrayed by skeletons, as drawing all members of society, from the highest secular and religious officials, down to the lowest, such as the peasant, beggar, and child, into a deadly dance to the grave. The human subjects express their dismay as intractable Death is not swayed by their riches or pleas for mercy. Although, again, this artistic form is not directly related to plague, it can be noted for our purposes that it is death that separates the child from his or her family and not the family that has abandoned the child to die.
 This source is a part of the [*Children during the Black Death*](https://worldhistorycommons.org/long-teaching-module-children-during-black-death) teaching module.
 
 ### [Child’s Life Course](/childs-life-course)
 
 ![Child’s Life Course](/images/sarcophogus-thumbnail.jpg)
+
+#### Annotation
 
 Death is part of every society, but the rituals and objects surrounding death have varied across centuries and continents. They can often reveal many things about the role of children and families within a culture, from the nature of grieving to representations of childhood, from artistic preferences to child rearing norms. Dating from the first half of the 2nd century, CE, this Roman marble sarcophagus was an expensive funerary item created to commemorate the death of a child. The sarcophagus depicts an infant, in the arms of a parent riding in a carriage, on the far right of the stone. The center of the stone shows a young child at play with a wheeled toy and moving to the left, an older child with a pet goose. The last scene, on the far left, signifies death. The parents ride in a carriage with a child between them. The torches symbolize a funeral, as does the winged Cupid.
 This source is a part of the [*Roman Children’s Sarcophagi*](https://worldhistorycommons.org/short-teaching-module-roman-children%E2%80%99s-sarcophagi) teaching module.
@@ -125,6 +145,8 @@ This source is a part of the [*Roman Children’s Sarcophagi*](https://worldhist
 
 ![Age of Menarche in Norway](/images/menarche-chart-thumbnail.jpeg)
 
+#### Annotation
+
 This graph shows us the average year of menarche, a female's first menstrual cycle (often considered the beginning of puberty), from 1860 to 1980 reported by adult female patients at maternity clinics in Norway. It also includes data from Oslo school girls that follow the same trend downward in age. The downward curve flattens around 1960 between the ages of 13 and 14. A graph like this helps to counter a single interpretation of causes for the rise in age of consent laws.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
 
@@ -132,12 +154,16 @@ This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 170
 
 ![Age of Consent Laws](/images/Age-Limit-in-Age-of-Consent-Laws-thumbnail.jpeg)
 
+#### Annotation
+
 Information on the ages used historically in western age of consent laws is not readily available. This table has been compiled from a combination of historical and contemporary sources. By 1880, the first date chosen, many western nations had established an age of consent for the first time, typically of 12 or 13 years. By 1920, when the influence of reform campaigns that established a new link between the age of consent and prostitution had run its course, most had revised their age upward, to 14 or 15 in European nations, and 16 in the Anglo-American world. In the last decades of the 20th century, states and nations with ages below those averages amended their laws to move closer to them. In Europe that growing conformity owed much to moves toward greater European integration. Given that the rationale for the age of consent has remained essentially unchanged in its emphasis on the need to protect 'immature' children, the table highlights the shifting and various definitions of childhood employed across time and cultures.
 This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
 
 ### [Birth Rituals in the Codex Mendoza](/birth-rituals-codex-mendoza)
 
 ![Birth Rituals in the Codex Mendoza](/images/Codex_Mendoza_birth_ritual_thumbnail.jpeg)
+
+#### Annotation
 
 The image from the *Codex Mendoza* (produced ca. 1535-1550) describes the Aztec birth ritual of bathing and naming the child, which, according to accounts from the 16th century, was usually held on the fourth day after birth. It was attended by the parents and kin, who gathered in the house before sunrise to feast and observe the ceremony. The midwife who aided the birth conducted the ceremony, and she is shown holding the infant. After consulting with the tonalpouhqui, a person knowledgeable in the sacred books would determine the sign of the child based on the moment of birth.
 The image is a narrative, showing a sequence of events through the use of multiple images connected by dotted lines. The midwife took the infant from the cradle near its mother and carried it to a pottery vessel filled with water, placed on a mat. The midwife's counterclockwise footprints circle the mat, where two sets of symbolic objects are placed. Male infants were given a shield and arrows, tools for wood-, feather-, and metal-work, and the scribe's implements (depicted above the mat). Female children were given domestic objects: a broom, a reed basket and a spindle (depicted below the mat). The midwife performed four rituals with the water: she invoked the goddess of water and put drops of water on the baby's mouth, telling it to receive the water it needs to live upon the earth; she touched the baby's chest with her wet hand and invoked the purifying property of water that cleans the heart; she cast drops of water on the baby's head, telling the baby to let the water enter its body to dwell there. Finally, the midwife washed the child's body to keep evil away from it. After these four rites, a boy child was presented to the sky four times, calling on the sun and the astral gods, asking that he become a warrior. A girl child was not presented to the sky—a masculine god, but after the washing the midwife spoke to the cradle asking the protection of the mother goddess. Following the ceremony, the baby was given a name, often one based on the day and time of birth.
@@ -147,6 +173,8 @@ This source is a part of the [*Codex Mendoza (16th c.)*](https://worldhistorycom
 
 ![Advice of an Aztec Mother to Her Daughter](/images/aztec-mother-thumbnail.png)
 
+#### Annotation
+
 Franciscan friar Bernardino de Sahagún recorded this text in the mid-16th century as part of an effort to gather information about native Aztec history and customs. Sahagún went to Mexico in 1529 as one of the first missionaries assigned to the newly conquered territory of New Spain. He remained there until his death, preaching and instructing youth in Spanish, Latin, science, religion, and music. He acquired mastery of the Aztec language and collected information to help missionaries and government officials convert the indigenous people to Christianity.
 The 12-volume manuscript included text, illustrations, and a grammar of the Aztec language. Completed in 1569, authorities in Spain did not want the work published in New Spain for fear of encouraging the continuation of indigenous practices. It was first published in 1829 as Historia General de las Cosas de Nueva España, with an English translation in 1831.
 The advice given to a young daughter, likely near marriageable age, in this excerpt reflects the Aztec (Nahua) philosophy of personal balance in earthly life. Moral, psychological, and physical health related to well-being, righteousness, and purity. Compare this advice with the counsel offered to young boys. In what ways does the advice for daughters differ from that of sons, and how does each relate to the principle of balance and the dangers of earthly life?
@@ -154,6 +182,8 @@ The advice given to a young daughter, likely near marriageable age, in this exce
 ### [Der Struwwelpeter (Slovenly Peter)](/der-struwwelpeter-slovenly-peter)
 
 ![Der Struwwelpeter (Slovenly Peter)](/images/cyhstruwwelpeterpix_7f1fb5a9e5THUMB.jpg)
+
+#### Annotation
 
 Published in 1858, Der Struwwelpeter (Shaggy Peter) is a German children's book first published anonymously under a different title in 1845 by Heinrich Hoffman. Hoffman, a Frankfurt physician and father, wrote the book after realizing that there were none he wanted to buy for his 3-year-old son for Christmas. The first English translation was published in 1848. While living in Berlin with his family in 1891, Mark Twain translated the book he gave to his three daughters for Christmas. According to one, her father had been motivated by his close identification with the children in Der Struwwelpter. Twain's American version, Slovenly Peter, was published in 1935.[1]
 The 10 cautionary tales told in rhyme are accompanied by vivid illustrations of boys and girls in nightmarish scenarios. The cartoon-like illustrations depict the dire consequences of such disobedient and unwise behavior as: poor hygiene, cruelty, playing with matches, bullying, thumb sucking, eating poorly, fidgeting at the table, and not paying attention while walking. While many German parents today find the tales disturbing, those who raised their children during the early decades of the 20th century found them useful for childrearing. Parents' mention of a specific character in Der Struwwelpeter kids knew well served as short-hand criticism of objectionable behavior.
@@ -166,6 +196,8 @@ A version of the American translation, Struwwelpeter: Merry Tales and Funny Pict
 
 ![Jumping Rope](/images/cyhskiptext.jpg)
 
+#### Annotation
+
 Lydia Maria Child included this selection on how to jump rope in The Girls Own Book, a book published in 1833. Why did girls in early 19th-century America need instructions on how to jump rope? Why did Child's feel the need to caution girls? Ever since boys had first begun to jump through hoops and with ropes on cobblestoned streets in 17th-century Europe, jumping rope had been considered a game not suitable for girls.
 By the early 19th century, the emergence of a new gendered ideology that promoted passivity and domesticity appeared to reinforce earlier proscriptions that limited girls' play. Yet the recommendations of antebellum child-rearing advisors suggest that many believed that active play was good for girls. Along with Child, other experts predicted that open-air exercise would improve girls' dexterity, scientific inquiry, patience, diligence, as well as strengthen their characters and rid them of debilitating medical conditions.
 In contrast to the innumerable depictions of idealized girls playing passively indoors, real girls engaged in unfettered and vigorous games in fields, rivers, quarries—even cemeteries. Girls' new freedom of movement had been made possible by recent changes in clothing fashions. Girls' shorter dresses ("frocks") enabled them to skate, sled, run, and romp. Yet it was the introduction of "pantalettes" or "pantaloons" (the loose pants worn under dresses seen in this illustration) that enabled girls to make the game of jumping rope their own.
@@ -175,6 +207,8 @@ Elsewhere in the U.S. and around the world the game has had different methods an
 
 ![Hobby Horse](/images/cyhhobbyhorse.jpg)
 
+#### Annotation
+
 This oil on canvas painting by an unknown American folk artist was painted around 1840. It depicts two siblings at play. While their mother is absent from the picture, she presided over the "private sphere" of the home as prescribed by the ideology of "separate spheres" that defined everyday life in 19th-century America. Charged with raising boys to be citizens (and girls to be wives and mothers of citizens), it was mothers' moral duty to oversee the development of their children's "good character." As a result, sons under the age of 6 inhabited the domestic sphere along with their sisters where they were dressed in the same loose-fitting pantaloons, dresses, and petticoats.
 Although both girls and boys both donned silk, satin, and velvet dresses, there were differences in their apparel and activities. Young boys were distinguishable from girls by their hairstyle (boys were more likely to wear side parts) and hats. Boys also engaged in different play activities: it was considered indecent for girls to straddle a rocking horse. Rocking on the "hobby horse" enabled boys like this youngster to practice the balancing ability he would need in order to ride a real horse as he took his place in the "public sphere." Riding the rocking horse and brandishing a whip also provided boys with the opportunity to practice the skills and sensibilities of masculinity—independence, mastery, confidence, control, courage, and dominance. The boy's placement at the center of the painting and protectively above and in front of his older sister, also prescribed his position in the Victorian gender hierarchy where he would perform manliness through initiative, competition, forcefulness, and rationality.
 Compare this work with images of children in other folk art paintings. How else are girls and boys represented?
@@ -183,12 +217,16 @@ Compare this work with images of children in other folk art paintings. How else 
 
 ![Selling Toys](/images/hm_toy_vendor_ab7f84d15a_thumbnail2.jpg)
 
+#### Annotation
+
 These photographs come from [The Hedda Morrison Photographs of China, 1933-1946](http://chnm.gmu.edu/cyh/website-reviews/127) website, a collection of photographs that provide a perspective on childhood in a period that bridges the conclusion of the Qing dynasty (1644-1911) and the rise of a new 20th-century republic in China. Morrison, a native of Germany, spent time as a resident of Beijing where she built a rich collection of photographs of daily life during the 1930s and early 1940s. Among many topics, Morrison was particularly interested in street scenes and composed photos of shops, commerce, street-side entertainments, and the daily life of local residents. Included among these are a good number of images of children. These three images focus on the street-side sale of toys, sold by adults to children and also sold by children as seen in the third image. An exploration of these images raises intriguing issues regarding some of the material objects that made up a child's daily life (or part of a special occasion) as well as the social roles attached to their production, sale, and consumption. Indeed, it would seem – unlike the patterns of toy consumption enjoyed by children in a later day – that these roles overlapped greatly.
 This source is a part of the [*Children in Late Imperial China, 900-1930*](https://worldhistorycommons.org/long-teaching-module-children-late-imperial-china-900-1930) teaching module.
 
 ### [Dan Passport Masks](/dan-passport-masks)
 
 ![Dan Passport Masks](/images/dan-passport-mask2THUMB.jpg)
+
+#### Annotation
 
 This small, mask ( 9.5 cm high and 5 cm wide) carved from wood is called a "passport" mask because it was worn on the body, kept in a leather pouch, or sewn onto a piece of cloth to represent group or family affiliation. Passport masks are used by the Dan people, a group of several hundred thousand people in the western part of the Côte d’Ivoire and into Liberia. They live in a forested region bordering the savannah in the north, for whom farming cocoa, coffee, rice and manioc, and hunting game and fish provide rural livelihoods. Each village is governed by a chief and council of elders. Both boys and girls receive formal recognition of their adulthood and readiness for marriage by participating in initiation rituals. Specific teachings, a period of time in seclusion in the bush for boys, and circumcision rituals for both genders are included in the rites of passage. The masks are miniature copies of family masks which act as witnesses to initiation ceremonies and are believed to offer protection like amulets when their owner is away from home.[1]
 [1] Elizabeth Skidmore Sasser, The world of spirits and ancestors in the art of western sub-Saharan Africa (Lubbock, TX: Texas Tech University Press, 1995), 83-84. [↩](#ref1 "Jump back to footnote 1 in the text.")
@@ -197,12 +235,16 @@ This small, mask ( 9.5 cm high and 5 cm wide) carved from wood is called a "pass
 
 ![Little Mischief](/images/Little_Mischief.jpg)
 
+#### Annotation
+
 This 25-second "kinetoscope" shot on Vitagraph's roof-top studio in New York City by Thomas A. Edison Inc. in 1898/1899, sheds light on shifting notions of girlhood at the turn of the 20th century. In Victorian children's stories, a father who buried his head in a newspaper was a standard trope that spoke of paternal preoccupation with the pressing demands of the world beyond the home at the expense of a sad yet submissive daughter. Tricking father into thinking that a fly is tickling his neck, the middle-class girl in this short narrative reveals a number of different profound social forces at work at the dawn of the modern age: the erosion of paternal authority and the ascendance of an active, assertive, and imaginative girlhood.
 The mischievous boy who was as devilish as he was delightful had appeared widely in literature (e.g., Tom Sawyer and Huckleberry Finn), American genre painting, and popular culture (including Edison's 1904 films based on the turn-of-the-century cartoon character, Buster Brown). However pervasive among boys and as a symbol of boyhood, there was no counterpart among representations of girls in American culture. This film of the female troublemaker reveals the ways in which girls were expanding their boundaries as well as the growing acceptance of a broader range of roles for girls, including comedy. Little Mischief's prank not only tickled her father, but turn-of-the-century viewers.
 
 ### [Slave Coffle, Central Africa, 1861](/slave-coffle-central-africa-1861)
 
 ![Slave Coffle, Central Africa, 1861](/images/slave-coffle_-central-africa_-1861-_image__6a0ca85048THUMB.jpg)
+
+#### Annotation
 
 This image shows children and adults making their way from the African interior to the coast in a slave coffle. While some may think that children were given special treatment because of their age, and some may have, this image suggests that this was not always the case. Teachers should caution students that this is also an image commissioned by abolitionists, who often used children to make a point. This does not mean that children did not travel in coffles as is pictured here, but abolitionists used images like these to gain support for their cause.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
@@ -211,11 +253,15 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![Isn't she a little young?](/images/billboard.jpg)
 
+#### Annotation
+
 This billboard was erected across the American state of Virginia in the summer of 2004 as part of a state health department campaign aimed at reducing statutory rape (the crime of sex with an underage girl). Napkins, stickers, coasters, and matchbooks bearing the same message were distributed to bars and restaurants where young men congregated. It followed similar public education campaigns mounted by other states in the late 1990s. Ads and billboards in Connecticut in 1994 depicted men in prison accompanied by the slogan, "Rob the cradle and get yourself a brand new crib." Ads in California in 1997 featured a young man saying, "Nobody told me that sex could be against the law. Statutory rape? Never heard of it." A voiceover then added, "Sex with a minor is a major crime . . . If you're an adult and have sex with a minor—someone under 18—you'll do major time." The ad ended with the sound of a jail door slamming shut. The Virginia Department of Health was motivated by a concern about teenage pregnancy, and a perception that enforcing the age of consent would reduce the number of girls who became pregnant by older men. That connection made the age of consent a public health problem. The billboard highlights a belief that education and awareness of the law could shape public opinion and behavior. This source is a part of the [*Sexuality, Marriage, and Age of Consent Laws, 1700-2000*](https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000) teaching module.
 
 ### [The Red Shoes](/red-shoes)
 
 ![The Red Shoes](/images/red_shoesTHUMB.jpg)
+
+#### Annotation
 
 Folktales have been used for generations to teach moral tales to children. They have shifted over time depending upon the generation and location of the tale but remain part of the childhood experience for many young people. "The Red Shoes" published by Hans Christian Andersen in 1845 is a quintessential European folktale. It tells a moral tale based upon the idea of temptation and eventual redemption. The story is based upon the protagonist's desire for a pair of shoes and the consequences of her temptation. Andersen's use of Christian morality in his tale offers insight into European culture during the 19th century. Christianity was a powerful cultural influence and that is evident in the story. The church is a focal point throughout the moral tale and the themes of redemption and temptation directly connect to the Christian values that are taught to children.
 The illustration is a woodcut from the 1849 German and Danish editions of a collection of Hans Christian Andersen stories. The illustrator is Thomas Vilhelm Pedersen (1820-1859), a Danish naval lieutenant whose illustrations were favored by Andersen himself, and have been closely associated with the tales since. Pedersen captures the story's mood with the sparse, dramatic background of the churchyard with gravestones, scraggly vegetation, and undulating horizon. The two figures present a stark contrast: the large, unyielding figure of the male angel with its arm outstretched to decree Karen's fate, and the helpless motion of Karen's figure, her windswept hair and dress, her feet in mid-air, and the frightened expression of her face and arms as if trying to flee.
@@ -225,6 +271,8 @@ This source is a part of the [*Children, Culture, and Folktales*](https://worldh
 
 ![Meng Ch'iu, Empress Ma in coarse-woven silk](/images/Icons-Book-Excerpt-thumbnail_16.jpg)
 
+#### Annotation
+
 "Meng Ch'iu" translates as "Beginner's Guide." This text by Li Han, who lived during the early Tang Dynasty (618-907), presented the stories of famous figures in China's history and legendary tales. It joined a prominent genre of literature for children as one of the many instructional texts that took both history and biography as its focus. Not only would Meng Ch'iu serve as an educational text, it would also have an influence on popular drama through the dramatic stories it shared—thrilling stories that, for critics of a later day, particularly during the Ming Dynasty (1368-1644), were criticized as lacking in the proper themes for a moral education.
 This excerpt, "Empress Ma in coarse woven silk…" offers a depiction of an ideal female figure from an ancient period in Chinese history, her childhood accomplishments and lifetime course as she rose in modest yet powerful fashion to the role of empress. The passage offers evidence of the ways in which the ideal female role among elite women was imagined, the important relationship between child and parent – particularly mother and son. Indeed, this was often a powerful relationship in Chinese society as while daughters married "out," moving in and taking on another family, most sons spent their lives at home. The relationship of mother and son was thus often a close one of both emotion and obligation. This text also offers evidence of the complexity of Chinese families in an imperial period in which wealthy men would have multiple consorts and children themselves both "birth" mothers and official mothers by way of marriage.
 This source is a part of the [*Children in Late Imperial China, 900-1930*](https://worldhistorycommons.org/long-teaching-module-children-late-imperial-china-900-1930) teaching module.
@@ -233,6 +281,8 @@ This source is a part of the [*Children in Late Imperial China, 900-1930*](https
 
 ![The School Journal, 1907 - [Magazine]](/images/schooljournal_thumb.png)
 
+#### Annotation
+
 Although early issues of the *School Journal* drew extensively on a British literary heritage and reinforced imperial values, even in its first year of publication by the New Zealand Department of Education (1907), there were stories, articles and poetry authored locally and written about the colonial heritage and environment. That early creativity was submerged during and after World War I by preoccupations of empire, patriotism, nationhood, grammar and good behavior. Yet even in this period, when the four-part *School Journal* contained few illustrations and was mundane in both appearance and content, contemporary accounts emphasized that its monthly distribution in primary schools, free of charge, was eagerly awaited by many children who had little access to books or libraries.
 In 1939, however, under the inspired direction of newly-appointed Director of Education, Clarence Beeby, a School Publications branch was founded within the Department and the *School Journal* was transformed. Its primary focus was clear and consistent: to foster a love of reading and to engage children's curiosity and imagination. With editorial direction largely by literary figures and regular contributions from many of the country's leading writers and artists, curriculum issues and creative impulses have continued to co-exist in the publication. While not rigidly formulaic, the content of each *Journal* has generally been 5-10% poetry, 40-55% stories, 15-20% articles, and 15-20% plays. The mixture of fantasy, realism, folk tales, and historical topics has also been carefully balanced. Contemporary social trends are reflected in both text and image, as with the *Journal's* recognition of immigration patterns and the greater cultural diversity of New Zealand society since the 1970s. Topics warranting more detailed treatment, such as the Treaty of Waitangi, have generally been explored by contract writers in more detailed Bulletins, also produced by School Publications (until 1989 and thereafter in the newly-created entity, Learning Media).
 In his recent centennial history, *A Nest of Singing Birds: 100 Years of the New Zealand School Journal* (Learning Media, Wellington, 2007), author Gregory O'Brien noted the contrasting sets of values which had been explored at different phases of the publication's existence. In 1908, and reproduced in 1917, the virtues extolled were "faith, courage, duty, self-discipline, fair dealing, even justice, good citizenship, loyalty, patriotism and sympathy," all to be applied in the service of Empire. In 2005, however, the educational values to be upheld in the *Journal*, without being overtly didactic, were those of: "diversity, community, respect and care, equity, integrity, environmental sustainability, enquiry and curiosity, and excellence." Both the visual and textual content, of the post World War II issues particularly once color could be used, reflect the major cultural and social changes that have occurred in New Zealand and elsewhere during these decades yet the primary emphasis remains that of encouraging children to engage imaginatively with the world around them.
@@ -240,6 +290,8 @@ In his recent centennial history, *A Nest of Singing Birds: 100 Years of the New
 ### [My Weekly Reader](/my-weekly-reader)
 
 ![My Weekly Reader](/images/cyhgirlreadinjpg027_c609123bafTHUMB.jpg)
+
+#### Annotation
 
 First launched in 1928, My Weekly Reader sought to make the national news accessible to elementary school children. By the early 1970s grade-specific versions were available for students from preschool to the sixth grade.
 My Weekly Reader was the brainchild of Eleanor Murdoch Johnson, the director of elementary schools in York County, PA. Seeking to balance children's preference for myth and fantasy with greater knowledge of world events, Johnson pitched the idea of a weekly newspaper for elementary students to American Education Publications, publisher of Current Events, a newspaper for 6th graders established in 1902. Circulation reached 100,000 the first year and by the end of the 1930s, first through sixth graders had their own edition.
@@ -251,6 +303,8 @@ What ideas and kinds of information did My Weekly Reader establish as important 
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Kidnapping](/images/olaudah-equiano-thumbnail.jpg)
 
+#### Annotation
+
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 In this excerpt, Equiano gives an account of his kidnapping. While it is not only a particularly detailed account of the kidnapping of a child into the slave trade, several things should be of interest to students. Equiano makes note of several precautions taken to protect African children from kidnapping, which tells us that kidnapping was prevalent enough to warrant such precautions. Of particular importance in this excerpt are the vivid emotions expressed by Equiano as he recounts not only the loss of his freedom, but also the loss of his sister who he never saw again.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) and the [*Childhood and Transatlantic Slavery*](https://worldhistorycommons.org/short-teaching-module-childhood-and-transatlantic-slavery) teaching modules.
@@ -258,6 +312,8 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 ### [The Interesting Narrative of the Life of Olaudah Equiano: Middle Passage](/interesting-narrative-life-olaudah-equiano-middle-passage)
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Middle Passage](/images/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano_thumbnail.jpeg)
+
+#### Annotation
 
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 This excerpt is particularly telling of the special treatment many children received while traveling the Middle Passage. Although it is short, it speaks volumes as to the lengths that some crew members went to assuage the children's fears and sadness.
@@ -267,6 +323,8 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![Incidents in the Life of a Slave Girl](/images/incidentsinlife-thumbnail.jpeg)
 
+#### Annotation
+
 The book-length narrative, *Incidents in the Life of a Slave Girl* (1861), chronicles the experiences of Harriet Jacobs who was born a slave in Edenton, North Carolina, in 1813. Harriet was unaware of her slave status until at age six, her mother died and she was sent to live in the house of her mistress. Margaret Horniblow taught Harriet how to read and write in the years before she died and bequeathed the 11-year-old Harriet to her 3-year-old niece, Mary Matilda Norcom. Residing in the Norcom household throughout her adolescence, Harriet endured unremitting sexual harassment from Mary's father, Dr. James Norcom, and became the object of abuse by his jealous wife. Harriet used pseudonyms throughout her narrative as in chapters 5 and 6 in which she described the abuse commonly endured by adolescent girls in the slave south.
 In addition to recounting her own experiences as a girl, Jacobs also describes those of numerous other children—black and white, free and unfree, male and female, children and adolescents—including her own. In an attempt to resist her master, Harriet had two children with Samuel Tredwell Sawyer, a young white lawyer.
 Why might Jacobs have emphasized her identity as a "slave girl" and not as a "child" or "woman?" In what ways did Jacobs' description of her lived reality challenge dominant ideals of girlhood in antebellum culture? What purposes might girlhood have served in the formation of broader notions about race, nation, gender, sexuality, and American identity? How did Jacobs' description of herself compare with the depiction of black girls as "pickaninnies" like the devilish Topsy in *Uncle Tom's Cabin* (1852)? By staking a claim to her innocence did Jacobs appropriate feminine purity from white girls like Stowe's idealized Little Eva, a central figure in the anti-slavery novel that evoked readers' sympathy far and wide? In what ways might Jacob's figure of the slave girl have been useful to the cause of Abolition ardently championed by her editor, Lydia Maria Child, a women's right's supporter, and the author of *The Girl's Own Book* (1833)? In what ways might these varied constructions of girlhood have reflected and influenced broader historical changes?
@@ -275,11 +333,15 @@ Why might Jacobs have emphasized her identity as a "slave girl" and not as a "ch
 
 ![A Narrative of the Life of Mrs. Mary Jemison](/images/mary-jemison-thumbnail.jpeg)
 
+#### Annotation
+
 In 1753, 15 year old Mary Jemison was captured by Indians along the Pennsylvania frontier during the Seven Years' War between the French, English, and Indian peoples of North America. She was adopted and incorporated into the Senecas, a familiar practice among Iroquois and other Indian peoples seeking to replace a lost sibling or spouse. Mary married and raised a family in the decades before and after the American Revolution; many captives, once adopted and integrated into an Indian community, refused the opportunity to return home, finding life in Indian society more rewarding. In 1823 Mary Jemison related her life story to James Seaver, a doctor who lived near her home in western New York. Seaver's story of "the white woman of the Genessee," as she became known, sold over 100,000 copies in 1824.
 
 ### [Writing a Letter to Santa](/writing-letter-santa)
 
 ![Writing a Letter to Santa](/images/letter-to-santa-thumbnail.jpeg)
+
+#### Annotation
 
 Whether known as Saint Nicholas, Sinterklaas, Father Christmas, Kris Kringle, Babbo Natale, Christkind, Père Noël, Santa Claus ("Santa") or by many other names, this legendary gift-giver in European folklore and hagiography is well known around the world.
 Writing a letter to Santa is among the numerous traditions surrounding Christmas. Although in 1889, Thomas Nast—the caricaturist credited with the modern portrayal of Santa—presented Santa reading letters from the parents of children in "Santa Claus's mail," writing to Santa is as much of a children's ritual as sitting on his lap. The form of "Dear Santa letters" typically include: a testament of "nice" not "naughty" behavior, a wish-list of toys, courteous mention of Mrs. Claus and the elves, and concern for the reindeer (especially Rudolph). One study found that girls’ letters tended to be longer, more polite, and include more requests for clothing or functional items as well as more gifts for other people. Recent research studies on elementary-school children in the U.S. have found that gender-neutral toys are as popular as sex-typed toys among girls and boys.
@@ -290,6 +352,8 @@ Along with other children who live in Ontario, Mary sent her letter to Eaton’s
 
 ![Infanticide Trial Transcript from the Old Bailey of Elizabeth Taylor of Clerkenwell](/images/Icons-Document-thumbnail_127.jpg)
 
+#### Annotation
+
 Infanticide or the killing of a baby was punishable by hanging in early modern England. Unlike married women accused of infanticide, the mere fact that single women had tried to conceal the death of their babies was considered proof of murder under the Infanticide Act of 1624. A single woman's only recourse was to try and prove that the baby had been born dead and that she had not killed it. This was difficult as many of these women gave birth with no witnesses. In the mid-18th century from research by historians, we know that 70% of the women indicted for infanticide were servants by occupation and under the age of 16. We also know that the trend as the century progressed was for juries to find more women innocent than guilty of the crime of infanticide unless there was clear proof that they had murdered their baby. Perhaps they were beginning to see these young women as victims rather than criminals.
 The case of Elizabeth Taylor shows the fear and shame single women felt when they became pregnant and the lack of privacy in their lives as servants. Elizabeth does not speak at her trial, instead witnesses for the prosecution are called first before the judge and jury who ask them questions about whether Elizabeth hid her pregnancy and the baby. Then Dinah Beaven testifies that the baby does not appear to have been murdered. She was probably a midwife and here acts as an expert witness. Finally, a prisoner in Newgate with Elizabeth states that they found baby items sewn in Elizabeth's coat when the prisoners took it from her. (New prisoners were often fleeced by inmates who used money and goods to bribe gaolers into providing more than just the basics of bad bread, foul water, and old straw for bedding.) The fact that Elizabeth had made provision for the baby was the strongest proof that she did not intend to kill it and the court let her go.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
@@ -298,12 +362,16 @@ This source is a part of the [*Children’s Health in Early Modern England*](htt
 
 ![Orphan Records, Early Modern France](/images/Icons-Document-thumbnail_4.jpg)
 
+#### Annotation
+
 Much of early modern Europe saw increasing numbers of abandoned children, and new institutions designed to care for them. Published notarial documents, such as the two excerpted here, allow a glimpse into the fortunes of individual orphaned children in early modern Europe.
 These documents are excerpted from Ages of Woman, Ages of Man: Sources in European Social History, 1400-1750 edited by Monica Chojnacka and Merry E. Wiesner-Hanks.
 
 ### [Noticias de Portugal](/noticias-de-portugal)
 
 ![Noticias de Portugal](/images/noticiasdeportugal-thumbnail.jpeg)
+
+#### Annotation
 
 Suggestion for handling orphans, devised in 1655 by Manoel Severim de Faria, an official for the bishop of Evora in Portugal. Here Severim de Faria speaks about the role orphaned children could and should play in the Portuguese empire. Students need to know that most orphans in early modern Europe were taken into the home of a relative, but some were placed in public or church orphanages, in which their chances of survival were not great. As they read the document, students learn that Severim de Faria sees orphans within the context of social problems—including a shortage of sailors, vagrancy, and underpopulation—and their solutions. He proposes gender specific solutions: boys are to work on ships and learn how to sail them better, girls are to get married and have more children.
 This source can be used as a springboard to broader discussion of many things: gender differences in young people's experiences, attitudes toward children and towards the poor, marital patterns in which women were expected to bring a dowry, coerced migration, and the role of children in colonial expansion. This document is only a plan, but such proposals were followed by several early modern governments and private companies.
@@ -312,6 +380,8 @@ This source is a part of the [*Orphans and Colonialism (17th c.)*](https://world
 ### [1879 Cleveland Protestant Orphan Asylum Annual Reports](/1879-cleveland-protestant-orphan-asylum-annual-reports)
 
 ![1879 Cleveland Protestant Orphan Asylum Annual Reports](/images/Icons-Document-thumbnail_66.jpg)
+
+#### Annotation
 
 The official records and reports of social welfare agencies and institutions provide insight into societal beliefs and attitudes related to deviance and changes in those beliefs and attitudes over time. While review of such documents may in some instances reveal radical changes in an agency's mission, more often what unfolds is a narrative of an evolutionary process anchored by consistent themes. Such is the case with the many child welfare agencies founded in the mid-19th century as orphan "asylums." Over time, they came to redefine their mission vis-à-vis dependent children from sheltering to changing.
 The Cleveland Protestant Orphan Asylum (CPOA, later renamed BeechBrook) was established by a religious organization, as many were in this era, and began with what is often described as a child-rescue mission. The 1879 Annual Report of CPOA demonstrates their original purpose of ". . . sheltering orphaned and destitute children." The 1879 Report is especially instructive because it describes children who had been served since the agency's founding in 1852. The annual report also describes the goal of physically moving children in response to the "increasing call for shelter for orphans," with the goal of either "returning" or "placing out" with another family every child who was admitted. CPOA's annual reports summarize the agency's success in achieving that goal.
@@ -322,12 +392,16 @@ This source is a part of the [*Children and Disability (19th, 20th c.)*](https:/
 
 ![Carlisle Indian School Students](/images/carlisle-school.jpg)
 
+#### Annotation
+
 The photograph shows buildings and students of the Carlisle Indian Industrial School around 1900. Attended by over 12,000 Native American children from more than 140 tribes between 1879 and 1918, the school was the model for nearly 150 Indian schools. Its founder was U.S. Army officer Richard Henry Pratt, who commanded a unit of African American "Buffalo Soldiers" and Indian scouts in Oklahoma and witnessed the Bureau of Indian Affair’s irresponsible policies on reservations. In 1875, the Army placed Platt in charge of 72 Indian warriors imprisoned in Florida. Platt imposed military discipline on the prisoners, but also arranged to teach them to read.
 Based on this experience, he developed a scheme to assimilate Indians by removing them from tribal influences and transforming them through education. In 1879, Pratt secured permission to use a deserted military base in Carlisle, Pennsylvania, as the site of his school. Platt expressed his educational philosophy, highlighted in the accompanying quotation, in a paper read at an 1892 convention. Today, one of the few remaining landmarks of the Carlisle Indian School is the cemetery for students who died at the school and whose remains could not be returned to their families.
 
 ### [Millennium Development Goals: Primary School Enrollment 2009](/millennium-development-goals-primary-school-enrollment-2009)
 
 ![Millennium Development Goals: Primary School Enrollment 2009](/images/3mdg-primary-school-enrollment-2009_8ef52592dfTHUMB.jpg)
+
+#### Annotation
 
 The [Millennium Development Goals](http://www.unmillenniumproject.org/goals/index.htm) (MDGs) are eight goals related to poverty, education, gender equality, health, environmental sustainability and development set in the year 2000 at the UN Millennium Summit, and adopted by 189 nations. The eight MDGs are associated with 21 quantifiable targets, tracked by 60 statistical indicators in [annual reports](http://www.undp.org/mdg/basics_ontrack.shtml) issued by the United Nations Development Programme (UNDP). The goals target attainment in the year 2015. [Country-by-country data](http://www.undp.org/mdg/tracking_countryreports2.shtml) is also available.
 Universal primary education in the context of the Millennium Development Goals means that all children have access to free, compulsory education from grades 1 through 5. Statistical indicators include net enrollment in school by children of the appropriate age, the proportion of pupils enrolled in first grade who reach grade 5, and the literacy rate of 15 to 24-year-olds.
@@ -339,6 +413,8 @@ The report concludes that at current rates, it is unlikely that the 2015 goal ca
 
 ![Millennium Development Goals: Gender Parity in Basic Education 2007](/images/8mdg-gender-parity-secondary-ed-2009_eb6f2a99c2THUMB.jpg)
 
+#### Annotation
+
 The [Millennium Development Goals](http://www.unmillenniumproject.org/goals/index.htm) (MDGs) are eight goals related to poverty, education, gender equality, health, environmental sustainability and development set in the year 2000 at the UN Millennium Summit, and adopted by 189 nations. The eight MDGs are associated with 21 quantifiable targets, tracked by 60 statistical indicators in [annual reports](http://www.undp.org/mdg/basics_ontrack.shtml) issued by the United Nations Development Programme (UNDP). The goals target attainment in the year 2015. [Country-by-country data](http://www.undp.org/mdg/tracking_countryreports2.shtml) is also available.
 Compared with a century ago or more when female education was rare, girls' access to education has improved dramatically. The charts measure gender parity by the number of girls enrolled in school per 100 boys. A figure of 100 represents a 1:1 ratio, or parity. Three regions—Southeastern Asia, Eastern Asia, and the Commonwealth of Independent States (CIS) are near parity in primary education, and all but Oceania (Micronesia, Melanesia and Polynesia) are at 90% of parity or better. Developed countries are at parity, while aggregate data for developing countries shows 95% of parity.
 The second chart presents a picture of weaker gender parity in secondary education, or grades 6-12: slight losses in Sub-Saharan Africa, Oceania and the CIS, and significant gains in Western and Southern Asia, and Northern Africa. During the period between 1999 and 2007, girls in Eastern Asia, Southeastern Asia, and Latin America and the Caribbean exceeded boys in secondary education enrollment. Aggregate data for developing countries shows that the goal of parity in secondary education, though improving slowly, is within reach at 94%, though Sub-Saharan Africa, Western and Southern Asia, and Oceania must bridge a gap of between 13 and 21 percentage points to achieve parity. The statistics for girls' secondary education have negative implications for the future of gender parity or better in higher education in the next age cohort, or age group, preparing for higher education in the coming years.
@@ -348,6 +424,8 @@ Education of girls is viewed as a priority because it has been shown to affect m
 
 ![Millennium Development Goals: Child Malnutrition 2006](/images/10mdg-child-nutrition-2009_641267236eTHUMB.jpg)
 
+#### Annotation
+
 The [Millennium Development Goals](http://www.unmillenniumproject.org/goals/gti.htm#b) (MDGs) are eight goals related to poverty, education, gender equality, health, environmental sustainability and development set in the year 2000 at the UN Millennium Summit, and adopted by 189 nations. The eight MDGs are associated with 21 quantifiable targets, tracked by 60 statistical indicators in [annual reports](http://www.undp.org/mdg/basics_ontrack.shtml) issued by the United Nations Development Programme (UNDP). The goals target attainment in the year 2015. [Country-by-country data](http://www.undp.org/mdg/tracking_countryreports2.shtml) is also available.
 This chart shows a key indicator for malnutrition—underweight children from birth to five years. In developing regions, the proportion of children under five years old who are undernourished declined from 33 per cent in 1990 to 26 per cent in 2006, but 140 million children in developing countries were recorded as underweight in 2006. According to public health experts, undernourishment among young children is a sound indicator of inadequate nutrition in the population as a whole. As the 2009 MDG report states, "Adequate nutrition is vital for building children's immune systems and for their motor and cognitive development…The consequences can be fatal: more than one third of child deaths worldwide are attributable to undernutrition." (p. 12) Eastern Asia, and China in particular, reduced the percentage of underweight children between 1990 and 2006 by more than half. In Southern Asia, despite progress since 1990, almost half of young children are underweight. In Sub-saharan Africa, there has been insufficient progress, where more than a quarter of the region's children are underweight. Urban children are half as likely to be underweight as rural children in the same country. In Eastern Asia, where improvement has occurred, inadequate nutrition is still almost five times as high in rural areas. Notable in these statistics is the progress recorded for Latin America and the Caribbean, Northern Africa, and parts of Asia. There has been no significant progress in Western Asia, a likely result of the large number of refugees and conflict.
 Overall worldwide progress is already insufficient to achieve the MDG goal to [eradicate extreme poverty and hunger](http://www.undp.org/mdg/goal1.shtml) by 2015. In developing regions between 1990 and 2007, a 5 percentage point decline in the proportion of underweight children under five years of age was achieved, leaving over a quarter of all children in these regions underfed. Progress in reducing hunger is being slowed or reversed by rising food prices due to changing diets, economic growth, a population increases, urbanization, poor agricultural policies, and use of food crops for biofuel.
@@ -355,6 +433,8 @@ Overall worldwide progress is already insufficient to achieve the MDG goal to [e
 ### [Tophet of Carthage](/tophet-carthage)
 
 ![Tophet of Carthage](/images/carthage-tophet-thumbnail.jpeg)
+
+#### Annotation
 
 These images show a stone grave marker carved with symbols and a terracotta funerary urn containing the charred remains of an infant. The Tophet of Carthage is a cemetery for infants in the ruins of the North African city of Carthage, now located in a suburb of Tunis. It was once located on the edge of ancient Carthage, which was destroyed by the Romans in 146 BCE. The cemetery is the subject of historical controversy because both ancient texts and archaeological evidence point to the possibility that the children buried in the tophet were child sacrifices. The cemetery was used for over 600 years, between 730 BCE and 146 BCE. Changes in the grave markers and burials indicate three different periods of use.
 The Carthage *tophet* has no adult graves, and many of the grave stelae are marked with dedications to Baal and Tanit, the patron deities of Carthage. The word *tophet* comes from the Hebrew *topheth* derived from "drum" or "place of burning," an open area for sacrifice. Numerous *tophets* have been identified in the eastern Mediterranean region. The Tophet of Carthage, excavated between 1920 and 1970, shows burials of young infants, interred in small vaults with beads and amulets, and sometimes the bones of small animals. Low thrones or stones marked the early graves.
@@ -367,6 +447,8 @@ There is also evidence that children's burial grounds were merely separated from
 
 ![Mummified Inca Child Sacrifices](/images/inca_children_mummies-thumbnail.jpg)
 
+#### Annotation
+
 The top photograph shows the mummified remains of the 15-year-old Inca child, known as the "Llullaillaco Maiden," who was sacrificed with two other children, a boy of seven years old, shown in the photograph below, and a six-year-old girl, whose mummy had been struck by lightning and was charred. The children had walked or been brought to the top of Mt. Llullaillco, in northern Argentina, elevation 22,000 feet (6706 meters), a volcano near the Chilean border today. According to archaeologists and cultural historians, the children were victims of a sacrificial ritual called capacocha. The children were chosen for their beauty and possibly nobility, honored by their selection, and well-fed and cared for before their ritual deaths. According to Inca beliefs, such children were to serve as guardians over their villages from the heights of the mountains, joining the ancestors and honored in death. Before their deaths, they had participated in ceremonies at Cuzco, possibly walking hundreds of miles. They were taken to the top of Mt. Llullaillaco. Their deaths may have been painless, as they were given chicha, a strong alcoholic beverage made from maize. The older girl had pieces of coca leaves on her mouth. They would have fallen asleep from intoxication before they were placed in burial niches where they froze to death in the thin air.
 The children wore shoes or slippers as well as colorful clothing elaborately decorated with metal, bone, and cords. The children were not wrapped into bundles, but loosely wrapped in shawls. They sat cross-legged or crouched as they would have fallen asleep. The older girl’s face, which showed red ochre markings, was creased from the place it rested on her shawl. The girl’s long hair was plaited into fine braids that are still fully intact. Among the artifacts placed with them were figurines donning headdresses decorated with colorful bird feathers.
 
@@ -374,17 +456,23 @@ The children wore shoes or slippers as well as colorful clothing elaborately dec
 
 ![Phoenician Baby Bottle](/images/baby_bottle_face_thumbnail.jpeg)
 
+#### Annotation
+
 The Phoenician terracotta vessel features a human face, the nose forming a narrow spout. The bottle is an archaeological find from Carthage, near modern Tunis, dated to 399 BCE-200 BCE. Archaeologists believe this object was a baby bottle. It could have been used to feed diluted wine with honey or other sweet liquid such as juice, milk, or thin porridge, cooked cereal made from ground grain. Such vessels, called guttus, were placed with Greek infant burials of the same period, placed in proximity to the infant's head. Many such examples have been found in at Greek and Phoenician sites, in various forms, such as a dog bottle dated to c.300 BCE-64 BCE from Sousse, Tunisia, and a pomegranate-shaped Greek bottle from 399 BCE-200 BCE found in Italy. The whimsical shapes and decorations are appealing to children's appetites. These bottles may also have aided the process of weaning the child from breast milk.
 
 ### [Animal Baking Mold](/animal-baking-mold)
 
 ![Animal Baking Mold](/images/cake-mold-jordan-al-fudayn_173b549fe0THUMB.jpg)
 
+#### Annotation
+
 This hollow cast iron container is a baking mold used for shaping bread or cake for children, according to archaeologists. It was excavated with a similar elephant mold. The mold is from the excavation of Hallado en al-Fudyan in Jordan, dated to the 8th century CE, during the Umayyad Islamic period. The mold is 17 cm high, 16.5 cm wide, and 6 cm deep (6.7 x 6.5 x 2.4 inches). The two hinges enable the mold to be opened and filled with dough. The ram is significant in Muslim society, especially during Islamic festival of Eid al-Adha, the Feast of the Sacrifice, which commemorates Abraham’s sacrifice of a ram in place of his son. On Eid al-Adha, households sacrifice an animal such as a sheep or a lamb, sharing the meat with neighbors and the poor. Children share in the festivities and entertainments, receiving gifts, sweets, and money.
 
 ### [Sanitarium Weet-Bix Packet](/sanitarium-weet-bix-packet)
 
 ![Sanitarium Weet-Bix Packet](/images/weetbix-packet-horizontal_03da1b137aTHUMB.jpg)
+
+#### Annotation
 
 The only such product endorsed by world famous mountaineer and humanitarian, Sir Edmund Hillary, Sanitarium's sugar-free wholegrain wheat biscuit, Weet-Bix, has long been the country's most preferred breakfast cereal. Since 1992, the company has actively sought to promote children's sport, holding Tryathlons (the spelling is deliberate) at 11 centers throughout the country. (See http://www.sanitarium.co.nz/). Taking this source as an example of targeting the child as consumer, students might explore a range of contemporary and historical advertisements in relation to food, clothing, toys, sports, and entertainment options. Examples from early 20th-century newspapers, http://paperspast.natlib.govt.nz, tend to appeal to adults purchasing for children's needs or interests. In the later decades of the 20th century, however, the advertising is generally focused on youth as consumers, with younger children often "conditioned" by television jingles and images to make requests for goods and services (as in the case of fast food outlets). Ethical issues relating to advertising may also be discussed.
 In the 19th and early 20th centuries, there were obvious links between essential life skills and sporting pursuits, such as horse riding, fishing, hunting, running, walking, and cycling. High levels of physical activity were also connected with routine domestic chores, especially scrubbing and clothes washing. Being overweight was not a common problem. Fast foods scarcely existed save for fish and chips, popularly purchased on Fridays. Most meals were prepared at home; few Maori or Pakeha families were without access to a productive vegetable garden, neighborhood poultry, and fruit trees. Fish, fresh or smoked, was commonly eaten; lamb and beef were cheap and readily available, given the country's economic dependence on outdoor livestock farming. Diets were strongly seasonal, relatively free of preservatives and additives and, until the 1960s, most New Zealand children grew up with some basic knowledge of cooking. Urbanization, smaller housing sections, more married women in the workforce, and the rapid expansion of fast food outlets in the later decades of the 20th century, all contributed to significant changes in diets, those of low-income earners especially.
@@ -394,12 +482,16 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 
 ![Ancient Greek Adolescent Girls at Play](/images/an00034646_001_13756_Thumb.jpg)
 
+#### Annotation
+
 This small (5.5 inches high) terracotta sculpture was made in Greek southern Italy in the late fourth century BCE. It depicts two adolescent girls playing the game of "knucklebones" (astragaloi in Greek). The game was usually played like the modern game of "jacks": one threw the knucklebones in the air and attempted to catch as many as possible. They were also used like modern "dice." Each of the four long sides of the knucklebone had a value: the convex side was worth 3, the concave 4, and the two flat sides 1 and 6. Most knucklebones were made out of the actual ankle bones of sheep or goats, but fancier ones were made of ivory, bronze, or terracotta. Children of both sexes, adolescent girls, and young women played knucklebones as revealed by statues like this one as well as paintings on vases.
 This statue is both a depiction of a game and a representation of gender ideals. Whereas girls in the nearby city-state of Sparta were taught to read and write and engaged in athletic competitions, those in Athens spent their girlhoods largely indoors practicing the domestic arts (e.g., spinning, weaving, cooking, and childcare). Athenian girls typically married at the age of 15 or so and spent the rest of their lives engaged in household activities.
 
 ### [Diapers](/diapers)
 
 ![Diapers](/images/pampers_cruisers_73fc8fa125_0.jpg)
+
+#### Annotation
 
 The material culture of early childhood in the 21st century is characterized by an emphasis on biological age and related levels of cognitive and motor skill development. All types of objects, including diapers, toys, food products, and clothing, are divided into categories based on the age-appropriateness of a particular object. Descriptions of these categories commonly explain how each object functions to enable a child to attain a particular skill or reach a developmental milestone. Appeals to medical and developmental science are common. Diapers, for example, are marketed for babies of different ages: "newborn," "baby," "toddler," and "preschooler." Each of these categories is associated with specific developmental milestones, and diaper brands emphasize how their product can help with children's developing mobility skills–from rolling over, to crawling, to walking. Scholarship on childhood has shown that emphases on biological development are particular to contemporary western cultures and tends to reinforce ideas that childhood is a "natural" or "universal" experience regardless of time period or cultural context. Anthropological research with children from different cultures has shown, however, that developmental sequences vary widely as different cultural settings place particular demands on the mental and physical development of young children.
 This source is a part of the [*Material Culture and Childhood (20th c.)*](https://worldhistorycommons.org/activity-material-culture-and-childhood-20th-c?page=0%2C3) teaching module.
@@ -408,12 +500,16 @@ This source is a part of the [*Material Culture and Childhood (20th c.)*](https:
 
 ![Disciplining Children in the Codex Mendoza](/images/Codex_Mendoza_folio_59r-thumbnail.jpeg)
 
+#### Annotation
+
 Aztec children were valued creations. Language used in rituals compared infants to precious stones and feathers, flakes of stone, ornaments, or sprouts of plants. The duty of parents and society, however was not to indulge but to socialize the child, so that they would not become "fruitless trees," as an Aztec proverb stated. According to sources written shortly after the Spanish conquest, such as the Codex Mendoza, society placed a high value on conformity, obedience, and decorum. The section of the Codex Mendoza that depicts daily life shows gender-specific punishments used in raising children. The image seems to show a sequence of punishments, first threatening the boy and the girl with three maguey thorns, the spike of the agave plant. In the second image, the woman is administering punishment to the girl by piercing her arm with the maguey thorn; the boy is pierced more severely in the neck, flank, and hip, and he is bound at the wrists and ankles. In the third image, the punishment of striking the child with a stick or rod is being carried out. In each case the image shows the children weeping profusely as the threat or the punishment is administered.
 This source is a part of the [*Codex Mendoza (16th c.)*](https://worldhistorycommons.org/short-teaching-module-codex-mendoza-16th-c) teaching module.
 
 ### [Italian Mother and Baby](/italian-mother-and-baby)
 
 ![Italian Mother and Baby](/images/italian-mother-and-baby-thumbnail.jpeg)
+
+#### Annotation
 
 "Italian Mother and Baby" appeared in Jacob Riis's *How the Other Half Lives: Studies among the Tenements of New York* (1890). This image captures the misery of urban poverty as well as the tenacity of life. It is infused with unmistakable sentimentalism and symbolism. This forlorn mother with her swaddled baby is evocative of Mary and of many paintings of "Madonna and Child." The hat hanging on the wall above her head is also suggestive of the halo that long represented the sacred in ancient art and religious iconography.
 Many of Riis's photographs provide insight into the struggles of everyday life for immigrant children. What does this photo reveal about infancy among Italian immigrants? In what ways does the material culture of infancy mingle Old World practices and modern ones? While useful for recording the past, documentary photographs need to be seen through a critical lens. For example, historians have observed that children in Riis's photographs are portrayed as innocents, victims, or criminals. How is the baby in this picture represented?
@@ -423,6 +519,8 @@ How did Riis stimulate sympathetic feelings and summon sacred associations in th
 
 ![Liberty in the Form of the Goddess of Youth](/images/liberty-goddess.jpg)
 
+#### Annotation
+
 Mary Green of Worcester, MA, created this embroidery in 1804 at the age of 16. She based it on the 1796 engraving, "Liberty in the Form of the Goddess of Youth Giving Support to the Bald Eagle," by artist-entrepreneur, Edward Savage (fig. 2).
 In this enormously popular allegory that celebrated nationhood in the years after the American Revolution, Liberty is portrayed as a female adolescent. Draped in a long, flowing gown, this stylized Liberty nourishes the Republic (represented by the eagle). She also treads on symbols of British oppression (e.g., the key to the Bastille on a broken chain, a scepter, and the garter of a royal order). An American flag and the Liberty Phrygian Cap float above her head. In what ways does Green's interpretation of Liberty differ from Savage's? What might account for those differences?
 The representation of a youthful Liberty was not only allegorical; it also was a prescriptive message that must have resonated with girls like Mary Green. Anxieties about the future of untried democracy led contemporaries to compare the independent states to impetuous youth. In order to ensure the future of the Republic, adolescent girls were trained to fulfill their forthcoming role as "Republican Mothers" who would inculcate their children with civic virtue. The female seminaries launched at the end of the 18th century provided an unprecedented academic curriculum as well as lessons in feminine accomplishments exemplifying refinement and utility. Girls perfected their repertoire of fancy needlework skills (e.g., French and bullion knot stitch) by embroidering popular pictorials (such as this one), commemoratives, and morning art with silk floss. Girls also practiced their knowledge of geography by embroidering map samplers on ivory silk.
@@ -431,6 +529,8 @@ The representation of a youthful Liberty was not only allegorical; it also was a
 
 ![Tags and Throws on a SoHo Side Street](/images/tags-and-throws-soho-sidestreet.jpg)
 
+#### Annotation
+
 This photo shows a wall covered in "tags" and "throws" along a commonly-traveled side street that runs through the SoHo area of Manhattan, which is one of New York City's major museum and art gallery districts. Tags were the first form of graffiti art, originated in the late 1960s, and are linear signatures quickly written with spray paint and markers, usually taking 15 seconds or less to complete. The larger works are 'throws" (or "throw-ups"), large initials or names quickly spray-painted in a light color with a dark outline in a "bubble" letter style, usually taking a minute or less to complete. Tags and throws are usually the first forms that a new graffiti artist attempts to master, but they are also intended to maintain an artist's competitive visibility.
 As with rooftops and schoolyards, street-level buildings became a common place for graffiti artists to paint after the painting on the subways was contained in the mid-1980s. Like the sides of the subway trains, the walls became a visual record of an ongoing competition and conversation among graffiti writers. The streets are the most risky place for writers to work, hence the necessity of quickness in execution, and it also explains why there are very few of the more elaborate pieces visible in most areas of the city.
 This source is a part of the [*Children and Daguerreotypes (19th c.)*](https://worldhistorycommons.org/short-teaching-module-children-and-daguerreotypes-19th-c) teaching module.
@@ -438,6 +538,8 @@ This source is a part of the [*Children and Daguerreotypes (19th c.)*](https://w
 ### [Pippi Graffiti Stencil](/pippi-graffiti-stencil)
 
 ![Pippi Graffiti Stencil](/images/pipigraffiti_35827d8ae3THUMB.jpg)
+
+#### Annotation
 
 This image found on a wall around the University of Vienna and the Austrian Parliament, in 2008, is a graffiti stencil of Pippi Longstocking, the eponymous fictional character created by the Swedish children's book author, Astrid Lindgren, in 1945. Since then, Pippi Långstrump (in Swedish) has been translated into 90 languages and made into movies and TV series. The image here is based on the portrayal of Pippi by Inger Nilsson, the 9-year-old actress who starred in a 1968 Swedish TV series. Dubbed versions were shown on German TV in 1971 and in the U.S. by 1973 where they became enormously popular.
 Though she is known by other names around the world ("Harisnyás Pippi" in Hungarian), Pippi is an iconic figure whose gravity defying red braids, oversized shoes, mismatched socks, home-made clothing, and freckled face represent her playful and plucky world view.
@@ -449,11 +551,15 @@ Pippi's world-wide reach provides unique opportunities for in-depth and cross cu
 
 !["I Didn't Raise My Boy to Be a Soldier" [Song]](/images/Icons-Document-thumbnail_692.jpg)
 
+#### Annotation
+
 By 1915, Americans began debating the need for military and economic preparations for war. Strong opposition to "preparedness" came from isolationists, socialists, pacifists, many Protestant ministers, German Americans, and Irish Americans (who were hostile to Britain). One of the hit songs of 1915, "I Didn't Raise My Boy to Be a Soldier," by lyricist Alfred Bryan and composer Al Piantadosi, captured widespread American skepticism about joining in the European war. Meanwhile, interventionists and militarists like former president Theodore Roosevelt beat the drums for preparedness. Roosevelt’s retort to the popularity of the antiwar song was that it should be accompanied by the tune "I Didn't Raise My Girl to Be a Mother." He suggested that the place for women who opposed war was "in China—or by preference in a harem—and not in the United States."
 
 ### [The Chinese Boy and Girl](/chinese-boy-and-girl)
 
 ![The Chinese Boy and Girl](/images/chineseboygirl-thumbnail.jpg)
+
+#### Annotation
 
 Issac Taylor Headland (1859-1942), a resident of Beijing and a scholar at Peking (Beijing) University, joined other contemporaries interested in both popular culture and folklore in his own study of daily life in China. He was particularly concerned with the collection and transcription of Chinese children's rhymes. Readings from his texts offer a look at a Westerner's own perspective on children's culture and family life as well as the complexities of cross-cultural exchange. Headland's voice offers an example of a global encounter at a moment of high imperialism – indeed, these texts were published in the immediate wake of the dramatic Boxer Uprising and siege of foreign legations that occurred in Beijing during the summer of 1900.
 This source is a part of the [*Children in Late Imperial China, 900-1930*](https://worldhistorycommons.org/long-teaching-module-children-late-imperial-china-900-1930) teaching module.
@@ -462,12 +568,16 @@ This source is a part of the [*Children in Late Imperial China, 900-1930*](https
 
 ![Chinese Mother Goose Rhymes](/images/chinese-mother-goose-thumbnail.jpeg)
 
+#### Annotation
+
 Isaac Taylor Headland (1859-1942), a resident of Beijing and a scholar at Peking (Beijing) University, joined other contemporaries interested in both popular culture and folklore in collecting and transcribing Chinese children's rhymes. The rhymes were shared by nurse-maids who cared for the children of expatriates living in the city as well as through interviews of kids who sang in the streets and neighborhoods of the city and surrounding region. The text, which includes both English and Chinese versions of the rhymes as well as photographs, offers an interesting perspective on popular culture, social roles related to gender and family, as well as the material culture of daily life in turn-of-the-century China.
 This source is a part of the [*Children in Late Imperial China, 900-1930*](https://worldhistorycommons.org/long-teaching-module-children-late-imperial-china-900-1930) teaching module.
 
 ### [Jingle Bells, Batman Smells](/jingle-bells-batman-smells)
 
 ![Jingle Bells, Batman Smells](/images/Icons-Song-thumbnail_12.jpg)
+
+#### Annotation
 
 This parodic folksong is representative of the "culture"—texts, toys, uses of technology, social practices, and shared meanings—young people create when they selectively incorporate commercial products into their peer activities. Borrowing from cultural traditions (the song "Jingle Bells") and contemporary media/material objects they find in their everyday lives (Batman products), the inventive remixing children engage in frequently inverts the powerlessness they experience in relation to adult authority and institutions. In this song the belittlement of the Dynamic Duo's heroic status, the breakdown of their super car, and the celebration of the escape of their enemy, the Joker, playfully challenges the moral order of right and wrong that organizes social behavior. Another variant of the song more explicitly challenges adult authority by changing the last line to: "And the Commissioner broke his leg." Other folksongs challenge adult authority and institutions more directly still, as in the parody "On top of Old Smoky/All covered with sand/I shot my poor teacher/With a pink rubber band."
 Adults often expect children's toys, games, and play activities to be educational; they frequently express concern if mass-marketed products seem to promote anti-social behaviors: acquisitiveness, competition, play fighting/violence, and sexuality being the most objectionable. A great deal of the oral lore children share with each other deliberately transgresses these norms in order to create a distinct (often covert) culture among their peers that they control, however temporarily. Similarly, the lore that children create allows them to explore social taboos.
@@ -479,11 +589,15 @@ Given the inventive, appropriative nature of children's culture, it is probable 
 
 ![Colonial Childhoods Oral History Project](/images/colonial-childhood-thumbnail.png)
 
+#### Annotation
+
 The Colonial Childhoods Oral History Project (CCOHP) comprises recorded interviews with 165 New Zealanders, male and female, Maori and Pakeha, the majority of whom were born before 1903. Interviews focus on the period before an individual’s 15th birthday. Participants discussed a wide range of topics relating to the culture of childhood, including home life, sibling influences, school and church activities, leisure, chores, friends, hobbies, values, clothes, parents, favorite foods, and special occasions. They also responded to questions concerning sexuality, drink, and violence. Interviews generally lasted for two or three hours and were always preceded by a preliminary meeting with the interviewer during which ethical issues were covered and permission forms processed. Not all interviewees felt comfortable in talking about every topic, and CCOHP interviewers were sensitive in respecting their preferences. Those who did discuss sexuality were frank and forthright. While a diversity of childhood experience was one very obvious finding of the project, some Pakeha patterns were apparent from the accumulated evidence. Wearing "hand-me-down" clothes was commonplace, particularly in larger families, as was sharing beds and bedrooms. Few informants felt that they had been well-instructed about sexuality, a topic that parents were generally reluctant to discuss. Those who grew up on farms tended to reach their own conclusions from observation of animal behavior. Town-dwellers relied more heavily on hearsay and, in the case of one boy, some straight talking from the local Scoutmaster. This was an era where pregnancy outside of marriage was very strongly condemned. Only one male interviewee alluded to tales of experimentation by a classmate. This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
 
 ### [History of Howard High School, Wilmington, Delaware](/history-howard-high-school-wilmington-delaware)
 
 ![History of Howard High School, Wilmington, Delaware](/images/howard-high-school.png)
+
+#### Annotation
 
 The only high school for African Americans in Delaware, Howard High School's original small, five-room building, was built shortly after the Civil War. In the early 1870s, Edwina B. Kruse became the first African American principal of the school. She served until 1920, introducing a classical curriculum and cultural activities, and recruiting prominent, talented African Americans as teachers. In 1928, Pierre S. du Pont donated money to replace the original building with a large, modern school. This interview describes the significance of the school to the African American community, both locally and nationally, as well as its growth after completion of the new building. Famous African Americans, such as historian W.E.B. DuBois and singer Marian Anderson, came to this "pillar of the African American community" as guest speakers.
 Pierre S. du Pont, President of E.I. du Pont de Nemours & Co. and General Motors in the 1920s, spearheaded modernization of the education system for African Americans in Delaware in a time of segregation and severe discrimination. Du Pont drew attention to the problem of inadequate education by funding school surveys, supporting reform legislation, and ultimately by donating over $6 million of his own money to build new, state-of-the-art schools. Howard High School was beautiful, spacious, and well-equipped. It housed regular classrooms and vocational training facilities, in addition to a library and an auditorium. Howard continues its legacy today as a specialized technical school for all Wilmington students.
@@ -491,6 +605,8 @@ Pierre S. du Pont, President of E.I. du Pont de Nemours & Co. and General Motors
 ### [Little Eva, The Flower of the South](/little-eva-flower-south)
 
 ![Little Eva, The Flower of the South](/images/littleevaflower-thumbnail.jpeg)
+
+#### Annotation
 
 Published around 1853, *Little Eva, The Flower of the South* is an anonymously written children's story based on Eva, the enormously popular character in Harriet Beecher Stowe's anti-slavery novel, *Uncle Tom's Cabin* (1852). Aiming to thwart the spread of anti-slavery sentiments in Stowe's best-seller proponents of slavery published "Anti-Tom" or "plantation novels." Unlike other works in that literary genre, *Little Eva* sought to teach children. In this story, well-treated, child-like slaves (such as Sam) were gratefully content. (Note that the badly abused Topsy is conspicuously absent.)
 Though there are many similarities, there are more differences between the two Evas. The one in this story is 9 years old, not 6, and she lives in Alabama, not New Orleans. It is a slave named Sam, not Tom, who rescues Little Eva from drowning. Moreover, the Eva in this children's story does not oppose slavery. In fact, the thought never crosses her mind as it haunted her angelic namesake. Then, instead of dying, this little girl blissfully celebrates her birthday, a recent cultural practice recognizing children's individuality.
@@ -500,6 +616,8 @@ Although this dutiful, sweet, pious, and caring Eva personified the ideals of so
 
 ![Barbie Turns 21](/images/barbie-houseparty-thumbnail.jpeg)
 
+#### Annotation
+
 Barbie—who is today the most famous doll in the world—was based on Lilli, a sexy and sassy German doll first produced in 1955. Co-founder of Mattel Inc., Ruth Hander transformed the Teutonic doll from floozy to fashion queen for American girls like her daughter, Barbara, after whom the doll was named. In all other ways, Barbie’s shapely body was nearly indistinguishable from Lilli’s pleasing figure. A decade after Barbie’s debut in 1959, however, Mattel altered her features (e.g., eliminating the arched eyebrows, scarlet cosmetics, sideways glancing eyes) in order to make the teenage fashion model look more youthful and wholesome.
 The photographs in "Barbie Turns 21" published in LIFE magazine make it possible to examine Barbie across two transformative decades in the history of American girls and gender. Along with other primary sources, Barbie dolls (including her outfits and accessories) can be "read" or interpreted for what they reveal about the influence of feminism on changing constructions of girlhood between 1959 and 1979.
 What meanings can be expressed in a material object? Conduct an analysis of the chronologically arranged Barbies seen here by examining each doll and outfit. What values are embodied in Barbie and encoded in her wardrobe? Are there any cultural contradictions—such as independence v. dependence—embedded in the material culture evidence? In what ways do these ambiguities point to broader ambivalences about changes for girls in postwar America? How does the article’s text support or complicate your understandings?
@@ -507,6 +625,8 @@ What meanings can be expressed in a material object? Conduct an analysis of the 
 ### [Girl with Mossi Doll, Burkina Faso](/girl-mossi-doll-burkina-faso)
 
 ![Girl with Mossi Doll, Burkina Faso](/images/mossi-doll-burkina-faso_d9aa356e3cTHUMB.jpg)
+
+#### Annotation
 
 This girl is from a village in the Mossi country of Burkina Faso (a landlocked country in West Africa). The doll she is holding is a traditional wooden figurine made from one piece of wood standing on a broader base. The doll displays the characteristics of an adult woman, with suggestions of facial features and elaborate hairstyles, and usually with mature female breasts that represent the fulfillment of motherhood. Scarification [scarring] patterns on the body that traditionally mark passage to adulthood are also represented by carved patterns. Mossi dolls are typically carved by male blacksmiths and are given to girls for play. The child calls it biiga ("child"), and carries the doll about with her, tucking it into the waistband of her skirt, and pretends to feed, wash and groom it. Sometimes it is adorned with beads, cowrie shells, dressed with pieces of leather or cloth, and the girl might bring it wildflowers. In the market, a girl may place her doll on the edge of a merchant's mat and expect to receive a small sample of the wares—a few peanuts, a pastry, or a piece of fruit.
 Mossi dolls are also the focus of rituals associated with motherhood. When a young girl displays her doll to older women, they may respond, "May God give you many children." At festivals, if a child gives her doll to an adult to hold, it is customary to give the child a small present when giving the doll back. Other rituals include the use of dolls to ensure fertility in marriage (accomplished by giving the doll a name). Handling the doll with care is seen as auspicious for childbearing and survival of children. Before the marriage ceremony, a young woman carries the doll on her back to the market, and a few days after marriage, she is given some straw in place of the doll and asked which sex her first child will be. Mossi dolls are passed down through female generations, and before a woman gives birth, she washes the doll she played with in childhood before washing her own baby. Similarly, the first drops of milk are given to the doll, and it is again carried on the mother's back before the infant is placed there for the first time. According to reports culled by anthropologists, these rituals were to ensure that the newborn infant's soul enters the world of its parents, called yisa biiga, or "to call the child," and "to prevent the child from returning," or gidga ti da biiga lebera me, to the world of the ancestral spirits. Women who remain childless after a few years of marriage use the dolls for votive purposes, adorning them with cowry shells and carrying them everywhere while expressing their wish for a child.[1]
@@ -516,11 +636,15 @@ Mossi dolls are also the focus of rituals associated with motherhood. When a you
 
 ![Child with Purple Plastic Doll near Kumasi, Ghana](/images/ghana-girl-plastic-doll_8362a098a0THUMB.jpg)
 
+#### Annotation
+
 The girl in the photograph is from the Asante peoples in Ghana. She is holding a purple plastic baby doll of a type that is frequently found in markets in Ghana. The doll is both imported from Taiwan and made domestically in Ghana. The modern plastic doll is based on an older, traditional form of wooden figurine manufactured by village blacksmiths to represent the adult, female figure. Girls play with these dolls they call biiga ("child"), by caring for them, dressing and feeding them, and sometimes tucking them into the waistbands of their skirts just as women carry infants in cloth wrappers wrapped around their torsos. There are significant rituals associated with girls, including the belief that proper care for the doll can ensure fertility and survival of children. Girls also carry the dolls for display when they go among adults, and might expect a token present when, for example, they place their doll on the ground in front of a merchant in the market. Wealthier families and those in the towns have come to consider the plastic dolls to be more prestigious than the traditional wooden ones. Unlike the Mossi dolls, however, the plastic versions are shaped like a girl rather than a woman, and have generally Caucasian features and western dress.
 
 ### [Studying for the mother country, 1986](/studying-mother-country-1986)
 
 ![Studying for the mother country, 1986](/images/vis01_e017778035THUMB.jpg)
+
+#### Annotation
 
 Visual images provide valuable material for the exploration of childhood, youth and history. Propaganda posters from the People’s Republic of China (1949-present) are particularly rich, offering images that are both bold and subtle, and which many students find as nicely accessible sources to explore. The posters offer a sense of the ways in which a Chinese state and the individual artists it employed sought to use the image of the child to gain a broader public investment in political movements and to define new visions of the revolutionary cause, particularly during the Great Proletarian Cultural Revolution (1966-1976). Exploration of the imagery of children in these posters provides useful sources through which to explore the ways in which images of children would come to signify broader social and political meanings and to potentially inspire both youths and adults in their own definitions of self-identity.
 This image appeared following the arrival of a Chinese reform agenda and the end of the Maoist campaigns. Entitled, "Studying for the mother country, 1986," it presents a girl at the center of an image that invokes many of the official "four modernizations" (specifically, industry, technology, agriculture, and defense) that were proclaimed by a new leader, Deng Xiaoping, as the primary goals for building a strong Chinese nation. Students may explore the ways in which the busy detail of this image represents themes of industrialization, urbanization, national progress (as symbolized by a space program, among other projects), as well as the combined imagery of the flag, the doves around it, and, importantly, the tools that the girl herself thoughtfully wields.
@@ -530,6 +654,8 @@ This source is a part of the [*Chinese Propaganda Posters*](https://worldhistory
 
 ![Native American Children and Toys](/images/native-american-toys-thumbnail.jpeg)
 
+#### Annotation
+
 Theodore de Bry included this colorful engraving in his publication of Hariot's, *A Briefe and True Report of the New Found Land of Virginia* (1590). It was based on a watercolor by John White (fig. 2) painted five or six years earlier. Despite their differences, in both versions a mother is standing with her 8- to 10-year-old daughter who is wearing a string of beads and a leather string around her waist (tied to another holding moss between her legs). The girl is holding an English "puppet" or "poppet." In 16th century England, wax dolls (of adult women) like this one were mass-produced from molds. According to Hariot, a scientific advisor who sailed to Roanoke in 1585-6 and collaborated with John White while colonizing the mid-Atlantic region, the native people were "greatlye delighted” with the "puppets and babes" "broughte oute of England." The rattle, which did not appear in John White's water color, was a popular toy in early modern Europe.
 Representations like these can be useful sources of information about Native-American children. However, those who produced them drew upon artistic traditions and Western cultural values in their often embellished and stylized representations of indigenous children. As a result, these visual sources must be used critically, cautiously, and comparatively. For instance, how does the girl in John White’s watercolor compare with one in the lavish engraving? Also compare the girl in the hand-painted illustration to the boy in the 1705 engraving published in *The History and Present State of Virginia, In Four Parts* (fig. 3).
 What might account for the change in the sex of the child and the toys in their hands? Robert Beverley did write this book just a few years after his 16-year-old wife died while giving birth to their only son. In what ways might the boy also have served as a more suitable representation of emergent Enlightenment notions of childhood innocence and activity at the dawn of the 18th century?
@@ -538,12 +664,16 @@ What might account for the change in the sex of the child and the toys in their 
 
 ![Christmas Poem, Pima Indian School](/images/school-poem-thumbnail.jpeg)
 
+#### Annotation
+
 The poem and photographic collage is the work of students at the Pima Indian School boarding school near Phoenix, Arizona, and is part of an album probably owned by the school matron. The school was one of some 150 institutions for Indian wards of the U.S. Government. The boys' poem was dedicated to their Matron, a female official who was responsible for supervision and discipline of the students on a day-to-day basis. The school's mission was to "civilize" and assimilate the Indians to American society through a process of education that sought to obliterate their native cultures. The model of organization and discipline was military. Student life was highly regimented, with little free time, uniforms and marching drills. Boys and girls were subject to whipping and jailing. It is notable that the matron herself would not actually carry out the punishments she ordered; older students selected as "officers" often did so. Students at the Pima Indian School performed school maintenance, cleaning, cooking, laundering, and caring for the animals and crops that provided students and teachers with food. Students were also put out to work as domestics and farm laborers, for further acculturation and to provide work experience. School officials did not envision preparing them for higher education.
 The decorated poem as an object is notable for its penmanship and skill in use of language. The photographs of the boys' heads pasted around the poem indicate that students had access to copies of group photographs, since they are all wearing uniform caps. The poem's tone is both ironic and affectionate toward the matron and the school, incorporating language that indicates exposure to American customs and domestic habits, such as the Christmas holiday, mention of loafing, castor oil and germs. The language is revealing of the tension between the boys' obedience to the matron and assertion of individuality and group solidarity, and their perception of the social context of the school expressed in recognition of the matron's “worry of the whole red race.”
 
 ### [Testament of a Mother during the Black Death](/testament-mother-during-black-death)
 
 ![Testament of a Mother during the Black Death](/images/Icons-Document-thumbnail_122.jpg)
+
+#### Annotation
 
 Below is a will that offers a window into the family life of Ursollina, wife of a parchment worker named Carinus. Although many wealthy people left long and complicated wills filled with lists of pious bequests, these simple wills are more typical of artisans who, despite modern assumptions to the contrary, commonly made wills in medieval Italy. According to intestate law in medieval Italian towns, sons were to inherit the patrimony equally while daughters were to receive a dowry, which their husbands could use while they were married and which was returned to them at the end of that marriage.
 Carinus made his will when he was ill at the beginning of July and Ursollina made hers, newly widowed, two weeks later. The only other will to remain from this family is that of their married son, Johannes, who made his will on July 30, naming his unborn child as heir (his wife was pregnant at the time). Petrobellus, the brother of Mengorius, husband of Carinus and Ursollina's daughter, made his will on the same day as Ursollina. The same notary and parish priest were present for all four of these wills. The English translation has left out most of the legalistic and formulaic language.
@@ -553,6 +683,8 @@ This source is a part of the [*Children during the Black Death*](https://worldhi
 
 ![Pieter Bruegel the Elder’s "Children's Games"](/images/brueghel_childrens_games_11393aab38THUMB.jpg)
 
+#### Annotation
+
 Flemish painter, Pieter Bruegel the Elder, painted "Children's Games" in 1560. While many of his other paintings also portray peasant folk culture, this summer townscape that is devoid of adults is rich in detail about Medieval children—especially at play. The painting provides a window into amusements and recreations in the past in its detailed depiction of some 200 children engaged in nearly 80 different games and play activities. Many (although not all) of the outdoor activities included in this visual compendium of 16th-century children's play will be recognizably familiar.
 Physically energetic and imaginatively engaged girls and boys are everywhere in Bruegel's busy painting. Some are using their bodies, others are playing with children and/or with toys (e.g., windmill; hoops). Here are some examples. Three boys mounted on a red fence are pretending to race horses. A few are playing leapfrog and others playing "horsey" and "tug of war." Another is straddling a hobbyhorse. Two girls are playing a medieval form of jacks (knucklebones) but with a bone instead of a ball. A group of children playing dress-up are staging a wedding. A small group of boys are spinning tops (a popular toy). A girl is playing musical instruments, another with a doll. A few boys are balancing on barrels. Some children are engaged in solitary play (e.g., blowing bubbles; dollmaking). While some are playing gently, there are rough bullies here as well.
 In addition to this painting and additional ones by Bruegel the Elder there are other useful sources of information about children's play in medieval Europe. Illuminated manuscripts from the Netherlands include noteworthy depictions of children at play. Other kinds of evidence can be drawn from poetry, such as, The Pilgrim of the Life of Man, a French poem translated in 1426 by the English poet John Lydgate. It includes an energetic girl, named Youth, with a passion for play. She enumerates 25 different activities and games. Archeologists also have located toys and other objects for material culture analysis. A highly useful secondary source is Nicholas Orme's Medieval Children (Yale University Press, 2001). A comprehensive chapter on "play" is also lavishly illustrated with art and artifacts.
@@ -560,6 +692,8 @@ In addition to this painting and additional ones by Bruegel the Elder there are 
 ### [Children and Daguerreotypes](/children-and-daguerreotypes)
 
 ![Children and Daguerreotypes](/images/daguerreotype-thumbnail.jpg)
+
+#### Annotation
 
 Daguerreotypes were the first commercially viable photographic process. Developed by French chemist Louis Daguerre in 1839, the technique quickly made its way to the US in the 1840s, the beginning of what some historians characterize as the "golden age" of childhood. Although the daguerreotype method was tedious—dependent on complicated chemical preparation, long exposure times, and an involved development procedure—the daguerreotype proved immediately popular because of its ability to capture detail and provide a "true" likeness.
 One of daguerreotypists' most popular sitters proved to be children. This series of daguerreotypes represents a range of childhood images: a postmortem representation, a hand-colored portrait, a brother and sister study, and photograph of a boy with a donkey. These offer several insights into the 19th-century's conceptualizations of childhood. As such, the photographs invite students to think about the different depictions of boys and girls, children's work, children's relationship to pets, sibling affiliation, and the cultural importance of children, generally.
@@ -570,14 +704,15 @@ This source is a part of the [*Children and Daguerreotypes (19th c.)*](https://w
 
 ![Paleolithic Finger Flutings Cave Drawing](/images/paleolithic-finger-flutings-thumbnail.jpeg)
 
-This image from Chamber A1 of Rouffignac Cave was created by a young girl we posit to be between four and five years old from her height and the places in the cave where she has chosen to make her flutings. She was part of a group of people who visited the cave during the Upper Paleolithic Period (sometime between 20,000 and 11,000 years ago). It seemed she was part of a group which included 8 individuals, of whom at least 3 were children. This panel is at the entrance to a chamber a half km into the cave and what is striking about it is not only its design but also that it was drawn with two hands at the same time which means this individual wasn't holding a torch at the time of her drawing. This young girl is one of the most prolific fluters in Rouffignac. We find her flutings in almost every chamber and a panel very similar to this one appears 1.5 km further into the cave. She also produced the first known tectiform, a symbolic form, produced by a child. As time goes on, we hope to learn more and more about the people who visited and decorated Rouffignac cave during the Paleolithic.
+#### Annotation
 
+This image from Chamber A1 of Rouffignac Cave was created by a young girl we posit to be between four and five years old from her height and the places in the cave where she has chosen to make her flutings. She was part of a group of people who visited the cave during the Upper Paleolithic Period (sometime between 20,000 and 11,000 years ago). It seemed she was part of a group which included 8 individuals, of whom at least 3 were children. This panel is at the entrance to a chamber a half km into the cave and what is striking about it is not only its design but also that it was drawn with two hands at the same time which means this individual wasn't holding a torch at the time of her drawing. This young girl is one of the most prolific fluters in Rouffignac. We find her flutings in almost every chamber and a panel very similar to this one appears 1.5 km further into the cave. She also produced the first known tectiform, a symbolic form, produced by a child. As time goes on, we hope to learn more and more about the people who visited and decorated Rouffignac cave during the Paleolithic.
 
 ## Teaching Strategies
 
 ##### How do I study the history of children and youth?
 
-**Start by placing children at the center of inquiry**  
+**Start by placing children at the center of inquiry**<br>
 In standard textbooks on U.S., European, and world history, knowledge about children has been limited to the lives of exceptional youngsters or to anonymous, ordinary children within the family context. Other than a handful of heroes and helpful daughters and sons, children have remained on the margins of historical inquiries that have traditionally focused on adult society. When we place young people at the center of inquiry, we find that they have been an important part of every civilization.
 
 From infancy through childhood and into young adulthood, youth have inhabited huts and houses, orphanages and dormitories. They have worked as domestics, street vendors, slaves, babysitters, and [child laborers mining gold in Peru](https://worldhistorycommons.org/child-labor-la-rinconada), [constructing lanterns in Cairo](https://worldhistorycommons.org/egyptian-ramadan-lanterns), and [sewing soccer balls in Pakistan](https://worldhistorycommons.org/soccer-ball-assembly-using-child-labor). They attended schools and sites of worship where they played, prayed, studied, and socialized.
@@ -586,7 +721,7 @@ Children around the world participated in numerous youth organizations such as t
 
 When we examine the experiences of young people, we often see well-known topics in a new light. And just as often, new topics as well as novel ways of understanding historical shifts and periods come into view. For example, medieval “Dance of Death” [woodcuts](https://worldhistorycommons.org/dance-death) and [murals](https://worldhistorycommons.org/dance-dead) reveal that panicked parents did not wantonly abandon their children during the Black Death as previously believed. Instead, parents grieved the loss of a child they understood was separated from them by Death.
 
-**Use Categories of Analyses**  
+**Use Categories of Analyses**<br>
 An important initial step toward studying the history of children and youth is to make “age” a category of analysis. Privileging the age of historical subjects is critical because the experiences, opportunities, abilities, expectations, and objects of young people typically differ from those of adults. This [Roman marble sarcophagus](https://worldhistorycommons.org/child%E2%80%99s-life-course) dating from the first half of the 2nd century, CE, depicts the development of a boy from infancy through childhood.
 
 Yet determining who is a child and who is a young adult is sometimes more challenging than this sarcophagus suggests, as definitions of “childhood” and “youth” have been more fluid than fixed. In addition to actual age, biological maturation has often established the parameters of childhood; yet even the onset of [menarche](https://worldhistorycommons.org/age-menarche-norway) (the age of first menstruation that often signals the beginning of young adulthood), has shifted over time. Since the end of the 19th century, the age at which European girls began to menstruate dropped from around age 16 to about 11 today.
@@ -599,7 +734,7 @@ Also underscoring gender differences are sources that offered child-rearing reco
 
 For the most thorough understanding of the identity, circumstances, experiences, and prospects of boys and girls in the past and the present, researchers should consider examining the intersections of age and gender, along with race, ethnicity, sexual identity, and other relevant categories that shape individuals and ideals.
 
-**Examine Cultural Constructions**  
+**Examine Cultural Constructions**<br>
 While it is still assumed that “childhood” is universal and unchanging, not all civilizations have shared the same ideas about children. Within every society, ideas about children typically vary over time. In Germany, for example, the effort to redefine childhood as a period of innocence led to the canonization of some [folk stories](https://worldhistorycommons.org/der-struwwelpeter-slovenly-peter) and the elimination of others. A comparison of different editions of [Grimm Brothers’ collected works](https://worldhistorycommons.org/grimms-childrens-and-household-tales) reveals that books published after 1819 omitted troubling stories about children committing senseless acts of violence.
 
 The depictions of children in “classic” works of fiction published between 1865 and 1920 provide another example of older notions of childhood giving way to “modern” ones. Alice in Wonderland (1865), [Little Women](https://worldhistorycommons.org/girlhood-and-little-women) (1868/9), Tom Sawyer (1876), and many other novels published during the “Golden Age” of Anglo-American children’s literature, reflected the shift in childrearing traditions from didactic literature to entertaining fantasies.
@@ -608,7 +743,7 @@ In addition to “childhood,” “girlhood” and “boyhood” are culturally 
 
 Despite the prominent differences between girlhood and boyhood, the borders between these constructs have been neither static nor uniform. Folk art paintings, for example, offer visually compelling information that notions of femininity and masculinity have not always been the same. The little boy who donned a fancy dress and delicate pantaloons in [this 19th-century painting](https://worldhistorycommons.org/hobby-horse) is at first glance indistinguishable from his older sister. Closer examination of his position, posture, and toys, reveals, however, that while his clothing was feminized, he was practicing the skills and sensibilities—independence, mastery, confidence, control, courage, and dominance—of Victorian masculinity.
 
-**Examine the “Lived Experiences” or “Everyday Lives” of Ordinary Children**  
+**Examine the “Lived Experiences” or “Everyday Lives” of Ordinary Children**<br>
 While idealized depictions of children reveal adults’ expectations of young people, these often did not portray the lives of children as they lived them. The everyday experiences of children were better reflected in other sources, such as documentary photographs. These captured the daily life of [Chinese children who sold toys](https://worldhistorycommons.org/selling-toys) during the 1930s and early 1940s. Artifacts such as birthday hats or “[passport masks](https://worldhistorycommons.org/dan-passport-masks),” worn by adolescents of the Dan people as they came of age in western Côte d’Ivoire and Liberia, are among the many types of materials that document the numerous rituals and rites of passage ceremonies that have been a part of childhood across all cultures.
 
 While these objects reveal little about how children experienced these events, the diaries and letters children wrote, the games they played, and the school assignments they completed (or did not complete) are some of the many types of documents that can open a window into the subjective experiences of the young.
@@ -619,7 +754,7 @@ Whether in attics or in diaries, children and youth have often defied prevailing
 
 The everyday activities and as well as “subjectivities” of slave children faced with the competing demands of parents and planters can be gleaned from other kinds of sources: testimonies of fugitives or emancipated slaves, plantation records, folktales, and oral histories. Unlike the interviews conducted by the U.S. Works Projects Administration during the Great Depression, trader inventories or, slave ship logs recorded by captains and their crews, provide numerical information about [child enslavement](https://worldhistorycommons.org/slave-coffle-central-africa-1861) and survival.
 
-**Pose Child-Focused Questions**  
+**Pose Child-Focused Questions**<br>
 The dynamic process of formulating critical (analytical) questions that will both elicit information as well as inspire more complex questions that ultimately elucidate the relationship between facts and phenomena is central to the enterprise of historical research. Posing specifically child-centered questions makes visible the particular circumstances of children’s experiences that can potentially challenge dominant assumptions. The following are examples of questions that place children at the center of inquiry:
 
 * In what ways do different social arrangements, beliefs, practices, ideologies, and historical forces shape notions of childhood as well as children’s experiences?
@@ -634,7 +769,7 @@ Primary sources provide the raw data out of which the history of girls and boys 
 
 Here are some examples of different kinds of documentary sources used by historians of childhood.
 
-**Literary Sources**  
+**Literary Sources**<br>
 Literature can provide insight into the history of childhood and youth by revealing how adults’ imagined children and how they addressed them during different historical periods.
 
 From legends to [folk tales](https://worldhistorycommons.org/red-shoes), picture books to seduction novels, and fiction to biographies, stories aimed at children have often served didactic purposes.
@@ -647,27 +782,27 @@ Unique among literary sources are slave narratives that provide insight into chi
 
 Harriet A. Jacob’s [Incidents in the Life of Slave Girl Captivity](https://worldhistorycommons.org/incidents-life-slave-girl) (1861) provides insight into the specifically gendered experiences of girls on plantations. Captivity narratives (such as Mary Jemison’s [1824 recollection](https://worldhistorycommons.org/narrative-life-mrs-mary-jemison) of her abduction by the Seneca Indians), autobiographies, memoirs, and testimonies (such as those of [Holocaust victims](https://worldhistorycommons.org/jewish-children-holocaust)) can provide an explicitly child-centered perspective of events as well as self-reflections formed later in life.
 
-**Personal Texts**  
+**Personal Texts**<br>
 Sharing similarities with narratives and memoirs are letters, diaries, and accounts that reveal thoughts and feelings that were personal but not necessarily “private.” Not only did letters and diaries historically include a broad audience (e.g., family members), but they were also shaped by cultural conventions in both form and content. That is the case among seemingly private missives as well as the many [letters sent to Santa](https://worldhistorycommons.org/writing-letter-santa) that often reveal the desires of young consumers.
 
-**Legal Documents**  
+**Legal Documents**<br>
 Legislation, ordinances, acts, statutes, handbills, and other official documents produced by governments, courts, and international bodies (e.g., United Nations) are among the many kinds that can be used to research children’s history. For example, historians have concluded that 70 percent of those indicted under the [Infanticide Act of 1624](https://worldhistorycommons.org/infanticide-trial-transcript-old-bailey-elizabeth-taylor-clerkenwell) were servant girls under the age of 16.
 
 Girls’ voices can better be heard in the official records of [witchcraft trials](https://worldhistorycommons.org/children-and-witchcraft-16th-c) that spanned 200 years of European and American history. Whether they were accused of witchcraft or blamed others for their bewitching, children’s testimonies shed light on their position within families, their role within communities, and the uncertainties of everyday life that fueled fears about the supernatural.
 
-**Institutional Records**  
+**Institutional Records**<br>
 Institutional records produced by the multitude of private and public agencies established for the care, education, training, and confinement of boys and girls are a key source of information about young people. One problem, however, is that official reports written by administrators of educational institutions and organizations for children typically represent an institutional view rather than the perspective of youthful insiders.
 
 Nevertheless, institutional records are valuable. Records from 19th-century lunatic asylums, for example, provide an understanding of the historical construction of “feeblemindedness.” Moreover, the uniformity of institutional record keeping is ideal for quantitative methods of research.
 
 Contracts to adopt orphans or other legal agreements that led to the employment of child apprentices are notarial documents that provide information about the adoption practices and the employment of abandoned children. Orphanage records detail the scores of poor children who lived at the margins of society in [France](https://worldhistorycommons.org/orphan-records-early-modern-france), [Portugal](https://worldhistorycommons.org/noticias-de-portugal), the [U.S.](https://worldhistorycommons.org/1879-cleveland-protestant-orphan-asylum-annual-reports), and elsewhere in the world. Written records can be advantageously supplemented by photographs such as those that document the establishment of [Indian mission schools](https://worldhistorycommons.org/carlisle-indian-school-students).
 
-**Tables and Charts**  
+**Tables and Charts**<br>
 Tables and charts that draw upon a variety of historical and/or contemporary primary sources provide researchers with data expressed as a measurable quantity. These “quantitative” formats also provide comparative contexts. A table on “age of consent” laws, for example, reveals that definitions of childhood shifted across time and spaces.
 
 The many charts and tables compiled under the auspices of the UN Millennium Development Summit provide information on worldwide childhood poverty, hunger, education ([primary](https://worldhistorycommons.org/millennium-development-goals-primary-school-enrollment-2009) through [higher education](https://worldhistorycommons.org/millennium-development-goals-gender-parity-basic-education-2007)), gender equality, and [health (malnutrition)](https://worldhistorycommons.org/millennium-development-goals-child-malnutrition-2006).
 
-**Material Culture Sources**  
+**Material Culture Sources**<br>
 Material culture (or objects) from the past can provide other kinds of information unavailable elsewhere. Historians can obtain information about adults’ ideals, children’s practices, social relations, and the meanings of things by “reading” or interpreting the ideas encoded in art and artifacts.
 
 Tombstone inscriptions and symbols as well as burial sites, like the [ruins of a cemetery for infants](https://worldhistorycommons.org/tophet-carthage) in the North African city of Carthage, can be "read" for the knowledge they provide about childhood as well as parental grief.
@@ -680,7 +815,7 @@ Evidence of childhood can be found encrusted in archeological finds, documented 
 
 In addition, artifacts of clothing, paintings, sculptures, architecture, and photographs can convey supplementary information about the well-being of children. [Diapers](https://worldhistorycommons.org/diapers) might cover babies’ bottoms, but interpreting these water resistant receptacles made out of cotton, moss, or other absorbent materials can uncover adults’ expectations of children’s bodily control and mobility.
 
-**Visual and Representational Sources**  
+**Visual and Representational Sources**<br>
 Images of boys and girls can be found in paintings, prints, photographs, advertisements, billboards, murals, posters, as well as movies, cartoons, videos, and other visual sources created by adults, adolescents, and children. Many images are visual prescriptions of what children should do and proscriptions about what they should not.
 
 The [Codex Mendoza](https://worldhistorycommons.org/codex-mendoza-16th-c), a mid 16th-century historical account of the Spanish conquests of Mexica (Aztec) includes representations of indigenous children from infancy to adolescence that reveal examples of gendered- and age-specific norms, transgressions, and [punishments](https://worldhistorycommons.org/disciplining-children-codex-mendoza).
@@ -693,7 +828,7 @@ Many objects of art created by children have not survived, of course, but those 
 
 In order to understand the concerns of youth, some historians have examined cultural productions not directed by adults. The [“tags” and “throws”](https://worldhistorycommons.org/tags-and-throws-soho-side-street) of graffiti art or [stenciled images](https://worldhistorycommons.org/pippi-graffiti-stencil) on city walls provide a visual record of the concerns and conversations of urban youth.
 
-**Audio and Audio/Visual Sources**  
+**Audio and Audio/Visual Sources**<br>
 Also helpful for research are songs that yield understandings of the topics, themes, and concerns of children—and about them. Evocative song lyrics, such as ["I Didn’t Raise My Boy to Be a Soldier,"](https://worldhistorycommons.org/i-didnt-raise-my-boy-be-soldier-song) are printed on sheet music, in song books, and other published works.
 
 Fortunately for researchers of children’s culture, [Isaac Taylor Headland](https://worldhistorycommons.org/chinese-boy-and-girl) (1859-1942), a resident of Beijing and a scholar at Peking (Beijing) University, collected turn-of-the-century [nursery rhymes](https://worldhistorycommons.org/chinese-mother-goose-rhymes) from the nurse-maids he interviewed as well as from children who sang in the streets and neighborhoods of Beijing and the surrounding region in 1900.
@@ -710,14 +845,14 @@ Video documentaries that combine sound recordings with moving images of intervie
 
 ##### How do I interpret or "read" primary sources?
 
-**Identify**  
+**Identify**<br>
 A first reading of a documentary source is not always accurate; a closer re-reading can reveal underlying values such as those in *prescriptive sources* that aim to establish or reinforce acceptable standards, ideas, attitudes, beliefs, and practices. (*Proscriptive* sources prohibit departures from established norms.)
 
 *Discursive sources* establish perceived truths (e.g., about [African American slave children as ignorant](https://worldhistorycommons.org/little-eva-flower-south)) and legitimatize unequal power relations (such as those between whites and slaves).
 
 Although *descriptive sources* by nature “describe” an occurrence, thought, or emotion, they are not necessarily free of bias.
 
-**Interrogate**  
+**Interrogate**<br>
 In order to achieve an understanding of the past that is as precise as possible, researchers interrogate or “unpack” original sources by cautiously, critically, and actively posing questions about authorship, audience, content, context, purpose, uses, reliability, and meanings.
 
 Scholars have been able to uncover significant data about the origins, uses, and meanings of specific sources of evidence by subjecting them to a systematic method of inquiry. Different kinds of documents often demand specific analytic techniques, yet all require a scholarly approach that is skeptical and critical. Whether investigating texts or objects written by adults or created by children, consider posing probing questions such as:
@@ -733,7 +868,7 @@ Scholars have been able to uncover significant data about the origins, uses, and
 * What did the source mean to children and/or adults? How did they interact with it?
 * What were the larger historical contexts (e.g., concepts of childhood) at the time of the source’s creation?
 
-**Corroborate**  
+**Corroborate**<br>
 Primary sources are fundamental to understanding the past yet they do not provide an unmediated view of history. At best, by themselves they can only provide a partial view. Inherent to most primary sources are inaccuracies, uncertainties, and ambiguities. Secondary sources—books and articles written by scholars—can corroborate research findings, clarify ambiguities, provide constructive context, or perpetuate historical inaccuracies. Expanding frameworks that deepen your understandings of the broader milieu can also produce more connections between the history of children, larger social trends, and your particular subject of study.
 
 By comparing primary sources, one can ascertain the veracity of an account and determine whether it is representative, remarkable, or realistic. Over the course of a little more than a century, the original [16th-century watercolor](https://worldhistorycommons.org/native-american-children-and-toys) of a Native-American girl was transformed into that of a boy in subsequent publications about youthful New World inhabitants.
@@ -742,7 +877,7 @@ When faced with conflicting evidence, comparing sources might strengthen the evi
 
 Whether analyzing police reports, [children’s poems](https://worldhistorycommons.org/christmas-poem-pima-indian-school), or  [parents’ wills](https://worldhistorycommons.org/testament-mother-during-black-death), historians pay particular attention to the uses of language in order to decipher meanings of symbolic systems from “bureaucratese” to baby talk. The skill of interpreting the language and tone of documents from earlier periods is key to understanding the assumptions and sensibilities of people in the past.
 
-**Compare**  
+**Compare**<br>
 Comparative approaches can bring significant aspects of childhood to light. For example, a comparative study of the coerced migrations of children (e.g., orphans, Jews, Africans, and the poor) makes plain the similarity in cultural forms and childhood ideals that overlapped national boundaries.
 
 A comparison of Pieter Bruegel’s Early Modern European painting, [“Children’s Games,”](https://worldhistorycommons.org/pieter-bruegel-elder%E2%80%99s-childrens-games) with illustrations of girls’ and boys’ games and toys in woodblock prints or ukiyo-e from the Tokugawa period (1600–1868) exhibits the similarities and differences in children’s play activities in two countries over two centuries.

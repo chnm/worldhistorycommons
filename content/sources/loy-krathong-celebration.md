@@ -5,6 +5,7 @@ drupal_node_id: 146
 source_type: "Image"
 url: /loy-krathong-celebration
 image: /images/loi-krathong2_9369fade39.jpg
+image_alt: "Young boy celebrating festival on night of full moon"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 987
 source_type: "Image"
 url: /equality
 image: /images/equality-print.jpg
+image_alt: "Equality"
 regions: 
   - "Europe"
 subjects: 

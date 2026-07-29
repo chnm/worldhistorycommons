@@ -29,6 +29,8 @@ related_sources:
   - link: "/missionary-journal-foot-binding-1"
     image: "/images/small-feet-of-chinese-females-article-thumbnail.jpg"
     alt: "Journal of missionary focusing on foot binding"
+how_to_cite: |
+  "Long Teaching Module: Western Views of Chinese Women," in World History Commons, https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -71,11 +73,15 @@ There is very little in these sources that provides substantive information abou
 
 ![Remarks on Chinese Character and Customs](/images/chineserepositorvol12-thumbnail.jpg)
 
+#### Annotation
+
 This article was published in a Protestant missionary journal, based in Canton, that operated from 1832 until 1851. Its readership included both the foreigners living in Canton and home religious communities in Britain and the United States. It is worthwhile noting that the title of the article places the author in the position of knowledgeable observer, thereby rendering his comments both “factual” and honest. The author maintains a sympathetic attitude towards Chinese women, citing their beauty and charm, yet paints them as victims of insensitive males and an oppressive culture, presuming an invisible sorrow shared by all women in China. Confucianism is named as the primary offender, and Christian conversion the sole savior. One may presume that this portrayal of delicate Chinese women as victims of brutish Confucianism helped to excite enthusiasm for the missionary cause in China both at home and abroad. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
 ### [The Natural History of a Chinese Girl](/natural-history-chinese-girl)
 
 ![The Natural History of a Chinese Girl](/images/north-china-herald-thumbnail.jpg)
+
+#### Annotation
 
 This excerpt is part of a serial article entitled “The Natural History of a Chinese Girl,” which ran between July 4, 1890, and July 18, 1890. *The North China Herald and Supreme Court and Consular Gazette* was a secular newspaper published in Shanghai between 1870 and 1941, enjoying a wide readership among the foreign communities along the Chinese coast. One might remark on the choice of title for the article—“natural history” implies an anthropological perspective. In the introduction of the article, the Chinese people are described as physically and intellectually superior but morally deficient, leading to the following rhetorical question: “How happens it, then, that the Chinese are almost the only people boasting an ancient and developed civilization who despise their own daughters?” (*The North China Herald*, 4 July 1890, p. 15). The section excerpted here lays the blame on “the Confucian system,” delineating seven “sins” against Chinese women. With the exception of the last “sin,” this litany is quite representative in rhetorical terms: foreign observers often described Chinese women as objects of oppression. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
@@ -83,11 +89,15 @@ This excerpt is part of a serial article entitled “The Natural History of a Ch
 
 ![The Ethics of Christianity and Confucianism Compared](/images/confucianism-article-thumbnail.jpg)
 
+#### Annotation
+
 This selection is the ninth of ten sections in an article comparing Confucianism and Christianity. The article was published in a missionary journal printed in the cities of Fuzhou and Shanghai. The Chinese Recorder and Missionary Journal operated between 1868 and 1912. It was read by English-speakers living in the major cities of China as well as abroad. This selection very favorably compares the fate of women in Christian societies to those in Confucian societies. For example, Christianity uplifts women, Confucianism degrades them; Christian women are beautiful, Confucian women are ugly. The author employs the logic that women as mothers have an indelible impact on society, concluding, “There is little hope of renovating China until the mothers of China are renovated in heart and life.” One interesting aspect of this article relates to its representation of women in general terms: whether Confucian or Christian, women are not agents, but rather wholly shaped by the moral forces that surround them. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
 ### [Missionary Journal, Foot Binding 1](/missionary-journal-foot-binding-1)
 
 ![Missionary Journal, Foot Binding 1](/images/small-feet-of-chinese-females-article-thumbnail.jpg)
+
+#### Annotation
 
 This article was published in a Protestant missionary journal, based in Canton, that operated from 1832 until 1851. Its readership included both the foreigners living in Canton and home religious communities in Britain and the United States. The author begins the piece with the shocking statement that the Chinese are both physically and morally deformed and goes on to present the practice of foot binding among Chinese women as proof for his remarks. This article, which presents foot binding in a negative light, is noteworthy in two aspects. First, in asserting authoritative knowledge about foot binding, the author only cites texts by Western authors. Second, the author deliberately employs “Science” to serve his viewpoint in appending the transcription of a dissection of “a specimen of a Chinese foot.” The introduction of this transcription is included here. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
@@ -95,11 +105,15 @@ This article was published in a Protestant missionary journal, based in Canton, 
 
 ![Missionary Journal, Foot Binding 2](/images/small-feet-of-chinese-women-article-thumbnail.jpg)
 
-This article was published in a missionary journal printed in the cities of Fuzhou and Shanghai. *The Chinese Recorder and Missionary Journal* operated between 1868 and 1912. It was read by English-speakers living in the major cities of China as well as abroad. The article takes up a subject that excited great interest among Western residents of China: foot binding. The author begins with a review of the origins of the practice, discusses it as current fashion, relates the practice to public health, and concludes with a detailed description of the bound foot. The author pronounces a relatively benign interpretation of the practice (compared to “Small feet of the Chinese females…,” *The Chinese Repository* 3 (1835): 537-539 for example), noting that it does not render women incapacitated. Nevertheless, Dudgeon makes clear the abhorrence Westerners feel for the custom, labeling it “positively repulsive and disagreeable.” This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women)teaching module.
+#### Annotation
+
+This article was published in a missionary journal printed in the cities of Fuzhou and Shanghai. *The Chinese Recorder and Missionary Journal* operated between 1868 and 1912. It was read by English-speakers living in the major cities of China as well as abroad. The article takes up a subject that excited great interest among Western residents of China: foot binding. The author begins with a review of the origins of the practice, discusses it as current fashion, relates the practice to public health, and concludes with a detailed description of the bound foot. The author pronounces a relatively benign interpretation of the practice (compared to “Small feet of the Chinese females…,” *The Chinese Repository* 3 (1835): 537-539 for example), noting that it does not render women incapacitated. Nevertheless, Dudgeon makes clear the abhorrence Westerners feel for the custom, labeling it “positively repulsive and disagreeable.” This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
 ### [Missionary Journal, Foot Binding 3](/missionary-journal-foot-binding-3)
 
 ![Missionary Journal, Foot Binding 3](/images/responses-to-small-feet-article-thumbnail.jpg)
+
+#### Annotation
 
 This article and corresponding letter were both written in response to J. Dudgeon’s piece, “The Small Feet of Chinese Women,” The Chinese Recorder and Missionary Journal 2 (1869): 93-96. This journal was printed in the cities of Fuzhou and Shanghai between 1868 and 1912. It was read by English-speakers living in the major cities of China as well as abroad. Dr. Kerr responds to Dr. Dudgeon’s relatively innocuous description of the practice of foot binding with great energy, condemning the author for his sanguine portrayal and insisting that the practice is morally unconscionable. “H.G.” responds to Dr. Kerr’s criticisms in turn, refuting Kerr’s argument point by point. His opposition notwithstanding, H.G.’s own aversion to foot binding is clear in his letter. What he takes issue with is the question of whether unbinding bound feet should be a prerequisite to Christian conversion. These letters are most interesting in that, first, they show the heightened interest of the foreign community in the practice and, second, that they demonstrate the manner in which “knowledge” about Chinese culture is quickly abstracted from its social and historical context to become the material for arguments that relate to Western concerns. Despite the considerable dispute over the physical effects of foot binding, at no point did any author ever interview a Chinese woman on the topic—their own opinions on the practice were sufficient evidence for their audiences. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
@@ -107,11 +121,15 @@ This article and corresponding letter were both written in response to J. Dudgeo
 
 ![Foot Binding](/images/WWH-footbindingsmall-thumbnail.jpeg)
 
+#### Annotation
+
 This photograph presents a very different vision of foot binding from that depicted by Western observers in the 19th century. Whereas Western visitors to China seemed most interested in the bound foot unbound, as deformity or fetish, this photo shows the bound foot as it had meaning in Chinese culture: as part of clothing or fashion. In this image, “small feet” are put into their proper cultural context as a form of female adornment. The emphasis here is on the apparel: shoes, sashes, and leggings. The photograph may be fruitfully compared to the concluding description in J. Dudgeon, M.D., “The Small Feet of Chinese Women,” The Chinese Recorder and Missionary Journal 2 (1869): 93-96, where he focuses on the physical and anatomical effects of the practice; the impressions created by the two depictions are entirely different. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
 ### [Schools for the Education of Chinese Girls](/schools-education-chinese-girls)
 
 ![Schools for the Education of Chinese Girls](/images/education-chinese-girls-thumbnail.png)
+
+#### Annotation
 
 This article was published in a Protestant missionary journal based in Canton that operated from 1832 until 1851. Its readership included both the foreigners living in Canton and home religious communities in Britain and the United States. In this article, the editors introduce a letter “from the pen of a Christian lady” who has presumably been working with overseas Chinese families in a mission outside of China. This woman advocates for the Christian education of Chinese women in order to better equip them for their “moral duty” of nurturing within the home, a task for which they are now “ill qualified.” The introduction to the letter is as interesting as the letter itself. The preface is addressed to “the females of Europe and America” and calls on them to respond to “the universal degradation of their sex” in China. Implicit in this summons is the assumption that these “females” would recognize their superior situation with respect to Chinese women. In other words, the Chinese case is presented as proof positive that the gender order in the West represents the pinnacle of civilization. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
@@ -119,11 +137,15 @@ This article was published in a Protestant missionary journal based in Canton th
 
 ![Women’s Work for Woman](/images/woman-work-article-thumbnail.jpg)
 
+#### Annotation
+
 This article was published in a missionary journal printed in the cities of Fuzhou and Shanghai. The Chinese Recorder and Missionary Journal operated between 1868 and 1912. It was read by English-speakers living in the major cities of China as well as abroad. In this paper, Mrs. Farnham addresses her “missionary sisters” on the matter of working to convert Chinese women. Farnham points to education as the surest means of influencing “the girls who shall become the future wives and mothers of China,” reflecting a shared belief with the audience that it is in these roles that women have the greatest impact on society. The title of the paper notwithstanding, Farnham’s article also reveals that Western missionary women are not necessarily content working with Chinese women exclusively. They prefer to extend their efforts to men, perhaps because they do not believe their own rhetoric about woman’s moral authority in the home? This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
 ### [Missionary Journal, Chinese Culture](/missionary-journal-chinese-culture)
 
 ![Missionary Journal, Chinese Culture](/images/chinese-culture-article-thumbnail.jpg)
+
+#### Annotation
 
 This article was published in a missionary journal printed in the cities of Fuzhou and Shanghai. The Chinese Recorder and Missionary Journal operated between 1868 and 1912. It was read by English-speakers living in the major cities of China as well as abroad. In this article, the editors reprint a letter from Miss Porter, who lives in Shandong province in north China, in which she describes Chinese domestic life. The language of this piece is intriguing, offering praise and condemnation at the same time. In her description, Chinese culture is just shy of “admirable,” needing only the polish of Christianity to give it shine. Chinese women are similarly depicted, presented as self-reliant and well-mannered, yet ignorant, and superstitious. The author finds that their lives suit them “in their present condition” and predicts great improvements when all of Chinese society has wholly embraced Christianity. This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
@@ -131,8 +153,9 @@ This article was published in a missionary journal printed in the cities of Fuzh
 
 ![Poem by Qiu Jin, Chinese feminist](/images/Icons-Document-thumbnail_713_0_3.jpeg)
 
-While the discussion surrounding the Chinese practice of footbinding often focuses on the writings of western missionaries, the example of Qiu Jin, a Chinese feminist and poet, demonstrates that the practice was criticized by Chinese individuals as well. Qui Jin had her feet bound as a child and as an adult spoke out against the practice. In 1904, she moved away from her husband and children to study in Japan where she wrote the poem here. In the poem she explicitly connects her bid for independence with unbinding her feet "Unbinding my feet I clean out a thousand years of poison, With heated heart arouse all women’s spirits." This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
+#### Annotation
 
+While the discussion surrounding the Chinese practice of footbinding often focuses on the writings of western missionaries, the example of Qiu Jin, a Chinese feminist and poet, demonstrates that the practice was criticized by Chinese individuals as well. Qui Jin had her feet bound as a child and as an adult spoke out against the practice. In 1904, she moved away from her husband and children to study in Japan where she wrote the poem here. In the poem she explicitly connects her bid for independence with unbinding her feet "Unbinding my feet I clean out a thousand years of poison, With heated heart arouse all women’s spirits." This source is a part of the [*Western Views of Chinese Women*](https://worldhistorycommons.org/long-teaching-module-western-views-chinese-women) teaching module.
 
 ## Teaching Strategies
 
@@ -180,35 +203,35 @@ After completing this lesson, students will be able to:
 ##### Materials
 
 * A printed packet of all of the sources listed below should be made for each student, so that s/he can mark directly on the copies to analyze point of view. Of course, students also could be directed to use the versions online with editing programs (like Microsoft Word) instead.
-* Source 1: Missionary Journal, "Chinese Character"  
+* Source 1: Missionary Journal, "Chinese Character"<br>
   Lay, G. Tradescant. “Remarks on Chinese Character and Customs.” Chinese Repository 12 (1843): 139-142.
-* Source 2: Newspaper, Confucian Women  
+* Source 2: Newspaper, Confucian Women<br>
   North China Herald and Supreme Court and Consular Gazette, “The Natural History of a Chinese Girl,” July 18, 1890.
-* Source 3: Missionary Journal, Christianity and Confucianism  
+* Source 3: Missionary Journal, Christianity and Confucianism<br>
   “The Ethics of Christianity and Confucianism Compared.” Chinese Recorder and Missionary Journal 17 (1886): 377-378.
-* Source 4: Missionary Journal, Foot Binding 1  
+* Source 4: Missionary Journal, Foot Binding 1<br>
   “Small feet of the Chinese females: remarks on the origin of the custom of compressing the feet; the extent and effects of the practice; with an anatomical description of a small foot.” Chinese Repository 3 (1835): 537-539.
-* Source 5: Missionary Journal, Foot Binding 2  
+* Source 5: Missionary Journal, Foot Binding 2<br>
   Dudgeon, J., M.D. “The Small Feet of Chinese Women.” Chinese Recorder and Missionary Journal 2 (1869): 93-96.
-* Source 6: Missionary Journal, Foot Binding 3  
+* Source 6: Missionary Journal, Foot Binding 3<br>
   Kerr, J. G., M.D. “Small Feet.” Chinese Recorder and Missionary Journal 2 (1869): 169-170; G., H. “Correspondence: Small Feet.” Chinese Recorder and Missionary Journal 2 (1870): 230-232.
-* Source 7: Photograph, Foot Binding  
+* Source 7: Photograph, Foot Binding<br>
   Photograph of Northern Chinese woman, late Qing period. In Every Step a Lotus: Shoes for Bound Feet, Dorothy Ko. Berkeley: University of California Press; The Bata Shoe Museum Foundation, 2001.
-* Source 8: Missionary Journal, Chinese Education 1  
+* Source 8: Missionary Journal, Chinese Education 1<br>
   “Schools for the Education of Chinese Girls.” Chinese Repository 3 (1834): 42-43.
-* Source 9: Missionary Journal, Chinese Education 2  
+* Source 9: Missionary Journal, Chinese Education 2<br>
   Farnham, J.M.W. “Women’s Work for Woman.” Chinese Recorder and Missionary Journal 16 (1885): 218-219.
-* Source 10: Missionary Journal, Chinese Culture  
+* Source 10: Missionary Journal, Chinese Culture<br>
   “Domestic Life of Woman.” Chinese Recorder and Missionary Journal 17 (1886): 153-154.
 * Source 11: Poem by Qiu Jin, Chinese feminist.
 * Sufficient copies of Primary Source Analysis Worksheet: Texts
 
-[Download Primary Source Packet](https://worldhistorycommons.org/sites/default/files/whc-western-views-of-chienese-women-primary-source-packet.pdf)  
+[Download Primary Source Packet](https://worldhistorycommons.org/sites/default/files/whc-western-views-of-chienese-women-primary-source-packet.pdf)<br>
 [Download Text Analysis Worksheet](https://worldhistorycommons.org/sites/default/files/whc-analyzing-texts-worksheet.pdf)
 
-##### Strategies
+##### Lesson Plan Strategies
 
-Day 1:  
+Day 1:<br>
 1. Hook: The teacher will introduce the lesson by showing students images of different kinds of fashions for women that restricted or inhibited their movement such as corsets, high heel shoes, mini-skirts, heavy jewelry, and Chinese foot binding. To show Chinese foot binding, the teacher could use Source 7: Photograph, Foot Binding, which depicts a Northern Chinese woman with bound feet from the late Qing period. The teacher will start a discussion by asking the following questions:
 
 * How do these fashions restrict or inhibit movement?
@@ -223,7 +246,7 @@ The teacher can alert the students to look for key phrases that indicate tone an
 
 4.Homework: The teacher will distribute the primary sources as a packet for the students to analyze for homework (and show them how to access the documents online if they prefer to read and mark on electronic versions). The students will use the Primary Source Analysis Worksheet: Texts to identify the authors’ points of view on the status and role of Chinese women in their society, i.e. what opinion do they have about Chinese women and how does their gender, occupation, culture, religious affiliation, audience, social class, and purpose inform their point of view on Chinese women’s status and role in Chinese society.
 
-Day 2:  
+Day 2:<br>
 5. Roundtable Discussion Preparation: The teacher will assign students to the following roles for a roundtable discussion on Western views of the status and role of Chinese women in 19th-century China. The numbers in parentheses indicates the maximum number of students to be assigned to that role in the roundtable. If the class size exceeds 28, then the teacher can assign moderators to keep the discussion going. The teacher also could assign a student to give a brief introduction to the roundtable and one to summarize the major arguments at the end. Another role could be to lead a reflection on the extent to which their current views about women’s status and roles in American society affected their presentation of their role in the roundtable. If the class is small, the teacher should fulfill those duties.
 
 Roundtable Speaking Roles:
@@ -242,7 +265,7 @@ Roundtable Speaking Roles:
 
 The students will work on preparing their arguments for a roundtable discussion. They must show the teacher the three statements they plan to make during the discussion and the source(s) they used to prepare their statements. The teacher should encourage the students to anticipate arguments from the other side, and to confer with their classmates who have the same views to make sure that their statements are not too repetitive.
 
-Day 3:  
+Day 3:<br>
 6. Roundtable Discussion: Students will conduct the roundtable discussion on the status and role of Chinese women in their society. If possible, the chairs in the classroom should be organized in a circle.
 
 7. Wrap-up: Students will discuss how much their current views on women’s roles affected their statements on behalf of 19th century people.
@@ -259,7 +282,7 @@ Additionally, the teacher should sustain a discussion with the students on how t
 
 ## Document Based Question
 
-(Suggested writing time: 40 minutes)  
+(Suggested writing time: 40 minutes)<br>
 Directions: The following question is based on the documents included in this module. This question is designed to test your ability to work with and understand historical documents. Write an essay that:
 
 * Has a relevant thesis and supports that thesis with evidence from the documents.
@@ -268,7 +291,7 @@ Directions: The following question is based on the documents included in this mo
 * Takes into account both the sources of the documents and the authors' points of view.
 * You may refer to relevant historical information not mentioned in the documents.
 
-Question: Using the sources provided, compare and contrast different 19th-century Western attitudes toward Chinese women’s status and roles in Chinese society.  
+Question: Using the sources provided, compare and contrast different 19th-century Western attitudes toward Chinese women’s status and roles in Chinese society.<br>
 What additional sources, types of documents, or information would you need to compare and contrast more completely 19th-century Western attitudes toward Chinese women’s status and roles in Chinese society?
 
 ## Bibliography

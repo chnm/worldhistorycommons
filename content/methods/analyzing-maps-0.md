@@ -28,6 +28,8 @@ related_sources:
   - link: "/marshall-islands-stick-charts"
     image: "/images/Maps-Marshall-Islands-Stick-Chart_0_0.jpg"
     alt: ""
+how_to_cite: |
+  "Analyzing Maps," in World History Commons, https://worldhistorycommons.org/analyzing-maps-0 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -46,6 +48,8 @@ To demonstrate this, try this brief experiment: try describing to a friend preci
 
 ![Ptolemy's World Map](/images/ptolemy-lg_0.jpg)
 
+#### Annotation
+
 Claudius Ptolemy lived in the city of Alexandria in Egypt from about 100 to 170 CE. At that time Egypt was a Roman province and Ptolemy may have been a Roman citizen. A geographer and astronomer, Ptomely's book *Geographia*, influenced mapmakers on questions such as the size of the earth for centuries.
 *Geographia* had been translated into Arabic in the 9th century and then into Latin in 1407. The book re-introduced important mapmaking concepts to European scholars including an emphasis on mathematics and accurate measurements. Previously maps would depict various countries' sizes based on their importance rather than geographic area. Many of Ptolemy's calculations were later proved to be incorrect, but later mapmakers similarly strived for accurate depictions of geographic space.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
@@ -54,12 +58,16 @@ This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/
 
 ![Map of Poverty in Mexico](/images/Poverty_Percentages_of_Mexico_2012_0_0.png)
 
+#### Annotation
+
 Maps are often designed to visualize more than just space and distance. This map, for instance, visualizes how poverty is distributed throughout the various Mexican states in hopes of identifying those areas most in need. The form of this map, or the artistic way in which the map is drawn, is meant to tell the story of how deeply the issue of poverty affects the people in each region. With the lighter colors symbolizing a lower rate of poverty and the darker colors extreme poverty, this map invites the viewer to begin to consider how and why poverty affects certain regions more than others. The focus on the distribution of poverty thus makes this a "thematic map," or a map that concerns itself with more than just geography and topography.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
 
 ### [Plan for the City of Moscow](/plan-city-moscow)
 
 ![Plan for the City of Moscow](/images/michurin_1739_moscow_b_0_0.jpg)
+
+#### Annotation
 
 This 1793 map of Moscow shows a relatively modest and compact city when compared to the sprawling metropolis of the 21st century. From this perspective, the viewer can see the remains of a fortification wall that once encompassed the entirety of the city. Additionally, the map illustrates the importance of waterways in city development and community life in the late 18th and early 19th centuries. Nearly all of the city has expanded to hug the rivers and canals or provide easy access to its banks. A possible historical exercise might be to compare this map to one of Moscow from the end of the 19th century to see not only how the city itself changed over time but also how the way it grew changed, expanding further and further from the waterways that once were central to its commerce and life.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
@@ -68,12 +76,16 @@ This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/
 
 ![Marshall Islands Stick Charts](/images/Maps-Marshall-Islands-Stick-Chart_0_0.jpg)
 
+#### Annotation
+
 The Marshall Island stick charts represent a unique and non-Western tradition of mapmaking. Whereas Western maps generally attempt to capture and visualize distance and space, the charts of the Marshallese dwelt not just on general direction, with shells representing nearby islands, but, more importantly, ocean currents and swell movements. This information was crucial in a region where water travel by canoe was the central means of mobility and commerce among island chains. These stick charts illustrate the ways in which mapmaking depends largely on the context and needs of the mapmakers themselves.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
 
 ### [The Turin Beatus Map of the World](/turin-beatus-map-world)
 
 ![The Turin Beatus Map of the World](/images/E0560028-Coloured_8th_century_Turin_Map_of_the_world_0_0.jpg)
+
+#### Annotation
 
 Before the modern age, maps offered more than just an objective, geographical survey. Often, as is the case with this world map from the 12th century, they also conveyed a set of stories that shaped the worldview of its viewers. This map, for instance, sought to convey allegorical, religious, and geographic information all at once. It located Adam and Eve, the world's first humans according to Judeo-Christian texts, in the continent of Asia as it surrounded the known world with a single ocean whose currents and storms were caused by the four windblowers in the corners of the map.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
@@ -82,12 +94,16 @@ This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/
 
 ![Babylonian Map Tablet](/images/Cuneiform-sippar-map-tablet2_0_0.jpg)
 
+#### Annotation
+
 This ancient map depicts the known world as imagined by the Babylonians of the 6th century BCE. Like many ancient maps, this cuneiform tablet is concerned less with mathematically plotting space and direction than with simply capturing the various places and peoples in the world around Babylon. Here, Babylon represents the very center of the map and thus the world, situated along the banks of the Euphrates river. Encircling the flat, Babylonian world is a great ocean that marks the border between Mesopotamia and the mysterious lands beyond, represented here by six triangles.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
 
 ### [The Jingban tianwen quantu Map of the World](/jingban-tianwen-quantu-map-world)
 
 ![The Jingban tianwen quantu Map of the World](/images/1476340624423_351695_origin_0_0.jpg)
+
+#### Annotation
 
 Like many maps in the pre-modern and early-modern world, this map from China at the end of the 18th century reflected a deeply egocentric worldview. Steeped in a pervasive "sinocentrism," this map portrays China as the symbolic center of the world as well as the largest entity in both the western and eastern hemisphere as depicted at the top of the map, squeezing the rest of the continents into the edges. This map also illustrates the Chinese cartographic convention of including considerable narration on the map itself; European maps of the same time typically include very little writing (other than locational identifiers).
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
@@ -96,12 +112,16 @@ This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/
 
 ![The Mercator Projection](/images/image002__1__0_0.jpg)
 
+#### Annotation
+
 Although the Flemish geographer and cartographer Gerardus Mercator's rendering of the earth has been criticized for the way it distorts reality, it was revolutionary in the way it organized space and distance. By imposing a sense of order on the illustrated world by plotting it on an east-west and north-south grid, and having that grid apply everywhere, Mercator made it possible to chart more accurate headings along straight lines. However, as a Eurocentric side effect, his map drastically inflated the size of objects as one moves farther away from the equator, making landmasses such as Europe, North America, and Antarctica seem much larger than they actually are. Greenland, for example, is 16 times larger on Mercator's projection than it is in reality.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
 
 ### [The Gall-Peters Projection](/gall-peters-projection)
 
 ![The Gall-Peters Projection](/images/800px-Gall_Peters_projection_SW_0_0.jpg)
+
+#### Annotation
 
 Unsatisfied by the distorted view of the world that dominated the Western mind in the form of the Mercator Projection, James Gall and, later, Arno Peters engineered a new map in the 19th and 20th centuries. Based on a mathematical formula that Gall first proposed in the 19th century, Peters projected an image of the world that attempted to capture the size of objects relative to each other. However, this map had its own problems in that it distorts geographical relationships by distorting shapes of countries and continents. In the end, all map projections distort something simply because of the mathematics of reproducing a sphere (the world) on a flat piece of paper (the map).
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
@@ -110,12 +130,16 @@ This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/
 
 ![Map of the Union Pacific Railway](/images/iiif-service_gmd_gmd370_g3701_g3701p_rr005950-full-pct_12.5-0-default_0_0.jpg)
 
+#### Annotation
+
 This 19th century map illustrating the many places one could travel on the Union Pacific Railway is the product of a multitude of choices made by the mapmaker. As a product for, and advertisement of, the Union Pacific Railroad, it obviously only depicts that one railway to the neglect of all of the others that were beginning to be built in the late 19th century. Additionally, one can see the "politics of importance" at play in the illustrations surrounding the map. Of all of the possible destinations the Union Pacific could carry a passenger to, the mapmaker selected only a small handful to depict on the map, half of which were to be found in Utah, just one of the myriad of states the railway served.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
 
 ### [Map of the Partition of Israel and Palestine](/map-partition-israel-and-palestine)
 
 ![Map of the Partition of Israel and Palestine](/images/Partition_of_Israel_1947_and_1949_0_0.jpg)
+
+#### Annotation
 
 In 1947, Britain announced that it would terminate its mandate government in Palestine. As a result, a special committee formed by the United Nations was charged with partitioning the territory into separate, sovereign states. Although the plan called for Jewish and Arab states neatly divided by plotted lines, the reality, as these maps show, was much more contested. Movement, war, and armistice all served to continuously reshuffle the lines of the map as cartographers sought to impose some sense of order on the chaotic realm.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
@@ -124,13 +148,16 @@ This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/
 
 ![“Africae Novo” Map](/images/africa1630-thumbnail.jpeg)
 
+#### Annotation
+
 The “Africae novo” map, from the early 1600s, allows us to think through the interpretation of one historical map. Unlike some historical maps that are mysteries, we know the origins of this one: it was produced by a famous Dutch cartographer, Willem Blaeu, and published in his 1630 atlas. The atlas has survived in several copies, and this artist is quite well known. Blaeu was an instrument maker, a globe manufacturer, and an engraver. Like most cartographers of the time, he was not an explorer himself: he drew his maps from the accounts of explorers, traders, and travellers. He also no doubt used earlier maps as a basic template for his own.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps-0?page=0%2C11) methods module.
-
 
 ## Sample Analysis
 
 The “Africae novo” map, from the early 1600s, allows us to think through the interpretation of one historical map. Unlike some historical maps that are mysteries, we know the origins of this one: it was produced by a famous Dutch cartographer, Willem Blaeu, and published in his 1630 atlas. The atlas has survived in several copies, and this artist is quite well known. Blaeu was an instrument maker, a globe manufacturer, and an engraver. Like most cartographers of the time, he was not an explorer himself: he drew his maps from the accounts of explorers, traders, and travellers. He also no doubt used earlier maps as a basic template for his own.
+
+![](/images/africa1630.jpg)
 
 Even if we didn’t already know that this was a Dutch map of Africa, we would interpret the map in the first instance as an “outsiders” map. Several features tell us that this is not a map drawn by Africans of Africa. The expanses of oceans, proportionately taking up a good deal of the entire map spread, and the prominence of the ships on the oceans, suggest that this is a view of Africa from a maritime perspective. It is hard to read some of the flags flying on the ships, but the Dutch flag—red, white, and blue horizontal stripes—is prominent on several. The ships are not drawn as if they were making landfall in Africa; instead, they are mostly headed south and east, around the Cape, and indeed, we know that European interest in Africa was largely spurred initially by the search for a fast route to the Indies.
 

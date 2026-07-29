@@ -5,6 +5,7 @@ drupal_node_id: 1315
 source_type: "Text"
 url: /scouting-helping-prepare-leaders-tomorrow
 image: /images/Icons-Article-Excerpt_5.jpg
+image_alt: "image of the article"
 regions: 
   - "Africa"
 subjects: 

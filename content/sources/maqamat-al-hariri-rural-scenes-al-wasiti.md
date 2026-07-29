@@ -5,6 +5,7 @@ drupal_node_id: 112
 source_type: "Image"
 url: /maqamat-al-hariri-rural-scenes-al-wasiti
 image: /images/al-wasiti-village_03ee8cdb64.jpg
+image_alt: "Illustration of village life"
 regions: []
 subjects: 
   - "Family Life"

@@ -5,6 +5,7 @@ drupal_node_id: 936
 source_type: "Image"
 url: /image-king-festival-federation
 image: /images/b713923236f408811bab3cb7daa27fd3.jpg
+image_alt: "Engraving of the king assisting at the construction site of festival"
 regions: 
   - "Europe"
 subjects: 

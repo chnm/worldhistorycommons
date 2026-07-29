@@ -5,6 +5,7 @@ drupal_node_id: 1008
 source_type: "Image"
 url: /french-nation-defeats-despotism
 image: /images/french-nation-defeats-despotism.jpg
+image_alt: "With the Help of Mr. de la Fayette, the French Nation Defeats Despotism"
 regions: 
   - "Europe"
 subjects: 
@@ -22,3 +23,8 @@ how_to_cite: |
 ---
 
 Here Lafayette’s role is praised. A warlike liberty stands with him over a defeated despotism at his feet. Revolutionaries often represented despotism as a multi-headed monster.
+
+## Translation
+
+Title (French)  
+La Nation française assistée de Mr de la Fayette terrasse le despotisme et les abus du Regne Feodal qui terrassaient le peuple

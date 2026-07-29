@@ -5,6 +5,7 @@ drupal_node_id: 3025
 source_type: "Image"
 url: /lapita-pottery-santa-cruz-islands
 image: /images/WHC_Lapita_pottery_sherd_main_image.jpeg
+image_alt: "Three reddish-brown fragments of potter featuring a human face and geographic patterns."
 regions: 
   - "Oceania"
 subjects: 

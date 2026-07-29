@@ -5,6 +5,7 @@ drupal_node_id: 678
 source_type: "Image"
 url: /wooden-crosses
 image: /images/wooden-crosses.jpg
+image_alt: "Photograph of wooden crosses"
 regions: 
   - "Asia"
   - "Europe"

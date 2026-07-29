@@ -16,7 +16,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs, unquote
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 from markdownify import markdownify as md
 
 BASE_URL = "https://worldhistorycommons.org"
@@ -121,11 +121,69 @@ def html_to_markdown(element) -> str:
     """Convert a BeautifulSoup element to clean markdown."""
     if element is None:
         return ""
-    html = str(element)
+    fragment = BeautifulSoup(str(element), "html.parser")
+    for hidden in fragment.find_all(["script", "style", "template"]):
+        hidden.decompose()
+    for link in fragment.find_all("a", href=True):
+        if any(character in link["href"] for character in "<>"):
+            del link["href"]
+    for line_break in reversed(fragment.find_all("br")):
+        for child in reversed(list(line_break.contents)):
+            line_break.insert_after(child.extract())
+    for table in fragment.find_all("table"):
+        if table.find("th") is not None:
+            continue
+        for container in table.find_all(
+            ["caption", "colgroup", "col", "thead", "tbody", "tfoot", "tr", "td"]
+        ):
+            container.unwrap()
+        table.unwrap()
+    for inline in fragment.find_all(
+        ["a", "abbr", "b", "cite", "code", "em", "i", "s", "small", "span",
+         "strong", "sub", "sup", "u"]
+    ):
+        text = inline.get_text()
+        if text and not text.strip():
+            inline.replace_with(NavigableString(text))
+    html = str(fragment)
     text = md(html, heading_style="atx", strip=["img"])
+    text = re.sub(r"[ \t]{2,}\n", "<br>\n", text)
     # Clean up excessive whitespace
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def protect_source_text_markdown(text: str) -> str:
+    """Keep literal source-document notation from becoming Markdown syntax."""
+    text = re.sub(r"[ \t]{2,}\n", "<br>\n", text)
+    text = re.sub(
+        r"(?m)^([ \t]*)(\d+)([.)])([ \t]+)",
+        r"\1\2\\\3\4",
+        text,
+    )
+    text = re.sub(
+        r"(?m)^([ \t]*)(-{3,})([ \t]*)$",
+        r"\1\\\2\3",
+        text,
+    )
+    return text.replace("``", r"\`\`")
+
+
+def protect_nested_section_headings(text: str) -> str:
+    """Keep nested Drupal h1/h2 elements inside their parent Hugo section."""
+    def heading_html(match: re.Match[str]) -> str:
+        content = match.group(2).strip()
+        content = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", content)
+        content = re.sub(r"\*(.+?)\*", r"<em>\1</em>", content)
+        content = re.sub(r"\[(.+?)\]\((.+?)\)", r'<a href="\2">\1</a>', content)
+        level = len(match.group(1))
+        return f"<h{level}>{content}</h{level}>"
+
+    return re.sub(
+        r"(?m)^(#{1,2})[ \t]+(.+?)[ \t]*#*[ \t]*$",
+        heading_html,
+        text,
+    )
 
 
 def extract_tags(soup: BeautifulSoup) -> dict:
@@ -187,11 +245,39 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
     title = soup.select_one("div.content-header h1")
     title_text = title.get_text(strip=True) if title else "Untitled"
 
-    # Main image
-    img = soup.select_one("div.image-wrap img")
-    image_path = None
-    if img and img.get("src"):
-        image_path = download_image(img["src"])
+    # Source media. Drupal permits multiple images and downloadable audio.
+    images = []
+    for img in soup.select("div.two-cols div.image-wrap img"):
+        if img.get("src"):
+            image_path = download_image(img["src"])
+            if image_path:
+                images.append({
+                    "src": image_path,
+                    "alt": img.get("alt", "").strip(),
+                })
+
+    audio_files = []
+    seen_audio = set()
+    audio_urls = [
+        source.get("src", "")
+        for source in soup.select("div.audio-wrap audio source[src]")
+    ]
+    audio_urls.extend(
+        audio.get("src", "")
+        for audio in soup.select("div.audio-wrap audio[src]")
+    )
+    audio_urls.extend(
+        link.get("href", "")
+        for link in soup.select("div.audio-wrap a[href]")
+    )
+    for audio_url in audio_urls:
+        if not audio_url or audio_url in seen_audio:
+            continue
+        seen_audio.add(audio_url)
+        audio_files.append({
+            "src": audio_url,
+            "label": "Download audio",
+        })
 
     # Annotation
     annotation = ""
@@ -209,13 +295,24 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
 
     # Credits
     credits = ""
+    source_sections = []
     for detail in soup.select("div.content-details details"):
         summary = detail.select_one("summary h3")
-        if summary and "Credits" in summary.get_text():
-            well = detail.select_one("div.well--data")
-            if well:
+        if not summary:
+            continue
+        section_name = summary.get_text(" ", strip=True)
+        well = detail.select_one("div.well--data")
+        if section_name == "Credits":
+            if well and not credits:
                 credits = html_to_markdown(well)
-            break
+        elif section_name in {"Text", "Transcription", "Translation"} and well:
+            section_content = protect_source_text_markdown(
+                html_to_markdown(well)
+            )
+            if section_content:
+                source_sections.append(
+                    {"label": section_name, "content": section_content}
+                )
 
     # How to cite
     cite_span = soup.select_one("div.citation span")
@@ -227,10 +324,13 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
     return {
         "title": title_text,
         "type": "source",
-        "image": image_path,
+        "image": images[0] if images else None,
+        "additional_images": images[1:],
+        "audio_files": audio_files,
         "annotation": annotation,
         "citation": citation,
         "credits": credits,
+        "source_sections": source_sections,
         "how_to_cite": how_to_cite,
         "tags": tags,
         "node_id": node_id,
@@ -285,10 +385,14 @@ def parse_teaching_or_methods(soup: BeautifulSoup, url_path: str, content_type: 
                     })
                 sections["primary_sources"] = slides
             else:
-                sections[section_name.lower().replace(" ", "_")] = html_to_markdown(well)
+                sections[section_name.lower().replace(" ", "_")] = (
+                    protect_nested_section_headings(html_to_markdown(well))
+                )
 
     tags = extract_tags(soup)
     node_id = extract_node_id(soup)
+    cite_span = soup.select_one("div.citation span")
+    how_to_cite = cite_span.get_text(" ", strip=True) if cite_span else ""
 
     hugo_type = "teaching" if content_type == "node-teaching" else "methods"
 
@@ -298,6 +402,7 @@ def parse_teaching_or_methods(soup: BeautifulSoup, url_path: str, content_type: 
         "authors": authors,
         "overview": overview,
         "sections": sections,
+        "how_to_cite": how_to_cite,
         "tags": tags,
         "node_id": node_id,
         "url_path": url_path,
@@ -363,12 +468,34 @@ def write_source_hugo(data: dict, section_dir: Path):
     filepath = section_dir / f"{slug}.md"
 
     tags = data["tags"]
+    image = data.get("image") or {}
+    image_alt = image.get("alt", "") if image else ""
+    additional_images = data.get("additional_images", [])
+    additional_images_yaml = ""
+    if additional_images:
+        additional_images_yaml = "\n".join(
+            f"  - src: {yaml_escape(item['src'])}\n"
+            f"    alt: {yaml_escape(item.get('alt', ''))}"
+            for item in additional_images
+        )
+    audio_files = data.get("audio_files", [])
+    audio_files_yaml = ""
+    if audio_files:
+        audio_files_yaml = "\n".join(
+            f"  - src: {yaml_escape(item['src'])}\n"
+            f"    label: {yaml_escape(item.get('label', 'Download audio'))}"
+            for item in audio_files
+        )
+
     fm = f"""---
 title: {yaml_escape(data['title'])}
-type: source
+doc_type: source
 drupal_node_id: {data.get('node_id', '')}
 url: {data['url_path']}
-image: {data.get('image') or ''}
+image: {image.get('src', '') if image else ''}
+image_alt: {yaml_escape(image_alt)}
+additional_images:{chr(10) + additional_images_yaml if additional_images_yaml else ' []'}
+audio_files:{chr(10) + audio_files_yaml if audio_files_yaml else ' []'}
 regions: {yaml_list(tags['regions'])}
 subjects: {yaml_list(tags['subjects'])}
 time_periods: {yaml_list(tags['time_periods'])}
@@ -379,6 +506,11 @@ how_to_cite: {yaml_escape(data.get('how_to_cite', ''))}
 
 {data.get('annotation', '')}
 """
+    for section in data.get("source_sections", []):
+        fm += (
+            f"\n## {section['label']}\n\n"
+            f"{section['content'].strip()}\n"
+        )
     filepath.write_text(fm)
 
 
@@ -393,13 +525,14 @@ def write_teaching_hugo(data: dict, section_dir: Path):
 
     fm = f"""---
 title: {yaml_escape(data['title'])}
-type: {data['type']}
+doc_type: {data['type']}
 drupal_node_id: {data.get('node_id', '')}
 url: {data['url_path']}
 authors: {authors_yaml}
 regions: {yaml_list(tags['regions'])}
 subjects: {yaml_list(tags['subjects'])}
 time_periods: {yaml_list(tags['time_periods'])}
+how_to_cite: {yaml_escape(data.get('how_to_cite', ''))}
 ---
 
 ## Overview
@@ -413,6 +546,7 @@ time_periods: {yaml_list(tags['time_periods'])}
             fm += "\n## Primary Sources\n\n"
             for slide in value:
                 fm += f"### [{slide['title']}]({slide['link']})\n\n"
+                fm += "#### Annotation\n\n"
                 if slide.get("annotation"):
                     fm += f"{slide['annotation']}\n\n"
         elif key == "credits":

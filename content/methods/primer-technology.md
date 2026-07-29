@@ -22,6 +22,8 @@ related_sources:
   - link: "/akan-gold-weight-shape-sankofa-bird"
     image: "/images/Sankofa_BirdTHUMB.jpg"
     alt: "Gold sculpture of a bird with it's head turned backwards"
+how_to_cite: |
+  "Primer: Technology," in World History Commons, https://worldhistorycommons.org/primer-technology [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -52,6 +54,8 @@ The framework of world history offers valuable correctives to the Eurocentric in
 
 ![Akan Gold-Weight in the Shape of the Sankofa Bird](/images/Sankofa_BirdTHUMB.jpg)
 
+#### Annotation
+
 These intricate figurines, made by skilled West African smiths, were measuring instruments central to world flows of capital and commerce through medieval and early modern times.
 West Africa was one of the world’s main sources of gold from antiquity onwards. Keeping the location of the region’s gold-fields secret, the great empires of ancient Ghana (6th - 13th century), Mali (c. 1240-1645) and Songhai (c. 1460-1591), and later the Akan states of what Europeans called the Gold Coast, grew immensely rich by controlling the gold trade. For centuries these African states were admired by Muslim and European visitors for both their wealth and their sophistication. African gold traveled both by land across the Sahara to the cities of Egypt and the North African coast, and later also by sea to Europe and the Americas. It supplied the royal mints and treasuries of the Mediterranean kingdoms and Islamic, Portuguese, Dutch and British empires, and financed commercial activities and trade across the world. While over the centuries new sources of gold in the Americas, Southern Africa and Australia affected its relative position in world gold markets, the international gold trade has remained central in the economy of West Africa right up to the present.
 Gold-dust allows for more versatile transactions than bullion. West African smiths began to make gold-weights for weighing out precise quantities of the dust in around 1400. The complete apparatus for storing and weighing gold-dust comprised scales, scoops, and elaborate and beautiful boxes as well as the gold-weights, designed as geometric forms, scenes from everyday life, and real or mythical animals such as the sankofa bird shown here, whose backward-turned head represents the proverb “One must turn to the past to move forward.” Most weights were made of brass, typically using the lost-wax technique. African smiths had long been skilled as iron-workers; brass-casting and the lost-wax method may have been introduced with other Islamic techniques and practices as West African states Islamized from about 1000. The gold-weight was first modeled in wax then covered in clay to form the mold; the clay was heated so that the wax ran out, then molten brass was poured into the mold and allowed to cool. Portuguese, Muslim and local trade operated using different metrics, and Akan communities produced weights corresponding to each system. It was crucial that the brass figure weigh exactly the right amount. As the designs were so elaborate a slight mismatch was frequent, so once cast the weight might have to be filed down a little, or otherwise adjusted.
@@ -61,46 +65,47 @@ Accurate weighing is a tricky technique, made more difficult in the case of gold
 
 ![Southern Manchuria Railway (1906-1945)](/images/South_Manchuria_RailwayTHUMB.jpeg)
 
+#### Annotation
+
 The world’s earliest locomotive-operated railroads, short stretches transporting coal and ore locally from mines to factories and furnaces, were developed in Britain between 1800 and 1825. Soon the potential for transporting all kinds of goods as well as passengers became apparent, and by the 1830s railways were also being built in France, Prussia and the United States. Shareholder companies sprang up, hoping to reap rich returns for the heavy (and risky) investments required to build and run new railway networks. Engineers prospered designing new locomotives and new projects. Governments from Turkey to Argentina, perceiving the potential of railways to extend their territorial control and boost revenue-generating economic activity, likewise invested heavily in railway construction. In the United States, white settlement of the Midwest in the 1860s and 1870s followed the extension of the railroad network into the prairies. Russia established its first locomotive factories in the 1850s, and by the late 1870s its railways had crossed the Urals: Siberia became an exporter of wheat and dairy, and the Russian Empire extended to Vladivostok on the Pacific coast. In its newly conquered territories of Central Asia, the Russian government built railways primarily to transport troops and weapons and maintain military control. This was also one important function of the railways built by the British in colonial India.
 In 1905, seeking colonies of its own, the rapidly industrializing nation of Japan defeated Russia in a war over access to Manchuria and Korea. Japan took over the railways that Russia and China had already constructed in the region, amalgamating and extending them to form the Korean Government Railway (*Sentetsu*) and the South Manchuria Railway (*Mantetsu*). In the 1870s Japan had employed British engineers to design and construct its first national railways and to train engineers. By 1900 not only did Japan rely on its own engineers, but it was producing its own engines. The 1921 4-6-2 (*Pashishi*) locomotive shown here was designed specifically for Korean conditions.
 Railways were at the core of Japanese imperial expansion: the lines integrated industrial sectors, assured communications between the homeland and the colonies, and moved troops to trouble-spots and battle-fields. As in other empires, the railway lines that Japan built through its new territories were powerful symbols to its colonial subjects of technical superiority and political control; the United States occupying forces dissolved the imperial railroad companies immediately after Japan’s defeat in 1945. Yet in Japanese eyes the railways were valued not only as instruments of imperial power, but also because they extended Japan’s peaceful reach. The 1920s promotional postcard shown here, printed and distributed in London, declares that the South Manchuria Railway Company provides the “shortest and quickest route between the Far East and Europe.” Linking the country through Russia’s Trans-Siberian Railway to Europe, it wove Japan into an international network of civilized and desirable destinations.
 
-
 ## Bibliography
 
-Adas, Michael. *Dominance by Design: Technological Imperatives and America’s Civilizing Mission*. Cambridge MA: Harvard University Press, 2009.  
-———. *Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance*. Ithaca, NY: Cornell University Press, 1989.  
-Andrade, Tonio. “Culture and Context: Reflections on the Gunpowder Age.” *Journal of Chinese History* 2, no. 2 (2018): 439–41.  
-Arnold, David. *Everyday Technology: Machines and the Making of India’s Modernity*. Chicago: University of Chicago Press, 2013.  
-Bray, Francesca. “Flows and Matrices, Landscapes and Cultures.” *ICON: Journal of the International Committee for the History of Technology* 22 (2017): 8–19.  
-———. “Technics and Civilization in Late Imperial China: An Essay in the Cultural History of Technology.” *Osiris*, 2nd Series, 13 (January 1, 1998): 11–33.  
-Carlson, W. Bernard, ed. *Technology in World History*. 7 vols. Oxford and New York: Oxford University Press, 2005.  
-Coupaye, Ludovic. *Growing Artefacts, Displaying Relationships: Yams, Art and Technology amongst the Nyamikum Abelam of Papua New Guinea*. New York and Oxford: Berghahn Books, 2013.  
-Edgerton, David. *The Shock of the Old : Technology and Global History since 1900*. London: Profile, 2008.  
-El Hariry, Shorouk. “On Our Own Terms: Towards a History of Arab Technological Landscapes and Cultures.” *Technology and Culture* 62, no. 1 (2021): 241–52.  
-Elvin, Mark. *The Pattern of the Chinese Past: A Social and Economic Interpretation*. Stanford: Stanford University Press, 1973.  
-Freidberg, Susanne. *Fresh: A Perishable History*. Cambridge MA: Harvard University Press, 2010.  
-Fretwell, Elizabeth Ann. “The Tools of Tailoring as Technologies-in-Use in Twentieth Century Benin, West Africa.” *History and Technology* (2021): 1–25. DOI: 10.1080/07341512.2021.1928452  
-Gerritsen, Anne. *The City of Blue and White: Chinese Porcelain and the Early Modern World*. Cambridge and New York: Cambridge University Press, 2020.  
-Gómez, Pablo F. “Caribbean Stones and the Creation of Early-Modern Worlds.” *History and Technology* 34, no. 1 (January 2, 2018): 11–20.  
-Grandin, Greg. *Fordlandia: The Rise and Fall of Henry Ford’s Forgotten Jungle City*. Metropolitan, 2009.  
-Headrick, Daniel R. *Power over Peoples: Technology, Environments, and Western Imperialism, 1400 to the Present*. Princeton, N.J.: Princeton University Press, 2010.  
-———. *Technology: A World History*. New Oxford World History. Oxford, New York: Oxford University Press, 2009.  
-Hecht, Gabrielle. *Being Nuclear: Africans and the Global Uranium Trade*. MIT Press, 2014.  
-Jones, E. L. *The European Miracle: Environments, Economies, and Geopolitics in the History of Europe and Asia*. Cambridge: Cambridge University Press, 1981.  
-Landes, David S. *The Unbound Prometheus: Technological Change and Industrial Development in Western Europe from 1750 to the Present*. London: Cambridge University Press, 1969.  
-Levi, Scott C. “Asia in the Gunpowder Revolution.” *Oxford Research Encyclopedia of Asian History*, 2018. https://doi.org/10.1093/acrefore/9780190277727.013.186.  
-Martykánová, Darina. “Global Engineers: Professional Trajectories of the Graduates of the École Centrale Des Arts et Manufactures (1830s–1920s).” In *Technology and Globalisation: Networks of Experts in World History*, edited by David Pretel and Lino Camprubí, 75–104. Cham: Springer International Publishing, 2018.  
-Mavhunga, Clapperton Chakanetsa. *Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe*. Cambridge MA: MIT Press, 2014.  
-McNeill, J. R. *The Great Acceleration: An Environmental History of the Anthropocene since 1945. The Great Acceleration*. Cambridge MA: Harvard University Press, 2016.  
-Medina, Eden, Ivan da Costa Marques, and Christina Holmes, eds. *Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America*. MIT Press, 2014.  
-Mentzel, Peter. *Transportation Technology and Imperialism in the Ottoman Empire, 1800-1923*. SHOT Historical Perspectives on Technology. Oxford, New York: Oxford University Press, 2006.  
-Mokyr, Joel. *The Lever of Riches: Technological Creativity and Economic Progress*. Oxford University Press, USA, 1992.  
-Moore, Aaron Stephen. *Constructing East Asia: Technology, Ideology, and Empire in Japan’s Wartime Era, 1931-1945*. Stanford: Stanford University Press, 2013.  
-Norton, Marcy. “Subaltern Technologies and Early Modernity in the Atlantic World.” *Colonial Latin American Review* 26, no. 1 (2017): 18–38.  
-Pacey, Arnold, and Francesca Bray. *Technology in World Civilization: A Thousand-Year History*. 2nd, revised ed. Cambridge MA: MIT Press, 2021.  
-Pomeranz, Kenneth. *The Great Divergence: Europe, China, and the Making of the Modern World Economy*. Princeton: Princeton University Press, 2000.  
-Riello, Giorgio, and Prasannan Parthasarathi, eds. *The Spinning World: A Global History of Cotton Textiles, 1200-1850*. Pasold Studies in Textile History 16. Oxford: Oxford University Press, 2009.  
+Adas, Michael. *Dominance by Design: Technological Imperatives and America’s Civilizing Mission*. Cambridge MA: Harvard University Press, 2009.<br>
+———. *Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance*. Ithaca, NY: Cornell University Press, 1989.<br>
+Andrade, Tonio. “Culture and Context: Reflections on the Gunpowder Age.” *Journal of Chinese History* 2, no. 2 (2018): 439–41.<br>
+Arnold, David. *Everyday Technology: Machines and the Making of India’s Modernity*. Chicago: University of Chicago Press, 2013.<br>
+Bray, Francesca. “Flows and Matrices, Landscapes and Cultures.” *ICON: Journal of the International Committee for the History of Technology* 22 (2017): 8–19.<br>
+———. “Technics and Civilization in Late Imperial China: An Essay in the Cultural History of Technology.” *Osiris*, 2nd Series, 13 (January 1, 1998): 11–33.<br>
+Carlson, W. Bernard, ed. *Technology in World History*. 7 vols. Oxford and New York: Oxford University Press, 2005.<br>
+Coupaye, Ludovic. *Growing Artefacts, Displaying Relationships: Yams, Art and Technology amongst the Nyamikum Abelam of Papua New Guinea*. New York and Oxford: Berghahn Books, 2013.<br>
+Edgerton, David. *The Shock of the Old : Technology and Global History since 1900*. London: Profile, 2008.<br>
+El Hariry, Shorouk. “On Our Own Terms: Towards a History of Arab Technological Landscapes and Cultures.” *Technology and Culture* 62, no. 1 (2021): 241–52.<br>
+Elvin, Mark. *The Pattern of the Chinese Past: A Social and Economic Interpretation*. Stanford: Stanford University Press, 1973.<br>
+Freidberg, Susanne. *Fresh: A Perishable History*. Cambridge MA: Harvard University Press, 2010.<br>
+Fretwell, Elizabeth Ann. “The Tools of Tailoring as Technologies-in-Use in Twentieth Century Benin, West Africa.” *History and Technology* (2021): 1–25. DOI: 10.1080/07341512.2021.1928452<br>
+Gerritsen, Anne. *The City of Blue and White: Chinese Porcelain and the Early Modern World*. Cambridge and New York: Cambridge University Press, 2020.<br>
+Gómez, Pablo F. “Caribbean Stones and the Creation of Early-Modern Worlds.” *History and Technology* 34, no. 1 (January 2, 2018): 11–20.<br>
+Grandin, Greg. *Fordlandia: The Rise and Fall of Henry Ford’s Forgotten Jungle City*. Metropolitan, 2009.<br>
+Headrick, Daniel R. *Power over Peoples: Technology, Environments, and Western Imperialism, 1400 to the Present*. Princeton, N.J.: Princeton University Press, 2010.<br>
+———. *Technology: A World History*. New Oxford World History. Oxford, New York: Oxford University Press, 2009.<br>
+Hecht, Gabrielle. *Being Nuclear: Africans and the Global Uranium Trade*. MIT Press, 2014.<br>
+Jones, E. L. *The European Miracle: Environments, Economies, and Geopolitics in the History of Europe and Asia*. Cambridge: Cambridge University Press, 1981.<br>
+Landes, David S. *The Unbound Prometheus: Technological Change and Industrial Development in Western Europe from 1750 to the Present*. London: Cambridge University Press, 1969.<br>
+Levi, Scott C. “Asia in the Gunpowder Revolution.” *Oxford Research Encyclopedia of Asian History*, 2018. https://doi.org/10.1093/acrefore/9780190277727.013.186.<br>
+Martykánová, Darina. “Global Engineers: Professional Trajectories of the Graduates of the École Centrale Des Arts et Manufactures (1830s–1920s).” In *Technology and Globalisation: Networks of Experts in World History*, edited by David Pretel and Lino Camprubí, 75–104. Cham: Springer International Publishing, 2018.<br>
+Mavhunga, Clapperton Chakanetsa. *Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe*. Cambridge MA: MIT Press, 2014.<br>
+McNeill, J. R. *The Great Acceleration: An Environmental History of the Anthropocene since 1945. The Great Acceleration*. Cambridge MA: Harvard University Press, 2016.<br>
+Medina, Eden, Ivan da Costa Marques, and Christina Holmes, eds. *Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America*. MIT Press, 2014.<br>
+Mentzel, Peter. *Transportation Technology and Imperialism in the Ottoman Empire, 1800-1923*. SHOT Historical Perspectives on Technology. Oxford, New York: Oxford University Press, 2006.<br>
+Mokyr, Joel. *The Lever of Riches: Technological Creativity and Economic Progress*. Oxford University Press, USA, 1992.<br>
+Moore, Aaron Stephen. *Constructing East Asia: Technology, Ideology, and Empire in Japan’s Wartime Era, 1931-1945*. Stanford: Stanford University Press, 2013.<br>
+Norton, Marcy. “Subaltern Technologies and Early Modernity in the Atlantic World.” *Colonial Latin American Review* 26, no. 1 (2017): 18–38.<br>
+Pacey, Arnold, and Francesca Bray. *Technology in World Civilization: A Thousand-Year History*. 2nd, revised ed. Cambridge MA: MIT Press, 2021.<br>
+Pomeranz, Kenneth. *The Great Divergence: Europe, China, and the Making of the Modern World Economy*. Princeton: Princeton University Press, 2000.<br>
+Riello, Giorgio, and Prasannan Parthasarathi, eds. *The Spinning World: A Global History of Cotton Textiles, 1200-1850*. Pasold Studies in Textile History 16. Oxford: Oxford University Press, 2009.<br>
 Schäfer, Dagmar, and Simona Valeriani. “Technology Is Global: The Useful & Reliable Knowledge Debate.” *Technology and Culture* 62, no. 2 (2021): 327–47.
 
 ## Credits

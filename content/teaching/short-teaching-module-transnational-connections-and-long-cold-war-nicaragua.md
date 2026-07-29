@@ -21,6 +21,8 @@ related_sources:
   - link: "/somoza-cartoon"
     image: "/images/Gaceta_Sandinista_May-June_1978_Thumb.jpg"
     alt: "US pamphlet parody of Nicaraguan dictator Anastasio Somoza Debayle"
+how_to_cite: |
+  "Short Teaching Module: Transnational Connections and the Long Cold War in Nicaragua," in World History Commons, https://worldhistorycommons.org/short-teaching-module-transnational-connections-and-long-cold-war-nicaragua [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -51,11 +53,15 @@ Thinking transnationally about history is a valuable skill for those teaching an
 
 ![Somoza cartoon](/images/Gaceta_Sandinista_May-June_1978_Thumb.jpg)
 
+#### Annotation
+
 This pamphlet cover, published in 1978 by a U.S. solidarity organization, is a fantastic focal point for exploring periodization in the history of U.S.-Nicaraguan relations. It depicts a cartoonish parody of the Nicaraguan dictator Anastasio Somoza Debayle being propped up by the legs of the U.S. eagle. It is emblematic of the views of many observers that the Nicaraguan despot was simply a puppet of the United States. In the context of U.S.-Nicaraguan relations, this imperial relationship between the United States and Somoza regime provides a better contextual backdrop than the Cold War. Beginning with the Marine occupation from 1912-1933, the United States was a dominant force in Nicaraguan politics for much of the twentieth century. In most U.S. historical narratives on this subject, this unequal relationship and its imperial implications tend to be subsumed under the Cold War considerations of the latter half of the twentieth century. However, Latin American scholars tend to emphasize the role of U.S. imperialism in the region’s history and focus on other pivotal events. In the context of U.S.-Nicaraguan relations, a better framework might be one that emphasizes U.S. intervention - potentially from the start of the U.S. occupation to the overthrow of the Somoza regime in 1979. This would allow us to better examine the specific transnational themes that defined Nicaraguan and U.S. actions during this time period.
 
 ### [Femmes Nicaragua](/femmes-nicaragua)
 
 ![Femmes Nicaragua](/images/Femmes_Nicaragua_Thumb.jpg)
+
+#### Annotation
 
 This pamphlet is an excellent example of the alternative diplomacy pursued by the  FSLN in its struggle with the United States government in the 1980s. “Collectif Femmes Nicaragua” or Nicaraguan Women’s Collective, a French women’s organization, published this pamphlet to raise support for the Asociación de Mujeres Nicaragüenes Luisa Amanda Espinoza, AMNLAE (Luisa Amanda Espinoza Association of Nicaraguan Women). AMNLAE, which was named after the first woman to die in the war against the regime of Anastasio Somoza Debayle, was closely associated with the FSLN and worked to develop ties to women’s organizations around the world. This network provided a means of gaining material support for the FSLN while also challenging U.S. anti-Sandinista messaging. Organizations like this existed all over the world, utilizing specific causes - like women’s rights, environmentalism, or pacifism - to direct various types of aid to the Sandinistas.
 
@@ -63,8 +69,9 @@ This pamphlet is an excellent example of the alternative diplomacy pursued by th
 
 ![Letter from the Nicaraguan embassy](/images/Richland_Center_Acceptance_Thumb.jpg)
 
-This 1987 letter from the Nicaraguan embassy to Richland County Citizens for Peace and Justice, RCCPJ, a Wisconsin solidarity organization, highlights the ways in which non-state actors can craft impactful foreign policies. As part of the Anti-Contra War movement, multiple grassroots organizations in the United States, like the RCCPJ, developed foreign policies that challenged the policies of the United States government. Municipalities in North America and Europe soon joined this movement, with hundreds of sister-city, or twinning, relationships developing with Nicaraguan towns. Much like the Anti-Contra War movement that spawned it, the Nicaragua sister-city phenomenon was truly international, with municipalities from 19 North American and European states developing ties to Nicaraguan cities. These groups sent volunteers and material aid to their Nicaraguan counterparts, while also raising awareness about the conflict in Central America. The activities of these sister-city links highlight the role of local actors in transnational politics, revealing the ways in which apparently peripheral players impacted global events. These municipalities forged independent foreign policies that, at times, challenged and subverted the actions of their respective national governments. As part of the broader Anti-Contra War movement, these linkages placed considerable pressure on those opposed to the Sandinista government and, consequently, helped further undermine U.S. intervention.
+#### Annotation
 
+This 1987 letter from the Nicaraguan embassy to Richland County Citizens for Peace and Justice, RCCPJ, a Wisconsin solidarity organization, highlights the ways in which non-state actors can craft impactful foreign policies. As part of the Anti-Contra War movement, multiple grassroots organizations in the United States, like the RCCPJ, developed foreign policies that challenged the policies of the United States government. Municipalities in North America and Europe soon joined this movement, with hundreds of sister-city, or twinning, relationships developing with Nicaraguan towns. Much like the Anti-Contra War movement that spawned it, the Nicaragua sister-city phenomenon was truly international, with municipalities from 19 North American and European states developing ties to Nicaraguan cities. These groups sent volunteers and material aid to their Nicaraguan counterparts, while also raising awareness about the conflict in Central America. The activities of these sister-city links highlight the role of local actors in transnational politics, revealing the ways in which apparently peripheral players impacted global events. These municipalities forged independent foreign policies that, at times, challenged and subverted the actions of their respective national governments. As part of the broader Anti-Contra War movement, these linkages placed considerable pressure on those opposed to the Sandinista government and, consequently, helped further undermine U.S. intervention.
 
 ## Bibliography
 

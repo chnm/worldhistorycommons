@@ -5,6 +5,14 @@ drupal_node_id: 419
 source_type: "Image"
 url: /age-consent-laws
 image: /images/Age-Limit-in-Age-of-Consent-Laws-1.jpg
+image_alt: "Age of Consent Laws table"
+additional_images:
+  - src: "/images/source-media/419/Age-Limit-in-Age-of-Consent-Laws-2.jpg"
+    alt: "Age of Consent Laws table"
+  - src: "/images/source-media/419/Age-Limit-in-Age-of-Consent-Laws-3.jpg"
+    alt: "Age of Consent Laws table"
+  - src: "/images/source-media/419/Age-Limit-in-Age-of-Consent-Laws-4.jpg"
+    alt: "Age of Consent Laws table"
 regions: 
   - "Comparative"
 subjects: 

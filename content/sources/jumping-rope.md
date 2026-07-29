@@ -5,6 +5,10 @@ drupal_node_id: 120
 source_type: "Text"
 url: /jumping-rope
 image: /images/cyhskiptext1_840c92688a.jpg
+image_alt: "Jumping Rope Advice Book"
+additional_images:
+  - src: "/images/source-media/120/cyhskiptextp2_d9ff4a6f74.jpg"
+    alt: "Jumping Rope Advice Book"
 regions: 
   - "North/Central America"
 subjects: 

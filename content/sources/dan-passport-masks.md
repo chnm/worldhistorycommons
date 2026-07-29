@@ -5,6 +5,7 @@ drupal_node_id: 43
 source_type: "Object"
 url: /dan-passport-masks
 image: /images/dan-passport-mask2.jpeg
+image_alt: "Photo of Dan Passport mask"
 regions: 
   - "Africa"
 subjects: 

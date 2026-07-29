@@ -5,6 +5,7 @@ drupal_node_id: 1038
 source_type: "Image"
 url: /saving-france
 image: /images/saving-of-france.jpg
+image_alt: "The Saving of France"
 regions: 
   - "Europe"
 subjects: 
@@ -27,3 +28,8 @@ how_to_cite: |
 In this propagandistic allegorical engraving, Napoleon saves the female figure of France from the abyss to which she has been led by "revolutionary fanaticism." The figure of fanaticism is armed to the teeth with "the daggers of party spirit" and holds in one hand the chains of slavery and in the other the torch of discord.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Translation
+
+Title (French)  
+Le Soutien de la France

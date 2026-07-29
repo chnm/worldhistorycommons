@@ -5,6 +5,7 @@ drupal_node_id: 1268
 source_type: "Text"
 url: /child-early-chinese-social-hierarchy-biography-li-shan
 image: /images/Icons-Book-Excerpt_3.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

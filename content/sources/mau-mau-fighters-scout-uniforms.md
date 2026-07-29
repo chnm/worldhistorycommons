@@ -5,6 +5,7 @@ drupal_node_id: 62
 source_type: "Image"
 url: /mau-mau-fighters-scout-uniforms
 image: /images/mau-mau-scouts_8f27ead820.jpg
+image_alt: "Photo of a mixed-sex guerilla band"
 regions: 
   - "Africa"
 subjects: 

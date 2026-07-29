@@ -5,6 +5,7 @@ drupal_node_id: 697
 source_type: "Image"
 url: /debris-french-army-returning-fatherland
 image: /images/june-1813.jpg
+image_alt: "Debris of the French Army Returning to the Fatherland"
 regions: 
   - "Europe"
 subjects: 

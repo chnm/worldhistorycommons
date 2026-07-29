@@ -5,6 +5,7 @@ drupal_node_id: 2614
 source_type: "Text"
 url: /world-map-n-s-america
 image: /images/08720-027.jpg
+image_alt: "Old color map of north and south America, with a distorted view of North America."
 regions: 
   - "North/Central America"
   - "South America"
@@ -21,3 +22,7 @@ how_to_cite: |
 Matthaeus Seutter was an acclaimed German mapmaker in the early eighteenth century. He published maps that introduced the geography of the Americas to many people who would never set foot on the continents themselves. The drawings on the upper left and lower left of this map represent many of the things that Seutter—and other Europeans—prized in the New World. Through these images, students can see where some of the colonizers’ priorities laid: precious metals, sugar, tobacco, and dyewoods mined, grown, or processed by Indigenous American and African people. Additionally, the parts of the map that are less accurate—such as the Great Lakes or California—invite interesting conversations about the incomplete nature of European geographic knowledge. The John Carter Brown Library’s collection of maps is also easily navigable online, making it possible for students to find other examples of mapmakers depicting commodity production on maps of recently explored lands.
 
 This source is a part of the [*A Human History of Commodities*](https://worldhistorycommons.org/short-teaching-module-human-history-commodities) teaching module.
+
+## Transcription
+
+Map of North and South America showing California as an island. Includes the routes of the early explorers shown in Pacific; California shown as an island and the northwest part of North America is blank. The upper cartouche shows native Americans kneeling before an altar and a figure who represents the Church holding a chalice, cross, and book; at left Europeans sit for a meal. The lower cartouche shows native Americans in feathered headdresses and garments, harvesting sugar canes and tobacco, carrying dyewood and bales of tobacco, canoeing, sitting in hammocks. Also includes birds, including pelicans and a parrot, and areas where there is floating seaweed, as well as the Sargasso Sea.

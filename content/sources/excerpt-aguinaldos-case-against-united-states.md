@@ -5,6 +5,7 @@ drupal_node_id: 2400
 source_type: "Text"
 url: /excerpt-aguinaldos-case-against-united-states
 image: /images/Icons-Document_542.jpg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 
@@ -28,15 +29,15 @@ In 1899 Emilio Aguinaldo wrote the following appeal to citizens of the United St
 
 We Filipinos have all along believed that if the American nation at large knew exactly, as we do, what is daily happening in the Philippine Islands, they would rise en masse, and demand that this barbaric war should stop. There are other methods of securing sovereignty — the true and lasting sovereignty that has its foundation in the hearts of the people. Has not the greatest of English poets said:
 
-" Kind hearts are more than coronets,  
+" Kind hearts are more than coronets,<br>
 And simple faith than Norman Wood ? "
 
-And, did America recognize this fact, she would cease to be the laughing stock of other civilized nations, as she became when she abandoned her traditions and set up a double standard of  
-government — government by consent in America, government by force in the Philippine Islands.  
------------------------------------------------------------------------------------------------------------------  
+And, did America recognize this fact, she would cease to be the laughing stock of other civilized nations, as she became when she abandoned her traditions and set up a double standard of<br>
+government — government by consent in America, government by force in the Philippine Islands.<br>
+-----------------------------------------------------------------------------------------------------------------<br>
 You have been deceived all along the line. You have been greatly deceived in the personality of my countrymen. You went to the Philippines under the impression that their inhabitants were ignorant savages, whom Spain had kept in subjection at the bayonet's point. The Filipinos have been described in serious American journals as akin to the hordes of the Khalifa; and the idea has prevailed that it required only some unknown American Kitchener to march triumphantly from north to south to make the military occupation complete. We have been represented by your popular press as if we were Africans or Mohawk Indians. We smile, and deplore the want of ethnological knowledge on the part of our literary friends. We are none of these. We are simply Filipinos. You know us now in part: you will know us better, I hope, by and by.
 
----------------------------------------------------------------------------------  
+---------------------------------------------------------------------------------<br>
 I will not deny that there are savages in the Philippine Islands, if you designate by that name those who lead a nomad life, who do not pay tribute or acknowledge sovereignty to any one save their chief. For, let it be remembered, Spain held these islands for three hundred years, but never conquered more than one-quarter of them, and that only superficially and chiefly by means of priest-craft. The Spaniards never professed to derive their just powers from the consent of those whom they attempted to govern. What they took by force, they lost by force at our hands; and you deceived yourselves when you bought a revolution for twenty million dollars, and entangled yourselves in international politics. "Non decipimur specie recti." You imagined you had bought the Philippines and the Filipinos for this mess of pottage. Your imperialism led you, blind-fold, to purchase "sovereignty" from a third party who had no title to give you — a confidence trick, certainly, very transparent; a bad bargain, and one we have had sufficient perspicuity and education to see through.
 
 In the struggle for liberty which we have ever waged, the education of the masses has been slow; but we are not, on that account, an uneducated people, as our records show. Your Senators, even, admit that our political documents are worthy of a place in the archives of any civilized nation. It is the fittest and the best of our race who have survived the vile oppression of the Spanish Government, on the one hand, and of their priests on the other; and, had it not been for their tyrannous "sovereignty" and their execrable colonial methods, we would have been, ere this time, a power in the East, as our neighbors, the Japanese, have become by their industry and their modern educational methods.

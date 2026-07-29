@@ -19,6 +19,8 @@ related_sources:
   - link: "/section-bubbles-finance"
     image: "/images/Thumbnail_9.jpeg"
     alt: "document icon"
+how_to_cite: |
+  "Short Teaching Module: The Forgotten Beirut-based Companies in the Global History of Capitalism," in World History Commons, https://worldhistorycommons.org/short-teaching-module-forgotten-beirut-based-companies-global-history-capitalism [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -33,7 +35,7 @@ Over the past five years, global enquires have begun to undercut myths about Pro
 
 It’s not difficult to understand where such Eurocentric understandings of capitalism come from. For a long time, many historians of capitalism have repeated orientalist tropes familiar from the 19th century. They reason that capitalism is Western and that capitalism is impeded by the laws and practices of Islam.[3](#3) This eurocentrism is even present in the very names that historians and journalists give non-Western companies. They describe business families in the Middle East, China, and Russia by their Western European referents; they are the “Russian Rothschilds” or the “Rothschilds of the East.”[4](#4) Yet, these non-Western European companies were not Rothschilds. In the case of the Beirutis, they were Sursuqs, Bustruses, Debbases, Tueini, Trads, etc. In fact, the size of the Levantine[5](#5) companies’ accounts with London’s Rothschild bank permitted them to negotiate business and financial practices with the Rothschilds and other major companies, as equals.[6](#6) These practices make up what scholars often refer to as the broader rubric of capitalism in nineteenth century globalization.
 
-**Levantine Companies, Futures, and Modern Finance**  
+**Levantine Companies, Futures, and Modern Finance**<br>
 The Levantine family companies in Beirut first accumulated large amounts of capital in the mid nineteenth century. They did so through the production, manufacture, and sale of silk from Mount Lebanon. In the early 1860s, when silk from the region was at its peak, the Levantine firms built new silk factories, taking the number of Levantine-company-owned factories from thirty-seven in 1862 to forty-seven in 1867.[7](#7) At the same time the companies began to vertically integrate their businesses and diversify their portfolios.
 
 One of the Levantine companies’ earliest relationships was with the London firm Lascaridi & Co., created under the direction of George Peter (G. P.) Lascaridi. Through this firm, the brothers acted as merchants, insurance and discount agents, dealers, and chapmen.[8](#8) In addition to their many local and global business pursuits, members of the Lascaridi family invested in the purchase and operation of steamers between London and the Levant and other regions of Europe and the Ottoman Empire, establishing the Greek and Oriental Steam Navigation Company in 1857.[9](#9) In a short space of time, these steamers were carrying a significant portion of global trade. By the early 1860s, the companies’ ships carried approximately 7,000 tons per month of export trade to Levantine coastal ports, in addition to a bulk of trade with Istanbul and the Black Sea region. [10](#10)
@@ -44,10 +46,9 @@ A major part of the Greek-Orthodox families’ success was their participation i
 
 From the mid-nineteenth into the early twentieth century, members of the Levantine companies telegraphed bills of lading for several different raw goods to their partners in Europe. These partners sold the goods in whichever markets would give them the best price, before they reached English, French, or other European shores.[13](#13) The profits that the trading houses made from the anticipated sales could then be used to purchase textiles or other manufactured products for the return cargo.
 
-Despite the occasional damaged shipment or diverted ship, the Levantine businessmen’s early partnerships with the Greek firms of Spartali & Lascaridi brought in well over £100,000 in 1857 alone due to their risky but profitable futures trade. [15](#14>14</a></sup><a name=14></a> In the late 1860s, speculation on futures started to become incorporated in market institutions of products like cotton and grains. </p>
-<p>The members of the Greek-Orthodox partnerships influenced the restructuring of British trading practices in cotton and other markets.<sup><a href=) In the late 1850s, the Greek businessmen Constantine Peter Lascaridi, for example, became a major shareholder and decision-maker on the board of directors for The Atlantic Royal Mail Steam Navigation Company, which was a partner of the American Express Company in New York.[16](#16) In the growing cosmopolitan port city of mid-nineteenth-century Beirut, twenty-nine different Levantine merchants with ties to the Sursuq extended family served the four biggest Greek trading houses.[17](#17) By 1866, the Levantine businessfa milies had added to their 1858 London branch by building offices in the major commercial centers of Paris and Liverpool.[18](#18) As global trade increased, they had become major investors in European stock markets and established partners in British-based companies. By 1881, these companies could influence the stock markets with one decision. The global financial market was tied to their actions. [19](#19)
+Despite the occasional damaged shipment or diverted ship, the Levantine businessmen’s early partnerships with the Greek firms of Spartali & Lascaridi brought in well over £100,000 in 1857 alone due to their risky but profitable futures trade. 15 In the late 1850s, the Greek businessmen Constantine Peter Lascaridi, for example, became a major shareholder and decision-maker on the board of directors for The Atlantic Royal Mail Steam Navigation Company, which was a partner of the American Express Company in New York.[16](#16) In the growing cosmopolitan port city of mid-nineteenth-century Beirut, twenty-nine different Levantine merchants with ties to the Sursuq extended family served the four biggest Greek trading houses.[17](#17) By 1866, the Levantine businessfa milies had added to their 1858 London branch by building offices in the major commercial centers of Paris and Liverpool.[18](#18) As global trade increased, they had become major investors in European stock markets and established partners in British-based companies. By 1881, these companies could influence the stock markets with one decision. The global financial market was tied to their actions. [19](#19)
 
-**Conclusion**  
+**Conclusion**<br>
 While historians have challenged narratives of white, protestant superiority, high school history textbooks have not always kept pace with that change. This makes history like this especially important. The history of the Levantine companies’ participation in nineteenth century globalization in particular suggests that cooperation and competition on multiple scales shaped the modern world. My belief is that such case studies should be an integral part of the history of capitalism so that students arrive at college ready to dig deeper. . This particular education is necessary not least because non-White, non-Protestant, and non-Western subjects continue to shape their world today.
 
 [1](#1a) Michael A. Gomez, “Muslims in Early America,” *The Journal of Southern History*, 60:4 (Nov. 1994), 671-710.
@@ -94,11 +95,15 @@ While historians have challenged narratives of white, protestant superiority, hi
 
 ![Section of "The Bubbles of Finance"](/images/Thumbnail_9.jpeg)
 
+#### Annotation
+
 Malcolm Ronald Laing Meason was a famous journalist and book author. As a respected authority on trade and finance, he possessed insider knowledge that journalists of articles like “Islam on the Ebb” did not. In 1865 he witnessed the Levantine companies becoming wealthy from trading in futures. In his book, The Bubbles of Finance, he marveled that the uniqueness of Levantine business methods was responsible for these family companies’ success. This source is a part of the [*The Forgotten Beirut-based Companies in the Global History of Capitalism*](https://worldhistorycommons.org/short-teaching-module-forgotten-beirut-based-companies-global-history-capitalism) teaching module.
 
 ### [Islam on the Ebb](/islam-ebb)
 
 ![Islam on the Ebb](/images/Alff-Islam_on_the_EbbTHUMB.jpeg)
+
+#### Annotation
 
 This article is one of many newspaper articles coming out of Britain in the late nineteenth century. It reports that families in Beirut were becoming wealthy. They were “even beating the West on its own commercial ground.” These journalists find that the reason for Middle Eastern success is their ability to adopt a “Western spirit.” Historians have repeated this Eurocentric view as fact. However, the Levantine companies competed with British companies because they used business techniques that were different from their rivals. This source is a part of the [*The Forgotten Beirut-based Companies in the Global History of Capitalism*](https://worldhistorycommons.org/short-teaching-module-forgotten-beirut-based-companies-global-history-capitalism) teaching module.
 
@@ -106,8 +111,9 @@ This article is one of many newspaper articles coming out of Britain in the late
 
 !["The Money Market" Article](/images/Thumbnail_10.jpeg)
 
-The London Evening Standard reported in 1881 that one transaction from the Sursuq (Sursock) and Debbas families caused the French stock market to decline. The Levantine companies had accumulated significant capital from silk and futures trading throughout the mid-nineteenth century. By the late-nineteenth century the Beirut-based family companies wielded so much economic, political, and social power that they could dictate the terms of the global market with one bad business decision. When the Levantine companies lost money, the global market also suffered a loss. This source is a part of the [*The Forgotten Beirut-based Companies in the Global History of Capitalism*](https://worldhistorycommons.org/short-teaching-module-forgotten-beirut-based-companies-global-history-capitalism) teaching module.
+#### Annotation
 
+The London Evening Standard reported in 1881 that one transaction from the Sursuq (Sursock) and Debbas families caused the French stock market to decline. The Levantine companies had accumulated significant capital from silk and futures trading throughout the mid-nineteenth century. By the late-nineteenth century the Beirut-based family companies wielded so much economic, political, and social power that they could dictate the terms of the global market with one bad business decision. When the Levantine companies lost money, the global market also suffered a loss. This source is a part of the [*The Forgotten Beirut-based Companies in the Global History of Capitalism*](https://worldhistorycommons.org/short-teaching-module-forgotten-beirut-based-companies-global-history-capitalism) teaching module.
 
 ## Credits
 

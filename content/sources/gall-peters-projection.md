@@ -5,6 +5,7 @@ drupal_node_id: 2419
 source_type: "Image"
 url: /gall-peters-projection
 image: /images/800px-Gall_Peters_projection_SW.jpg
+image_alt: "The Gall-Peters Projection Map"
 regions: 
   - "Global"
 subjects: 

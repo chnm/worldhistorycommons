@@ -5,6 +5,7 @@ drupal_node_id: 383
 source_type: "Text"
 url: /wanderings-pilgrim-search-picturesque
 image: /images/wanderings-of-a-pilgrim.png
+image_alt: "Title pages of Wanderings of a Pilgrim in Search of the Picturesque"
 regions: 
   - "Asia"
 subjects: 

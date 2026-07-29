@@ -5,6 +5,7 @@ drupal_node_id: 185
 source_type: "Image"
 url: /mercator-projection
 image: /images/mercator-projection.jpg
+image_alt: "Mercator projection"
 regions: 
   - "Global"
 subjects: 

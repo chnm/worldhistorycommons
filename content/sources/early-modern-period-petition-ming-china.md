@@ -5,6 +5,7 @@ drupal_node_id: 1636
 source_type: "Text"
 url: /early-modern-period-petition-ming-china
 image: /images/Icons-Document_389.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

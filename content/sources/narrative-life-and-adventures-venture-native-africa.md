@@ -5,6 +5,7 @@ drupal_node_id: 389
 source_type: "Text"
 url: /narrative-life-and-adventures-venture-native-africa
 image: /images/venture-smith.jpg
+image_alt: "Title page of A Narrative of the Life and Adventures of Venture A Native of Africa, but Resident Above Sixty Years in the United States of America Related by Himself"
 regions: 
   - "Africa"
 subjects: 

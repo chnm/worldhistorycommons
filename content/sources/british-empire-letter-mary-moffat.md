@@ -5,6 +5,7 @@ drupal_node_id: 1641
 source_type: "Text"
 url: /british-empire-letter-mary-moffat
 image: /images/Icons-Document_394.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

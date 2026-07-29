@@ -5,6 +5,7 @@ drupal_node_id: 1044
 source_type: "Image"
 url: /destruction-french-colossus
 image: /images/destruction-of-french-colossus.jpg
+image_alt: "Destruction of the French Colossus"
 regions: 
   - "Europe"
 subjects: 

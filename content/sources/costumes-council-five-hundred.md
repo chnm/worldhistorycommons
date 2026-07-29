@@ -5,6 +5,7 @@ drupal_node_id: 1047
 source_type: "Image"
 url: /costumes-council-five-hundred
 image: /images/costumes-of-the-council.jpg
+image_alt: "Costumes of the Council of Five Hundred"
 regions: 
   - "Europe"
 subjects: 
@@ -20,3 +21,8 @@ how_to_cite: |
 ---
 
 In this bicameral legislature, the smaller of the two councils (the Elders with 250 members) had to pass all the legislation, while the Five Hundred could initiate legislation. The revolutionaries decided on the division of authority. The directors functioned as the executive branch, in order to make less possible the consolidation of power, as in the Terror.
+
+## Translation
+
+Title (French)  
+Conseil des Cinq Cents

@@ -6,6 +6,7 @@ drupal_node_id: 404
 source_type: "Text"
 url: /how-some-children-played-slaughtering
 image: /images/kinderund.jpg
+image_alt: "Brothers Grimm cover"
 regions: 
   - "Europe"
 subjects: 

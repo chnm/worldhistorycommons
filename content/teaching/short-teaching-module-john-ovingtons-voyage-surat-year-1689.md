@@ -19,6 +19,8 @@ related_sources:
   - link: "/excerpt-voyage-surat-year-1689"
     image: "/images/suratthumb.png"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: John Ovington's A Voyage to Surat in the Year 1689 ," in World History Commons, https://worldhistorycommons.org/short-teaching-module-john-ovingtons-voyage-surat-year-1689 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -60,9 +62,10 @@ By this point in their study of point of view and bias, most students readily pi
 
 ![Excerpt from "A Voyage to Surat in the Year 1689"](/images/suratthumb.png)
 
+#### Annotation
+
 Ovington’s travelogue “The City of Surat and Its Inhabitants,” an excerpt from John Ovington’s *A Voyage to Surat in the Year 1689*  provides students with a European trader’s point of view as he confronts the world of Islam during the Mughal rule of India. Its themes and habits of mind supplement the study of the years 1450-1750. The selection fits into the greater global context by challenging students to place themselves in the position of a meeting of the Western and Islamic worlds against a backdrop of one of the world’s most ancient civilizations. From the 15th to the 18th centuries, Indian Ocean trade provided the stage for a rich drama of commercial and cultural interchanges like these. The Indian Ocean tale weaves together encounters among South Asians, East Asians, Islamic peoples, Africans, and Europeans, and thus provides an ideal opportunity to emphasize both emerging globalization and contacts between many cultures.
 This source is a part of the [*John Ovington's A Voyage to Surat in the Year 1689*](https://worldhistorycommons.org/short-teaching-module-john-ovingtons-voyage-surat-year-1689) teaching module.
-
 
 ## Bibliography
 

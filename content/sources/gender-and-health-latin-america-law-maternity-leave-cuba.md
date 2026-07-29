@@ -5,6 +5,7 @@ drupal_node_id: 1651
 source_type: "Text"
 url: /gender-and-health-latin-america-law-maternity-leave-cuba
 image: /images/Icons-Document_402.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1486
 source_type: "Text"
 url: /assembly-complains-king-about-emigres
 image: /images/Icons-Document_259.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

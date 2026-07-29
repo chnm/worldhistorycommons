@@ -5,6 +5,7 @@ drupal_node_id: 2364
 source_type: "Image"
 url: /excavation-catalhoyuk-turkey
 image: /images/2767648656_561d48e7d1_k.jpg
+image_alt: "A woman kneels and holds a piece of stone at an archeological site"
 regions: 
   - "Asia"
 subjects: 

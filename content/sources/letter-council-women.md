@@ -5,6 +5,7 @@ drupal_node_id: 2714
 source_type: "Text"
 url: /letter-council-women
 image: /images/Kiazolu2.jpg
+image_alt: "Image of the letter. Description in annotation."
 regions: 
   - "Africa"
   - "Global"

@@ -5,6 +5,7 @@ drupal_node_id: 1045
 source_type: "Image"
 url: /day-13-vendemaire-year-4
 image: /images/day-of-13.jpg
+image_alt: "Day of 13 Vendemaire of the Year 4"
 regions: 
   - "Europe"
 subjects: 
@@ -27,3 +28,8 @@ how_to_cite: |
 ---
 
 In the waning days of the Convention in the fall of 1795, royalist–influenced sections of Paris revolted to prevent the adoption of a new constitution that protected the position of the radicals. Bonaparte was delegated to put down the uprising of 5 October 1795 (13 Vendémiaire Year IV). Bonaparte’s decisiveness and willingness to fire cannons on the demonstrators—in his words, to "give them a whiff of grapeshot"—consolidated the government’s control, but revealed how much the revolutionary state after Thermidor was dependent on the military.
+
+## Translation
+
+Title (French)  
+Journée du XIII Vendemiaire, l'an IV

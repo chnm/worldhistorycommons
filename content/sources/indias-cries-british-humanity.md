@@ -5,6 +5,7 @@ drupal_node_id: 384
 source_type: "Text"
 url: /indias-cries-british-humanity
 image: /images/indias-cries-to-british.png
+image_alt: "Title pages of India’s Cries to British Humanity"
 regions: 
   - "Asia"
 subjects: 

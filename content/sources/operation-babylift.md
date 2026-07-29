@@ -5,6 +5,7 @@ drupal_node_id: 320
 source_type: "Image"
 url: /operation-babylift
 image: /images/babylift.jpg
+image_alt: "Operation Babylift photographs"
 regions: 
   - "Asia"
   - "Comparative"

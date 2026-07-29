@@ -5,6 +5,7 @@ drupal_node_id: 2601
 source_type: "Text"
 url: /excerpts-vita-karoli-magni
 image: /images/Text_Image_3.jpg
+image_alt: "document icon"
 regions: 
   - "Europe"
 subjects: 

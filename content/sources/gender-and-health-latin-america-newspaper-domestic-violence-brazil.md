@@ -5,6 +5,7 @@ drupal_node_id: 1650
 source_type: "Text"
 url: /gender-and-health-latin-america-newspaper-domestic-violence-brazil
 image: /images/Icons-Document_401.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

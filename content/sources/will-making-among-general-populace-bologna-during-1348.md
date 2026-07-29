@@ -5,6 +5,7 @@ drupal_node_id: 91
 source_type: "Image"
 url: /will-making-among-general-populace-bologna-during-1348
 image: /images/cyh-184_d6978d9d91.jpg
+image_alt: "The graph displays the number of wills by gender made each month in the city and countryside of Bologna"
 regions: 
   - "Europe"
 subjects: 

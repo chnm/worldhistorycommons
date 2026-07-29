@@ -5,6 +5,7 @@ drupal_node_id: 2894
 source_type: "Image"
 url: /togo-farm-families-cracking-oil-palm-kernels
 image: /images/Togo_Family_cracking_oil_palm_kernels_1.jpg
+image_alt: "Picture of families in Togo cracking oil palm kernels"
 regions: 
   - "Africa"
   - "Europe"

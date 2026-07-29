@@ -6,6 +6,7 @@ drupal_node_id: 1167
 source_type: "Text"
 url: /i-must-course-have-something-my-own-many-more-years-have-passed-over-my-head-sally-rice-leaves-farm
 image: /images/Icons-Document_29.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

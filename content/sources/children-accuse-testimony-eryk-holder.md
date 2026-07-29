@@ -5,6 +5,7 @@ drupal_node_id: 1130
 source_type: "Text"
 url: /children-accuse-testimony-eryk-holder
 image: /images/Icons-Document_5.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

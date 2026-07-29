@@ -5,6 +5,7 @@ drupal_node_id: 2882
 source_type: "Text"
 url: /south-african-college-and-its-old-boys-1886
 image: /images/South_African_College_1886.png
+image_alt: "Article text. Transcription in folder."
 regions: 
   - "Africa"
   - "Europe"
@@ -26,3 +27,8 @@ The 1886 article, “The South African College and Its ‘Old Boys’,” provid
 Sources like this article, therefore, urge us to examine the role of universities not only in national contexts, but in international and imperial ones as well. Transnational networks of graduates and expertise were a source of institutional strength, as the achievements and money of university graduates filtered back to the university. At the same time, and as the historian Tamson Pietsch has argued in relation to academic networks in the British Empire, the formal and informal associations of university alumni “crystallized imperial bonds” across tremendous distances and became a source of imperial power (Pietsch 2013). Graduates in engineering, agriculture, mining, and medicine could repurpose the knowledge they had gained at universities in service of an industry, nation, or empire. Studying the impact of “old boys’ clubs” beyond the university, or how graduates applied information and curricula learned in one context to their professional work in different one, can help us to explore larger historical questions about knowledge transfer, globalization, and forms of imperialism.
 
 This source is part of the [global history of higher education methods primer](https://worldhistorycommons.org/primer-global-history-higher-education).
+
+## Transcription
+
+THE SOUTH AFRICAN COLLEGE AND ITS “OLD BOYS.”  
+There are many “old boys” in London and in other parts of the world where this journal circulates who will not have forgotten their experiences of the South African College at Cape Town. Well, Sir Henry De Villiers, Chief Justice of the Colony, presided over a meeting of “Old Boys” of this college recently, when resolutions were enthusiastically agreed to for the formation of an Old Boys’ Club, details being left to the committee. It was also promised on behalf of the Reformed Dutch Ministers who had been students to give an annual bursary. The hope was expressed that, by increased university accommodation, and by establishing the residential system, the college would attract *alumni* from all South Africa.

@@ -16,6 +16,8 @@ related_sources:
   - link: "/drunkard"
     image: "/images/Drunkard-Namayoi-thumbnail.jpeg"
     alt: "The Drunkard thumbnail"
+how_to_cite: |
+  "Analyzing Paintings and Prints," in World History Commons, https://worldhistorycommons.org/analyzing-paintings-and-prints [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -28,6 +30,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![The Drunkard](/images/Drunkard-Namayoi-thumbnail.jpeg)
 
+#### Annotation
+
 This print, titled, *The Drunkard*, portrays a woman engaged in frivolous or indulgent behavior. It is a *ukiyo-e* woodblock prints from the Tokugawa or Edo period in Japan (1600 to 1867) created by the artist Utamaro in 1802. There are a pair of spectacles (watching over the young women) and messages that criticize their behavior while the images themselves are vibrant and perhaps celebratory.
 This source is a part of the [*Analyzing Paintings and Prints*](https://worldhistorycommons.org/analyzing-paintings-and-prints) methods module.
 
@@ -35,9 +39,10 @@ This source is a part of the [*Analyzing Paintings and Prints*](https://worldhis
 
 ![Vulgarly Called the Wanton](/images/vulgarlycalledwanton-thumbnail.jpeg)
 
+#### Annotation
+
 This print is called *Vulgarly called the Wanton* and was created by the artist Utamaro in 1802. It portrays a woman engaged in frivolous or indulgent behavior, providing a sense of how people understood urban Japan during the Tokugawa period. Analyzing these rich images offers an important window into an increasingly complex urban world.
 This source is a part of the [*Analyzing Paintings and Prints*](https://worldhistorycommons.org/analyzing-paintings-and-prints) methods module.
-
 
 ## Credits
 

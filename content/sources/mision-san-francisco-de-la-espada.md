@@ -5,6 +5,7 @@ drupal_node_id: 2630
 source_type: "Image"
 url: /mision-san-francisco-de-la-espada
 image: /images/espada.jpg
+image_alt: "Photograph of the san francisco de la espada mission"
 regions: 
   - "North/Central America"
 subjects: 

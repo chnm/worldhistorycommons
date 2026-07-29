@@ -5,6 +5,7 @@ drupal_node_id: 1012
 source_type: "Image"
 url: /day-after-waterloo
 image: /images/day-after-waterloo.jpg
+image_alt: "The Day after Waterloo painting"
 regions: 
   - "Europe"
 subjects: 

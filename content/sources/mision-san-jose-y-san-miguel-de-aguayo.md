@@ -5,6 +5,12 @@ drupal_node_id: 2629
 source_type: "Image"
 url: /mision-san-jose-y-san-miguel-de-aguayo
 image: /images/san_jose1.jpg
+image_alt: "Photograph of Misión San José y San Miguel de Aguayo"
+additional_images:
+  - src: "/images/source-media/2629/san_jose2.jpg"
+    alt: "Misión doorway facade"
+  - src: "/images/source-media/2629/san_jose3.jpg"
+    alt: "Misión living quarters"
 regions: 
   - "North/Central America"
 subjects: 

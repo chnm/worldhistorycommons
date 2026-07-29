@@ -7,14 +7,15 @@
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/css/base.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="/css/whc.css">
+  <link rel="stylesheet" href="/css/whc.css?v=20260729-footer1">
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 </head>
 <body{{ with .Params.doc_type }} class="node-{{ . }}"{{ end }}>
+  <a class="skip-link visually-hidden focusable" href="#main-content">Skip to main content</a>
   <div class="dialog-off-canvas-main-canvas">
     <div class="layout-container">
       {{ partial "header.html" . }}
-      <main role="main">
+      <main id="main-content" tabindex="-1">
         <div class="layout-content">
           <div>
             <div id="block-whc-content">

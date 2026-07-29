@@ -5,6 +5,7 @@ drupal_node_id: 2722
 source_type: "Image"
 url: /hangzhou-elites-1935
 image: /images/HangzhouElites.png
+image_alt: "Photograph of five men standing"
 regions: 
   - "Asia"
 subjects: 

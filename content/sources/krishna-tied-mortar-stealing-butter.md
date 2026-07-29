@@ -5,6 +5,7 @@ drupal_node_id: 152
 source_type: "Image"
 url: /krishna-tied-mortar-stealing-butter
 image: /images/krishna-tied-to-the-mortar_3d699ee9a1.jpg
+image_alt: "Illustration of Krishna"
 regions: 
   - "Asia"
 subjects: 

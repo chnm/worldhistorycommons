@@ -5,6 +5,7 @@ drupal_node_id: 2893
 source_type: "Image"
 url: /ideal-ration-recipe
 image: /images/Parsons_Fact_Book.JPG
+image_alt: "Picture of Stephen Robinson Parson's notebook where he recorded an ideal ration"
 regions: 
   - "North/Central America"
 subjects: 

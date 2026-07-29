@@ -5,6 +5,7 @@ drupal_node_id: 2958
 source_type: "Image"
 url: /census-england-1891
 image: /images/1891_Census_2.png
+image_alt: "A page of the 1891 census, showing columns filled with handwritten names, ages, and other census information."
 regions: 
   - "Europe"
 subjects: 

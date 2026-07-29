@@ -18,6 +18,8 @@ related_sources:
   - link: "/little-women-amys-valley-humiliation"
     image: "/images/Little-Women_1.jpg"
     alt: "Little Women"
+how_to_cite: |
+  "Short Teaching Module: Girlhood and Little Women," in World History Commons, https://worldhistorycommons.org/short-teaching-module-girlhood-and-little-women [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -32,6 +34,8 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![Little Women, "Amy's Valley of Humiliation"](/images/Little-Women_1.jpg)
 
+#### Annotation
+
 *Little Women* is one of the most beloved works of American literature. Widely translated and read throughout the world, Alcott's story has inspired films, television programs, cartoons, dolls, and theatrical productions, as well as extensive critical commentary from scholars in literature, history, women's studies, and other fields. Although a work of fiction, the story is largely autobiographical, and it provides a window into American girlhood in the latter part of the 19th century, offering a more realistic, fallible, and decidedly more contemporary image of girls and girlhood than previous works.
 Book I, Chapter VII, "Amy's Valley of Humiliation," takes its title from John Bunyan's *Pilgrim's Progress* (1678/1684), which provides a structuring framework for much of the book. Each sister has her "burden," and each struggles to overcome that burden in order to make it to the "palace beautiful." In this memorable chapter, Amy, the youngest March sister, is caught eating pickled limes (the latest fad) in class and is publicly humiliated for breaking school rules.
 This source is a part of the [*Girlhood and Little Women*](https://worldhistorycommons.org/short-teaching-module-girlhood-and-little-women) teaching module.
@@ -40,10 +44,11 @@ This source is a part of the [*Girlhood and Little Women*](https://worldhistoryc
 
 ![Little Women, “The Valley of the Shadow”](/images/Little-Women-thumbnail.jpeg)
 
+#### Annotation
+
 *Little Women* is one of the most beloved works of American literature. Widely translated and read throughout the world, Alcott's story has inspired films, television programs, cartoons, dolls, and theatrical productions, as well as extensive critical commentary from scholars in literature, history, women's studies, and other fields. Although a work of fiction, the story is largely autobiographical, and it provides a window into American girlhood in the latter part of the 19th century, offering a more realistic, fallible, and decidedly more contemporary image of girls and girlhood than previous works.
 Book II, Chapter XVII, "The Valley of the Shadow," takes its title from Psalm 23:4, and describes the scene of Beth's death. Sentimental in tone, the scene both recalls the widespread reality of children's high mortality rate in the 19th century, and also fits into a broader set of images—in artwork, on grave stones, and in needle work—that sentimentally commemorated a life extinguished prematurely early.
 This source is a part of the [*Girlhood and Little Women*](https://worldhistorycommons.org/short-teaching-module-girlhood-and-little-women) teaching module.
-
 
 ## Teaching Strategies
 

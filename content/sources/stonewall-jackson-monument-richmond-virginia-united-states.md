@@ -5,6 +5,7 @@ drupal_node_id: 2537
 source_type: "Object"
 url: /stonewall-jackson-monument-richmond-virginia-united-states
 image: /images/Jackson_statue_2008.jpg
+image_alt: "Bronze monument of Thomas \"Stonewall\" Jackson, Monument Avenue, Richmond, Virginia"
 regions: 
   - "North/Central America"
 subjects: 

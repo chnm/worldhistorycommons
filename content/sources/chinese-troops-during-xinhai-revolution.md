@@ -5,6 +5,7 @@ drupal_node_id: 2719
 source_type: "Image"
 url: /chinese-troops-during-xinhai-revolution
 image: /images/ChineseTroops.png
+image_alt: "Photograph of about 20 soldiers posing in front of a building"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1498
 source_type: "Text"
 url: /execution-robespierre
 image: /images/Icons-Document_270.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2076
 source_type: "Image"
 url: /exotic-white-man-print
 image: /images/exoticwhitemansmall.jpg
+image_alt: "image of the exotic white man"
 regions: 
   - "Asia"
 subjects: 

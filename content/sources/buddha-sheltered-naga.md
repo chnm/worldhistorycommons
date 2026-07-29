@@ -5,6 +5,7 @@ drupal_node_id: 2392
 source_type: "Object"
 url: /buddha-sheltered-naga
 image: /images/DP102610.jpg
+image_alt: "Bronze sculpture of Buddha sitting under a tree"
 regions: 
   - "Asia"
 subjects: 

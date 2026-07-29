@@ -5,6 +5,7 @@ drupal_node_id: 175
 source_type: "Image"
 url: /abstention-rate-napoleonic-plebiscites
 image: /images/f840b55b610c0d0e66f44989429ee4f4.jpg
+image_alt: "Map of regional support for Napoleon over time"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2770
 source_type: "Text"
 url: /emmerton-letter-1926
 image: /images/Emmerton_Letter1926.jpeg
+image_alt: "Image of Emmerton typed letter"
 regions: 
   - "North/Central America"
 subjects: 

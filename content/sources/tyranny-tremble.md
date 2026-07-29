@@ -5,6 +5,7 @@ drupal_node_id: 1102
 source_type: "Image"
 url: /tyranny-tremble
 image: /images/8f76cdfabe2e1583c0d1eb020ed1394a__1_.jpg
+image_alt: "Image depicting the revolution war as an attack on tyrants"
 regions: 
   - "Europe"
 subjects: 

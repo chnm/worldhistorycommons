@@ -5,6 +5,7 @@ drupal_node_id: 201
 source_type: "Image"
 url: /mabo-song
 image: /images/fullmabocycle2.jpg
+image_alt: "Written representation of the music from the dance mabo"
 regions: 
   - "Africa"
 subjects: 

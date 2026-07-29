@@ -5,6 +5,7 @@ drupal_node_id: 1489
 source_type: "Text"
 url: /vendee-description-counterrevolution
 image: /images/Icons-Document_261.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2622
 source_type: "Text"
 url: /buddhist-records-western-world
 image: /images/Text_Image_10.jpg
+image_alt: "document icon"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 247
 source_type: "Image"
 url: /painting-imelda-marcos-philippine-first-lady
 image: /images/marcoslarge.jpg
+image_alt: "Painting of Imelda Marcos"
 regions: 
   - "Asia"
 subjects: 

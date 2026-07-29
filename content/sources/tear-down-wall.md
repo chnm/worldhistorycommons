@@ -5,6 +5,9 @@ drupal_node_id: 844
 source_type: "Image"
 url: /tear-down-wall
 image: 
+media_unavailable:
+  type: image
+  message: "The original site does not provide image media for this source."
 regions: 
   - "Europe"
 subjects: 

@@ -22,6 +22,8 @@ related_sources:
   - link: "/tell-negroes-join-other-peoples-world"
     image: "/images/Kiazolu1THUMB.png"
     alt: "Image of the newspaper article. Description in annotation."
+how_to_cite: |
+  "Short Teaching Module: Race, Gender, and Transnational Histories of Solidarity," in World History Commons, https://worldhistorycommons.org/short-teaching-module-race-gender-and-transnational-histories-solidarity [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -34,18 +36,21 @@ Studying transnational histories of solidarity among women of African descent re
 
 ![“Tell Negroes To Join With Other Peoples Of The World”](/images/Kiazolu1THUMB.png)
 
-An article in the *Alabama Tribune* reported on the visit of two West African women leaders, Mabel Dove from Ghana and Carmela Renner from Sierra Leone. The women leaders were hosted by the Norfolk chapter of the National Council of Negro Women. Here, they made connections between the struggle for national independence in Africa and civil rights in the States as part of a broader fight for freedom and equality for Black people everywhere. It is important to note that their 1956 visit preceded the celebrated wave of national independence that would sweep the continent in the coming years; therefore, highlighting Black women leaders’ contributions to shared movement building that flourished in the late 1950s and 1960s.  
-  
+#### Annotation
+
+An article in the *Alabama Tribune* reported on the visit of two West African women leaders, Mabel Dove from Ghana and Carmela Renner from Sierra Leone. The women leaders were hosted by the Norfolk chapter of the National Council of Negro Women. Here, they made connections between the struggle for national independence in Africa and civil rights in the States as part of a broader fight for freedom and equality for Black people everywhere. It is important to note that their 1956 visit preceded the celebrated wave of national independence that would sweep the continent in the coming years; therefore, highlighting Black women leaders’ contributions to shared movement building that flourished in the late 1950s and 1960s.<br>
+<br>
 This source is part of the [race, gender, and transnational histories of solidarity teaching module](https://worldhistorycommons.org/short-teaching-module-race-gender-and-transnational-histories-solidarity).
 
 ### [Letter to Council Women](/letter-council-women)
 
 ![Letter to Council Women](/images/Kiazolu2THUMB.jpeg)
 
-In a 1960 letter, fourth national president of the National Council of Negro Women Dorothy Height reports back to the Council on her trip to Sierra Leone. She served as both participant and facilitator in what she described as the first meeting of West African women including Sierra Leone, Nigeria, Ghana, and Liberia. The women leaders discussed their experiences at home, shared organizing strategies, and overall, aimed to build community across borders. As women across west Africa prepared for national independence, they solicited support from women in neighboring countries and abroad to redefine their roles, for themselves, in emerging societies. This event was a precursor to the larger first Conference of Women of Africa and African Descent held in July 1960 in Accra, Ghana.  
-  
-This source is part of the [race, gender, and transnational histories of solidarity teaching module](https://worldhistorycommons.org/short-teaching-module-race-gender-and-transnational-histories-solidarity).
+#### Annotation
 
+In a 1960 letter, fourth national president of the National Council of Negro Women Dorothy Height reports back to the Council on her trip to Sierra Leone. She served as both participant and facilitator in what she described as the first meeting of West African women including Sierra Leone, Nigeria, Ghana, and Liberia. The women leaders discussed their experiences at home, shared organizing strategies, and overall, aimed to build community across borders. As women across west Africa prepared for national independence, they solicited support from women in neighboring countries and abroad to redefine their roles, for themselves, in emerging societies. This event was a precursor to the larger first Conference of Women of Africa and African Descent held in July 1960 in Accra, Ghana.<br>
+<br>
+This source is part of the [race, gender, and transnational histories of solidarity teaching module](https://worldhistorycommons.org/short-teaching-module-race-gender-and-transnational-histories-solidarity).
 
 ## Credits
 

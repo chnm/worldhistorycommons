@@ -14,6 +14,8 @@ related_sources:
   - link: "/nutmeg-and-spice-wars-southeast-asia"
     image: "/images/nutmeg-thumbnail_0.jpeg"
     alt: "Sketch of nutmeg"
+how_to_cite: |
+  "Primer: Commodities ," in World History Commons, https://worldhistorycommons.org/primer-commodities [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -34,7 +36,7 @@ Working in the wake of Mintz’s historiographical corrective, a wide range of h
 
 Such studies took many forms. By “lifting the lid” on a pot of tea, Erika Rappaport’s A Thirst for Empire, sought to understand how the intersection between tea and empire combined to exert power over the land, labor, tastes, and daily habits of millions of people across the globe. Sven Beckert’s Empire of Cotton highlighted the millions of small-scale relationships across time and space that comprise a global system like the world’s cotton textile industry.
 
-A commodity-focused examination of the past allows scholars to pivot easily between the local and the global. It enables historians to connect together diverse groups – miners, farmers, slavers, and workers – with sites of consumption and to argue for transformative effects on both.  
+A commodity-focused examination of the past allows scholars to pivot easily between the local and the global. It enables historians to connect together diverse groups – miners, farmers, slavers, and workers – with sites of consumption and to argue for transformative effects on both.<br>
 Practitioners of commodity history sought to uncover the human relationships shaped in production processes and how the variation of local conditions across countries and regions influenced the production of commodities differently. At the same time, commodity histories offer a polycentric methodology that transcends the frequently utilized center-periphery model of world history. Studies, such as John Soluri’s Banana Cultures, highlight how myriad people, regions, and cultures along commodity chains influenced changes in tastes, desires, and production.
 
 The popular success of commodity histories has come with their own challenges and critics have accused single volume commodity histories of exaggerating the impact of the commodity under discussion. In a critical review, Bruce Robbins calls attention to what he describes as the “flagrant after-the-colon excesses” of commodity histories’ titles and narratives that attribute transformative properties to single items. In this way, he suggests they mimic the attributes of the “great men” histories of the past, which oversimplified complex events (Robbins 455). In some studies, commodities become powerful forces in and of themselves, driving world history. The criticism does not apply uniformly but Robbins is right to call attention to potential excesses in one of the few historical fields that reliably sells large numbers of copies. Without well-balanced accounts, scholars can fall into the trap of fetishizing commodities thus alienating the labor behind the commodity’s production, transportation, and consumption. Without carefully analyzing commodity chains, historians risk either diminishing the intimate relationships between people and commodities, or losing them altogether.
@@ -43,13 +45,13 @@ A commodity history approach provides a valuable analytical lens by illuminating
 
 ##### Further Readings:
 
-1. Clarence-Smith, William G, eds. The Global Coffee Economy in Africa, Asia and Latin America, 1500-1989. Cambridge, UK: Cambridge University Press, 2003.  
-2. Cushman, Gregory T. Guano and the Opening of the Pacific World: A Global Ecological History. Cambridge, UK: Cambridge University Press, 2013.  
-3. Elmore, B. J. Citizen Coke: The Making of Coca-Cola Capitalism. New York, NY: W. W. Norton & Company, 2015.  
-4. Gaytán, Marie Sarita. Tequila!: Distilling the Spirit of Mexico. Standford, CA: Stanford University Press, 2014.  
-5. Gootenberg, Paul. Andean Cocaine: The Making of a Global Drug. Chapel Hill, NC: The University of North Carolina Press, 2008.  
-6. Norton, Marcy. Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World. Ithaca, NY: Cornell University Press, 2010.  
-7. Stein, Sara Abrevaya. Plumes: Ostrich Feathers, Jews, and a Lost World of Global Commerce. New Haven, CT: Yale University Press, 2008.  
+1. Clarence-Smith, William G, eds. The Global Coffee Economy in Africa, Asia and Latin America, 1500-1989. Cambridge, UK: Cambridge University Press, 2003.<br>
+2. Cushman, Gregory T. Guano and the Opening of the Pacific World: A Global Ecological History. Cambridge, UK: Cambridge University Press, 2013.<br>
+3. Elmore, B. J. Citizen Coke: The Making of Coca-Cola Capitalism. New York, NY: W. W. Norton & Company, 2015.<br>
+4. Gaytán, Marie Sarita. Tequila!: Distilling the Spirit of Mexico. Standford, CA: Stanford University Press, 2014.<br>
+5. Gootenberg, Paul. Andean Cocaine: The Making of a Global Drug. Chapel Hill, NC: The University of North Carolina Press, 2008.<br>
+6. Norton, Marcy. Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World. Ithaca, NY: Cornell University Press, 2010.<br>
+7. Stein, Sara Abrevaya. Plumes: Ostrich Feathers, Jews, and a Lost World of Global Commerce. New Haven, CT: Yale University Press, 2008.<br>
 8. Topik, Steven, Carlos Marichal & Zephyr L. Frank, eds. From Silver to Cocaine: Latin American Commodity Chains and the Building of the World Economy, 1500-2000. Durham, NC: Duke University Press, 2006.
 
 ## Primary Sources
@@ -58,11 +60,12 @@ A commodity history approach provides a valuable analytical lens by illuminating
 
 ![Nutmeg and the Spice Wars in Southeast Asia](/images/nutmeg-thumbnail_0.jpeg)
 
+#### Annotation
+
 The Amboyna trial was a famous conspiracy case that took place in 1623 when a group of Japanese mercenaries were accused of plotting with English merchants to seize control of a Dutch fort on a remote island in Southeast Asia. Despite occurring thousands of miles away in an unfamiliar part of the world, the trial on Amboyna swiftly escalated to become one of the most famous legal cases of the age in Europe and the subject of a long-running dispute between the Dutch and the English governments. The case is a notable episode in the wider war over spices in Southeast Asia.
 Precious spices, such as nutmeg and cloves, were immensely valuable commodities in the seventeenth century. Prized for their medicinal properties, as well as their capacity to flavor food, these spices could be sold for enormous markups in Europe. The problem was that the spices were only available on a set of remote islands in Southeast Asia. The bulk of the world’s cloves came from the island of Ambon, also known as Amboyna, and its surrounding territories, while the Banda Islands were the world’s richest producer of nutmeg. Gaining control of these islands and the commodities they produced represented a huge logistical and political challenge for Europeans. These challenges dominated the early years of the various European East India companies’ operations.
 Here is a sixteenth-century illustration of nutmeg. The nutmeg tree produces two precious spices, which are depicted here in the upper righthand corner of the image. The nutmeg kernel itself can be seen positioned in the center of the image. When grown, nutmeg kernels are enveloped by a red skin or webbing, shown on the kernel on the right in the image’s foreground. The webbing around the kernel is what produces the spice mace. Both spices were in high demand in the seventeenth century and could be sold for a significant markup in European markets.
 This source is a part of the [*Primer: Commodities*](https://worldhistorycommons.org/primer-commodities) methods module.
-
 
 ## Bibliography
 

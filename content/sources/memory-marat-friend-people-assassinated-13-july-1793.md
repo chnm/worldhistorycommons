@@ -5,6 +5,7 @@ drupal_node_id: 347
 source_type: "Image"
 url: /memory-marat-friend-people-assassinated-13-july-1793
 image: /images/de0e5f42c1b9d1db8eaf4ed64b21671d.jpg
+image_alt: "Print of assassination of JP Marat"
 regions: 
   - "Europe"
 subjects: 
@@ -22,3 +23,8 @@ how_to_cite: |
 ---
 
 A leading voice on behalf of greater popular participation and social policies that would benefit the poor, the journalist Jean–Paul Marat used his radical newspaper the Friend of the People to criticize moderation.
+
+## Transcription
+
+**Title in French**  
+A la mémoire de Marat L'ami du Peuple, assassiné le 13 Juillet 1793

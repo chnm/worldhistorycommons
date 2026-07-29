@@ -5,6 +5,7 @@ drupal_node_id: 1165
 source_type: "Text"
 url: /east-harlem-motion-picture-study
 image: /images/Icons-Document_27.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

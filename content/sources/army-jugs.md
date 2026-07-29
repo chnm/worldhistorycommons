@@ -5,6 +5,7 @@ drupal_node_id: 191
 source_type: "Image"
 url: /army-jugs
 image: /images/army-of-jugs.jpg
+image_alt: "Army of Jugs"
 regions: 
   - "Europe"
 subjects: 
@@ -23,3 +24,8 @@ how_to_cite: |
 ---
 
 This color drawing, produced in 1793 at the request of the Committee of Public Safety and then published as an engraving, caricatures the British army and its king, George III, as incompetent, who, despite fine uniforms, cannot defeat shoddily clad, yet energetic sans–culottes (on the left), who humiliate the British by defecating on the advancing troops. The British vainly try to respond with cannons in the shape of clysters, medical devices used to administer enemas. The key below indicates the particular British figures, notably Charles James Fox and George III, being satirized.
+
+## Transcription
+
+**Title in French**  
+Explication

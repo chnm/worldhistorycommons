@@ -5,6 +5,7 @@ drupal_node_id: 3027
 source_type: "Image"
 url: /ceramic-female-figure-ecuador
 image: /images/main-image__1_.jpeg
+image_alt: "A clay figure with two heads and two female torsos, along with one set of arms and legs. The heads have cap-like hair and slightly detailed faces."
 regions: 
   - "South America"
 subjects: 
@@ -19,8 +20,10 @@ subjects:
   - "Women"
 time_periods: 
   - "Ancient (before 500 CE)"
-source_citation: "Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art."
-credits: "Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art,<https://www.metmuseum.org/art/collection/search/314161>."
+source_citation: |
+  Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art.
+credits: |
+  Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art, <https://www.metmuseum.org/art/collection/search/314161>.
 how_to_cite: |
   "Ceramic Female Figure from Ecuador ," in World History Commons, https://worldhistorycommons.org/ceramic-female-figure-ecuador [accessed April 8, 2026]
 ---

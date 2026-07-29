@@ -5,6 +5,7 @@ drupal_node_id: 3023
 source_type: "Image"
 url: /bird-stone-figure-papua-new-guinea
 image: /images/WHC_bird_figure_main_image.jpeg
+image_alt: "A tan-colored stone figure loosely shaped like a bird with a head and beak and two protruding wings on the side. The figure has a flat bottom."
 regions: 
   - "Oceania"
 subjects: 
@@ -14,8 +15,10 @@ subjects:
   - "Religion"
 time_periods: 
   - "Ancient (before 500 CE)"
-source_citation: "Stone Implements, ca. 1500 BCE-1600 CE."
-credits: "Bird Stone Figure from Papua New Guinea,1500 BCE-1600 CE, Metropolitan Museum of Art,<https://www.metmuseum.org/art/collection/search/317803>."
+source_citation: |
+  Stone Implements, ca. 1500 BCE-1600 CE.
+credits: |
+  Bird Stone Figure from Papua New Guinea,1500 BCE-1600 CE, Metropolitan Museum of Art, <https://www.metmuseum.org/art/collection/search/317803>.
 how_to_cite: |
   "Bird Stone Figure from Papua New Guinea," in World History Commons, https://worldhistorycommons.org/bird-stone-figure-papua-new-guinea [accessed April 8, 2026]
 ---

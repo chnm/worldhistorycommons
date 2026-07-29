@@ -5,6 +5,7 @@ drupal_node_id: 1124
 source_type: "Text"
 url: /request-playden-onely-royal-african-company-1721
 image: /images/Icons-Document.jpg
+image_alt: "image of the text"
 regions: 
   - "Africa"
 subjects: 

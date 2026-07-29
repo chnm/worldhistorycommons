@@ -5,6 +5,7 @@ drupal_node_id: 1727
 source_type: "Image"
 url: /dona-marina-cortes-translator-painting-santa-barraza
 image: /images/woman.jpg
+image_alt: "A representation of Malinche painted by a renowned Chicana visual artist and teacher from Texas. It depicts the beautiful, life-giving Malintzin, is a tiny image, crafted on metal, and meant to evoke ex-voto and other devotional images from Mexico"
 regions: 
   - "North/Central America"
 subjects: 

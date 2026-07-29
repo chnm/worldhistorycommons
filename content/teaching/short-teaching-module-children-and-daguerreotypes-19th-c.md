@@ -20,6 +20,8 @@ related_sources:
   - link: "/children-and-daguerreotypes"
     image: "/images/daguerreotype-thumbnail.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Children and Daguerreotypes (19th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-children-and-daguerreotypes-19th-c [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -34,11 +36,12 @@ This short teaching module includes broad guidance on activities and discussion,
 
 ![Children and Daguerreotypes](/images/daguerreotype-thumbnail.jpg)
 
+#### Annotation
+
 Daguerreotypes were the first commercially viable photographic process. Developed by French chemist Louis Daguerre in 1839, the technique quickly made its way to the US in the 1840s, the beginning of what some historians characterize as the "golden age" of childhood. Although the daguerreotype method was tedious—dependent on complicated chemical preparation, long exposure times, and an involved development procedure—the daguerreotype proved immediately popular because of its ability to capture detail and provide a "true" likeness.
 One of daguerreotypists' most popular sitters proved to be children. This series of daguerreotypes represents a range of childhood images: a postmortem representation, a hand-colored portrait, a brother and sister study, and photograph of a boy with a donkey. These offer several insights into the 19th-century's conceptualizations of childhood. As such, the photographs invite students to think about the different depictions of boys and girls, children's work, children's relationship to pets, sibling affiliation, and the cultural importance of children, generally.
 Download PDF of images [here](http://chnm.gmu.edu/cyh/images/daguerreotype_handout.pdf).
 This source is a part of the [*Children and Daguerreotypes (19th c.)*](https://worldhistorycommons.org/short-teaching-module-children-and-daguerreotypes-19th-c) teaching module.
-
 
 ## Teaching Strategies
 
@@ -58,7 +61,7 @@ First, the daguerreotype necessitated a relatively long exposure time; in other 
 
 Second, even though daguerreotypes put personal images within the reach of many more people, they remained relatively expensive and reserved for those who could afford them.
 
-Third, daguerreotypes were one-off images in that they could not be reproduced; a daguerreotype was not a negative that could be reprinted multiple times.  
+Third, daguerreotypes were one-off images in that they could not be reproduced; a daguerreotype was not a negative that could be reprinted multiple times.<br>
 Fourth, daguerreotypes were fragile; the image could be easily scratched. Because a daguerreotype was essentially a mirror, it could tarnish from exposure like a silver spoon. (See Fig. 2.)
 
 Last but not least, a color daguerreotype was possible. For an additional cost, daguerreotype images could be hand-colored with special paints.

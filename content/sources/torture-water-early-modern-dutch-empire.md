@@ -6,6 +6,10 @@ drupal_node_id: 644
 source_type: "Text"
 url: /torture-water-early-modern-dutch-empire
 image: /images/deposition-1.jpg
+image_alt: "Deposition of Jan Joosten"
+additional_images:
+  - src: "/images/source-media/644/deposition-2.jpg"
+    alt: "Deposition of Jan Joosten"
 regions: 
   - "Asia"
   - "Europe"
@@ -26,3 +30,7 @@ The Amboyna trial was a famous conspiracy case that took place in 1623 when a gr
 The Amboyna conspiracy trial became a source of bitter dispute when news of what had happened reached Europe in May 1624. For centuries, English and Dutch writers have traded blows over the guilt or innocence of the alleged conspirators. A reason for this ongoing controversy centers on the Dutch use of torture to extract confessions. Torture played an important role in the Amboyna trial and much of the subsequent controversy has centered on the use, legality and efficacy of the torture techniques employed during the legal proceedings. The particular technique that was used is described as the “torture by water” in contemporary sources but is now more commonly known as waterboarding. Waterboarding works as a torture technique not because it causes excruciating pain but because it creates the “perception of drowning.” The Amboyna conspiracy trial was the first instance where the “torture by water” or waterboarding was used in a major international legal case.
 
 This is a contemporary description of the “torture by water” or waterboarding. According to Jan Joosten’s deposition, the waterboarded individual was “bound securely to an inclined bench. A cloth is placed over the forehead and eyes. Water is then applied to the cloth in a controlled manner. As this is done, the cloth is lowered until it covers both the nose and mouth… [This] produces the perception of ‘suffocation and incipient panic,’ i.e. the perception of drowning.” Waterboarding was thus designed to produce "greate anguish by hindrance of his breath.” Dutch East India Company officials defended the use of waterboarding because, unlike other torture techniques, it did not inflict physical harm.
+
+## Translation
+
+He saith that he doth not knowe that the said Japponese was tortured more then one time, to wit with water, in manner following, the patient was set in the porch of a dore. His Armes being retched forth and bownde fast unto the postes, his feete standing upon the grownde, neverthelesse being parte asunder and bownde to the postes, this porch being as an ordinarie Chamber dore, the holes being made through the postes, did then a cloth or cloute was put before his face and fastened behind his head, hanging upon under his chinne, after this the water was poured upon his head, that it might runne downe his face, and then this cloth is closed with a mans hand under his chinne, And this manner of torture doth onelie cause a greate anguish by hindrance of his breath, but cannot cause anie lamelesse or other unsoundenesse, and this anguish presentlie ceaseth with the opening of the cloth, which is done when one doth thinke the patient cannot endure noe more, so saith further that this manner of torture is an ordinary manner in those places which formerlie he hath seene severall times applyed unto Dutchmen and other nations.

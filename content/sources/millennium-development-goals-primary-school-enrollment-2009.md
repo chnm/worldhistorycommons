@@ -5,6 +5,10 @@ drupal_node_id: 55
 source_type: "Image"
 url: /millennium-development-goals-primary-school-enrollment-2009
 image: /images/3mdg-primary-school-enrollment-2009_8ef52592df.jpg
+image_alt: "Chart of primary school enrollment"
+additional_images:
+  - src: "/images/source-media/55/4mdg-distribution-out-of-schl-children-2009_438bb6be4c.jpg"
+    alt: "Chart of distribution of school children"
 regions: 
   - "Comparative"
   - "Global"

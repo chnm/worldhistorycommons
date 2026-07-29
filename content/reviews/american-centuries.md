@@ -6,7 +6,7 @@ url: /american-centuries
 image: /images/American_Centuries_thumbnail.jpg
 website_authors: "MEMORIAL HALL MUSEUM AND LIBRARY, DEERFIELD, MASSACHUSETTS"
 reviewer: "Reviewed by Ilana Nash, Western Michigan University"
-reviewed_url: "http://www.americancenturies.mass.edu/home.html"
+reviewed_url: "https://web.archive.org/web/20250115200927/http://americancenturies.mass.edu/home.html"
 pull_quote: |
   “A section of the site called "In the Classroom" offers numerous lesson plans for elementary and middle-school teachers, some written by museum employees and some by schoolteachers themselves, using materials in the online exhibits.”
 how_to_cite: |
@@ -45,7 +45,7 @@ time_periods:
   - "Contemporary (1950 CE - Present)"
 ---
 
-[American Centuries](http://www.americancenturies.mass.edu/home.html) displays items from the collection of the Memorial Hall Museum and Library in Deerfield, Massachusetts. This museum specializes in 17th-20th century artifacts of the East Coast, and the exhibits cover multiple aspects of historical New England. The website makes its primary appeal to teachers and young students.
+[American Centuries](https://web.archive.org/web/20250115200927/http://americancenturies.mass.edu/home.html) displays items from the collection of the Memorial Hall Museum and Library in Deerfield, Massachusetts. This museum specializes in 17th-20th century artifacts of the East Coast, and the exhibits cover multiple aspects of historical New England. The website makes its primary appeal to teachers and young students.
 
 A section of the site called "In the Classroom" offers numerous lesson plans for elementary and middle-school teachers, some written by museum employees and some by schoolteachers themselves, using materials in the online exhibits. Searches for lessons can include filters for grade level, historical era, and even subjects integrated into the lesson. For example, one of the lessons found when filtered to integrate World History is "Burial Customs: 19th Century Deerfield and Ancient Egypt". This lesson plan asks students learning about ancient Egyptian culture to compare how preservation techniques and beliefs about the afterlife compare to nineteenth century Massachusetts given a selection of documents and artifacts. Students can compare and discuss cultures across eras and regions.
 

@@ -5,6 +5,7 @@ drupal_node_id: 2767
 source_type: "Image"
 url: /copra-production-dutch-east-indies
 image: /images/RP-F-F01069-G.jpg
+image_alt: "Men and women prepare copra in the Dutch East Indies"
 regions: []
 subjects: []
 time_periods: []

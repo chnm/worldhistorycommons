@@ -5,6 +5,7 @@ drupal_node_id: 198
 source_type: "Image"
 url: /taking-weapons-invalides
 image: /images/invalides.jpg
+image_alt: "Engraving of crowd gathered to sack royal hospital"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,11 @@ how_to_cite: |
 ---
 
 From the City Hall, the crowd that had gathered on the morning of 14 July crossed the Seine River and sacked the royal veterans’ hospital known as the Invalides, where it hoped to capture arms. In Berthault’s engraving, the scene appears chaotic. The guards seem unsure how to react to the surging, leaderless, yet determined crowd.
+
+## Transcription
+
+**Title in French**  
+Prise des armes aux Invalides
+
+**Caption**  
+dans la matinée du 14 Juillet 1789

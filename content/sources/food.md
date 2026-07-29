@@ -5,6 +5,7 @@ drupal_node_id: 1760
 source_type: "Object"
 url: /food
 image: /images/food_cc14324b93.jpg
+image_alt: "baby food"
 regions: 
   - "North/Central America"
 subjects: 

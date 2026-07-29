@@ -5,6 +5,7 @@ drupal_node_id: 621
 source_type: "Image"
 url: /soviet-nuclear-reactors-eastern-europe
 image: /images/soviet_nuclear_reactors.jpg
+image_alt: "Map of Soviet Nuclear Reactors in Eastern Europe"
 regions: 
   - "Asia"
   - "Europe"

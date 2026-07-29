@@ -5,6 +5,7 @@ drupal_node_id: 145
 source_type: "Object"
 url: /indus-valley-wheeled-ram-toy
 image: /images/800px-mohenjodaro_toy_ram-bird-copy_797f8d3fb1.jpg
+image_alt: "Photo of hand-modeled terracotta toy"
 regions: 
   - "Middle East"
 subjects: 

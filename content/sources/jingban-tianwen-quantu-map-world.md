@@ -5,6 +5,7 @@ drupal_node_id: 2417
 source_type: "Image"
 url: /jingban-tianwen-quantu-map-world
 image: /images/1476340624423_351695_origin.jpg
+image_alt: "The Jingban tianwen quantu Map of the World"
 regions: 
   - "Asia"
 subjects: 

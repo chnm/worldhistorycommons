@@ -5,6 +5,7 @@ drupal_node_id: 2696
 source_type: "Image"
 url: /kodak-advertisement
 image: /images/1900_Kodak_Advertisement.jpg
+image_alt: "Early Eastman Kodak Advertisement from 1900"
 regions: 
   - "North/Central America"
 subjects: 

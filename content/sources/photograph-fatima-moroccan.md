@@ -5,6 +5,7 @@ drupal_node_id: 255
 source_type: "Image"
 url: /photograph-fatima-moroccan
 image: /images/moroccanlarge.jpg
+image_alt: "Photograph of Fatima the Moroccan"
 regions: 
   - "Africa"
   - "Europe"

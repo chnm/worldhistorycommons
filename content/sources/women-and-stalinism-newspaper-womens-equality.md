@@ -5,6 +5,7 @@ drupal_node_id: 1547
 source_type: "Text"
 url: /women-and-stalinism-newspaper-womens-equality
 image: /images/Icons-Article-Excerpt_9.jpg
+image_alt: "image of the article"
 regions: 
   - "Europe"
 subjects: 

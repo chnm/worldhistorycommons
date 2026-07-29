@@ -5,6 +5,7 @@ drupal_node_id: 376
 source_type: "Text"
 url: /journal-jan-van-riebeeck
 image: /images/riebeecks-journal.jpg
+image_alt: "Cover page of Journal of Jan van Riebeeck"
 regions: 
   - "Africa"
 subjects: 

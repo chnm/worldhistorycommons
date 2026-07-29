@@ -5,6 +5,7 @@ drupal_node_id: 2316
 source_type: "Image"
 url: /reception-envoys-kandy-colombo
 image: /images/Reception-of-the-envoys-from-Kandy.jpg
+image_alt: "image of king of Kandy"
 regions: 
   - "Asia"
 subjects: 

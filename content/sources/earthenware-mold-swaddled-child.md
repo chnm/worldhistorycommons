@@ -5,6 +5,7 @@ drupal_node_id: 290
 source_type: "Object"
 url: /earthenware-mold-swaddled-child
 image: /images/swaddled_infant_tang_china.jpg
+image_alt: "Earthenware Mold of a Swaddled Child"
 regions: 
   - "Asia"
 subjects: 

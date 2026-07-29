@@ -5,6 +5,7 @@ drupal_node_id: 183
 source_type: "Image"
 url: /hagia-sophia
 image: /images/hagia-sophia.jpg
+image_alt: "Photograph of the Hagia Sophia"
 regions: 
   - "Asia"
   - "Europe"

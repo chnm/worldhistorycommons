@@ -5,6 +5,7 @@ drupal_node_id: 622
 source_type: "Image"
 url: /soviet-food-shortages
 image: /images/Soviet-Food-Situation.jpg
+image_alt: "Food shortage chart"
 regions: 
   - "Asia"
   - "Europe"

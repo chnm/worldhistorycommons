@@ -5,6 +5,10 @@ drupal_node_id: 295
 source_type: "Object"
 url: /linen-towel-indigo-woven-border
 image: /images/perugia-towel.jpg
+image_alt: "Linen Towel with Indigo Woven Border"
+additional_images:
+  - src: "/images/source-media/295/Italian-weavers.jpg"
+    alt: "Italian weavers"
 regions: 
   - "Europe"
 subjects: 

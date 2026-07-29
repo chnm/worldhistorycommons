@@ -5,6 +5,7 @@ drupal_node_id: 1676
 source_type: "Text"
 url: /puerto-rican-labor-movement-magazine-eleanor-roosevelt
 image: /images/Icons-Document_427.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

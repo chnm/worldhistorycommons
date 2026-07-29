@@ -5,6 +5,7 @@ drupal_node_id: 3049
 source_type: "Image"
 url: /altar-classic-maya-period
 image: /images/1613665734.jpg
+image_alt: "A light-colored limestone altar. The altar is round and has glyph blocks in the center that are word and faded. Two cracks are on the altar but have had repairs lessening the lines."
 regions: 
   - "North/Central America"
 subjects: 
@@ -20,7 +21,7 @@ time_periods:
 source_citation: |
   "Altar," The Trustees of the British Museum, 300-900 AD.
 credits: |
-  "Altar," The Trustees of the British Museum, 300-900 AD, <https://www.britishmuseum.org/collection/object/E_Am1997-Q-1953>.
+  "Altar," The Trustees of the British Museum, 300-900 AD, <https://www.britishmuseum.org/collection/object/E_Am1997-Q-1953> .
 how_to_cite: |
   "Altar from the Classic Maya Period ," in World History Commons, https://worldhistorycommons.org/altar-classic-maya-period [accessed April 8, 2026]
 ---

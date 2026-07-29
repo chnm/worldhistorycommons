@@ -5,6 +5,7 @@ drupal_node_id: 992
 source_type: "Image"
 url: /map-europe-1815
 image: /images/europe-1815.jpg
+image_alt: "Map of Europe in 1815"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1363
 source_type: "Text"
 url: /new-development-scout-movement-south-africa
 image: /images/Icons-Article-Excerpt_7.jpg
+image_alt: "image of the article"
 regions: 
   - "Africa"
 subjects: 

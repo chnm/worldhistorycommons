@@ -5,6 +5,7 @@ drupal_node_id: 408
 source_type: "Text"
 url: /narrative-life-mrs-mary-jemison
 image: /images/mary-jemison.jpg
+image_alt: "Title page of A Narrative of the Life of Mrs. Mary Jemison"
 regions: 
   - "North/Central America"
 subjects: 

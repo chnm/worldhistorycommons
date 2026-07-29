@@ -5,6 +5,10 @@ drupal_node_id: 260
 source_type: "Image"
 url: /lady-bridge-tale-genji-painting-scroll
 image: /images/genjilady1.jpg
+image_alt: "Lady of the Bridge, Tale of Genji Painting Scroll"
+additional_images:
+  - src: "/images/source-media/260/genjilady2.jpg"
+    alt: "Lady of the Bridge, Tale of Genji Painting Scroll"
 regions: 
   - "Asia"
 subjects: 

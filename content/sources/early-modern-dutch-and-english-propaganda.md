@@ -5,6 +5,7 @@ drupal_node_id: 659
 source_type: "Text"
 url: /early-modern-dutch-and-english-propaganda
 image: /images/truerelation.jpg
+image_alt: "A True Relation of the Unjust Proceedings Against the English Excerpt"
 regions: 
   - "Asia"
   - "Europe"

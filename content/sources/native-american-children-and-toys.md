@@ -5,6 +5,12 @@ drupal_node_id: 294
 source_type: "Image"
 url: /native-american-children-and-toys
 image: /images/native-american-toys.jpg
+image_alt: "Native American Children and Toys"
+additional_images:
+  - src: "/images/source-media/294/native-american-toys-2.jpg"
+    alt: "Native American Children and Toys"
+  - src: "/images/source-media/294/native-american-toys-3.jpg"
+    alt: "Native American Children and Toys"
 regions: 
   - "North/Central America"
 subjects: 

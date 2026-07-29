@@ -32,6 +32,8 @@ related_sources:
   - link: "/chinggis-khan-and-his-wife-borte-secret-history-mongols"
     image: "/images/Thumbnail_7_2.jpeg"
     alt: "Document icon"
+how_to_cite: |
+  "Long Teaching Module: Masculinity and Femininity in the Mongol Empire," in World History Commons, https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -48,12 +50,16 @@ Until the last several decades most discussions of men ignored gender. In ninete
 
 ![Chinggis Khan on his father Yesügei](/images/Thumbnail_7_0.jpeg)
 
+#### Annotation
+
 This comment of Chinggis Khan about his father appears in the learned official Rashid al-Din’s Compendium of Chronicles, finished about 1310, so it was probably first handed down orally. In the first part of the comment, Chinggis Khan seems to be extolling his father’s toughness: he had great skills and did not suffer from hunger or thirst. But then he takes a turn, and points out that Yesügei did not take into account the needs of his troops. Thus to Chinggis Khan, the best warrior did not always make the best leader; ideal manliness involved empathy for the needs of others, or at least enough empathy to keep troops not overly fatigued and ready for battle. Yesügei died when Chinggis Khan was nine years old, probably as a result of poisoning.
 This source is a part of the [*Masculinity and Femininity in the Mongol Empire*](https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire) teaching module.
 
 ### [Mounted Mongol Warriors](/mounted-mongol-warriors)
 
 ![Mounted Mongol Warriors](/images/ArmedRidersTHUMB.jpeg)
+
+#### Annotation
 
 In this watercolor illustration from the *Compendium of Chronicles*, the enormous hemispheric history by the learned official Rashid al-Din finished around 1310, mounted Mongol warriors shoot bows and arrows while riding, a military tactic perfected by steppe warriors. The soldiers they are chasing are also Mongol dress, so this may represent a conflict between different Mongol groups. Mongol ideals of masculinity certainly included military prowess, but also other qualities, like loyalty to family.
 This source is a part of the [*Masculinity and Femininity in the Mongol Empire*](https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire) teaching module.
@@ -62,12 +68,16 @@ This source is a part of the [*Masculinity and Femininity in the Mongol Empire*]
 
 ![Chinggis Khan’s mother Hogelun in The Secret History of the Mongols](/images/Thumbnail_7_1.jpeg)
 
+#### Annotation
+
 *The Secret History of the Mongols*, the story of the rise and rule of Chinggis Khan and his son and successor Ogodei produced by an anonymous court scribe in about 1240, is full of close mother-son relationships. One of these is the relationship between Temujin (the future Chinggis Khan) and his four brothers and their mother Hö’elun (or Hogelun). Their father Yesügei was poisoned when the boys were children, and the allied Tayichigud clan abandoned the family, leaving Hö’elun to raise them through her own efforts. *The Secret History of the Mongols* details many of her actions, and she is held up as the perfect Mongol woman. Unsurprisingly, being a good Mongol woman involved being a good mother, but being a good Mongol man also involved being a good son.
 This source is a part of the [*Masculinity and Femininity in the Mongol Empire*](https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire) teaching module.
 
 ### [Chinggis Khan and his wife Börte in The Secret History of the Mongols](/chinggis-khan-and-his-wife-borte-secret-history-mongols)
 
 ![Chinggis Khan and his wife Börte in The Secret History of the Mongols](/images/Thumbnail_7_2.jpeg)
+
+#### Annotation
 
 Chinggis Khan had four sons by his principal wife Börte, though there is some question as to his eldest son Jochi’s true father. Börte and Temüjin were married as children, and shortly afterward, she was abducted by the rival Merkid confederation, and stayed with them several months before Temüjin recovered her. (Abductions such as this were common among steppe peoples.) Jochi was born shortly afterwards. Chinggis Khan always treated Jochi as a son, but his younger brothers, especially Chagadai, sometimes disputed this, particularly when it looked as if Chinggis Khan would make Jochi his sole successor. In this passage from *The Secret History of the Mongols*, Chagadai has just called Jochi “bastard son of a Merkid.” His adviser chides him for this, laying out all the things his mother Börte has done for him, his brothers, and the Mongol Empire, and everything his father has accomplished. In his portrayals, one can see the ideal Mongol man and woman, and in his criticism of Chagadai, the fact that the ideal son was to honor his parents.
 This source is a part of the [*Masculinity and Femininity in the Mongol Empire*](https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire) teaching module.
@@ -76,6 +86,8 @@ This source is a part of the [*Masculinity and Femininity in the Mongol Empire*]
 
 ![The Anda Bond](/images/Thumbnail_7_3.jpeg)
 
+#### Annotation
+
 Along with practices of male bonding that are shared with other times and places, such as membership in all-male groups with distinctive uniforms or clothing or socializing in places where women are not allowed or do not go, the Mongols also had a specific type of male bonding, the *anda* bond. In an *anda* bond, the two men pledged to aid each other under any circumstances, creating a permanent spiritual bond between them, ritually consecrated by an oath and the exchange of gifts. The usual translation is “sworn friend.” Chinggis Khan’s father Yesügei had an *anda* bond with a leader of another tribe, as does Chinggis Khan himself with Jamugha, a nobleman from another clan. In this section from *The Secret History of the Mongols*, Chinggis Khan and Jamugha renew the *anda* bond they had made as children, and then stay together for a year and a half. Ritualized bonds between men are part of many warrior cultures, including the ancient Greek city of Sparta as well as the Mongols, and may or may not have included sexual relations between the two men. In the case of the Mongols, *anda* bonds shaped military strategy and alliance networks; for example, despite the fact that Jamugha becomes his enemy, Chinggis Khan refuses to do him direct harm many times when he could have, and ultimately has him executed in the way he asks. The *anda* bond can be seen as part of Mongol masculinity, shaping understandings of what it meant to be a Mongol man.
 This source is a part of the [*Masculinity and Femininity in the Mongol Empire*](https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire) teaching module.
 
@@ -83,15 +95,18 @@ This source is a part of the [*Masculinity and Femininity in the Mongol Empire*]
 
 ![Sorghaghtani Beki in the eyes of court historians](/images/Thumbnail_7_4.jpeg)
 
+#### Annotation
+
 Sorghaghtani Beki, the wife and then widow of Chinggis Khan’s youngest son Tolui, appears in many contemporary written sources about the Mongol Empire, and is always viewed positively. Here the two court historians and officials ‘Ata-Malik Juvaini and Rashid al-Din describe how Chinggis Khan’s immediate successor Ogedei relied on her advice, and how the success of her sons was the result of her actions. This source is a part of the [*Masculinity and Femininity in the Mongol Empire*](https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire) teaching module.
 
 ### [Sorghaghtani Beki and Tolui](/sorghaghtani-beki-and-tolui)
 
 ![Sorghaghtani Beki and Tolui](/images/TuluiWithQueenSorgaqtaniTHUMB.jpg)
 
+#### Annotation
+
 In this illustration from Rashid al-Din’s *Compendium of Chronicles* Sorghaghtani Beki and Tolui sit together on a pillowed throne. Here the artist depicts different aspects of ideal Mongol masculinity than do illustrations of warriors, as Tolui interacts in a dignified way with the court ladies and officials surrounding him. As in Rashid al-Din’s text, Sorghaghtani Beki is portrayed as calm and competent, sharing her husband’s duties.
 This source is a part of the [*Masculinity and Femininity in the Mongol Empire*](https://worldhistorycommons.org/long-teaching-module-masculinity-and-femininity-mongol-empire) teaching module.
-
 
 ## Bibliography
 

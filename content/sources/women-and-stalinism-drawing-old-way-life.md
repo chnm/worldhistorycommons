@@ -5,6 +5,7 @@ drupal_node_id: 174
 source_type: "Image"
 url: /women-and-stalinism-drawing-old-way-life
 image: /images/old-way-of-life.jpg
+image_alt: "Izvestiia, “Old Way of Life,” March 8, 1930"
 regions: 
   - "Asia"
   - "Europe"

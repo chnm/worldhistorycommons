@@ -5,6 +5,7 @@ drupal_node_id: 79
 source_type: "Object"
 url: /ancient-greek-adolescent-girls-play
 image: /images/an00034646_001_13756ec936.jpg
+image_alt: "Photo of Greek terracotta sculpture"
 regions: 
   - "Europe"
 subjects: 

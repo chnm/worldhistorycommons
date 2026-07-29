@@ -5,6 +5,7 @@ drupal_node_id: 274
 source_type: "Image"
 url: /day-21-july-1789
 image: /images/july-1789.jpg
+image_alt: "Drawing of the city of Strasbourg"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,8 @@ how_to_cite: |
 ---
 
 More common than clashes by workers against employers were protests over the rising price of bread. This color drawing depicts events at the City Hall of Strasbourg on 21 July 1789. Notice that the protesters are tearing up the roof and throwing the tiles down into the street to ward off soldiers; similarly, protesters in other buildings are pitching objects out of windows.
+
+## Transcription
+
+**Title in French**  
+La Journée du 21 juillet 1789 : escalade et pillage de la maison de ville de Strasbourg

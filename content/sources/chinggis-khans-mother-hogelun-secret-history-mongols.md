@@ -5,6 +5,7 @@ drupal_node_id: 2756
 source_type: "Text"
 url: /chinggis-khans-mother-hogelun-secret-history-mongols
 image: /images/Text_Image_7_0.jpeg
+image_alt: "Document icon"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 348
 source_type: "Image"
 url: /second-jean-darc
 image: /images/821b100ff0cd13db2eab03956968acb5.jpg
+image_alt: "Engraving of a caricature of Charlotte Corday"
 regions: 
   - "Europe"
 subjects: 
@@ -25,3 +26,7 @@ how_to_cite: |
 ---
 
 To those who considered Marat insincere and dangerous in his unrelenting populism, the true martyr was Charlotte Corday, who had come to Paris from Caen—a city then serving as a base for the federalist insurgency—apparently with the express intent of killing Marat. In this engraving by the English caricaturist Cruikshank, Corday is depicted as "A Second Joan of Arc," saving her country by ridding it of oppressive rulers.
+
+## Transcription
+
+Who, while he was Villifying some of the more Moderate Men in the Convention and asserting that they should lose their Heads, stabed him saying, Villain thy Death shall Precede Theirs.

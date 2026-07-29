@@ -5,6 +5,7 @@ drupal_node_id: 1491
 source_type: "Text"
 url: /revolution-devours-its-own-le-vieux-cordelier
 image: /images/Icons-Document_263.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

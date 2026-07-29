@@ -5,6 +5,7 @@ drupal_node_id: 2516
 source_type: "Object"
 url: /early-modern-ottoman-carpet-walters-art-museum
 image: /images/Ottoman_Prayer_Rug_18th_Century_Walters_1200px_0.jpeg
+image_alt: "Prayer (Sajjadah) Rug"
 regions: 
   - "Asia"
   - "Middle East"

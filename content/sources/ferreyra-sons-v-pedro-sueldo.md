@@ -5,6 +5,7 @@ drupal_node_id: 1138
 source_type: "Text"
 url: /ferreyra-sons-v-pedro-sueldo
 image: /images/Icons-Document_12.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

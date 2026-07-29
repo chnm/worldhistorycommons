@@ -5,6 +5,7 @@ drupal_node_id: 409
 source_type: "Text"
 url: /charlotte-temple-tale-truth
 image: /images/charlottetemple.jpg
+image_alt: "Title page of Charlotte Temple: A Tale of Truth"
 regions: 
   - "North/Central America"
 subjects: 

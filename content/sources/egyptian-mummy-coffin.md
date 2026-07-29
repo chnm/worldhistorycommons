@@ -5,6 +5,7 @@ drupal_node_id: 233
 source_type: "Object"
 url: /egyptian-mummy-coffin
 image: /images/Coffin_and_mummy_of_Meresamun.jpeg
+image_alt: "Coffin and Mummy of Meresamun"
 regions: 
   - "Africa"
 subjects: []

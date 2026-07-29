@@ -5,6 +5,7 @@ drupal_node_id: 1224
 source_type: "Text"
 url: /petition-raise-age-consent-1887
 image: /images/Icons-Document_70.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

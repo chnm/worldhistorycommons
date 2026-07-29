@@ -5,6 +5,7 @@ drupal_node_id: 1596
 source_type: "Text"
 url: /southeast-asian-politics-court-records-imelda-marcos
 image: /images/Icons-Document_351.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

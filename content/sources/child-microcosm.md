@@ -5,6 +5,7 @@ drupal_node_id: 1269
 source_type: "Text"
 url: /child-microcosm
 image: /images/Icons-Book-Excerpt_4.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

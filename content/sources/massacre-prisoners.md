@@ -5,6 +5,7 @@ drupal_node_id: 287
 source_type: "Image"
 url: /massacre-prisoners
 image: /images/massacre-of-prisoners_0.jpg
+image_alt: "Print of attack on prisoners"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,11 @@ how_to_cite: |
 ---
 
 Yet another image from the newspaper *R\*volutions de Paris* shows crowds massacring refractory clergy and prisoners. These panels reveal similar occurrences at the police prisons of the Chatelet and the Bic\*tre, where altogether an estimated 800 were killed in the first week of September.
+
+## Transcription
+
+**Title in French**  
+Châtelet ; Bicêtre. Massacre des prisonniers
+
+**Caption**  
+Massacre des prisonniers de la Prison du Châtelet et de la Maison de Bicétre le deux et trois Septembre et jours suivantes au nombre d'environ huit cents

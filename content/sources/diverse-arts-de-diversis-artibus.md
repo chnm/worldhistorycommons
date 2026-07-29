@@ -5,6 +5,7 @@ drupal_node_id: 2552
 source_type: "Text"
 url: /diverse-arts-de-diversis-artibus
 image: /images/ViewDocumentImage_0_1.jpeg
+image_alt: "Document icon"
 regions: 
   - "Europe"
 subjects: 

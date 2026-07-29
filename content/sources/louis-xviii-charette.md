@@ -5,6 +5,7 @@ drupal_node_id: 1507
 source_type: "Text"
 url: /louis-xviii-charette
 image: /images/Icons-Document_278.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

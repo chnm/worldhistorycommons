@@ -5,6 +5,7 @@ drupal_node_id: 945
 source_type: "Text"
 url: /charles-maurras-french-revolution
 image: /images/Charles_Maurras.jpg
+image_alt: "Charles Maurras"
 regions: 
   - "Europe"
 subjects: 

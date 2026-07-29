@@ -5,6 +5,7 @@ drupal_node_id: 2918
 source_type: "Image"
 url: /social-housing-development-france
 image: /images/Les_Minguettes.jpg
+image_alt: "Les Minguettes in Vénissieux, south of Lyon, 1969."
 regions: 
   - "Europe"
 subjects: 

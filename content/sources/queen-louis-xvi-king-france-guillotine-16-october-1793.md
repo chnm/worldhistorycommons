@@ -5,6 +5,7 @@ drupal_node_id: 1093
 source_type: "Image"
 url: /queen-louis-xvi-king-france-guillotine-16-october-1793
 image: /images/85ecef51b01fc6db3f9ad544449d96bf.jpg
+image_alt: "Engraving of Marie Antoinette at the guillotine"
 regions: 
   - "Europe"
 subjects: 

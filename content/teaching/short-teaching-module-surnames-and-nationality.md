@@ -22,6 +22,8 @@ related_sources:
   - link: "/provision-restatement-names-and-surnames"
     image: "/images/Icons-Document-thumbnail_463.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Surnames and Nationality," in World History Commons, https://worldhistorycommons.org/short-teaching-module-surnames-and-nationality [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -36,9 +38,10 @@ This short teaching module includes historical context and reflections on studen
 
 ![Provision for the Restatement of Names and Surnames](/images/Icons-Document-thumbnail_463.jpg)
 
+#### Annotation
+
 Images of 1989 tend to center on dramatic events in Berlin, in Beijing, in Bucharest, and in Johannesburg, just to name a few. Visions of mass demonstration and popular uprising predominate. Even in places like the former Czechoslovakia, where peaceful transition occurred in a "velvet" revolution, the perception is one of overthrow of state authority in the name of popular reform. Lost in these vivid images is the view of events and subsequent reforms of 1989 and the years following as part of a historical process of openness and restructuring, a process begun before 1989 and stretching well into the decade of the 1990s and beyond. An alternative example to these trends is seen in the following law from Italy in 1991, where the Italian government took its own steps toward addressing the affects of Communism, by allowing East European emigres the right to restore their true ethnic identity, rather than the imposed identities of the former Communist regimes.
 This source is a part of the [*Surnames and Nationality*](https://worldhistorycommons.org/short-teaching-module-surnames-and-nationality) teaching module.
-
 
 ## Teaching Strategies
 

@@ -5,6 +5,7 @@ drupal_node_id: 3014
 source_type: "Image"
 url: /popular-world-development-indicators-four-caribbean-countries
 image: /images/WHC_Popular_World_Development_Indicators_for_Four_Caribbean_Countries_0.png
+image_alt: "A table with popular world development indicators for four Caribbean countries dating from 1972, 1980, 1990, 2000, 2010, and 2020."
 regions: 
   - "North/Central America"
   - "South America"
@@ -20,7 +21,7 @@ time_periods:
   - "Modern (1800 CE - 1950 CE)"
   - "Contemporary (1950 CE - Present)"
 source_citation: |
-  "Databank: World Development Indicators," *The World Bank*.**
+  "Databank: World Development Indicators," *The World Bank*.
 credits: |
   "Databank: World Development Indicators," *The World Bank,* <https://databank.worldbank.org/indicator/SP.POP.TOTL/1ff4a498/Popular-Indicators#>
 how_to_cite: |
@@ -44,3 +45,21 @@ Observations like the following may be uncovered by the numbers in the table:
 * The effect in the Trinidad & Tobago’s industrial sector of the oil production booms during the decades of the 1970s and the 2000s (see the industry’s percentage of GDP in 1980 and 2010)
 
 This source is part of the [Economic Diplomacy in the Caribbean Since the Second World War](https://worldhistorycommons.org/economic-diplomacy-caribbean-second-world-war) teaching module.
+
+## Transcription
+
+Year Population (millions) Agriculture, Forestry, & Fishing (% of GDP) Industry, including Construction (%) of GDP Services (% of GDP)
+
+Cuba   PR   Haiti  T&T Cuba    PR    Haiti  T&T  Cuba      PR     Haiti T&T     Cuba    PR    Haiti T&T
+
+1972      9.0    2.8   4.8  1.0  12.1    3.0   NA  7.1 16.9      32.9   NA  41.0 NA    61.5   NA   53.7
+
+1980  9.8   3.2    5.6  1.1 12.0    2.6   NA  2.6  17.0     39.3    NA   59.9  NA   56.9  NA 42.6
+
+1990 10.6   3.5   7.0  1.2 13.0   1.4   29.7  2.5 17.4      42.0  23.1  47.5 NA    57.0  43.5   48.3
+
+2000  11.1   3.8  8.5  1.3  6.6   0.7  17.2  1.4 25.5    46.1  23.0  47.5 66.6  52.3  57.2  51.5
+
+2010  11.2  3.7   9.9  1.3  3.6    0.8   20.2  0.5 22.9    50.9  23.5  53.8 72.5    48.6  52.5  45.5
+
+2020 11.3  3.3   11.4  1.4 2.8    0.6   20.4  1.1  23.0     51.1   23.3  34.1 73.5   48.8  53.9  62.6

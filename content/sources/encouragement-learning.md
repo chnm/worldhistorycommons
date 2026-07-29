@@ -5,6 +5,7 @@ drupal_node_id: 1283
 source_type: "Text"
 url: /encouragement-learning
 image: /images/Icons-Book-Excerpt_8.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 208
 source_type: "Text"
 url: /excerpt-memoirs-glikl
 image: /images/Glikl_Pappenheim.jpg
+image_alt: "Image of Glikl"
 regions: 
   - "Europe"
 subjects: 

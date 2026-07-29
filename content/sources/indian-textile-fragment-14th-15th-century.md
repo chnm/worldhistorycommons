@@ -5,6 +5,7 @@ drupal_node_id: 2562
 source_type: "Object"
 url: /indian-textile-fragment-14th-15th-century
 image: /images/Indiantextile.jpg
+image_alt: "Red-brown textile with a looping tendril pattern"
 regions: 
   - "Asia"
 subjects: 

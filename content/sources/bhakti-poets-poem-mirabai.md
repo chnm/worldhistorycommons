@@ -5,6 +5,7 @@ drupal_node_id: 1541
 source_type: "Text"
 url: /bhakti-poets-poem-mirabai
 image: /images/krishna.jpg
+image_alt: "image of the god krishna"
 regions: 
   - "Asia"
 subjects: 

@@ -19,6 +19,8 @@ related_sources:
   - link: "/shopping-queue-wroclaw"
     image: "/images/thumb_Wroclaw__1982__by_Chris_Niedenthal_babb46f3af_copy.jpeg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Consumerism in Poland," in World History Commons, https://worldhistorycommons.org/short-teaching-module-consumerism-poland [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -73,6 +75,8 @@ However, average citizens continue to experience difficulties in consumerism but
 
 ![Shopping queue in Wrocław](/images/thumb_Wroclaw__1982__by_Chris_Niedenthal_babb46f3af_copy.jpeg)
 
+#### Annotation
+
 Upheavals in political, economic, social, and cultural conditions in the 1980s led to many challenges in everyday lives of average citizens of East European countries. Buying such necessities as food, clothing, and hygiene products posed serious difficulties to consumers. Store shelves were frequently empty and lines that took as long as several hours to navigate were common. In this 1982 photograph, a large crowd stands in front of a department store (Dom Mody) in the city of Wrocław in Western Poland. Such lines were a daily sight in Soviet Bloc countries, where the state was unable to meet its citizens' everyday needs. Declining living standards and daily hardships throughout Eastern Europe in the 1980s contributed to the building resentment toward State Socialism, eventually leading to the collapse of the system.
 This source is a part of the [*Consumerism in Poland*](https://worldhistorycommons.org/short-teaching-module-consumerism-poland) teaching module.
 
@@ -80,9 +84,10 @@ This source is a part of the [*Consumerism in Poland*](https://worldhistorycommo
 
 ![The Butcher Shop, Warsaw](/images/thumb_Sklep_miesny__Warszawa__1982__by_Chris_Niedenthal_2f1befa84f_copy.jpeg)
 
+#### Annotation
+
 In the 1980s average citizens of East European countries faced many challenges, including daily difficulties created from ongoing and severe shortages of consumer goods. Buying such necessities as food, clothing, and hygiene products was a recurring obstacle to average consumers. Store shelves were frequently empty, and the state distributed ration cards, especially for meat products, in an effort to limit what each family could purchase. This 1982 photograph, taken in a butcher shop in Poland's capital city of Warsaw, clearly conveys the problem of acquiring basic necessities, such as meat. With the exception of some slabs of what looks like fatty bacon, the store shelves in this shop are empty. The two female shoppers purchase (possibly with ration cards) this meat because that was the only product available. Such hardships in maintaining adequate living standards were one of the numerous factors that led to the fall of state socialism throughout Eastern Europe and the Soviet Union.
 This source is a part of the [*Consumerism in Poland*](https://worldhistorycommons.org/short-teaching-module-consumerism-poland) teaching module.
-
 
 ## Credits
 

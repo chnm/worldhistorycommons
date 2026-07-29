@@ -5,6 +5,7 @@ drupal_node_id: 2747
 source_type: "Image"
 url: /salt-fields-solinen-russia
 image: /images/Salt_Fields-Solinen__Russia.jpg
+image_alt: "A reservoir after evaporation – turning up the salt – salt fields, Solinen, Russia"
 regions: 
   - "Europe"
 subjects: 

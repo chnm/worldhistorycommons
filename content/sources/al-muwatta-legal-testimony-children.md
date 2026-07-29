@@ -5,6 +5,7 @@ drupal_node_id: 1164
 source_type: "Text"
 url: /al-muwatta-legal-testimony-children
 image: /images/Icons-Document_26.jpg
+image_alt: "image of the text"
 regions: 
   - "Middle East"
 subjects: 

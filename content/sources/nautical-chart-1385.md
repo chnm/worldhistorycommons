@@ -5,6 +5,10 @@ drupal_node_id: 2860
 source_type: "Image"
 url: /nautical-chart-1385
 image: /images/SolerMap.jpeg
+image_alt: "Nautical chart with criss crossing lines radiating from fixed points."
+additional_images:
+  - src: "/images/source-media/2860/test.jpg"
+    alt: "Close up of chart above shows network lines radiating from fixed points with labels."
 regions: 
   - "Asia"
   - "Europe"

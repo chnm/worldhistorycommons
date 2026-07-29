@@ -5,6 +5,7 @@ drupal_node_id: 302
 source_type: "Object"
 url: /aztec-cradleboard-figurine-and-drawing
 image: /images/aztec-cradleboard.jpg
+image_alt: "Aztec Cradleboard Figurine and Drawing"
 regions: 
   - "North/Central America"
 subjects: 

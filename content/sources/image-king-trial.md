@@ -5,6 +5,7 @@ drupal_node_id: 1056
 source_type: "Image"
 url: /image-king-trial
 image: /images/c243e8d0f457a9f313b02bb3f32b4b2d.jpg
+image_alt: "Engraving of King Louis XVI standing trial"
 regions: 
   - "Europe"
 subjects: 

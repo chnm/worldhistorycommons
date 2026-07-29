@@ -5,6 +5,7 @@ drupal_node_id: 1216
 source_type: "Text"
 url: /islamic-empire-official-document-jewish-marriage-contract
 image: /images/Icons-Literary-Source_7.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

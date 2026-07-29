@@ -5,6 +5,7 @@ drupal_node_id: 1213
 source_type: "Text"
 url: /islamic-empire-poem-abbasid-era
 image: /images/Icons-Literary-Source_4.jpg
+image_alt: "Literary Source Icon"
 regions: 
   - "Middle East"
 subjects: 

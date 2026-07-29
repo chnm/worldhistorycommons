@@ -5,6 +5,10 @@ drupal_node_id: 2697
 source_type: "Image"
 url: /competitive-journalism
 image: /images/Mexian_Historietas.jpg
+image_alt: "Eusebio Planas's comic strip \"La Historía de una Mujer\""
+additional_images:
+  - src: "/images/source-media/2697/New_York_Post_2004.jpg"
+    alt: "Front page of New York Post in 2004"
 regions: 
   - "North/Central America"
 subjects: 

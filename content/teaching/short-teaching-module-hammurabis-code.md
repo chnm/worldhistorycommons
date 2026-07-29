@@ -20,6 +20,8 @@ related_sources:
   - link: "/code-hammurabi"
     image: "/images/Untitled_design__1_.png"
     alt: "Code of Hammurabi"
+how_to_cite: |
+  "Short Teaching Module: Hammurabi's Code," in World History Commons, https://worldhistorycommons.org/short-teaching-module-hammurabis-code [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -48,10 +50,10 @@ Finally, students often recognize that the Code demonstrates the way the Babylon
 
 By studying Hammurabi’s Code, students are given concrete evidence of the extensive reach of ancient Babylonian government into the lives of its population, as well as several excellent examples of the far-reaching legal distinctions of class and gender in the society. I have found that the usefulness of this particular source reaches far beyond an understanding of Babylonian history. Students are able to draw on this Code for comparison to other ancient legal systems, such as those found in Leviticus; they can compare Hammurabi’s relationship to his deities with the later European ideal of the “Divine Right of Kings”; and they can refer to this as a codified example of social regulations of class and gender difference.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
-  
-[1](#footnote1) Palmira Brummett, et al., *Civilization Past and Present, Volume I*, 10th edition (New York: Longman, 2002)  
-  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+<br>
+[1](#footnote1) Palmira Brummett, et al., *Civilization Past and Present, Volume I*, 10th edition (New York: Longman, 2002)<br>
+<br>
 [2](#footnote2) Gerda Lerner, *The Creation of Patriarchy* (New York: Oxford University Press, 1986), pp. 101-104
 
   |
@@ -62,8 +64,9 @@ By studying Hammurabi’s Code, students are given concrete evidence of the exte
 
 ![The Code of Hammurabi](/images/Untitled_design__1_.png)
 
-This source is a part of the [*Hammurabi's Code*](https://worldhistorycommons.org/short-teaching-module-hammurabis-code#) teaching module.
+#### Annotation
 
+This source is a part of the [*Hammurabi's Code*](https://worldhistorycommons.org/short-teaching-module-hammurabis-code#) teaching module.
 
 ## Credits
 

@@ -5,6 +5,7 @@ drupal_node_id: 264
 source_type: "Image"
 url: /true-woman
 image: /images/truewomanlarge.jpg
+image_alt: "The True Woman"
 regions: 
   - "Europe"
 subjects: 

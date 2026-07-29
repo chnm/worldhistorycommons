@@ -5,6 +5,7 @@ drupal_node_id: 1550
 source_type: "Text"
 url: /women-and-stalinism-quantitative-evidence-womens-education
 image: /images/sovietquant2.gif
+image_alt: "image of the chart of data"
 regions: 
   - "Europe"
 subjects: 

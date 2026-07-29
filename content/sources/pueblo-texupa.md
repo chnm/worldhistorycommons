@@ -5,6 +5,7 @@ drupal_node_id: 2554
 source_type: "Image"
 url: /pueblo-texupa
 image: /images/Texupa.jpg
+image_alt: "Hand drawn map showing footpaths and a branching stream running through the town"
 regions: 
   - "North/Central America"
 subjects: 

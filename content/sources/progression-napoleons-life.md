@@ -5,6 +5,7 @@ drupal_node_id: 974
 source_type: "Image"
 url: /progression-napoleons-life
 image: /images/progression-of-napoleons-life.jpg
+image_alt: "Progression of Napoleon’s Life"
 regions: 
   - "Europe"
 subjects: 

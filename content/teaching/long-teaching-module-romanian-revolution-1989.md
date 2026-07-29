@@ -24,6 +24,8 @@ related_sources:
   - link: "/discussion-between-gorbachev-and-mitterand-about-romania-july-1989"
     image: "/images/Icons-Document-thumbnail_610.jpg"
     alt: ""
+how_to_cite: |
+  "Long Teaching Module: The Romanian Revolution of 1989," in World History Commons, https://worldhistorycommons.org/long-teaching-module-romanian-revolution-1989 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -66,8 +68,8 @@ The first electoral campaign and especially the election's outcome elicited rene
 
 With accession into the European Union in 2007 and—until the recent global downturn—a growing economy, Romania’s integration into a pluralist and prosperous Europe seemed assured. Questions about the 1989 Revolution have remained unanswered but they have receded into the past as Romanians try to look to the future.
 
-Irina Livezeanu  
-University of Pittsburgh  
+Irina Livezeanu<br>
+University of Pittsburgh<br>
 Pittsburgh, Pennsylvania
 
 ## Primary Sources
@@ -76,12 +78,16 @@ Pittsburgh, Pennsylvania
 
 ![Romania and Its Neighbors](/images/europe_70b72cfa31_0.jpg)
 
+#### Annotation
+
 One of the more challenging parts of teaching Romania is the relative unfamiliarity of many Americans with the geography of the places in Eastern Europe, especially the Balkans. Having some grounding in 'where' things are happening leads to better understanding of why and how things are happening. Thus, a good place to begin any study of Eastern Europe is to show students a map of the area.This map is simple but provides the general location of Romania in Eastern Europe. Other maps could obviously be used and one particularly interesting one might be a language map of Romania (as it shows the diversity of Romania's peoples as well as the connections Romania has with its neighbors). As the Introductory essay makes clear, Timisoura had almost as much in common withe neighboring Hungary as it did Romania.
 This source is a part of the [*The Romanian Revolution of 1989*](https://worldhistorycommons.org/long-teaching-module-romanian-revolution-1989) teaching module.
 
 ### [Birth and Death in Romania, October 1986](/birth-and-death-romania-october-1986)
 
 ![Birth and Death in Romania, October 1986](/images/Icons-Document-thumbnail_605.jpg)
+
+#### Annotation
 
 In the last years of the regime, Pavel Câmpeanu, a prominent sociologist and a lifelong leftist and former prison cellmate of Nicoale Ceauşescu during World War II managed to smuggle out this article, which was published in The New York Review of Books. For his safety, the editors did not publish his name since it was known that the Romanian secret service was quick to punish, even assassinate dissidents, sometimes after they had fled the country. They suggested that the author was a visitor to Romania, rather than one of the country’s own citizens.
 Instead of theorizing the origins and future of “real existing socialism,” which Câmpeanu did in his many books and articles, this piece is inundated by details of the mundane: the severe shortage of food and basic goods, the dysfunctional management of the economy from top to bottom, the almost omnipresent police and secret services spying on the citizens they were supposed to serve, down to the most intimate places of women’s bodies. The dismal reality of everyday life in Ceauşescu’s Romania is recorded faithfully here, and thus speaks for itself.
@@ -91,6 +97,8 @@ This source is a part of the [*The Romanian Revolution of 1989*](https://worldhi
 
 ![Letter of the Six, March 1989](/images/Icons-Document-thumbnail_603.jpg)
 
+#### Annotation
+
 In March of 1989, six prominent members of the Romanian Communist Party sent Nicolae Ceauşescu an open letter which was also leaked to the international press. In it they explicitly disagreed with his policies and suggested a number of reforms. In the context of numbing propaganda and relatively little overt resistance to his regime the letter seemed a bold move, in line with other reformers voicing criticism around the Soviet bloc. The six long-time Communist Party leaders articulated what most Romanians had been thinking for a long time. They could speak out against the regime’s policies in part because they had traveled and had connections abroad, and because their privileged status as old communist leaders afforded them some protection against the wrath of the dictatorship. Average citizens would have been jailed if not executed for much milder diverging political views. The six signatories of the letter did suffer some reprisals, such as house arrest, but they were treated relatively gently, since they were widely respected in the Romanian Communist Party and had important international connections.
 This source is a part of the [*The Romanian Revolution of 1989*](https://worldhistorycommons.org/long-teaching-module-romanian-revolution-1989) teaching module.
 
@@ -98,12 +106,16 @@ This source is a part of the [*The Romanian Revolution of 1989*](https://worldhi
 
 ![Discussion between Gorbachev and Mitterand about Romania, July 1989](/images/Icons-Document-thumbnail_610.jpg)
 
+#### Annotation
+
 The transcript of the Mitterrand – Gorbachev meeting of July 1989 illustrates the international awareness of the extensive control and repression of citizens in Ceauşescu’s Romania. Unlike his predecessors, Gorbachev was not in control of the Eastern block countries, nor the defender of communist orthodoxy; on the contrary, he had loosened state control over the economy and society, and had eased control over the USSR’s Warsaw pact partners. Underneath the tactful language of diplomacy, the French and Soviet heads of state agreed on Ceauşescu as a delusional, obsolete dictator. A sense of impending change was in the air as they talked about change, revolutions and violence – a premonition of what was going to happen in less than five months.
 This source is a part of the [*The Romanian Revolution of 1989*](https://worldhistorycommons.org/long-teaching-module-romanian-revolution-1989) teaching module.
 
 ### [Minutes of the Meeting between Nicolae Ceausescu and Mikhail Gorbachev, December 1989](/minutes-meeting-between-nicolae-ceausescu-and-mikhail-gorbachev-december-1989)
 
 ![Minutes of the Meeting between Nicolae Ceausescu and Mikhail Gorbachev, December 1989](/images/Icons-Document-thumbnail_607.jpg)
+
+#### Annotation
 
 The seemingly cordial conversation between the Soviet and Romanian communist leaders less than two weeks before the troubles started in Timişoara provides evidence of the wide differences between them. Ceauşescu wields the formulas of orthodox socialism, while Gorbachev tries to point him toward modernization, change, flexibility, and listening to the wishes of the Romanian people. Ceauşescu is the one to invoke the Leninist vanguard party tradition and he urges Gorbachev to lead in a show of communist unity that might buttress the much shaken communist order. Gorbachev, on the other hand, wants reforms and he mentions the demise of other bloc leaders who did not heed his advice or their peoples’ calls for change. They plan another meeting for January 1990 to discuss economic relations, but by then Ceauşescu was no longer in power, nor alive. The conversation is full of ironic touches as Romanian politicians (most of all Ceauşescu) had distanced themselves from the USSR since the 1960s and insisted on full sovereignty over and above communist solidarity.
 At the meeting were also present comrades Constantin Dascalescu, Prime Minister of the of the Government of the Socialist Republic of Romania, and Nikolai I. Ryzhkov, President of the Council of Ministers of USSR.
@@ -113,12 +125,16 @@ This source is a part of the [*The Romanian Revolution of 1989*](https://worldhi
 
 ![Telegram from the Minister of Foreign Affairs to all Embassies, December 1989](/images/Icons-Document-thumbnail_606.jpg)
 
+#### Annotation
+
 As the confrontation in Timisoara continued, the Romanian government tried to stonewall in its diplomatic contacts, and thus control the flow of information, in the hope that the repression unleashed against protesters would succeed in pacifying the rebels and then the dictatorship could resume business as usual. Personnel in all Romanian embassies around the world were asked to a) pretend that nothing unusual was going on, and b) if asked directly about the events, claim that Romania would defend its sovereignty against any outside interference, thus implying that the disturbances were the result of hostile foreign intervention.
 This source is a part of the [*The Romanian Revolution of 1989*](https://worldhistorycommons.org/long-teaching-module-romanian-revolution-1989) teaching module.
 
 ### [Video of Ceausescu’s Last Speech, December 1989](/video-ceausescus-last-speech-december-1989)
 
 ![Video of Ceausescu’s Last Speech, December 1989](/images/ceausescu.png)
+
+#### Annotation
 
 One of the most decisive moments in the Romanian Revolution of 1989 was Ceausescu’s December 21st speech (or lack thereof). This speech was an annual event and carefully scripted by the regime to insure both success and the appearance of popular support. Workers, military units and other popular organizations were bused to the capitol and given orders on where to stand, when to applaud and what to sing. Ceausescu begins his address to the people as he had in years past but this year the tide turned.
 This year, the crowd begins to chant unscripted comments back at the dictator. The video- shown live on Romanian television-- shows his confusion and consternation and the barely audible comments. As the crowd becomes more unruly, Ceausescu becomes more confused and he begins arguing with the unseen hecklers. His security guard appears, disappears and, finally, hustles Ceausescu off the balcony. It is as if, in that moment, everyday Romanian's saw the possibility, saw the reality of the weakness of Ceausescu’s regime. Those moments of Ceausescu’s weakness and the power of popular pressure explain why, a mere 48 hours later, Ceausescu was attempting to flee Romania, all power lost. As the other primary sources reveal, the Ceausescu’s were tried a few days later and executed as enemies of the new Romanian state.
@@ -128,12 +144,16 @@ This source is a part of the [*The Romanian Revolution of 1989*](https://worldhi
 
 ![Transcript of the closed "trial" of Nicolae and Elena Ceausescu, December, 1989](/images/Icons-Document-thumbnail_609.jpg)
 
+#### Annotation
+
 Elena and Nicolae Ceausescu fled from Bucharest by helicopter on December 22, but the pilot soon landed, claiming that they would be fired upon. The couple then hijacked a car but they were recognized, chased and caught by local police in Tirgoviste. Ion Iliescu announced on national television the next day that the Ceausescus had been arrested, and he said, “The time will come for their just and harsh judgment by the people” not suggesting any urgency. But on December 24, NSF leaders decided to put the two captives on trial immediately. The proceedings took place on Christmas day, and at the end of the trial Elena and Nicolae Ceausescu were executed.
 This source is a part of the [*The Romanian Revolution of 1989*](https://worldhistorycommons.org/long-teaching-module-romanian-revolution-1989) teaching module.
 
 ### [Grafitti from the Romanian Streets, December 1989-January 1990](/grafitti-romanian-streets-december-1989-january-1990)
 
 ![Grafitti from the Romanian Streets, December 1989-January 1990](/images/Icons-Document-thumbnail_604.jpg)
+
+#### Annotation
 
 In February 1990, the ethnographer Irina Nicolau and a few friends, printed 250 copies of Ne-a luat valul [On the Crest of the Wave], the first book published in Romania about the 1989 Revolution. Included were 141 pieces of graffiti from December 1989-January 1990. This brochure was produced by Nicolau in 1999, when she served as director of the Museum of the Romanian Peasant established in Bucharest after the revolution and housed in the former Museum of Communist Party History. This document is a selection from that work.
 The graffti are reproduced as they appeared on various public surfaces in Bucharest sometimes accompanied by drawings. The locations where the graffiti were found appear in the brochure as well. A selection are translated into English below.
@@ -143,98 +163,99 @@ This source is a part of the [*The Romanian Revolution of 1989*](https://worldhi
 
 ![The Timişoara Proclamation, March 1990](/images/Icons-Document-thumbnail_608.jpg)
 
+#### Annotation
+
 Written on March 11, 1990, the Timisoara Proclamation, was a 13-point document that called for continuing to build on the victory over the communist dictatorship achieved in December 16-20, 1989. The Timsoreni expressed frustration that their efforts had been marginalized by the new regime in Bucharest although they alone had confronted the Ceausescu government courageously before others joined the insurgency five days later. The proclamation thus demanded the symbolic recognition of the city’s key role in the revolution.
 But the authors also made practical demands for economic reform and for establishing authentic democratic practices. They called for temporarily banning former Communists and Securitate officers from running for election in the upcoming May 1990 ballot. Such a ban would have disqualified Ion Iliescu, and other former communists from leadership in political life. The Proclamation invoked Timisoara’s principal role in originating the 1989 revolution, and argued that the Timisoreni had not been given their due in the post-December order. They had not made the revolution, and the sacrifices in lost lives that it had demanded, in order to have one faction of the Communist Party take over from another. The tone of the Proclamation suggests that the inhabitants of Timisoara had a strong regional identity and felt more European and more Western than their countrymen in Bucharest.
 This source is a part of the [*The Romanian Revolution of 1989*](https://worldhistorycommons.org/long-teaching-module-romanian-revolution-1989) teaching module.
 
-
 ## Lesson Plan
 
-*Overview*  
-  
-In this activity, students examine graffiti text taken from various public surfaces in Romania from December 1989-January 1990. Throughout the 1980s, graffiti publicly expressed the concerns of demonstrators in Bucharest, Romania, and these selected graffiti texts represent those closely associated to the revolution of 1989.  
-First, students read the text of graffiti found in the primary source, "Graffiti from the Romanian Streets, December 1989-January 1990," Making the History of 1989, Item #697. They answer the following questions:  
-  
-What do you notice about the graffiti text?  
-  
-What questions do you want to ask about the graffiti text?  
-  
+*Overview*<br>
+<br>
+In this activity, students examine graffiti text taken from various public surfaces in Romania from December 1989-January 1990. Throughout the 1980s, graffiti publicly expressed the concerns of demonstrators in Bucharest, Romania, and these selected graffiti texts represent those closely associated to the revolution of 1989.<br>
+First, students read the text of graffiti found in the primary source, "Graffiti from the Romanian Streets, December 1989-January 1990," Making the History of 1989, Item #697. They answer the following questions:<br>
+<br>
+What do you notice about the graffiti text?<br>
+<br>
+What questions do you want to ask about the graffiti text?<br>
+<br>
 After discussing these questions, students learn more about the historical context of the Revolution of 1989 in Romania and draw conclusions about the themes that occurred most frequently in graffiti, giving insights to the public grievances in Romania that led to the removal of the communist regime of Nicolae Ceausescu.
 
-*Source Analysis*  
-  
-Distribute individual copies of "Graffiti from the Romanian Streets, December 1989-January 1990," Making the History of 1989, Item #697.  
-  
+*Source Analysis*<br>
+<br>
+Distribute individual copies of "Graffiti from the Romanian Streets, December 1989-January 1990," Making the History of 1989, Item #697.<br>
+<br>
 Ask students to work in pairs and read the graffiti text, writing down things that they notice and questions they have.
 
-*Group Discussion*  
-  
-Write three columns onto the whiteboard: Notice, Questions, and Historical Background.   
-  
-Use the following questions to guide discussion, filling in the first two columns (Notice and Questions):  
-  
-What did you notice about the graffiti text?  
-  
-What feelings do they evoke?  
-  
-What do you already know about Romania in 1989?  
-  
-What does this graffiti text say about Nicolae Ceausescu? About the feeling of public sentiment in Bucharest, Romania in late 1989? About views on government?  
-  
-What can this graffiti text tell us and what can they not tell us about this time period in Romania?  
-  
+*Group Discussion*<br>
+<br>
+Write three columns onto the whiteboard: Notice, Questions, and Historical Background.<br>
+<br>
+Use the following questions to guide discussion, filling in the first two columns (Notice and Questions):<br>
+<br>
+What did you notice about the graffiti text?<br>
+<br>
+What feelings do they evoke?<br>
+<br>
+What do you already know about Romania in 1989?<br>
+<br>
+What does this graffiti text say about Nicolae Ceausescu? About the feeling of public sentiment in Bucharest, Romania in late 1989? About views on government?<br>
+<br>
+What can this graffiti text tell us and what can they not tell us about this time period in Romania?<br>
+<br>
 What questions do you want to ask about the graffiti, the context, or the historical time period?
 
-*Historical Background*  
-  
-Divide students into 5 groups.  
-  
-Distribute individual copies of "Birth and Death in Romania, October 1986," Making the History of 1989, Item #694, to each student (alternatively, just one for each group). This article explains the dismal reality of everyday life in Ceausescu’s Romania as it was recorded in the last years of the regime by Pavel Câmpeanu, who managed to smuggle out this article, which was later published in The New York Review of Books.  
-  
-Assign each group to read just one (of five) sections in the article "Birth and Death in Romania, October 1986," Making the History of 1989, Item #694 (Each group will be assigned a different section of the 5-part article).  
-  
+*Historical Background*<br>
+<br>
+Divide students into 5 groups.<br>
+<br>
+Distribute individual copies of "Birth and Death in Romania, October 1986," Making the History of 1989, Item #694, to each student (alternatively, just one for each group). This article explains the dismal reality of everyday life in Ceausescu’s Romania as it was recorded in the last years of the regime by Pavel Câmpeanu, who managed to smuggle out this article, which was later published in The New York Review of Books.<br>
+<br>
+Assign each group to read just one (of five) sections in the article "Birth and Death in Romania, October 1986," Making the History of 1989, Item #694 (Each group will be assigned a different section of the 5-part article).<br>
+<br>
 Ask student groups to read the article section they have been assigned, seeking the historical background their section provides. Have students write down the historical information they notice from the section they are assigned to read.
 
-*Group Discussion*  
-  
-What did students learn about the history of Romania from the article they read? (Fill in the third column on the whiteboard, Historical Background.)   
-  
-Possible Answers:  
-  
-***Rising levels of poverty/poor economy***: Workers spend days waiting for raw materials their factory cannot obtain. The average wage was less than one-fifth the Common Market wage. Before Ceausescu, in 1958, Romania refused to subordinate its economy to the Soviet bloc’s COMECON which curtailed its economic vitality. Regime decided to avoid any specialization in the economy to avoid unfavorable specialization. Also chose to destroy agriculture to avoid the country’s being turned into an agricultural locality (this was reversed in 1982). To supplement meager rations, farmers stoke corn, wheat, and potatoes out of fields; had their children steal the same to avoid legal action.  
-  
-***Food and energy shortages***: Chernobyl accident meant people did not want to eat organic foods/crops; canned foods were out of stock. The hoarding of food was common enough that laws were passed forbidding the hoarding of oil, sugar, wheat or corn flour, rice, and coffee. Coffee was no longer available for purchase by private citizens. Meat, buttermilk, and bread were rationed. 5-year prison sentences for those buying excessive amounts of food. To supplement meager rations, farmers stoke corn, wheat, and potatoes out of fields; had their children steal the same. When darkness falls, the cities are plunged into shadow and in the daytime (in some cities) buses run only between 6-8am and 3-5pm. Electric energy and water services interrupted daily, often exceeding four hours. Bucharest residents avoid elevators to avoid being caught between floors. Strongest light bulbs sold were 40 watts and it was illegal to have more than one lamp per room. Heat cut off in the winter of 1984-5 in homes, theaters, and hospitals. “Right to keep warm” became an obsession for most Romanians.  
-  
-***Pervasive surveillance/draconian measures***: Virtually every business had a permanent member of the Secret Police assigned. Nearly all measures for birth control were banned to increase the birthrate. At their workplace, many women had to submit to monthly examination to see if they were pregnant or not. Elderly retirement delayed; difficult for them to receive emergency medical care; physicians instructed to cut down on prescription drugs in general to the aged.  
-  
-***Cult of personality focused on Nicolae Ceausescu and his wife, Elena***: Romania reproduced an exaggerated version of the Soviet social model under Stalin—most Stalinist in its political and social structures. Ceausescu ordered the demolition of a third of Bucharest in order to build a new presidential palace with a boulevard that cut across the entire city of over two million inhabitants.  
-  
+*Group Discussion*<br>
+<br>
+What did students learn about the history of Romania from the article they read? (Fill in the third column on the whiteboard, Historical Background.)<br>
+<br>
+Possible Answers:<br>
+<br>
+***Rising levels of poverty/poor economy***: Workers spend days waiting for raw materials their factory cannot obtain. The average wage was less than one-fifth the Common Market wage. Before Ceausescu, in 1958, Romania refused to subordinate its economy to the Soviet bloc’s COMECON which curtailed its economic vitality. Regime decided to avoid any specialization in the economy to avoid unfavorable specialization. Also chose to destroy agriculture to avoid the country’s being turned into an agricultural locality (this was reversed in 1982). To supplement meager rations, farmers stoke corn, wheat, and potatoes out of fields; had their children steal the same to avoid legal action.<br>
+<br>
+***Food and energy shortages***: Chernobyl accident meant people did not want to eat organic foods/crops; canned foods were out of stock. The hoarding of food was common enough that laws were passed forbidding the hoarding of oil, sugar, wheat or corn flour, rice, and coffee. Coffee was no longer available for purchase by private citizens. Meat, buttermilk, and bread were rationed. 5-year prison sentences for those buying excessive amounts of food. To supplement meager rations, farmers stoke corn, wheat, and potatoes out of fields; had their children steal the same. When darkness falls, the cities are plunged into shadow and in the daytime (in some cities) buses run only between 6-8am and 3-5pm. Electric energy and water services interrupted daily, often exceeding four hours. Bucharest residents avoid elevators to avoid being caught between floors. Strongest light bulbs sold were 40 watts and it was illegal to have more than one lamp per room. Heat cut off in the winter of 1984-5 in homes, theaters, and hospitals. “Right to keep warm” became an obsession for most Romanians.<br>
+<br>
+***Pervasive surveillance/draconian measures***: Virtually every business had a permanent member of the Secret Police assigned. Nearly all measures for birth control were banned to increase the birthrate. At their workplace, many women had to submit to monthly examination to see if they were pregnant or not. Elderly retirement delayed; difficult for them to receive emergency medical care; physicians instructed to cut down on prescription drugs in general to the aged.<br>
+<br>
+***Cult of personality focused on Nicolae Ceausescu and his wife, Elena***: Romania reproduced an exaggerated version of the Soviet social model under Stalin—most Stalinist in its political and social structures. Ceausescu ordered the demolition of a third of Bucharest in order to build a new presidential palace with a boulevard that cut across the entire city of over two million inhabitants.<br>
+<br>
 ***Violence used to hold onto power at any price***: Penal and economic sanctions for those who did not follow the law on compulsory participation in agricultural labor for the entire rural population (regardless of profession, they had to participate after January 1982 decree). Farmers brought to trial who had stolen corn, wheat, and potatoes since their meager rations provided little. Women thrown into prison because they had abortions.
 
-*Conclusion*  
-  
-Share with students the fate of the Ceausescu regime in December, 1989 (note that the following summary is taken from the Module's Introductory Essay; feel free to refer to it for more details).  
-  
-The Romanian revolution began in Timişoara, located in western part of the country, close to the Yugoslav and Hungarian borders. Although postwar Romania is ethnically quite homogeneous, most of its minorities live in the area where the Romanian revolution began. In 1989, Hungarians were the second largest group in Timişoara after Romanians, followed by Germans and Serbs. The city’s residents could follow the freer Yugoslav and Hungarian broadcast media and they were more easily swept up in the mounting wave of revolutions across all of Eastern Europe. As countries all over Eastern Europe confronted uprisings in 1989, the power of information and example cannot be discounted in the story of the Romanian revolution.   
-  
-*Background to the extended vigil in Timisoara.* One of Romania’s few dissidents, Lászlo Tőkés, a pastor in the Hungarian Reformed (Calvinist) Church, used his Timişoara pulpit to condemn the regime’s “systematization” campaign designed to level thousands of villages, put the land into cultivation, and move villagers into new agro-industrial complexes. For his outspokenness Tőkés was to be evicted from his church in December 1989, but Hungarian parishioners surrounded the church to prevent his removal. Soon joined by ethnic Romanians (of traditionally Orthodox faith), the picketers grew in number and broadened their focus to the hated dictatorial regime. The extended vigil, which began on December 15, engendered a sense of popular power and solidarity, unprecedented in communist Romania. Hungarians and Romanians together sang the 19th century nationalist anthem “Awaken, thee Romanian!” meaning, in this context, citizens of Romania. Given the xenophobia of communist officials, they had failed to imagine the possibility of inter-ethnic solidarity. The song was heard often during the following weeks.  
-  
-Soon all of Timişoara was on strike, while protesters tried to outwit tanks and armored vehicles. A frequent slogan during these street scenes was “Without Violence!” Between December 16 and 19 over sixty people were killed in Timişoara, and more than 700 were arrested, but the insurgents stood their ground. Some corpses were transported to Bucharest to suppress evidence of the crime. This in turn fed rumors of wildly exaggerated numbers of dead. Another chant, “Azi în Timişoara, mîine-n toată ţara!” (Today in Timişoara, tomorrow in the whole country)” was prophetic.   
-  
-Ceauşescu portrayed the disturbance in Western Romania as the work of foreign agents, but he also attempted to minimize the crisis by flying to Iran on a state visit. On his return, in televised speeches on December 20 and 21, he called for national unity in defending Romania’s sovereignty against foreign foes. By then, however, the popular anti-government mobilization had spread beyond Timişoara. In Bucharest, the authorities organized a noontime rally on December 21. Thousands of people were bussed to the Communist Party Central Committee (CPCC) plaza to show their support and thus legitimize the harsh repression in Timişoara. The event was choreographed by the *Securitate* (secret police) and the capital’s communist organizations. On descending into the square, presumably docile demonstrators received banners and portraits with familiar propaganda slogans and the Ceauşescus’ portraits.  
-The rally was broadcast on national television, but when Ceauşescu addressed the crowd from the CPCC balcony, unscripted moments followed. An unprecedented commotion, heckling, and hissing began. Radio and TV feeds were cut as cameras panned to the sky, but not before images of the distressed Ceauşescu and his wife trying to shush down the crowd were captured on camera. The dictator appeared shaken, unable to comprehend that the masses he expected to behave the part of adoring citizens had their own minds. Although order was temporarily restored and Ceauşescu announced raises and subsidies for workers, mothers, and pensioners, the partly televised incident had made Romanians realize the fragility of the dictatorship. The very same day spontaneous demonstrations broke out in other parts of Bucharest. Among their slogans were: “Freedom,” “Timişoara,” and “We Want Free Elections.”   
-  
+*Conclusion*<br>
+<br>
+Share with students the fate of the Ceausescu regime in December, 1989 (note that the following summary is taken from the Module's Introductory Essay; feel free to refer to it for more details).<br>
+<br>
+The Romanian revolution began in Timişoara, located in western part of the country, close to the Yugoslav and Hungarian borders. Although postwar Romania is ethnically quite homogeneous, most of its minorities live in the area where the Romanian revolution began. In 1989, Hungarians were the second largest group in Timişoara after Romanians, followed by Germans and Serbs. The city’s residents could follow the freer Yugoslav and Hungarian broadcast media and they were more easily swept up in the mounting wave of revolutions across all of Eastern Europe. As countries all over Eastern Europe confronted uprisings in 1989, the power of information and example cannot be discounted in the story of the Romanian revolution.<br>
+<br>
+*Background to the extended vigil in Timisoara.* One of Romania’s few dissidents, Lászlo Tőkés, a pastor in the Hungarian Reformed (Calvinist) Church, used his Timişoara pulpit to condemn the regime’s “systematization” campaign designed to level thousands of villages, put the land into cultivation, and move villagers into new agro-industrial complexes. For his outspokenness Tőkés was to be evicted from his church in December 1989, but Hungarian parishioners surrounded the church to prevent his removal. Soon joined by ethnic Romanians (of traditionally Orthodox faith), the picketers grew in number and broadened their focus to the hated dictatorial regime. The extended vigil, which began on December 15, engendered a sense of popular power and solidarity, unprecedented in communist Romania. Hungarians and Romanians together sang the 19th century nationalist anthem “Awaken, thee Romanian!” meaning, in this context, citizens of Romania. Given the xenophobia of communist officials, they had failed to imagine the possibility of inter-ethnic solidarity. The song was heard often during the following weeks.<br>
+<br>
+Soon all of Timişoara was on strike, while protesters tried to outwit tanks and armored vehicles. A frequent slogan during these street scenes was “Without Violence!” Between December 16 and 19 over sixty people were killed in Timişoara, and more than 700 were arrested, but the insurgents stood their ground. Some corpses were transported to Bucharest to suppress evidence of the crime. This in turn fed rumors of wildly exaggerated numbers of dead. Another chant, “Azi în Timişoara, mîine-n toată ţara!” (Today in Timişoara, tomorrow in the whole country)” was prophetic.<br>
+<br>
+Ceauşescu portrayed the disturbance in Western Romania as the work of foreign agents, but he also attempted to minimize the crisis by flying to Iran on a state visit. On his return, in televised speeches on December 20 and 21, he called for national unity in defending Romania’s sovereignty against foreign foes. By then, however, the popular anti-government mobilization had spread beyond Timişoara. In Bucharest, the authorities organized a noontime rally on December 21. Thousands of people were bussed to the Communist Party Central Committee (CPCC) plaza to show their support and thus legitimize the harsh repression in Timişoara. The event was choreographed by the *Securitate* (secret police) and the capital’s communist organizations. On descending into the square, presumably docile demonstrators received banners and portraits with familiar propaganda slogans and the Ceauşescus’ portraits.<br>
+The rally was broadcast on national television, but when Ceauşescu addressed the crowd from the CPCC balcony, unscripted moments followed. An unprecedented commotion, heckling, and hissing began. Radio and TV feeds were cut as cameras panned to the sky, but not before images of the distressed Ceauşescu and his wife trying to shush down the crowd were captured on camera. The dictator appeared shaken, unable to comprehend that the masses he expected to behave the part of adoring citizens had their own minds. Although order was temporarily restored and Ceauşescu announced raises and subsidies for workers, mothers, and pensioners, the partly televised incident had made Romanians realize the fragility of the dictatorship. The very same day spontaneous demonstrations broke out in other parts of Bucharest. Among their slogans were: “Freedom,” “Timişoara,” and “We Want Free Elections.”<br>
+<br>
 It is as if, in that moment, everyday Romanians saw the possibility, saw the reality of the weakness of Ceausescu’s regime. Those moments of Ceausescu’s weakness and the power of popular pressure explain why, a mere 48 hours later, Ceausescu was attempting to flee Romania, all power lost. The Ceausescu’s were tried a few days later and executed as enemies of the new Romanian state.
 
-*Culminating Activity*  
-  
+*Culminating Activity*<br>
+<br>
 Ask students to write 10 graffiti slogans of their own, drawing on their knowledge about the historical conditions in Romania and the revolution that quickly took hold in December 1989.
 
 ## Document Based Question
 
 Using the primary sources included in this module, respond to one of the following prompts:
 
-1. Unlike other communist countries experiencing the changes of 1989, Romania saw an explosion of violence as it moved toward a more democratic government. Using the sources in this Module analyze what factors might explain why Romania’s experience was so different?  
+1. Unlike other communist countries experiencing the changes of 1989, Romania saw an explosion of violence as it moved toward a more democratic government. Using the sources in this Module analyze what factors might explain why Romania’s experience was so different?<br>
 2. Dramatic political and social changes always have causes within the society at large. What elements of Romanian society around 1989 best explain the collapse of the Ceausescu regime, which took only one week to collapse in December, 1989?
 
 ## Bibliography

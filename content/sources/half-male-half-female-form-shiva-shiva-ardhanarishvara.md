@@ -5,6 +5,7 @@ drupal_node_id: 2391
 source_type: "Object"
 url: /half-male-half-female-form-shiva-shiva-ardhanarishvara
 image: /images/DT8683.jpg
+image_alt: "Bronze sculpture of Shiva standing with a head dress."
 regions: 
   - "Asia"
 subjects: 

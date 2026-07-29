@@ -5,6 +5,7 @@ drupal_node_id: 1712
 source_type: "Text"
 url: /provision-restatement-names-and-surnames
 image: /images/Icons-Document_459.jpg
+image_alt: "Excerpt of the Provision for the Restatement of Names and Surnames"
 regions: 
   - "Europe"
 subjects: 

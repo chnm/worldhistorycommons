@@ -6,6 +6,7 @@ drupal_node_id: 83
 source_type: "Image"
 url: /pieter-bruegel-elders-childrens-games
 image: /images/brueghel_childrens_games_11393aab38.jpg
+image_alt: "Photo of 16th-century children's play painting"
 regions: 
   - "Europe"
 subjects: 

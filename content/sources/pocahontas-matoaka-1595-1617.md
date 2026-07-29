@@ -5,6 +5,7 @@ drupal_node_id: 121
 source_type: "Image"
 url: /pocahontas-matoaka-1595-1617
 image: /images/cyhpocahontas_6845742fe1.jpg
+image_alt: "Sketch/ portrait of Pocahontas"
 regions: 
   - "North/Central America"
 subjects: 

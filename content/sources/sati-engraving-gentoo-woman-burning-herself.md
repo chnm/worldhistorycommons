@@ -5,6 +5,7 @@ drupal_node_id: 245
 source_type: "Image"
 url: /sati-engraving-gentoo-woman-burning-herself
 image: /images/engraving-sati.jpg
+image_alt: "A Gentoo Woman Burning Herself engraving"
 regions: 
   - "Asia"
 subjects: 

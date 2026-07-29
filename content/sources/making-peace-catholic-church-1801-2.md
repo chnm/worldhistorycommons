@@ -5,6 +5,7 @@ drupal_node_id: 968
 source_type: "Text"
 url: /making-peace-catholic-church-1801-2
 image: /images/making-peace.png
+image_alt: "Making Peace with the Catholic Church, 1801–2"
 regions: 
   - "Europe"
 subjects: 
@@ -30,10 +31,10 @@ His Holiness likewise recognizes that this same religion has derived and in this
 
 In consequence, after this mutual recognition, as well for the benefit of religion as for the maintenance of internal tranquility, they have agreed as follows:
 
-1. The catholic, apostolic and Roman religion shall be freely exercised in France: its worship shall be public, and in conformity with the police regulations which the government shall deem necessary for the public tranquility. . . .
+1\. The catholic, apostolic and Roman religion shall be freely exercised in France: its worship shall be public, and in conformity with the police regulations which the government shall deem necessary for the public tranquility. . . .
 
-4. The First Consul of the Republic shall make appointments, within the three months which shall follow the publication of the bull of His Holiness to the archbishoprics and bishoprics of the new circumscription. His Holiness shall confer the canonical institution, following the forms established in relation to France before the change of government. . . .
+4\. The First Consul of the Republic shall make appointments, within the three months which shall follow the publication of the bull of His Holiness to the archbishoprics and bishoprics of the new circumscription. His Holiness shall confer the canonical institution, following the forms established in relation to France before the change of government. . . .
 
-6. Before entering upon their functions, the bishops shall take directly, at the hands of the First Consul, the oath of fidelity which was in use before the change of government, expressed in the following terms:
+6\. Before entering upon their functions, the bishops shall take directly, at the hands of the First Consul, the oath of fidelity which was in use before the change of government, expressed in the following terms:
 
 “I swear and promise to God, upon the holy scriptures, to remain in obedience and fidelity to the government established by the constitution of the French Republic. I also promise not to have any intercourse, nor to assist by any council, nor to support any league, either within or without, which is inimical to the public tranquility; and if, within my diocese or elsewhere, I learn that anything to the prejudice of the state is being contrived, I will make it known to the government.”

@@ -6,7 +6,7 @@ url: /medieval-and-early-modern-data-bank
 image: /images/Quentin_MassysTHUMB.jpg
 website_authors: "Scholarly Communication Center, Rutgers University Libraries & Prof. Rudolph M. Bell, Rutgers' History Department"
 reviewer: "Reviewed by Jonathan Rotondo-McCord , Xavier University of Louisiana"
-reviewed_url: "http://www2.scc.rutgers.edu/memdb/"
+reviewed_url: "https://web.archive.org/web/20200803061509/http://www2.scc.rutgers.edu/memdb/"
 pull_quote: "“The Medieval and Early Modern Data Bank provides straightforward database access to five sets of data on European currency exchange and commodities prices from the 13th through the 18th centuries. ”"
 how_to_cite: |
   "Medieval and Early Modern Data Bank," in in World History Commons, https://worldhistorycommons.org/medieval-and-early-modern-data-bank [accessed April 8, 2026]
@@ -19,7 +19,7 @@ time_periods:
   - "Post-Classical (500 CE - 1450 CE)"
 ---
 
-The [Medieval and Early Modern Data Bank](http://www2.scc.rutgers.edu/memdb/) provides straightforward database access to five sets of data on European currency exchange and commodities prices1 from the 13th through the 18th centuries. The data have been compiled from print publications (published between 1943 and 1997) dealing chiefly with the Rhineland, the Low Countries, and Venice, although comparative exchange data from other regions are provided by some of the databases. Some additional data have been donated by authors to complement the material drawn from their books.
+The [Medieval and Early Modern Data Bank](https://web.archive.org/web/20200803061509/http://www2.scc.rutgers.edu/memdb/) provides straightforward database access to five sets of data on European currency exchange and commodities prices1 from the 13th through the 18th centuries. The data have been compiled from print publications (published between 1943 and 1997) dealing chiefly with the Rhineland, the Low Countries, and Venice, although comparative exchange data from other regions are provided by some of the databases. Some additional data have been donated by authors to complement the material drawn from their books.
 
 Three of the sets provide data on currency exchanges. Currency Exchanges (Metz) contains almost 51,000 data items.2 For students, however, it is one of the more awkward databases to use. It provides gold or silver weight equivalents for “moneys of account” (i.e., ledger values of money rather than actual coin values) for almost 30 cities and regions, mainly in German-speaking lands and the Low Countries, but also including Milan, Venice, France, England, and all of Europe (as a general category). The four query categories are coin (e.g., Cologne ducat) or ratio (e.g., changes over time in the value of silver coinage compared to an index rate); relationship (queried coin or ratio values in terms of other coinage, precious metals, or indices); place; and year (1303-1815 for the entire database). The trick is knowing which coin is valid for a particular exchange relationship, place, or span of years. Novice users would do well to enter values in only one query field at a time—otherwise, searches will frequently turn up empty.
 

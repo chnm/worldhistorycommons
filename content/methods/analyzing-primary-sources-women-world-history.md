@@ -29,6 +29,8 @@ related_sources:
   - link: "/mandate-palestine"
     image: "/images/Icons-Document-thumbnail_713_0.jpeg"
     alt: "A blue, circular icon with an image of a document in the center. Underneath are the words \"view document\""
+how_to_cite: |
+  "Analyzing Primary Sources on Women in World History," in World History Commons, https://worldhistorycommons.org/analyzing-primary-sources-women-world-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -40,6 +42,8 @@ Traditionally, historical writing focused on elites and often rendered women inv
 **Introduction**
 
 All of these women are figures of historical importance in their own right.
+
+![A portrait of Queen Elizabeth I by George Gower](/images/808px-Queen_Elizabeth_I_by_George_Gower.jpg)
 
 Queen Elizabeth I
 
@@ -71,6 +75,8 @@ Consider, for example, how warfare often has been represented in history books: 
 
 As long as historians’ focus remained on fighting, the analysis of war centered on death and heroism, together with military hierarchies and strategies. Questions often raised in connection with war addressed issues of diplomatic, military, and political history. This interpretation of warfare is popularly reflected in the predominantly male figurative statues in memorials throughout North America and Europe. Women are only occasionally found, and those who are depicted are usually shown healing or mourning the dead.
 
+![An image of Tomoe Gozen dressed in samurai armor and mounted on a horse](/images/Tomoe_Gozen__Wikimedia_Commons.jpg)
+
 Tomoe Gozen, female samurai
 
 Women were more easily omitted from analysis of the fighting front because, until World War II, when significant numbers of women participated as soldiers in the Soviet Union’s Red Army, they were only rarely found on or near the battlefield. Occasionally mythological figures like the Amazon warriors of Ancient Greece or Tomoe Gozen, the Japanese female samurai, or exceptional real women—such as Joan of Arc, the 15th-century French heroine of the Hundred Years’ War against England—became part of war legend. In rare cases, lesser-known women donned men’s clothing to participate in battle as males. Beyond that, only camp followers, and later nurses, would find places in this history.
@@ -100,6 +106,8 @@ Textile production, for example, reflects the availability of products, includin
 **What kind of source is it?**
 
 Different types of sources offer various kinds of information. Official documents rarely contain information about personal and private issues, but they do provide evidence related to larger, more structural issues. For example, legal codes often reflect a society’s ideal vision for itself, whereas court transcripts provide a glimpse into situations of individual behavior considered unacceptable by the society. Personal narratives, in contrast, might offer reflections on larger social issues, but they are usually focused on events as they affect the life of one individual or the lives of several known individuals, rather than a nameless collective.
+
+![A black and white photo of Jiang Qing and Mao Zedong](/images/Young_Jiang_Qing_and_Mao2.jpg)
 
 Jiang Qing and Mao Zedong
 
@@ -139,6 +147,8 @@ A valuable source for analyzing modern women’s history is quantitative evidenc
 
 [**Personal accounts**](https://worldhistorycommons.org/analyzing-personal-accounts-0) are excellent sources for women’s history. These include travel accounts, diaries, memoirs, letters, and oral histories. These are more common in the last two centuries with the expansion of female literacy—throughout history most women (and men) were illiterate. While documents created for personal reasons often tell us about individual women, some of the attitudes they reflect and the experiences they discuss can be generalized.
 
+![The vinyl label for Billie Holiday's "Strange Fruit." ](/images/Strange_Fruit_THUMBNAIL.jpg)
+
 The vinyl label for Billie Holiday's "Strange Fruit"
 
 [**Literary sources**](https://worldhistorycommons.org/analyzing-literary-sources) can provide useful information about women of a particular era or place in world history. Novels, short stories, and poetry created by women express their perspectives on a range of social and cultural issues. Although these texts are works of imagination, women have used them to voice their thoughts on a wide range of issues.
@@ -148,6 +158,8 @@ The vinyl label for Billie Holiday's "Strange Fruit"
 [**Visual sources**](https://worldhistorycommons.org/analyzing-images) offer important evidence about gender in a society. Paintings, murals, sculptures, and mosaics often provide information about the positions of women in a particular society through representations of women, men, sexuality, class, diet, familial relations, religion, daily activities, leisure, and work. Women are also part of the visual record as artists.
 
 Objects of [**material culture**](https://worldhistorycommons.org/analyzing-material-objects), such as clothing, textiles, cooking utensils, tools, simple machines, jewelry, or religious artifacts supply information on women’s everyday lives. They provide evidence about women’s positions in society, documenting not only their role in the household economy, which is often predominant, but also the social rites of passage in which they participated. Other items tell us about cultural and religious practices, some of which reflect attitudes toward women.
+
+![An image of kasai velvet, woven in a diamond pattern in black and cream fibers](/images/Velour_du_Kasai.jpg)
 
 Kasai velvet textile, Democratic Republic of the Congo
 
@@ -159,6 +171,8 @@ For more resources on using primary sources related to women in a world history 
 
 ![The Bayeux Tapestry](/images/Bayeux_Tapestry__Wikimedia_Commons_THUMBNAIL.jpg)
 
+#### Annotation
+
 Most likely commissioned by Bishop Odo of Bayeux, the Bayeux Tapestry depicts William the Conqueror’s conquest of England, culminating in the Battle of Hastings. Though the exact origins of the tapestry are unclear, it was likely commissioned by Odo in the 1070s at the same time the Bayeux Cathedral itself was commissioned to be built, with the intention of displaying the tapestry at the cathedral’s dedication. The designer of the tapestry is unknown, but it was most likely Anglo-Saxon female needleworkers.
 
 The Bayeux Tapestry tells its story through scenes in a sequential narrative style. Though it was likely constructed in England, the tapestry is from the Norman point-of-view in that William was betrayed and justifiably invaded. As such, though the tapestry gives an account of the period from 1064 to 1066, scholars acknowledge that the work may have functioned more as political propaganda rather than an accurate retelling. Despite the questionable accuracy of the events shown, the Bayeux Tapestry stands as an excellent visual record of medieval armaments and clothing.
@@ -166,6 +180,8 @@ The Bayeux Tapestry tells its story through scenes in a sequential narrative sty
 ### [Tomoe Gozen](/tomoe-gozen)
 
 ![Tomoe Gozen](/images/Tomoe_Gozen__Wikimedia_Commons_THUMBNAIL.jpg)
+
+#### Annotation
 
 Tomoe Gozen was a Japanese female samurai that lived during the late twelfth century, or late Heian period, in Japan. Tomoe Gozen was known for her skill in archery and swordcraft. The *Tale of Heike*, a chronicle of the Genpei War, describes her “especially beautiful, with white skin, long hair, and charming features. She was also a remarkably strong archer, and as a swordswoman she was a warrior worth a thousand, ready to confront a demon or a god, mounted or on foot.” Tomoe Gozen served as the first captain to Minamoto no Yoshinaka during the war, though it is uncertain what happened to her following Yoshinaka’s ultimate defeat in 1184.
 
@@ -175,17 +191,23 @@ Tomoe Gozen has since become an almost mythical figure in Japanese history. The 
 
 ![Kasai Velvet, Democratic Republic of the Congo](/images/Velour_du_Kasai.jpg)
 
+#### Annotation
+
 Despite its name, Kasai velvet, or velours du kasai, is not actually a velvet. Rather, it is embroidery on a finished piece of raffia cloth. Kasai velvet is traditionally woven by Shoowa men of the Kuba ethnic group in the Congo, and the embroidery that gives the cloth its characteristic geometric designs is done by women. This type of textile has been produced by the Kuba for at least 250 years and has been used as clothing, gifts, and currency. Kuba legend tells that the seventeenth century ruler Shyaam a-Mbul a-Ngoong brought the skills of weaving and embroidery from those living in the west. The Kuba have since developed a distinctive set of embroidery motifs and techniques. Kasai velvet is still produced today.
 
 ### [Mandate for Palestine](/mandate-palestine)
 
 ![Mandate for Palestine](/images/Icons-Document-thumbnail_713_0.jpeg)
 
+#### Annotation
+
 The Mandate for Palestine was a legal document that established the United Kingdom as a Mandatory in charge of Palestine and Transjordan following its occupation of the territories during World War I and their eventual concession from the Ottoman Empire in 1918. Based on the Sykes-Picot Agreement made in Paris, the Mandate was to provide “administrative advice and assistance by a Mandatory [the United Kingdom] until such time as they are able to stand alone.” The document was meant to establish a Jewish “national home” while preserving the rights of other communities and holy places. Palestine remained under British control for thirty years and saw a series of protests, riots, and revolts between the Jewish and Palestinian communities. The British announced the Mandate would end on May 15, 1948; that same day, the Jewish community announced the Israeli Declaration of Independence and established the independent State of Israel. Mandatory Palestine was ultimately divided between the new Israel, the Jordanian annexation of the West Bank, and the Egyptian All-Palestine Protectorate in the Gaza Strip. Tensions continue in the region between communities, and in recent years there has been an outpouring of support for Palestinians in Israel, much of which has taken place on social media and in the international arena.
 
 ### [“Big Business Banishes the Flapper"](/big-business-banishes-flapper)
 
 ![“Big Business Banishes the Flapper"](/images/Big_Business_Banishes_the_Flapper_THUMBNAIL_.jpg)
+
+#### Annotation
 
 The “flapper” craze overtook the western world in the early 1920s and was spearheaded by young women intent on bucking cultural norms of the time. An icon of the Roaring Twenties, flapper culture was aesthetically embodied in short skirts, bobbed hair, and heavier makeup. Flappers were criticized for drinking alcohol and smoking cigarettes in public, their freer attitude toward sexual relations, and the predilection for jazz music. The flapper subculture arose during a period of social and political turbulence, as well as increased cultural exchange across the Atlantic, following the close of World War I.
 
@@ -195,17 +217,23 @@ In reaction to this flapper movement, many businesses in the west, especially in
 
 ![Census of England, 1891](/images/1891_Census_THUMBNAIL.png)
 
+#### Annotation
+
 The census of the United Kingdom was the tenth census and was taken on April 5, 1891. Starting in 1841, first and surnames were taken of every member of the household, along with age, sex, occupation, and where individuals were born. By the tenth census, questions had expanded to Employer, Employed, or Neither Employer or Employed. In addition, information on population density in industrial cities was taken in the form of a question asking how many rooms a family occupied in a dwelling. The 1891 census was the first in which female census takers were employed, though many female specific questions involving marriage, number of children to a specific marriage, and children still living or dead were added to the following census in 1901. The growing industrial society in the United Kingdom and its territories are reflected in what information appears in these censuses, as more specific questions regarding type of industry or labor gradually appear around the turn of the century.
 
 ### [Laws of Manu](/laws-manu)
 
 ![Laws of Manu](/images/Manusmriti_THUMBNAIL.jpg)
 
+#### Annotation
+
 The *Manu-smriti*, or Laws of Manu, are of the most authoritative codes of Hinduism in India, dating back to approximately 100 C.E.. Traditionally, the *Manu-smriti* was given by Manu, the first man and lawgiver, and are a commentary on the legal and social systems of India, including the caste system. The *Manu-smriti* is a blend of both religious and secular law, and deals with topics such as the sacraments and study of the Vedas (the sacred texts of Hinduism), the behavior of wives and women, and the laws of kings, among other subjects. As one of the most influential texts in India, the *Manu-smriti* served as the basis for the legal system established by the British Raj, though British officials interpreted the *Manu-smriti* solely as a legal text rather than a commentary on morals and law. The *Manu-smriti* shaped Hindu society and culture, and continues to be both appraised and criticized for its lasting effect on India today.
 
 ### [Excerpts from the Hadith by A’isha](/excerpts-hadith-aisha)
 
 ![Excerpts from the Hadith by A’isha](/images/hadith-thumbnail_0.png)
+
+#### Annotation
 
 Hadith are reports about what the Prophet Muhammad said or thought. They provide Muslims with a sense of how Muhammad applied the guidelines of the Koran to daily life. They are based on the memories and stories of those who knew the Prophet and were recorded a few generations after his death. Women in the Prophet’s family are acknowledged as legitimate authors of these religious texts, and they provide a glimpse into the roles that Muslim women played in the early Islamic period.
 This source is a part of the [*Analyzing Religious Texts*](https://worldhistorycommons.org/analyzing-religious-texts) methods module.
@@ -214,12 +242,16 @@ This source is a part of the [*Analyzing Religious Texts*](https://worldhistoryc
 
 ![Excerpt from Travels in Africa](/images/Icons-Document-thumbnail_713_12_2.jpeg)
 
+#### Annotation
+
 Imperialism is one of the most pertinent topics in relation to travel and exploration. By the end of the 19th century, the spread of European imperialism had made many areas of the world “safe” for women travelers. As a result the volume of women’s writing increased significantly, so there is a wide range of texts to choose from. One such example is Mary Kingsley, who traveled to West Africa in 1893 and 1895, and to compare it to male versions of earlier African exploration, such as the works of H.M. Stanley or J. H. Speke.The masculine tradition of travel writing was considered to reflect public and professional concerns, whereas the feminine tradition was considered to fall into the private and personal sphere. Mary Kingsley’s work belies this stereotype. She allied herself with the masculine tradition of producing scientific research, yet she was well aware of social expectations.
 Kingsley’s negative attitude toward British colonization and sympathy for the peoples of West Africa are amply demonstrated. This highlights the approach of many 19th-century travelers who were not opposed to imperialism or colonization, but were critical of the abuses engendered by the system. In this excerpt Kingsley describes an encounter with a herd of elephants. Students can be guided to note her attention to detail and what might be called the *female gaze*. How does the passage demonstrate a particularly female gaze, as opposed to a male gaze? This source is a part of the [*Women's Travel Writing*](https://worldhistorycommons.org/short-teaching-module-womens-travel-writing) teaching module.
 
 ### [Yamamoto Shunshō’s The Tale of Genji](/yamamoto-shunshos-tale-genji)
 
 ![Yamamoto Shunshō’s The Tale of Genji](/images/Yamamoto_Shunsho_-_The_Tale_of_Genji__woodcut_THUMBNAIL.jpg)
+
+#### Annotation
 
 Largely considered the first novel, *The Tale of Genji* was written by Murasaki Shikibu, a noblewoman and lady-in-waiting during the early eleventh century. *The  Tale of Genji* is a unique depiction of court life during Heian period Japan, as it follows the story of the fictional Hikaru Genji and his romantic life within aristocratic society. Though the scholarly language of the time was Chinese, Murasaki Shikibu wrote *The Tale of Genji* in Japanese, which was more often the literary language used by women. *The Tale of Genji* is believed to have been written in installments or chapter-by-chapter for other ladies in court.
 
@@ -229,6 +261,8 @@ Largely considered the first novel, *The Tale of Genji* was written by Murasaki 
 
 !["Strange Fruit" by Billie Holiday (1939)](/images/Strange_Fruit_THUMBNAIL.jpg)
 
+#### Annotation
+
 Based on a poem by Abel Meeropol published in January 1937, “Strange Fruit” was a song protesting the lynching of African Americans and was recorded by African American jazz singer Billie Holiday in 1939. The song’s haunting lyrics compare lynching victims to the fruit of trees in lines such as “Southern trees bear a strange fruit / Blood on the leaves and blood at the root / Black bodies swinging in the southern breeze / Strange fruit hanging from the poplar trees.” Holiday was first introduced to “Strange Fruit” while performing at Café Society in New York. Though she feared retaliation, Holiday approached her label, Columbia, about recording the song. Columbia, however, refused due to concerns of the reaction in the South. Holiday eventually recorded “Strange Fruit” with Commodore Records and distributed through Vocalion Records.
 
 Since called “a declaration” and “the beginning of the civil rights movement,” Billie Holiday continued regularly singing “Strange Fruit” for twenty years. The 1939 recording eventually sold one million copies and became one of Holiday’s biggest hits. In 1999, *Time* magazine designated “Strange Fruit” as Best Song of the Century, and it was inducted into the Library of Congress’s National Recording Registry in 2002. “Strange Fruit” has been covered by many notable singers including Nina Simone (1965), Siouxsie and the Banshees (1987), and René Marie (2001), among others. “Strange Fruit” continues to be a political anthem of anti-racism in the United States.
@@ -237,20 +271,25 @@ Since called “a declaration” and “the beginning of the civil rights moveme
 
 ![The Love Letter by Jan Vermeer](/images/Vermeer_-_The_Love_Letter_THUMBNAIL.png)
 
+#### Annotation
+
 Painted in the last phase of his career, Dutch artist Jan Vermeer’s *The Love Letter* is a work of oil on canvas that depicts a wealthy woman holding a love letter, seemingly just delivered to her by the maid servant at her side. The foreground of the painting creates the impression of viewing a private scene from a side room. Aside from the title, Vermeer included other details that signify love. The wealthy woman in the painting is holding a cittern, an instrument that was a common symbol of love, and behind the two figures is a painting of a ship on a stormy sea, which was another popular analogy for lovers. Vermeer’s work serves as a glimpse of not only female clothing and social status, but of the interiors of Dutch upper-class homes in the seventeenth century. *The Love Letter* is currently on display at the Rijksmuseum in Amsterdam.
 
 ### [Quilted bedcover of Elisabeth Chapman](/quilted-bedcover-elisabeth-chapman)
 
 ![Quilted bedcover of Elisabeth Chapman](/images/quilted_bedcover_of_Elisabeth_Chapman_THUMBNAIL.jpg)
 
-This quilted bed cover was likely made for the marriage of John and Elisabeth Chapman on September 19, 1829. With dimensions of approximately six feet by five feet, the bed cover features a block printed panel at the center that commemorates Wellington’s victory at Vittoria, the last battle of the Peninsula War in 1813. Central panels such as these were common in the early nineteenth century, as they allowed the quilter to work outward until the desired dimensions were achieved. Underneath this panel is a hand-stitched epitaph with the names of John and Elisabeth Chapman, as well as the date of their marriage and verses of poetry for husband and wife. This quilt was likely worked on for many years but never finished, as it includes papers dating back to the 1790s and the tacking stitches (temporary stitches) were never removed. The quilt is made up of block-printed cottons in a pattern known as “jockey’s cap,” and receipts for local merchants point to the fabrics being sources near Rochester, Kent, England. Though family history says that the papers visible on the reverse side of the quilt were the love letters of John and Elisabeth, closer examination done by the Victoria and Albert Museum has found that they are actually ledger books, children’s copy books, newspapers, and receipts.
+#### Annotation
 
+This quilted bed cover was likely made for the marriage of John and Elisabeth Chapman on September 19, 1829. With dimensions of approximately six feet by five feet, the bed cover features a block printed panel at the center that commemorates Wellington’s victory at Vittoria, the last battle of the Peninsula War in 1813. Central panels such as these were common in the early nineteenth century, as they allowed the quilter to work outward until the desired dimensions were achieved. Underneath this panel is a hand-stitched epitaph with the names of John and Elisabeth Chapman, as well as the date of their marriage and verses of poetry for husband and wife. This quilt was likely worked on for many years but never finished, as it includes papers dating back to the 1790s and the tacking stitches (temporary stitches) were never removed. The quilt is made up of block-printed cottons in a pattern known as “jockey’s cap,” and receipts for local merchants point to the fabrics being sources near Rochester, Kent, England. Though family history says that the papers visible on the reverse side of the quilt were the love letters of John and Elisabeth, closer examination done by the Victoria and Albert Museum has found that they are actually ledger books, children’s copy books, newspapers, and receipts.
 
 ## Sample Analysis
 
 **Case Study: Prostitution**
 
 We can learn a great deal about women’s history from studying women in a particular situation. Discussion of prostitution, a topic that has long excited widespread interest, incorporates ethnographic, historical, philosophical, medical, religious, and sociological elements and can tell us much about different societies’ attitudes toward women. Popular attitudes toward prostitution also provide information on a particular society’s beliefs about race, class, gender, and age, as well as eugenics and hygiene, not to mention gender difference in marriage. The variety of sources described here can be employed as a model for students interested in other women’s history topics.
+
+![A portrait of Henri II's mistress, Diane de Poitiers, by Francois Clouet](/images/Clouet_-_A_Lady_in_Her_Bath.jpg)
 
 Diane de Poitiers, portrait by Francois Clouet
 
@@ -260,10 +299,12 @@ Some, like the Madame de Pompadour and Madame du Barry, the mistresses of French
 
 Both men and women have been employed as sexual laborers throughout history. When Western governments began attempting to regulate prostitution during the 19th century, however, their policies concentrated on the sexual behaviors of women. Journalists, moral crusaders, and politicians discussed prostitution in newspapers, periodicals, parliament, and public speeches or discussions. Novels reflected contemporary female stereotypes associated with prostitution (the “weaker” morals of women or the “dirtiness” of women from certain ethnic groups, often immigrants). Physicians, sociologists, and other specialists sought to explain its causes. Reflecting the growth of prostitution as a global concern, beginning in the late 19th century, countries throughout the world began signing international treaties banning the transportation of women for illicit purposes, which was known as the “white slave trade.”
 
-Miyagawa Chōshun,  
-  
-*Standing Prostitute in White Kimono*,  
-  
+![An ink painting of a woman standing in a white kimono](/images/Miyagawa_Chōshun_-_Standing_Prostitute_in_White_Kimono_-_74.1.43_-_Minneapolis_Institute_of_Art.jpg)
+
+Miyagawa Chōshun,<br>
+<br>
+*Standing Prostitute in White Kimono*,<br>
+<br>
 early 18th century
 
 European states, as well as some cities in East Asia (but not the United States), that regulated prostitution kept a close eye on “registered” prostitutes, who constituted a small percentage of sex laborers. Most sex laborers worked clandestinely, sometimes only temporarily.

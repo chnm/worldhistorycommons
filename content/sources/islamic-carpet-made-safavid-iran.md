@@ -5,6 +5,7 @@ drupal_node_id: 2514
 source_type: "Object"
 url: /islamic-carpet-made-safavid-iran
 image: /images/Safavid_Iran_Qazvin_Carpet_16th_century_VAM_1200px_0.jpeg
+image_alt: "Qazvin Carpet (\"Salting Carpet\")"
 regions: 
   - "Global"
   - "Middle East"

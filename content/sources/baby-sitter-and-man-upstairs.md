@@ -5,6 +5,7 @@ drupal_node_id: 1168
 source_type: "Text"
 url: /baby-sitter-and-man-upstairs
 image: /images/Icons-Document_30.jpg
+image_alt: "image of the text"
 regions: 
   - "North/Central America"
 subjects: 

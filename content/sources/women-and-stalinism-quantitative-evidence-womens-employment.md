@@ -5,6 +5,7 @@ drupal_node_id: 1549
 source_type: "Text"
 url: /women-and-stalinism-quantitative-evidence-womens-employment
 image: /images/sovietquant1.gif
+image_alt: "image of chart of recorded data"
 regions: 
   - "Europe"
 subjects: 

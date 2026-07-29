@@ -5,6 +5,7 @@ drupal_node_id: 1017
 source_type: "Image"
 url: /napoleon-unable-digest-leipzig
 image: /images/napoleon-leipzig.jpg
+image_alt: "Napoleon Is Unable to Digest Leipzig"
 regions: 
   - "Europe"
 subjects: 

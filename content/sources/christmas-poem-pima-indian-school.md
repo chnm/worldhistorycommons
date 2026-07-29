@@ -5,6 +5,7 @@ drupal_node_id: 328
 source_type: "Text"
 url: /christmas-poem-pima-indian-school
 image: /images/school-poem.jpg
+image_alt: "Christmas Poem, Pima Indian School"
 regions: 
   - "North/Central America"
 subjects: 

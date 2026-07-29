@@ -5,6 +5,7 @@ drupal_node_id: 944
 source_type: "Text"
 url: /karl-marx-eighteenth-brumaire-louis-bonaparte
 image: /images/Karl_Marx.png
+image_alt: "Karl Marx"
 regions: 
   - "Europe"
 subjects: 

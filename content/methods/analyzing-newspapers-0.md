@@ -33,6 +33,8 @@ related_sources:
   - link: "/newspaper-report-eva-perons-death"
     image: "/images/1952_NYT_Eva_Person_1_0.jpg"
     alt: "New York Time's reports on Eva Peron's death in Argentina in 1952"
+how_to_cite: |
+  "Analyzing Newspapers," in World History Commons, https://worldhistorycommons.org/analyzing-newspapers-0 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -45,11 +47,17 @@ Newspapers from the past contain several kinds of information for historians. Th
 
 ##### The Development of the Modern Newspaper
 
+![](/images/771px-José_Guadalupe_Posada__Calavera_oaxaqueña__broadsheet__1903.jpg)
+
 Newspapers first appeared in Europe in the mid-17th century. They evolved gradually from a similar type of publication called a broadsheet—a single sheet of paper that responded to unusual events. Although newspapers today and those in the past resemble one another in many ways, newspapers and their content have changed dramatically over time. Newspapers in different societies are often quite different from those you may be familiar with. Thus, it is important to read newspapers from different times (and places) carefully.
 
 For example, this is the front page of the Times of London, one of the most complete and accurate newspapers in the world in the mid-1800s, on the morning after the Battle of Gettysburg, a major historical event. Someone reading this paper in the 21st century might be surprised to find nothing about the battle, but the timely and broad coverage we now expect was not always available.
 
+![](/images/The_Times_-_July_6__1863.jpg)
+
 Technological innovation made the modern newspaper possible. Before the late 19th century, paper was often made from textile fibers like cotton and linen, frequently taken from recycled rags. Only after the invention of paper made from wood pulp did low-cost, low-quality paper become readily available. The rise of the paper industry made paper cheap, which meant that newspapers could be printed for reasonable prices. Industrialization and new global markets, especially in raw materials, helped to increase production leading to inexpensive, mass-produced paper.
+
+![](/images/1750_Printing_Press.jpg)
 
 Changes in print technology influenced newspaper production as well. Print began with individual metal letters placed by hand in special grids. The letters were inked and then paper was pressed on one sheet at a time. Technological innovations steadily decreased the amount of effort and increased the speed at which words could be printed onto paper. In the 19th and 20th centuries, it also became easier and cheaper to move information across long distances, which had a huge impact on the newspaper business. Railroads and steamships made long-distance travel easier and faster beginning in the early 19th century, so reporters could travel to interesting events. With the invention of the telegraph in the mid-19th century, traveling correspondents could report back to newspapers regularly and rapidly. Images, too, could be sent over the wires, and as photographic technology improved in the second half of the 19th century, news photos became a reality.
 
@@ -63,8 +71,10 @@ As the price of paper and printing dropped, and as access to information from fa
 
 Historians generally use newspapers for three purposes: learning facts about specific events; looking for long-term trends; and searching for details or the “texture” surrounding an event—a fact or story that illuminates or complicates a larger pattern. Newspapers are often the first kind of source historians of the past two centuries will turn to for gathering evidence, but historians rarely rely on newspaper evidence alone.
 
-**Learning Facts**  
+**Learning Facts**<br>
 Newspapers can be used to locate facts related to a specific event. Historians investigating a specific event sometimes use newspapers from the place and time in which the event occurred to uncover details and perhaps find firsthand descriptions. But when historians use newspapers in this way, they proceed with caution, as newspapers often include factual errors and always reflect a point of view. Newspaper reports are frequently incomplete, biased, and/or inaccurate.
+
+![](/images/NYT_1952_Eva_Peron.png)
 
 For example, Argentinean newspapers covering the death of Eva Peron in 1952 explained it in many ways, none of them truthful, because the Peronist government and newspaper editors agreed that the phrase “ovarian cancer” was too sexual to be printed.
 
@@ -72,7 +82,7 @@ Furthermore, newspaper coverage assumes that readers share knowledge about the c
 
 These problems do not mean that historians should avoid using details from newspapers. Rather, historians researching a particular event usually examine newspaper coverage from several different papers, and look most carefully at coverage by newspapers closest to where the event took place. They also check the details they take from newspaper stories against other types of documents. In the case of Evita’s demise, they might examine maps of Buenos Aires, the coroner’s report, and her husband’s memoirs.
 
-**Looking for Long-Term Trends**  
+**Looking for Long-Term Trends**<br>
 Another strategy is mining newspapers for evidence of long-term trends. Here we often look at more than just the newspaper stories. Classified advertisements, for example, can tell us about changes in prices of apartment rentals over time, or about the titles or salary ranges for various kinds of jobs. Display advertising can tell us how many new movie theaters are opening in a town or what kinds of food people are looking for in the supermarkets. Even long-running advice columns can give us this kind of evidence, showing changes over time in what people considered to be problems and what newspaper writers considered to be solutions for those problems.
 
 This strategy can include skimming through a large group of newspapers looking for something on a particular topic—political demonstrations, floods, or outbreaks of measles, for instance—over a period of months, years, or decades. A historian taking this approach may decide not to read every page of every newspaper in the period that interests her, but to look at a random selection, like the second day of every month for 30 years or only the months of August and November for a decade.
@@ -81,12 +91,14 @@ Using newspapers in this way requires some previous sense of historical context,
 
 Search tools such as Lexis-Nexus and the headline index of the New York Times help a great deal with this second kind of research in newspapers. Unfortunately, indexing for the great majority of the world’s newspapers started in the 1990s, if they have any indices at all. Historians hoping to study earlier times and other parts of the world will still spend many hours looking through actual newspapers or scanning microfilm copies for some time to come.
 
-**Searching for Details**  
+**Searching for Details**<br>
 A third strategy is searching for the “texture” of an event. Details from other parts of the newspaper can help flesh out a newspaper story. Weather reports can tell us if it was raining on the day of the battle. Department-store advertising can suggest what people might have worn to vote on the day of the election. Movie reviews and television listings can tell us what stories people cared about in the month of an epidemic.
 
 ##### Who published this newspaper and why?
 
 This simple question implies many others: When and where was the newspaper published? What kind of reader was it intended to reach? Did it have local competitors? What were its political affiliations?
+
+![](/images/Times_of_India_Masthead.jpg)
 
 Answers to some of these questions come from examining the newspaper carefully. Every front page is likely to tell us the location and date on which the paper was published, and sometimes the masthead on the front page also announces how long the newspaper has been in business.
 
@@ -104,6 +116,8 @@ Analyzing the way the newspaper looks and the rhetoric of the newspaper’s stor
 
 But here, too, it pays to be careful. What counts as “sensationalistic” or “dryly factual” changes over time. Prose changes too, so a passage that readers today might have trouble with could have been very simple for someone to decipher when it was first published a century ago. The look of newspapers also evolved, so that a page from the 1920s might seem jumbled and difficult to read now, but would have made perfect sense to a reader at the time.
 
+![](/images/1900_Kodak_Advertisement.jpg)
+
 Prices inflate surprisingly quickly, so something that looks like a bargain might have been expensive at the time. Furthermore, goods and services can change from being daily necessities to expensive rarities. Theater tickets, for instance, were ordinary purchases for most Parisians in the 1880s, but became luxuries for middle-class people by the 1930s. This change can happen in reverse: for instance, cars were once a rich man’s toy in Canada, whereas now nearly every Canadian family owns at least one.
 
 The best way to avoid these misunderstandings is to compare different newspapers from the same place and time. Historians look for differences in advertisements, headlines, choice of stories, placement of stories within the paper, different positions expressed in editorials, and disagreements about what issues merit an editorial. They also look at changes in layout and typography. Identifying these trends and changes help clarify what each paper’s politics were and who might have been reading which paper.
@@ -112,7 +126,11 @@ The best way to avoid these misunderstandings is to compare different newspapers
 
 By about 1920, almost every city and many small towns in the developed world had their own newspapers—at least in places that had a large enough population of people who could read and could afford the small daily expense of buying the paper. Ordinarily, advertisers covered most of the cost of printing and distributing newspapers. Many cities had competing newspapers, some published in the morning, some in the afternoon.
 
+![](/images/New_York_Post_2004.jpg)
+
 To attract readers in competitive markets, newspapers publishing in the same places tried to appear unique. Some aimed for high literary quality while others tried to catch the reader’s eye with the loudest headlines and the most lurid graphics. Some tried to print information that appealed to specific local audiences, such as coverage of high-society parties, the passenger lists of arriving ocean liners, or especially extensive classified advertising. Others emphasized features from wire services including serialized fiction, recipes and other consumer information, and advice on relationships as well as the more familiar opinion pages, theater and movie reviews, and comic strips. A good funny page gave newspapers great appeal and helped build reader loyalty.
+
+![](/images/Mexian_Historietas.jpg)
 
 Historians examining a newspaper for the first time try to understand the competitive environment in which the paper existed, the paper’s political point of view, and the choices editors made about what to include and omit from their newspapers. As with understanding the technological context of a newspaper, the easiest way to do this is by making comparisons among newspapers published in the same place and at the same time. In this case, historians will compare the contents of the papers rather than their appearance. They will look for differences in the length and placement of articles, in the cartoons and columns, in the editorials, and even in the advertisements.
 
@@ -123,6 +141,9 @@ Setting the newspaper in its appropriate technological context is also important
 When historians examine a particular story in a newspaper, they also often examine other stories appearing in the paper on that day. Looking at a story in the context of the larger newspaper can offer clues to the importance the editors assigned to the story and to how appealing they believed the story would be to the newspapers’ readers. For example, it is usually safe to assume that stories positioned “above the fold”—that is, in the top half of the front page of the paper—were assigned a much greater priority either because they made a point the editors of the paper wanted to emphasize, or because readers were more likely to want to read that story than others. If, however, the story in question appeared in the bottom left corner of Page 7, squeezed against the margin by a large advertisement, it is usually safe to assume that the editors assigned much less significance or potential appeal to that story.
 
 For example, according to The Washington Post, during the months before the outbreak of the war in Iraq in 2003, the paper’s editors buried stories questioning such things as the existence of weapons of mass destruction in Iraq, while placing stories featuring the Bush Administration’s war plans on the front page. Editors at the Post subsequently described their decisions on story placement as “a mistake.”
+
+![](/images/Evening_Star_published_as_THE_EVENING_STAR1024_1_0.jpg)<br>
+![](/images/Evening_Star_Dec_9__1941.jpg)
 
 Positioning, however, is not everything. Just because a story appears on Page 12 rather than Page 1 does not mean that the editors do not believe it to be important. It is also possible that the story you are reading is the sixth or seventh installment in a long-running story that the editors assume their readers are already familiar with. Breaking news often finds its way onto the front page of a newspaper because it is new, not necessarily because it is deemed to be more important than another story.
 
@@ -144,11 +165,15 @@ Finding the answer to these questions requires some additional research, often i
 
 ![Posada Broadsheet](/images/771px-José_Guadalupe_Posada__Calavera_oaxaqueña__broadsheet__1903_0_0.jpg)
 
+#### Annotation
+
 This broadsheet was made my Mexican printer Jose Guadlupe Posada in 1903. The broadsheet itself was called Calavera oaxaqueña, of "the skull from Oaxaca," in reference to the rural city it was published for. The broadsheet also depicts Posada's popular use of the images of skulls and crossbones, in addition to his use of print in general, as a political and cultural critique. Posada relied heavily on this imagery of calaveras, or skulls, thanks in large part to the popularity of the holiday Día de Muertos, or the Day of the Dead. In this case, the combination of calaveras and accessible song lyrics were meant to stir social engagement in the town of Oaxaca.
 
 ### [London Newspaper](/london-newspaper)
 
 ![London Newspaper](/images/The_Times_-_July_6__1863_0_0.jpg)
+
+#### Annotation
 
 This source represents both the power and importance of context when reading local sources and how the speed of information has changed drastically over time. This is the front page of the *Times of London*, one of the most complete and accurate newspapers in the world in the mid-1800s, on the morning after the Battle of Gettysburg in Pennsylvania, a major historical event. Someone reading this paper in the 21st century might be surprised to find nothing about the battle, but the timely and broad coverage we now expect was not always available.
 
@@ -156,11 +181,15 @@ This source represents both the power and importance of context when reading loc
 
 ![Printing Press](/images/1750_Printing_Press_0_0.jpg)
 
+#### Annotation
+
 This 1750 wooden printing press is quite similar to the earliest ones invented in Europe in the mid-15th century, which revolutionized communication through the rapid increase and accessibility of information. Print began with individual metal letters placed by hand in special grids. The letters were inked and then paper was pressed on one sheet at a time. Technological innovations steadily decreased the amount of effort and increased the speed at which words could be printed onto paper. These innovations also had the effect of decreasing the price of printed materials, making them available to more readers.
 
 ### [Newspaper report on Eva Peron's Death](/newspaper-report-eva-perons-death)
 
 ![Newspaper report on Eva Peron's Death](/images/1952_NYT_Eva_Person_1_0.jpg)
+
+#### Annotation
 
 Although newspapers are a popular way to locate facts related to a specific event, because they attempt to cover events as they unfold or before they even have all the relevant information, newspapers often include factual errors and always reflect a point of view. Newspaper reports are frequently incomplete, biased, and/or inaccurate. For example, following the death of Argentina's first lady Eva Peron in 1952, many newspapers, in Argentina and beyond, remained vague on the cause of death due to a sense that the phrase “ovarian cancer” was too sexual to be printed. Furthermore, newspaper coverage assumes that readers share knowledge about the circumstances of the event that historians decades later may or may not know. In the case of Eva Peron’s death, while *The New York Times* had to explain who Eva Peron was and how Argentina responded to her, local papers left out such information. Reporters and editors at the time did not have to explain who Evia was, give the location of the cemetery, or provide details about local funeral practices. Anyone who bought a Buenos Aires newspaper at the time already knew that.
 
@@ -168,11 +197,15 @@ Although newspapers are a popular way to locate facts related to a specific even
 
 ![The Times of India Masthead](/images/Times_of_India_Masthead_0_0.jpg)
 
+#### Annotation
+
 When approaching newspapers as a source for information, several key questions arise: When and where was the newspaper published? What kind of reader was it intended to reach? Did it have local competitors? What were its political affiliations? In other words, a newspaper's context is important to understanding the newspaper itself. Answers to some of these questions come from examining the newspaper carefully. Every front page is likely to tell us the location and date on which the paper was published, and sometimes the masthead on the front page also announces how long the newspaper has been in business. This particular masthead, for instance, comes from *The Times of India* and was designed to commemorate the Hindu festival of Navaratri which is celebrated in autumn and is dedicated to the deity Devi (Durga).
 
 ### [Kodak Advertisement](/kodak-advertisement)
 
 ![Kodak Advertisement](/images/1900_Kodak_Advertisement_0_0.jpg)
+
+#### Annotation
 
 When one evaluates a newspaper or a magazine as a source of information, the question of the intended audience almost always comes up. Who was this newspaper intended for? Who actually subscribes to this magazine? One way to answer such questions is through an analysis of advertisements. Examining what a newspaper is attempting to sell can be a good indicator of who they imagine is reading that paper. Take this early advertisement from George Eastman portraying his Kodak camera, for example. Who does this ad imagine as using the camera? What is the gender of the audience? What is there age? What could this advertisement tell us about the kind of newspaper or magazine that would include it in an issue?
 
@@ -180,11 +213,15 @@ When one evaluates a newspaper or a magazine as a source of information, the que
 
 ![Competitive Journalism](/images/Mexian_Historietas_0_0.jpg)
 
+#### Annotation
+
 The modern world of journalism and news is a competitive one. To attract readers, newspapers publishing in the same places try to appear unique. Some, like this edition of the *New York Post* rely on sensationalized headlines and lurid stories to try to catch the reader's eye. Others increasingly utilized a good funny page in the form of a comic strip which gave newspapers great appeal and helped build reader loyalty, such as the one displayed here from the 1880s by Eusebio Planas.
 
 ### [Newspaper Coverage of Pearl Harbor Bombing](/newspaper-coverage-pearl-harbor-bombing)
 
 ![Newspaper Coverage of Pearl Harbor Bombing](/images/Evening_Star_published_as_THE_EVENING_STAR1024_1_1.jpg)
+
+#### Annotation
 
 When historians examine a particular story in a newspaper, they not only have to take into account the story's positioning on the page in relation to the other stories published that day, a way of getting a sense of the importance the editors assigned to the story, but also how a certain story has played out over several days in the same newspaper. By looking at a particular newspaper over time, historians can account for both the sometimes slow pace of information and the ways information is presented differently over time. Take Washington, D.C.'s paper, *The Evening Star*, for example. Their issue on Sunday December 7, 1941, makes no reference to Japan's bombing of Pearl Harbor in Hawaii not because the event wasn't important, but because the paper itself had already been printed by the time information of the attack had arrived. As a result, the headline news of the bombing isn't seen until Monday December 8. The following day, the headlines again give no mention to the event only because it is no longer new and so has moved down on the page as a continuing story.
 
@@ -192,39 +229,47 @@ When historians examine a particular story in a newspaper, they not only have to
 
 ![Mexican Newspaper Reports on American Women Crossing the Border](/images/newsuniversalfull_0_0.jpg)
 
-This story appeared in the two-page daily English-language supplement to *El Universal*, Mexico City’s most authoritative newspaper at the time. The story told of Mexican officials refusing entry to a group of women from the United States who made repeated attempts to get into the country. The story itself was unusual in that the newspaper did not often deal with conflicts at the border, nor did the English-language section regularly cover local news. The article, however, does fit neatly into a series of stories and images that seemed to fill the paper in the summer of 1924. There was a sudden rise of attention to women’s fashion, particularly those fashions that came from abroad and seemed to make women look masculine. The major issue of the time was the length of women’s hair, but other aspects of women’s appearance also caused controversy. People around the world took an interest in this new vogue, but in Mexico it seemed especially important because of the recent Revolution.
+#### Annotation
 
+This story appeared in the two-page daily English-language supplement to *El Universal*, Mexico City’s most authoritative newspaper at the time. The story told of Mexican officials refusing entry to a group of women from the United States who made repeated attempts to get into the country. The story itself was unusual in that the newspaper did not often deal with conflicts at the border, nor did the English-language section regularly cover local news. The article, however, does fit neatly into a series of stories and images that seemed to fill the paper in the summer of 1924. There was a sudden rise of attention to women’s fashion, particularly those fashions that came from abroad and seemed to make women look masculine. The major issue of the time was the length of women’s hair, but other aspects of women’s appearance also caused controversy. People around the world took an interest in this new vogue, but in Mexico it seemed especially important because of the recent Revolution.
 
 ## Sample Analysis
 
 “Mexican Officials Kick On Women in Knickers, Do not allow Oklahoma Tourists to Enter Mexico in Plus Fours” El Universal (“English News Section”), Mexico City, 14 July 1924.
 
+![](/images/newsuniversalfull.jpg)<br>
+![](/images/Sample_Analysis_Newspaper.png)
+
 This story appeared in the two-page daily English-language supplement to *El Universal*, Mexico City’s most authoritative newspaper at the time. The English-language supplement usually printed news that *El Universal*’s editors believed would interest English-speaking readers who lived in the city more or less permanently, rather than tourists. Therefore the English-language pages generally contained business news of interest to local representatives of foreign firms, a smattering of political news from Britain and the United States (usually translated from the main part of the paper), social notes detailing the comings and goings of businessmen, diplomats, and their families, and extensive coverage of tournaments and dances at Mexico City’s elite country clubs. The supplement almost never printed stories about crime, tourism, or the day-to-day workings of government (neither in Mexico nor abroad.)
 
 So this small story might catch a historian’s eye because it was unlike the articles around it. As she examined it, she would ask a series of questions:
 
-A. *Why did Mexico City’s most important newspaper feature two daily pages in English?*  
+A. *Why did Mexico City’s most important newspaper feature two daily pages in English?*<br>
 The foreign business and diplomatic community in Mexico City in the 1920s was not large enough to support a newspaper of its own. Even if every English-speaking household in the city had subscribed to *El Universal*, they would not have raised its circulation figures appreciably. Furthermore, most people living in Mexico City at the time did not read English. Including the English-language section could not have brought new readers to the paper, then.
 
 The supplement was expensive to produce, both because it required hiring journalists, translators, and an editor fluent in English—as few newspapermen of the time in Mexico City were—and because the single largest fixed expense for a newspaper in Mexico at the time was the cost of paper. Adding even a single sheet daily to *El Universal* was a big investment. No other Mexico City newspaper paid for a section in English, but *El Universal* stuck with it for four decades. So why would *El Universal*’s editors have decided to print a section of the paper in English every day?
+
+![](/images/El_Universal_Advertisement_January_1922.jpg)
 
 The advertisements in *El Universal* provide one possible answer to this question. They peddled high-end goods—often, imported items ranging from tennis balls to automobiles. They did not aim to reach many readers, but focused on a small number of wealthy ones. This would include Mexico City’s community of English-speaking resident foreigners, but also included the larger number of relatively conservative, wealthy Mexicans who would see the inclusion of an English-language section as a sign of the newspaper’s politics. In the aftermath of the Mexican Revolution (during which the United States invaded Mexico and Pancho Villa’s army invaded the United States), this gesture of affiliation with the United States and its representatives in Mexico suggested that *El Universal* did not entirely agree with the new, post-Revolutionary government’s nationalist policies. This, in turn, would have hinted at a broader conservatism that wealthier Mexicans, presumably, would have appreciated. Advertisers in *El Universal*, therefore, found the presence of the English-language section a reassuring sign that they could reach a group of rich, powerful consumers.
 
 All this, in turn, means that the English-language section of the paper was not primarily intended as a news source, but more as a way for the paper to sell itself to readers and advertisers who would expect to find serious news in the paper’s main sections in Spanish.
 
-B. *Was this story important at the time?*  
+B. *Was this story important at the time?*<br>
 No other Mexico City newspaper covered this story; nor did it appear in the Spanish-language part of *El Universal*. This suggests that newspaper editors thought the story unimportant, that it appeared in the English-language supplement of *El Universal* only as entertaining “filler.” Just because this was a very minor piece of news in 1924, however, does not mean that the article lacks value as a historical source in the present day. Sometimes, placed in their proper context, short newspaper articles can serve as windows opening onto much larger historical vistas. The challenge is in deciding what the proper historical context might be.
 
-C. *How was this story related to other articles printed in the newspaper at roughly the same time?*  
+C. *How was this story related to other articles printed in the newspaper at roughly the same time?*<br>
 The story of Mexican officials refusing entry to a group of women from the United States was not typical of *El Universal*’s articles—neither those in the regular Spanish-language pages nor in the English-language supplement—in most respects. The paper did not ordinarily cover events at the border. Even if it did, the crossing between Matamorros and Brownsville was not an especially busy one and rarely warranted press attention. It was highly unusual for an article—even a short one—to report the deeds of consular officials so far from the capital. Similarly, tourism rarely received media attention in 1920s Mexico.
 
 The article, however, does fit neatly into a series of stories and images that seemed to fill the paper in the summer of 1924. There was a sudden rise of attention to women’s fashion, particularly those fashions that came from abroad and seemed to make women look masculine. The major issue of the time was the length of women’s hair, but other aspects of women’s appearance also caused controversy.
+
+![](/images/newsuniversalwomenflapper1.jpg)
 
 Stories and images about the trend for masculine-looking women’s attire sometimes appeared in the news—as when an Italian bishop announced, in April 1924, that short-haired women would not be offered communion in the churches of his parish, or in this article about women in “plus-fours” (short, baggy pants strapped tight just below the knee). More often, though, changing fashions appeared in newspaper advertisements (the image of a “modern,” cosmopolitan woman was used to sell everything from quack medicines to household appliances), in photographs depicting athletes, celebrities, and high-society functions, and in reviews of Italian, French, and U.S. silent movies about “flappers.”
 
 People around the world took an interest in this new vogue, but in Mexico it seemed especially important because of the recent Revolution. Women taking up masculine-seeming fashions symbolized larger change in women’s social roles and the opportunities available to women, which in turn was part of an even broader upheaval in social relationships caused by the Mexican Revolution. One of the reasons that this story from the border would catch a historian’s eye, then, is that it shows a representative of Mexico’s federal government opposing—rather than supporting—the new, “revolutionary” way in which some women were presenting themselves.
 
-D. *What was left out of the story? How can I find out more?*  
+D. *What was left out of the story? How can I find out more?*<br>
 This newspaper article is so brief that it raises more questions than it answers. Historians might want to work on three such questions when analyzing this story. First, what was going on in Brownsville and Matamorros at the time? Second, who was that consular official? Third, who were those women from Oklahoma who wanted to cross into Mexico?
 
 Looking in *El Universal* from the previous month begins to answer the first question. President Calles had visited the region and given a major speech that brought up, among other things, the issue of women’s roles in reconstructing Mexico after the Revolution. But once again this raises further questions. How did people in the area—on both sides of the border—respond to this speech? Did they even pay attention to it? What else was going on there? A more complete answer to the first question would require checking periodicals other than *El Universal*, especially newspapers from Brownsville and Matamorros.

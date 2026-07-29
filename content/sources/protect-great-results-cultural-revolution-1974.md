@@ -5,6 +5,7 @@ drupal_node_id: 69
 source_type: "Image"
 url: /protect-great-results-cultural-revolution-1974
 image: /images/jcm01_6f0baf7294.jpg
+image_alt: "Photo of Chinese women making art"
 regions: 
   - "Asia"
 subjects: 

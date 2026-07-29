@@ -6,7 +6,7 @@ url: /letters-marie-mancini
 image: /images/Screenshot_2021-06-28_at_16-50-34_Home_The_Letters_of_Marie_Mancini.png
 website_authors: "University of Idaho"
 reviewer: "Reviewed by Joanna Lee, Monash University"
-reviewed_url: "https://thecdil.github.io/mancini_source/"
+reviewed_url: "https://web.archive.org/web/20211023152448/https://thecdil.github.io/mancini_source/"
 pull_quote: "“The site’s great strengths currently lie in its annotated translations and ease of use, with the team having obviously given some thought to how users might want to explore these letters.”"
 how_to_cite: |
   "The Letters of Marie Mancini," in in World History Commons, https://worldhistorycommons.org/letters-marie-mancini [accessed April 8, 2026]

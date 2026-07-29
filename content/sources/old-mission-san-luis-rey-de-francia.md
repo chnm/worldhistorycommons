@@ -5,6 +5,7 @@ drupal_node_id: 2671
 source_type: "Image"
 url: /old-mission-san-luis-rey-de-francia
 image: /images/Mission_San_Luis_Rey_de_Francia_current.jpg
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

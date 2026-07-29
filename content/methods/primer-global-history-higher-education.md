@@ -23,6 +23,8 @@ related_sources:
   - link: "/map-land-grant-new-zealand-university-1873"
     image: "/images/EndowmentTHUMB.png"
     alt: "Map of North Island of Aotearoa New Zealand outlines the lands that surround the Kimihia and Hakanoa Lakes."
+how_to_cite: |
+  "Primer: A Global History of Higher Education," in World History Commons, https://worldhistorycommons.org/primer-global-history-higher-education [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -57,17 +59,23 @@ Universities after 1850 increasingly engaged with a globalizing world. For many 
 
 ![Map of Land Grant for New Zealand University, 1873](/images/EndowmentTHUMB.png)
 
+#### Annotation
+
 Depicting the North Island of Aotearoa New Zealand, this map outlines the lands that surround the Kimihia and Hakanoa Lakes in the Waikato Region. Small plots of land, 50 acres each, are demarcated and assigned to various landholders. Running parallel to these plots is the Waikato River, the map’s westernmost feature. Along its eastern edge are most of the demarcated plots, each one named and numbered for an intended buyer or lessee. Names such as “Jackson” or “McKinley” fill the map, creating a patchwork of named, blocked-shaped properties. But the map’s largest feature, hundreds of acres in size, is labelled “Endowment for Colonial University”. Such a substantial block of land would not only have been greater than the size of a university’s campus, but it was also located in the Waikato – hundreds of miles away from Christchurch, the principal site of the University of New Zealand (UNZ), and from any of the UNZ’s constituent colleges.
 
 We tend to think of universities as distinctive, place-based communities. Possibly the longest-lasting myth of the “land-grant university” is that its operations existed in one place – usually the university’s host city or campus. Yet as these maps reveal, the territorial reach of early universities in Anglo-American settler societies extended far beyond their campuses. Fledgling public universities – especially in Canada, New Zealand, and the United States, but also in Australia and South Africa – received substantial blocks of expropriated Indigenous territory as financing from their governments in the nineteenth century (Harvey 2021). These lands, millions of acres altogether, could then be leased or sold to raise universities’ endowment capital.
 
 Produced in 1873, the “New Zealand University” map was sent from the Registrar of the UNZ to the office of New Zealand’s colonial secretary. At this time, New Zealand was a British colony of settlement, having officially become a settler colony with the signing of the Treaty of Waitangi between the British Crown and Maori chiefs in 1840. New settler-governments like the one in New Zealand hoped to build churches, schools, and other social institutions to cement their connection to the lands they occupied. But they were cash poor. Accordingly, this map exposes one mechanism through which certain settler governments, including those in New Zealand, raised new institutions’ endowment capital. Land leases, mortgages, and using land as collateral for loans were not the only financing strategies of public universities, but they were significant ones.
 
-This pattern of institutional development, furthermore, was not unique to New Zealand. Other colonies of settlement once within, or formerly within, the British Empire – especially Canada and the United States – similarly relied upon Indigenous land to fund higher education. Educationalists within these places communicated with one another, usually through letters and colonial newspapers, and compared institutional funding models. Intercolonial learning was central to the spread of this form of institutional financing. Settlers who were oceans apart faced similar challenges – from being cash-poor to attracting students – and relied upon imperial networks to surmount them. By the nineteenth century, the relationship between universities and landholding was longstanding, drawing inspiration from the land ownership practices of the universities of Oxford and Cambridge.
+This pattern of institutional development, furthermore, was not unique to New Zealand. Other colonies of settlement once within, or formerly within, the British Empire – especially Canada and the United States – similarly relied upon Indigenous land to fund higher education. Educationalists within these places communicated with one another, usually through letters and colonial newspapers, and compared institutional funding models. Intercolonial learning was central to the spread of this form of institutional financing. Settlers who were oceans apart faced similar challenges – from being cash-poor to attracting students – and relied upon imperial networks to surmount them. By the nineteenth century, the relationship between universities and landholding was longstanding, drawing inspiration from the land ownership practices of the universities of Oxford and Cambridge. <br>
+<br>
+This source is part of the [global history of higher education methods primer](https://worldhistorycommons.org/primer-global-history-higher-education).
 
 ### [Map of Land Grant for Cornell University, 1877](/map-land-grant-cornell-university-1877)
 
 ![Map of Land Grant for Cornell University, 1877](/images/CornellTHUMB.png)
+
+#### Annotation
 
 Similar to the [New Zealand land grant](https://worldhistorycommons.org/map-land-grant-new-zealand-university-1873), yet within a distinct political context, the development of land-grant universities in the United States followed and encouraged an institutional financing model based upon Indigenous land acquisition, leasing, and sale. The second map/image shows two snapshots from a “Map Showing Cornell University Lands in Wisconsin for sale”. Published in 1877, this map imposes a grid over top of the depicted timberland regions of northern Wisconsin. The title’s subtext notes that “those desiring information in regard to these Lands with a view of purchasing any portion thereof will apply to the Treasurer of Cornell University, Ithaca, N.Y. or to the University Land Agency at Eau Claire, Wis.” Much of the land shown, distant from New York, had been purchased on the institution’s behalf by Cornell’s namesake and businessman, Ezra Cornell. Under the Morrill Act of 1862, the U.S. federal government apportioned public lands to each state to fund an institution of higher learning, equivalent to “thirty thousand acres for each senator and representative in Congress” (Enrolled Acts and Resolutions of Congress 1862). Educationalists like Cornell thus exercised considerable power to select and act as stewards over federally-granted university lands.
 
@@ -81,6 +89,8 @@ This source is part of the [global history of higher education methods primer](h
 
 ![“The South African College and Its ‘Old Boys,’” 1886](/images/South_African_College_1886_THUMB.png)
 
+#### Annotation
+
 The 1886 article, “The South African College and Its ‘Old Boys’,” provides an example of how universities extended their influence within an empire (or globally) through alumni and their expertise. Founded in 1821, the South African College (SAC) first assumed the functions of a grammar school, training an Afrikaner and English “settler elite”, before evolving into the University of Cape Town in 1918. This *Colonies and India* article gestures to the College’s significance as a socialization ground for elites and as a pipeline to sociopolitical power in South Africa, and beyond it. It advertises the formation of an “Old Boys’ Club” that might interest its alumni in South Africa, but also “in London and in other parts of the world”.
 
 “Old boys”, a term used in Britain, the United States, and British settlement societies, referred to the male alumni of a particular institution, whether at a secondary or tertiary level. These “boys” typically held gatherings, banquets, club events, and scholarship fundraisers, such as the London meeting presided over by Sir Henry De Villiers. Other examples of these types of gatherings include the functions of the “old boys” of the Diocesan College at the University of Stellenbosch or the London events of the “Association of Old Belfastmen”. In common with the labels of “Harvard man”, “Yale Man”, and “Oxford Man”, the ‘old boys’ designation carried strong class and status connotations (Dooling 2005; Tyler 1896). The social relations and networking among male university graduates were essential to forming elites across generations.
@@ -88,7 +98,6 @@ The 1886 article, “The South African College and Its ‘Old Boys’,” provid
 Sources like this article, therefore, urge us to examine the role of universities not only in national contexts, but in international and imperial ones as well. Transnational networks of graduates and expertise were a source of institutional strength, as the achievements and money of university graduates filtered back to the university. At the same time, and as the historian Tamson Pietsch has argued in relation to academic networks in the British Empire, the formal and informal associations of university alumni “crystallized imperial bonds” across tremendous distances and became a source of imperial power (Pietsch 2013). Graduates in engineering, agriculture, mining, and medicine could repurpose the knowledge they had gained at universities in service of an industry, nation, or empire. Studying the impact of “old boys’ clubs” beyond the university, or how graduates applied information and curricula learned in one context to their professional work in different one, can help us to explore larger historical questions about knowledge transfer, globalization, and forms of imperialism.
 
 This source is part of the [global history of higher education methods primer](https://worldhistorycommons.org/primer-global-history-higher-education).
-
 
 ## Bibliography
 
@@ -114,7 +123,7 @@ Henderson, Victor. “Sunset: A Magazine of the Border.” Item 12, 1902. *Pamph
 
 ---
 
-“Registrar of New Zealand University, Christchurch to Colonial Secretary, Wellington.” 19 May  
+“Registrar of New Zealand University, Christchurch to Colonial Secretary, Wellington.” 19 May<br>
 1873. Record 1873/1643. Ref. IA1 354. Item 14. Archives New Zealand Te Rua Mahara o te Kāwanatanga, Wellington.
 
 ---

@@ -5,6 +5,7 @@ drupal_node_id: 2617
 source_type: "Text"
 url: /islam-ebb
 image: /images/Alff-Islam_on_the_Ebb__Primary_Source.jpg
+image_alt: "Islam on the ebb image of text. transcription below"
 regions: 
   - "Middle East"
 subjects: 

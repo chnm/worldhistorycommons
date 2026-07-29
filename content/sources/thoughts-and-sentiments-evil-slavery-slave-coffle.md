@@ -5,6 +5,7 @@ drupal_node_id: 1314
 source_type: "Text"
 url: /thoughts-and-sentiments-evil-slavery-slave-coffle
 image: /images/Icons-Book-Excerpt_14.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Africa"
 subjects: 

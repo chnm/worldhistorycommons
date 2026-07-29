@@ -5,6 +5,10 @@ drupal_node_id: 1080
 source_type: "Image"
 url: /louis-drunkard
 image: /images/f71b2b5344a3ddc6b27cfdb3b345f6c1.jpg
+image_alt: "Engraving of King Louis XVI as a drunkard"
+additional_images:
+  - src: "/images/source-media/1080/fd02160427b6290ce3b102ba37bf4205.jpg"
+    alt: "Engraving of King Louis XVI as a drunkard"
 regions: 
   - "Europe"
 subjects: 

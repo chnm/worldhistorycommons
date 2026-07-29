@@ -5,6 +5,7 @@ drupal_node_id: 1089
 source_type: "Image"
 url: /queen-exhausted
 image: /images/58d208d28e5eaf8b5a8eebc19f1914e0.jpg
+image_alt: "Engraving of Marie Antoinette"
 regions: 
   - "Europe"
 subjects: 

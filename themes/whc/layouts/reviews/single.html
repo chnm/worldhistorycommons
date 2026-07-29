@@ -2,7 +2,11 @@
 <div class="content-well">
   <div class="col--2-3">
     <div>
-      <a href="{{ .Params.reviewed_url }}" class="content-header review-header">
+      {{ with .Params.reviewed_url }}
+      <a href="{{ . }}" class="content-header review-header">
+      {{ else }}
+      <div class="content-header review-header">
+      {{ end }}
         <div class="content-header--label">Website Review</div>
         <h1>{{ .Title }}</h1>
         {{ with .Params.website_authors }}
@@ -10,8 +14,13 @@
           <div>{{ . }}</div>
         </div>
         {{ end }}
+      {{ with .Params.reviewed_url }}
       </a>
+      {{ else }}
+      </div>
+      {{ end }}
 
+      <h2 class="visually-hidden">Review</h2>
       <div class="review-well">
         {{ .Content }}
       </div>
@@ -35,7 +44,7 @@
 
     <div class="pull-quote--sidebar">
       {{ with .Params.image }}
-      <img src="{{ . }}" alt="">
+      <img src="{{ . }}" alt="Screenshot of {{ $.Title }}">
       {{ end }}
       {{ with .Params.pull_quote }}
       <div class="quote">{{ . }}</div>

@@ -5,6 +5,7 @@ drupal_node_id: 3033
 source_type: "Image"
 url: /nok-terracotta-sculptures
 image: /images/Africa_Nok_Male_Figure_Kimbell_0.jpg
+image_alt: "A terracotta sculpture of a male figure with defined facial features, a hairstyle with multiple buns and caps over the ears, and numerous necklaces and other jewelry. He is broken off at the waist."
 regions: 
   - "Africa"
 subjects: 

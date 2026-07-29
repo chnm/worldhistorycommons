@@ -5,6 +5,7 @@ drupal_node_id: 363
 source_type: "Image"
 url: /meiji-era-school-attendence
 image: /images/meiji-era-school-attendance.png
+image_alt: "Table of Meiji Era School Attendance"
 regions: 
   - "Asia"
 subjects: 

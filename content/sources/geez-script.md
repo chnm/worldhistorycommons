@@ -5,6 +5,7 @@ drupal_node_id: 3054
 source_type: "Image"
 url: /geez-script
 image: /images/WHC_geez.png
+image_alt: "Black consonant letters from the Ge'ez script against a white background. There are 26 letters in three rows."
 regions: 
   - "Africa"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 2788
 source_type: "Text"
 url: /invoice-goods-shipped-new-orleans-matamoros-mexico-1847
 image: /images/ThornInvoice.jpg
+image_alt: "Handwritten invoice listing items and costs. Transcription below."
 regions: 
   - "North/Central America"
 subjects: 

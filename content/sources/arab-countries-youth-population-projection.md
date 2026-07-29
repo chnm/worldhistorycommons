@@ -5,6 +5,7 @@ drupal_node_id: 1430
 source_type: "Text"
 url: /arab-countries-youth-population-projection
 image: /images/arab_population.PNG
+image_alt: "image of the Arab Countries Youth Population statisitics"
 regions: 
   - "Middle East"
 subjects: 

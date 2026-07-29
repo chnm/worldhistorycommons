@@ -5,6 +5,7 @@ drupal_node_id: 1299
 source_type: "Text"
 url: /puerto-rican-labor-movement-official-document-sterilization-0
 image: /images/Icons-Document_125.jpg
+image_alt: "document icon"
 regions: 
   - "North/Central America"
 subjects: 
@@ -49,3 +50,29 @@ He also asked Sierra for facts about unemployment among 4th year graduates, beca
 3. Sterilization  
 The Governor asked Moscoso about the allegation of Ferré that some of the industries of Cayey refused to employ women that were not sterilized. Moscoso informed him that the Industrial Association has proposed to respond to Ferré in the newspapers.  
 Independently of what the Industrial Association does, the Governor asked Cancio for a report on sterilization laws, and Salud for a report on the practice and regulation on this issue. Salud should also report on ways to gain information on.
+
+## Translation
+
+CONFIDENCIAL  
+DECISONES REUNIÓN DE GABINETE, DE 6 DE OCTUBRE  
+Presupuesto preparar estadísticas sobre los ingresos gubernamentales recogidos mediante contribución sobre ingresos de la década 1930-40 y también las economías resultantes de la vez que los Republicanos rebajaron los sueldos a los maestros y otros funcionarios públicos.  
+Presupuesto comparar el presupuesto hecho en el 1940 por el PER y el presupuesto del 1941 hecho bajo el PPD.  
+Sierra escribirá una explicación sobre las diversas formas que existen para recoger estadísticas sobre desempleo y como el sistema usado en Puerto Rico se diferencia del sistema usado en los Estados Unidos.  
+Sierra enviará datos sobre desempleo entre los graduados de cuarto año.  
+Cancio hará un informe sobre las leyes que cubren la esterilización.  
+Salud hará otro sobre cuál ha sido la práctica y la reglamentación sobre este asunto y sobre las formas de preveer información en cuanto a contraceptivos, específicamente a quién se le da.  
+Departamento de Justicia deberá preparar legislación prohibiendo el discrimen en los empleos contra mujeres no esterilizados.  
+Justicia preparar enmienda a Ley sobre fondos electorales para que candidatos ricos no pueden gastar de su propio bolsillo por encima de la limitación de $300.  
+Agricultura enviará datos abundantes para refutar la alegación de que el PPD he abandonado y perseguido a la agricultura.  
+Moscoso enviará declaraciones de expertos a la industria del azúcar señalando negligencia de parte de los productores de azúcar puertorriqueños en dedicar más fondos a labores de investigación.  
+Rafael Torrogrosa  
+Algunos de los asuntos que se señalaron como que pueden surgir o deberán mencionarse en el debate fueron los siguientes:  
+1. Argumento del PER de que no contaron con suficientes fondos durante sus 8 años de gobierno.  
+El Gobernador señaló que el PER ha estado usando este argumento como excusa por lo paso que hizo durante su estadía en el Gobierno. Los contraargumentos son que ellos tuvieron en fondos especiales más dinero del que reclaman y que además no recogieron lo que podían a base de contribuciones sobre ingreso personal. Solicitó estadísticas sobre los ingresos gubernamentales recogidos mediante dicha contribución y también las economías resultantes de la vez que rebajaron los sueldos a los maestros y a otros funcionarios públicos.  
+Como una demostración de la forma en que se podía gobernar favoreciendo el desarrollo económico y protegiendo a las clases necesitadas, se mencionó que debe ser interesante comparar el presupuesto hecho en 1940 por el PER y el presupuesto del 1941 hecho bajo el PPD.  
+2. Desempleo.  
+Ferré alega que hay 90,000 desempleados actualmente y el Gobernador preguntó cuán cierta la dicha cifra. Sierra dijo que dicha alegación era falsa y explicó las diversas formas que existen para recoger estadísticas sobre desempleo y cómo el sistema usado en Puerto Rico se diferencia de un sistema usado en los Estados Unidos. El Gobernador le pidió que le escribiera una explicación sobre esto.  
+También solicitó de Sierra datos sobre desempleo entre los graduados de cuarto año, por que tiene la impresión de que son estos jóvenes quienes tienen menos oportunidades de trabajo y por lo tanto emigran.  
+3. Esterilización.  
+El Gobernador le preguntó a Moscoso sobre la alegación de Ferré de que algunas industrias de Cayey se negaban a emplear a mujeres que no estuviesen esterilizadas. Moscoso informó que la Asociación de Industriales se propone contestarle a Ferré en los periódicos.  
+Independientemente de lo que haga la Asociación Industrial, el Gobernador solicitó de Cancio un informe sobre las leyes que cubren la esterilización y a Salud cuál ha sido la práctica y la reglamentación sobre este asunto. También Salud debe informar sobre las formas de proveer información en cuanto a …

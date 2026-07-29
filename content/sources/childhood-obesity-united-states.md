@@ -5,6 +5,7 @@ drupal_node_id: 1432
 source_type: "Image"
 url: /childhood-obesity-united-states
 image: /images/map.PNG
+image_alt: "image of the map on child obesity"
 regions: 
   - "North/Central America"
 subjects: 

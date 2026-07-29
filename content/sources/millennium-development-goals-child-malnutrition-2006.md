@@ -5,6 +5,7 @@ drupal_node_id: 59
 source_type: "Image"
 url: /millennium-development-goals-child-malnutrition-2006
 image: /images/10mdg-child-nutrition-2009_641267236e.jpg
+image_alt: "Chart of Child Malnutrition"
 regions: 
   - "Comparative"
   - "Global"

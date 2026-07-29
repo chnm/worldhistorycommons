@@ -14,6 +14,8 @@ related_sources:
   - link: "/immigrant-crossing-road-sign"
     image: "/images/immigrant_crossing_san_diego-thumbnail.jpeg"
     alt: "Thumbnail image of Immigrant Crossing Road Sign"
+how_to_cite: |
+  "Primer: Migration and Diaspora in World History," in World History Commons, https://worldhistorycommons.org/primer-migration-and-diaspora-world-history [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -40,11 +42,12 @@ However, the significance of diaspora financial and social remittances has also 
 
 ![Immigrant Crossing Road Sign](/images/immigrant_crossing_san_diego-thumbnail.jpeg)
 
+#### Annotation
+
 Interstate 5 runs from the Mexican/U.S. border crossing at San Ysidro, California, to the Peace Arch Crossing into Canada at Blaine, Washington. This official yellow warning road sign is posted along Interstate 5 near the San Ysidro crossing and north of San Diego. The sign shows a man and a woman running as the woman pulls a girl with pigtails along, her feet barely touching the ground. San Ysidro is the world's busiest land border crossing, with more than 17 million vehicles and 50 million people crossing legally in 2005. The California Department of Transportation, or Caltrans, developed this warning sign after more than 100 undocumented immigrants were killed on the highway, especially near border control points. After trying a wordy and ineffective sign that read, "Caution Watch for People Crossing Road," Caltrans assigned graphic artist John Hood, a Vietnam veteran of Navaho parentage, to develop the new sign. Posted in 1990, it quickly became a cultural icon for those who tolerate and those who oppose immigration, both legal and illegal.
 Migration in borderlands such as the California/Mexico crossing have attracted academic attention as a phenomenon of globalization. In 1990 and 1991, almost 3.5 million immigrants were admitted legally to the United States—a number larger than at any previous point in American history, and as of 2009, over 25 million people in the U.S. are foreign born, excluding illegal immigrants. In some urban Southern California counties, the majority of residents are immigrants, and many of these are children who require schooling, health care, and other services. Academic study of immigration tracks both the reception of immigrants among the resident population, and the interaction of the immigrants with the destination country. Of the 24 million Americans in the United States today who migrated since 1960, 40% came as children.
 The phenomenon of migration is as old as the evolution of human beings, which predates even the concept of world history. The interlocking relationship between human evolution, migration and the diaspora is best understood through the migratory nature of humans; a significant epoch in world history. The scientific evolution of humans, beginning with the oldest man-ape; Homo Habilis, Homo Erectus, Homo Heidelbergensis to the modern Homo Sapiens all reflected the necessity of migration for survival and security. The United States of America has been known as the world largest migrant destination which hosts a conglomerate of world migrant communities from Asia, Africa, Europe and the Middle East.
 This source is a part of the [*Primer: Migration and Diaspora in World History*](https://worldhistorycommons.org/primer-migration-and-diaspora-world-history) methods module.
-
 
 ## Credits
 

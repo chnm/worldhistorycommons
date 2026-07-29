@@ -5,6 +5,7 @@ drupal_node_id: 1508
 source_type: "Text"
 url: /rise-right-leading-coup-18-fructidor-proclamation-9-september-1797
 image: /images/Icons-Document_279.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

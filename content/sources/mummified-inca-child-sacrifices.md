@@ -5,6 +5,7 @@ drupal_node_id: 101
 source_type: "Image"
 url: /mummified-inca-child-sacrifices
 image: /images/inca_children_mummies_a7ff687dad.jpg
+image_alt: "Photos of mummified remains of an Incan child"
 regions: 
   - "South America"
 subjects: 

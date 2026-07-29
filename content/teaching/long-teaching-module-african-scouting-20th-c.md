@@ -27,6 +27,8 @@ related_sources:
   - link: "/new-development-scout-movement-south-africa"
     image: "/images/Icons-Article-Excerpt-thumbnail_8.jpg"
     alt: "thumbnail of the article"
+how_to_cite: |
+  "Long Teaching Module: African Scouting (20th c.)," in World History Commons, https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -65,6 +67,8 @@ Despite the challenges they posed during the 1950s, most territorial scout assoc
 
 ![The Scouts' War Dance: Sir Robert Baden Powell's adaptation of a Zulu chant](/images/Icons-Document-thumbnail_164.jpg)
 
+#### Annotation
+
 Like much of the public in turn-of-the-century Britain, Baden Powell was fascinated by "primitive" cultures. Although he claimed an expert knowledge of Africa from his service in colonial wars, Baden Powell was hardly an authority on Zulu customs. This did not matter, because metropolitan Britons were almost entirely ignorant of African institutions. Nevertheless, they were fascinated by romanticized depictions of their new colonial subjects in the popular press, juvenile literature, and memoirs of colonial war heroes. While they were confident in their cultural superiority, the British came to believe that African peoples like the Zulu preserved the simpler, savage, but nobler qualities that seemed to be disappearing from modern industrial society.
 Baden Powell built popular support for the scout movement by tapping into these sentiments. He claimed to have based scout ranks on Zulu age grades and used an Ndebele "war horn" to call his scouts to order. His "scout war dance" combined what he professed to be a Zulu military chant (the "Een-Gonyama song") with made up dancing and his "Be-Prepared chorus." The odd ritual was just the sort of thing that Edwardian schoolboys loved for it allowed them to play at being Africans in a thoroughly modern context.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
@@ -73,12 +77,16 @@ This source is a part of the [*African Scouting (20th c.)*](https://worldhistory
 
 ![Organization of British Imperial Scouting](/images/scout-organization-table.jpg)
 
+#### Annotation
+
 This chart shows the official lines of authority in the imperial Boy Scout movement. In theory, the Imperial Scout Headquarters had direct control over local versions of scouting through its territorial associations. Scouting was like a secular religion, with Baden Powell as its prophet-like founder whose writings were the core of the scout canon and whose personal example was the guide for model behavior. Territorial scout associations around the world were like national churches that could make alterations to the movement within the limits of scouting orthodoxy. At the local level, troops were the congregations who put core scout values into practice. Local versions of scouting resulted from the blending of scouting orthodoxy and community values. In some cases these adaptations had the full blessing of the Imperial Scout Headquarters. For example, scouting allowed religious institutions to create "closed" troops solely for the members of their congregations. However, local communities sometimes made alterations to the scout canon that the scout authorities considered unacceptably heretical. This was the case in colonial Africa where nationalists, independent schools, churches, and outright imposters often took over the movement for their own purposes.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
 
 ### [An Appeal for African Scouts: Canon William Palmer to Imperial Scout Headquarters](/appeal-african-scouts-canon-william-palmer-imperial-scout-headquarters)
 
 ![An Appeal for African Scouts: Canon William Palmer to Imperial Scout Headquarters](/images/Icons-Document-thumbnail_163.jpg)
+
+#### Annotation
 
 Almost immediately after learning of Baden Powell's creation of the Boy Scout Movement in 1907, the leaders of African and ethnically mixed communities (known as "Coloureds" in South Africa) began to found their own informal scout troops. The South African scout authorities refused to recognize these unsanctioned troops as scouts on the grounds that Afrikaner boys would not join a multi-racial organization. But they also worried that the general public would not be able to tell the difference between African boys dressed as scouts and "real" scouts. The South African Scout Association therefore insisted that non-European boys could only belong to a separate "Pathfinder movement" that was under its control but wore a distinctly different uniform.
 European teachers, missionaries, and church leaders like Canon Palmer sponsored most of these Pathfinder troops at African and Coloured schools. While Palmer makes an impassioned plea for the Imperial Scout Headquarters to recognize the Pathfinders as Scouts in pointing out its failure to live up to its own rhetoric of equality, he did not call for the admission of Africans, Coloureds, and Indians to European scout troops. During this period, "liberal" South Africans like Palmer tended to believe that Africans were inherently backwards and still unprepared to enter the "modern" world on equal terms. Instead of calling for equal rights for all South Africans, they strove to ensure that Africans received fair treatment in a segregated society. Liberals like Palmer believed that a "civilizing" form of adapted scouting like the Pathfinder movement would help prepare Africans for full citizenship at some point in the undefined future.
@@ -88,12 +96,16 @@ This source is a part of the [*African Scouting (20th c.)*](https://worldhistory
 
 ![A New Development in the Scout Movement in South Africa](/images/Icons-Article-Excerpt-thumbnail_8.jpg)
 
+#### Annotation
+
 This article by Baden Powell in a 1936 issue of the Journal of the Royal African Society refers to the compromise in South Africa that split scouting into four racially based "sections": European, Coloured, Indian, and African. Bringing the African Pathfinders into scouting as an affiliated organization allowed white scout officials to control this potentially subversive and embarrassing youth organization without having to grant them equal status in the movement. Baden Powell's refusal to adhere to his own Fourth Scout Law, "A scout is a brother to every other scout," furthered his primary goal of linking the movement to political authority in South Africa. His excuse that white parents, particularly Afrikaner parents, would withdraw their sons if Africans became full scouts exposed the limits of scout ideology. Far from being a force for justice and social change, Baden Powell depicted scouting as a way to defuse "race consciousness" and teach non-Europeans to accept their subordinate place in segregated South African society.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
 
 ### [Pathfinder Warrant](/pathfinder-warrant)
 
 ![Pathfinder Warrant](/images/pathfinderwarrant.jpg)
+
+#### Annotation
 
 Imperial scout headquarters and the national and territorial scout associations were deeply concerned with ensuring that only respectable and responsible men became scoutmasters. In colonial Africa, this meant that potential scoutmasters had to also respect the political realities of European minority rule. As in Great Britain, acceptable candidates received a "warrant" from the territorial scout association permitting them to form and lead scout troops. In Africa, the warrant system was particularly useful in preventing unauthorized Africans from founding their own versions of the movement.
 More often than not, as was the case with this warrant for a South African Pathfinder troop, the scoutmasters were missionaries, teachers, or both. Dating from 1938, two years after the compromise that produced the four racially-segregated sections of South African scouting, the document incorporates both the Pathfinder arrow symbol and the official scout badge. However, the fact that it was issued by the "Pathfinder Boy Scouts Association of the Union of South Africa" sent a clear message that the Pathfinders were separate and distinct from mainstream scouting.
@@ -103,6 +115,8 @@ This source is a part of the [*African Scouting (20th c.)*](https://worldhistory
 
 ![The Scout's and King's African Rifles Uniforms](/images/scouts-soldiers_201c1533f5THUMB.jpg)
 
+#### Annotation
+
 The top photograph shows members of a South African scout troop specifically for blind adolescents and young men c.1950. The bottom photograph is of non-commissioned officers from the King's African Rifles in the mid-1950s. Note that both groups wear similar clothing consisting of khaki shirt and shorts, knee-length socks, clasp belts, and wide brimmed hats. The similarities are not accidental. Baden Powell based the scout uniform on the uniform of the South African Constabulary, a paramilitary police organization he founded after the Anglo-South African War. British colonial military and police forces throughout the world wore similar khaki clothing.
 Although scouting had its own specific badges and insignia, the African civilian population understandably had a difficult time distinguishing Boy Scouts from soldiers and policemen. This allowed scouts and men and boys dressed as scouts to pose as policemen and other representatives of the colonial state. Scout leaders and government officials were understandably concerned and upset by this misappropriation of the scout uniform.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
@@ -111,12 +125,16 @@ This source is a part of the [*African Scouting (20th c.)*](https://worldhistory
 
 ![Legal Protection for Scout Uniform, 1935: Tanganyika Government Ordinance](/images/Icons-Document-thumbnail_162.jpg)
 
+#### Annotation
+
 Many African boys, teachers, and community leaders were genuinely inspired by scouting and founded their own unauthorized independent troops. In other cases, individuals dressed as scouts to claim the benefits of belonging to the movement. Scout leaders and government officials in East Africa paid little attention to these informal adaptations of scouting, but they became alarmed when dance societies in Mombasa began to use Scout uniforms in the early 1930s. These decidedly adult celebrations often included drinking and other forms on inappropriate revelry. Scout leaders lobbied the colonial authorities to crack down on scout impersonators, but at the time there were no laws against the unauthorized use of scout materials in the East African colonies. This legislation from Tanganyika (modern Tanzania) gave the territorial scout association sole legal control over the scout uniform and badges. From 1935 on, Africans who impersonated scouts or formed unauthorized troops faced a stiff fine and one month of jail time at hard labor.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
 
 ### [A Rover Scout "Journey"](/rover-scout-journey)
 
 ![A Rover Scout "Journey"](/images/Icons-Article-Excerpt-thumbnail_7.jpg)
+
+#### Annotation
 
 Rover scouting was a branch of the movement for young men in their late teens and early twenties who were too old for regular scout troops but wished to maintain their ties to scouting. It stressed service and leadership while offering a measure of vocational training. South Africa was the only English-speaking African territory in the colonial era to support African rover "crews." Nevertheless, rovering was well suited to African schools where students tended to be older and thus ineligible to join conventional scout troops. One of the central features of the scout and rover curriculum was the "journey" in which a young man learned to be resourceful while traveling by himself in strange and unfamiliar territory. For younger scouts the journey usually took the form of a hike in the country, but Bethuel Mofokong traveled for almost three days by foot, bus, and ferry while journeying from one school to another. Although he does not mention it, the trip must have been particularly difficult in apartheid-era South Africa when the authorities placed strict controls on African travel. It is more than likely that Mofokong's rover uniform made the journey possibly by demonstrating to policemen, officials, and members of the white public that he could be trusted.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
@@ -125,12 +143,16 @@ This source is a part of the [*African Scouting (20th c.)*](https://worldhistory
 
 ![The Interrelation of Colour](/images/Icons-Document-thumbnail_134.jpg)
 
+#### Annotation
+
 By 1969, international public opinion had begun to turn against the apartheid policies of the white minority regime in South Africa. This included leaders of the international scout movement who had originally been relatively sympathetic to the South African scout authorities' claim that they had no choice but to respect their government's racial policies on the grounds that the Second Scout Law ordered them to be loyal. This statement on the "Interrelation of Colour" was a senior European scout official's attempt to portray the four segregated South African scout "sections" (European, African, Coloured, Indian) as separate but equal. His reference to "race purity and race pride" as virtues is indicative of the attitudes of the South African scout leadership during this period. Also note that while the European, Coloured, and Indian sections all followed essentially the same policies, the African organization had a separate training curriculum "better suited to the background of the African boy." This shows that the South African Scout Association still did not believe that Africans could become fully-fledged scouts or join "modern" South African society on equal terms.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
 
 ### [Mau Mau Fighters in Scout Uniforms](/mau-mau-fighters-scout-uniforms)
 
 ![Mau Mau Fighters in Scout Uniforms](/images/mau-mau-scouts_8f27ead820THUMB.jpg)
+
+#### Annotation
 
 In the early 1950s, tens of thousands of poor and landless Kikuyus revolted against the Kenyan colonial government and wealthy members of their own community who were allied with the British regime. Known as the "Mau Mau Emergency," this rebellion was one of the most serious threats to British rule in Africa. The widespread lawlessness of the Emergency inspired many young Africans to dress as scouts. The uniform gave them extra security because school officials and policemen assumed they were trustworthy, which helps to explain why the security forces captured and killed Kikuyu guerillas dressed as scouts.
 This photograph shows a mixed-sex guerilla band led by a man wearing a scout-type shirt with scout badges running down his sleeves. Obviously staged, it was most likely taken well after the end of the Emergency in the early 1960s to remind Jomo Kenyatta’s incoming African nationalist government that it had to pay attention to the plight of impoverished young Kikuyu if it wanted to keep the peace. It is also possible, however, that Mau Mau units like these used scout uniform and decorations as symbols of authority within the rebel forces.
@@ -140,9 +162,10 @@ This source is a part of the [*African Scouting (20th c.)*](https://worldhistory
 
 ![Scouting – Helping to Prepare Leaders of Tomorrow](/images/Icons-Article-Excerpt-thumbnail_6.jpg)
 
+#### Annotation
+
 Jeremiah (J.J.M.) Nyagah was one of the most senior African members of the Kenya Boy Scout Association during the colonial era. Trained as a teacher, after independence he entered politics and became a cabinet minister in Jomo Kenyatta's government. He was therefore a logical choice to assume the largely ceremonial role of Chief Scout Commissioner. As the leader of Kenyan scouting, he had the difficult task courting of Kenyatta. The first African ruler of Kenya initially had little love for the movement because European scout leaders had falsely portrayed him as the sinister leader of the anti-colonial Mau Mau rebellion. This 1971 article from the East African Standard shows how Nyagah successfully recast the scout movement as an African institution and a force for national, economic, and social development. In using the Swahili phrase udongo upate uli maji, which means "work the clay while it is still wet," he argued that scouting was a way to prepare Kenyan youth for the challenges of the future and citizenship in the independent Kenyan nation.
 This source is a part of the [*African Scouting (20th c.)*](https://worldhistorycommons.org/long-teaching-module-african-scouting-20th-c) teaching module.
-
 
 ## Teaching Strategies
 
@@ -157,7 +180,7 @@ Discussion Questions
 
 ## Lesson Plan
 
-Lesson Plan: ".. . And a Brother to Every Scout."  
+Lesson Plan: ".. . And a Brother to Every Scout."<br>
 by Elizabeth Ten Dyke
 
 Time Estimated: three 50-minute classes
@@ -181,17 +204,17 @@ Explain how a cultural tradition (scouting) can express social conflict and poli
 - Blank paper
 - Colored pencils
 
-Preparation  
+Preparation<br>
 Take the "Introduction" to this module and cut it into five sections—two paragraphs per section. Attach each section to a sheet of chart paper. Label the charts A through E. Post the chart paper around the room, or set each on a different desk or table.
 
-Day One  
-Hook  
+Day One<br>
+Hook<br>
 Introduce the lesson by asking the students, "What do you think of when you think of the Boy Scouts?" Students may think of the uniforms of scouting, the rules and traditions, loyalty, activities such as camping, and awards including Eagle Scouts. They may mention Christian and anti-gay aspects of the scouting movement. Particularly if these subjects come up, ask students to speculate about how or why scouting has become an activity mired in disagreements about moral issues in our society today.
 
-Instruct  
+Instruct<br>
 Explain to students that they will learn about the history of the Boy Scouts (when, where, and why it was founded). They will study primary sources that illustrate some of the tensions and conflicts that occurred when scouting expanded into colonial Africa. This lesson will help students see how cultural traditions can reflect complicated social situations in which different groups of people express disagreement and exercise competing interests.
 
-Activity  
+Activity<br>
 Give each student a complete copy of the introduction. Break the students into five groups, one at or near each poster. Assign each group the two paragraphs of reading that correspond to their poster. After they have completed their reading, they should make a bulleted list on the chart paper in which they outline the main ideas of the assigned passage. Have each group present their summary in turn. Students who are listening as others speak should take notes on the material.
 
 Discussion Questions
@@ -202,10 +225,10 @@ Discussion Questions
 * Chart D (paragraphs 7, 8): Which young people were targeted for the African scouting movement? Why them? Give two examples of how "Africans . . . used scouting to claim the rights of full citizenship."
 * Chart E (paragraphs 9, 10): How did scouting become involved in the 1950 Mau Mau rebellion in Kenya? Explain what happened to African scouting after British colonial rule came to an end. Did scouting come to an end as well? Why or why not?
 
-Homework  
+Homework<br>
 Working from their class notes, students should summarize information about how the basic values and goals were part of the Boy Scout movement early on. They should describe the goals of British colonial authorities as scouting was brought into Africa, and they should give one example of the way in which the Scouts went against British power.
 
-Day Two  
+Day Two<br>
 Activity #1
 
 * Distribute copies of primary source: The Scouts' War Dance--Baden Powell's adaptation of a Zulu chant, c. 1910
@@ -234,7 +257,7 @@ Using a pen, pencil, or highlighter, underline passages in the letter that answe
 * What were they allowed to do?
 * What are three points the author makes to demonstrate that this is unfair?
 
-Homework  
+Homework<br>
 Respond in writing to the following question: "What does this conflict (over who may be a Scout) reveal or show about society in the Transvaal at this time?" Support your response with evidence from the document.
 
 Day Three
@@ -247,7 +270,7 @@ Have students read the legislation with the worksheet in front of them. For each
 
 The entire class should address each question in turn. The student who answers may give the correct response, or the student may give an incorrect response. The other students should listen carefully. If the response is correct they should call out "Fact!" If the answer is false, they should call out "Fib!" Then, when asked, a student who identified a fib may give the correct information.
 
-Discussion  
+Discussion<br>
 Based on your reading of this legislation, infer some of the problems that were occurring with Scouts in this time and place. In other words, what may have been going on that that government felt it was necessary to create this ordinance?
 
 Distribute copies of primary source: "Organization of British Imperial Scouting" (table, 1951)/
@@ -260,12 +283,12 @@ As a whole class discuss:
 * What was the second highest level?
 * What does this chart show about the relationship between the British Empire and Africa?
 
-Day Four  
+Day Four<br>
 Document Based Question Essay
 
 ## Document Based Question
 
-by Elizabeth Ten Dyke  
+by Elizabeth Ten Dyke<br>
 (Suggested writing time: 50 minutes)
 
 In the introduction to this unit, author Tim Parsons writes, "Scouting was thus both an instrument of colonial authority and a subversive challenge to the legitimacy of the British empire." In other words, scouting would "train" African boys to accept colonial power as well as empower Scouts to use the movement to resist or oppose colonial power. Write a well-organized essay drawing on evidence from three primary sources that helps you support this point of view.
@@ -302,10 +325,10 @@ This website tracks the most current scholarship on international Scouting and G
 
 ## Credits
 
-About the Author  
+About the Author<br>
 Tim Parsons is a Professor at Washington University. Parsons is the author of several books including: Race, Resistance and the Boy Scout Movement in British Colonial Africa; The 1964 Army Mutinies and the Making of Modern East Africa; The African Rank-and-File: Social Implications of Colonial Service in the King's African Rifles, 1902-1964; and The British Imperial Century, 1815-1914: A World History Perspective.
 
-About the Lesson Plan Author  
+About the Lesson Plan Author<br>
 Elizabeth Ten Dyke has a Ph.D. in Cultural Anthropology. She is Director of Instructional Services for the Kingston City School District, and is the author of Dresden: Paradoxes of Memory in History.
 
 This teaching module was originally developed for the Children and Youth in History project.

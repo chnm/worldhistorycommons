@@ -5,6 +5,7 @@ drupal_node_id: 1301
 source_type: "Text"
 url: /testament-father-during-black-death
 image: /images/Icons-Document_126.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

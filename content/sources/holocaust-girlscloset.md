@@ -5,6 +5,7 @@ drupal_node_id: 1292
 source_type: "Text"
 url: /holocaust-girlscloset
 image: /images/Icons-Document_120.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

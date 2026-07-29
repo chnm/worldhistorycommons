@@ -5,6 +5,12 @@ drupal_node_id: 3038
 source_type: "Image"
 url: /meroitic-script
 image: /images/WHC_pyramid_meroitic_hieroglyphs.jpeg
+image_alt: "A relief inside a pyramid that features Meroitic hieroglyphs."
+additional_images:
+  - src: "/images/source-media/3038/WHC_meroitic_hieroglyphs.jpg"
+    alt: "A sandstone featuring Meroitic hieroglyphs in three columns."
+  - src: "/images/source-media/3038/WHC_meroitic_script.png"
+    alt: "The Meroitic script with 23 signs and the transcription to other scripts, including the Roman alphabet."
 regions: 
   - "Africa"
 subjects: 

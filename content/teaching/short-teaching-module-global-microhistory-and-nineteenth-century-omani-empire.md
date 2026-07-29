@@ -27,6 +27,8 @@ related_sources:
   - link: "/memoir-william-ruschenberger"
     image: "/images/Ruschenberger_Memoir_Thumb.png"
     alt: "Title page of Dr. William Ruschenberger's memoir"
+how_to_cite: |
+  "Short Teaching Module: Global Microhistory and the Nineteenth-Century Omani Empire ," in World History Commons, https://worldhistorycommons.org/short-teaching-module-global-microhistory-and-nineteenth-century-omani-empire [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -73,14 +75,17 @@ Carlo Ginzburg’s concept of clues provides one intriguing way for historians t
 
 ![Memoir of William Ruschenberger](/images/Ruschenberger_Memoir_Thumb.png)
 
+#### Annotation
+
 Dr. William Ruschenberger (d. 1895) was a United States Navy surgeon and was assigned to the USS Peacock, serving with Edmund Roberts as part of an American delegation representing the Jackson Administration to negotiate treaties with the Omani Empire and the Kingdom of Siam. His memoirs, still generally overlooked by historians, provide a treasure of information from throughout the world on everything from commercial practices, religious traditions, environment and geography, military and naval forces, cuisine and dress, and more.
 
 ### [1841 Letter from Atkins Hamerton](/1841-letter-atkins-hamerton)
 
 ![1841 Letter from Atkins Hamerton](/images/Hamerton_1857_Letter_Thumb.png)
 
-Atkins Hamerton (d. 1857) was a British military officer and diplomat, who served as the first British Consul to the Omani Empire based in Zanzibar. He left behind thousands of pages of sources, presently scattered between archives in the U.K., Zanzibar, and India. In the first letter excerpt, he is complaining to his superiors about the poor status of British merchants in East Africa; in the second, he is expressing his offense at the pictures displayed in Sa‘id’s residence showing British naval defeats. In this source, Sa‘id bin Sultan is referred to as both “His Highness” and “the Imam.”
+#### Annotation
 
+Atkins Hamerton (d. 1857) was a British military officer and diplomat, who served as the first British Consul to the Omani Empire based in Zanzibar. He left behind thousands of pages of sources, presently scattered between archives in the U.K., Zanzibar, and India. In the first letter excerpt, he is complaining to his superiors about the poor status of British merchants in East Africa; in the second, he is expressing his offense at the pictures displayed in Sa‘id’s residence showing British naval defeats. In this source, Sa‘id bin Sultan is referred to as both “His Highness” and “the Imam.”
 
 ## Bibliography
 

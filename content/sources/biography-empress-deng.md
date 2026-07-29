@@ -5,6 +5,7 @@ drupal_node_id: 1277
 source_type: "Text"
 url: /biography-empress-deng
 image: /images/Icons-Book-Excerpt_7.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Asia"
 subjects: 

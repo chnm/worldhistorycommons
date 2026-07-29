@@ -5,6 +5,7 @@ drupal_node_id: 454
 source_type: "Image"
 url: /versailles-versailles
 image: /images/5dd4929b042d6bf5ab1540d48470ddbc.jpg
+image_alt: "Print of women gathered to storm Versailles"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,8 @@ how_to_cite: |
 ---
 
 The women who arrived, though lightly armed, were no shrinking violets. They insisted that the royal family return to Paris where, in fact, they would find themselves under virtual house arrest.
+
+## Transcription
+
+**Title in French**  
+A Versailles, à Versailles le 5 Octobre 1789

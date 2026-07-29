@@ -5,6 +5,7 @@ drupal_node_id: 40
 source_type: "Image"
 url: /codex-mendoza
 image: /images/Codex-Mendoza.jpg
+image_alt: "This opening page of the codex depicts the founding of Tenochtitlan on an island in Lake Texcoco, where, it was foretold, the wandering Mexica tribe would find an eagle perched on a cactus growing from a stone. Modern viewers will recognize this allegorical symbol as the central element in the Mexican flag. The crossed bands of clear blue water mark Tenochtitlan as the center of the cosmos. Seated around the eagle amid the plants of the marshy lake are the ten founders of Tenochtitlán, lead by Tenoch."
 regions: 
   - "North/Central America"
 subjects: 

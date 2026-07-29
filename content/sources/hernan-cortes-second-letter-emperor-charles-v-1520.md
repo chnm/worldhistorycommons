@@ -5,6 +5,7 @@ drupal_node_id: 2449
 source_type: "Text"
 url: /hernan-cortes-second-letter-emperor-charles-v-1520
 image: /images/Second_Letter_from_Cortes_toKingCharlesV.png
+image_alt: "Calligraphy text of Cortes Letter"
 regions: 
   - "South America"
 subjects: 

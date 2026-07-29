@@ -5,6 +5,7 @@ drupal_node_id: 1514
 source_type: "Text"
 url: /primary-schools
 image: /images/Icons-Document_285.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

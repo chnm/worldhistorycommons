@@ -5,6 +5,7 @@ drupal_node_id: 1652
 source_type: "Text"
 url: /gender-and-health-latin-america-interview-abortion-rights-chile
 image: /images/Icons-Document_403.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

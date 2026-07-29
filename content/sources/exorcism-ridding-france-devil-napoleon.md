@@ -5,6 +5,7 @@ drupal_node_id: 161
 source_type: "Image"
 url: /exorcism-ridding-france-devil-napoleon
 image: /images/ae30768d8e5ceee1dea5e2ec499add39.jpg
+image_alt: "Cartoon of a group of people fighting a flying figure"
 regions: 
   - "Europe"
 subjects: 
@@ -23,3 +24,8 @@ how_to_cite: |
 The seal in the foreground, with its fleur–de–lys, indicates a return to royalism after France’s liberation from Napoleon. In addition, the secularism associated with the Revolution is countered with the image’s reference to the religious practice of exorcism.
 
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
+
+## Transcription
+
+**Title in French**  
+*Die Exorcisten*

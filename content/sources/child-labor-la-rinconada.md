@@ -5,6 +5,7 @@ drupal_node_id: 100
 source_type: "Image"
 url: /child-labor-la-rinconada
 image: /images/412_1e7a8e3180.jpg
+image_alt: "Photo of a child who works in the La Rinconada gold mine"
 regions: 
   - "South America"
 subjects: 

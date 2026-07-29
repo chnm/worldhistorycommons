@@ -5,6 +5,7 @@ drupal_node_id: 388
 source_type: "Image"
 url: /peruvian-youth-center-child-laborers
 image: /images/peru-fruit-market-school.jpg
+image_alt: "Video still image of child carrying fruit from Peruvian Youth Center for Child Laborers"
 regions: 
   - "South America"
 subjects: 

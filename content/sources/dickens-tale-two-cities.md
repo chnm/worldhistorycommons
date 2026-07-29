@@ -5,6 +5,7 @@ drupal_node_id: 938
 source_type: "Text"
 url: /dickens-tale-two-cities
 image: /images/taleoftwocities.jpg
+image_alt: "Cover of A Tale of Two Cities"
 regions: 
   - "Europe"
 subjects: 

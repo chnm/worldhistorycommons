@@ -5,6 +5,7 @@ drupal_node_id: 1161
 source_type: "Text"
 url: /ibn-khalduns-study-history-1377-ce
 image: /images/Icons-Book-Excerpt_0.jpg
+image_alt: "image of the book excerpt"
 regions: 
   - "Middle East"
 subjects: 

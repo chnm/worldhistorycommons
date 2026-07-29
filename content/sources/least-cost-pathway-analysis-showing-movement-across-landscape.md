@@ -5,6 +5,7 @@ drupal_node_id: 2997
 source_type: "Image"
 url: /least-cost-pathway-analysis-showing-movement-across-landscape
 image: /images/Movement_Across_Landscape_Chart.jpg
+image_alt: "Table with cells containing different values. Description in annotation."
 regions: 
   - "North/Central America"
   - "South America"

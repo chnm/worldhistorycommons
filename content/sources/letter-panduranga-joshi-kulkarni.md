@@ -5,6 +5,7 @@ drupal_node_id: 381
 source_type: "Text"
 url: /letter-panduranga-joshi-kulkarni
 image: /images/Selections-From-The-Satara-Raja-And-The-Peshwas-Diaries.jpg
+image_alt: "Title page of Selections from the Satara Raja and the Peshwa's Diaries"
 regions: 
   - "Asia"
 subjects: 

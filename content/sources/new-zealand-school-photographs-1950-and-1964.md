@@ -5,6 +5,12 @@ drupal_node_id: 142
 source_type: "Image"
 url: /new-zealand-school-photographs-1950-and-1964
 image: /images/1950_6517453cdf.jpg
+image_alt: "Photograph of school children in 1950"
+additional_images:
+  - src: "/images/source-media/142/1964_dcc47e8359.jpg"
+    alt: "Photograph of school children in 1964"
+  - src: "/images/source-media/142/1950_6517453cdf_Thumbnail_0.jpg"
+    alt: ""
 regions: 
   - "Oceania"
 subjects: 

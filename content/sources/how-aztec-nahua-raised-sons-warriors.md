@@ -5,6 +5,7 @@ drupal_node_id: 1137
 source_type: "Text"
 url: /how-aztec-nahua-raised-sons-warriors
 image: /images/Icons-Document_11.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

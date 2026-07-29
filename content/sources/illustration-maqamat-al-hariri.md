@@ -5,6 +5,7 @@ drupal_node_id: 308
 source_type: "Image"
 url: /illustration-maqamat-al-hariri
 image: /images/Les_Makamat_de_Hariri.jpg
+image_alt: "Illustration from The Maqamat of al-Hariri"
 regions: 
   - "Africa"
   - "Middle East"

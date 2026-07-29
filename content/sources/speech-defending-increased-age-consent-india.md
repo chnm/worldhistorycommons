@@ -5,6 +5,7 @@ drupal_node_id: 1312
 source_type: "Text"
 url: /speech-defending-increased-age-consent-india
 image: /images/Icons-Document_136.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

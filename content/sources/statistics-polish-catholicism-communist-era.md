@@ -5,6 +5,7 @@ drupal_node_id: 696
 source_type: "Image"
 url: /statistics-polish-catholicism-communist-era
 image: /images/Statistics-on-Polish-Communism.jpg
+image_alt: "Statistics on Polish Catholicism in the Communist Era"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1127
 source_type: "Text"
 url: /universal-declaration-human-rights
 image: /images/Icons-Document_2.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
   - "Global"

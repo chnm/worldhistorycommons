@@ -5,6 +5,7 @@ drupal_node_id: 118
 source_type: "Image"
 url: /hobby-horse
 image: /images/cyhhobbyhorse_88b318cf66.jpg
+image_alt: "Oil on canvas painting depicting two siblings"
 regions: 
   - "Europe"
 subjects: 

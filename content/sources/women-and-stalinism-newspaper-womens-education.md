@@ -5,6 +5,7 @@ drupal_node_id: 1629
 source_type: "Text"
 url: /women-and-stalinism-newspaper-womens-education
 image: /images/Icons-Document_382.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

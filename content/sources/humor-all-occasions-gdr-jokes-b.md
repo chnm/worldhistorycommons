@@ -50,3 +50,34 @@ Drei Jäger, einer davon ein Stasi-Mitarbeiter, gehen in den Wald. Jeder soll ei
 5. (Factory work)
 
 Frage: "Worin besteht der Unterschied zwischen einem Gespenst und sozialistischer Leitungstätigkeit?" Antwort: "Es gibt keinen, alle reden davon, manche beschreiben es auch, aber gesehen hat es noch niemand."
+
+## Translation
+
+1. (Political)
+
+I know a joke: "Erich took a tether and went into the woods." "Then what happened?" "I'm not allowed to say, but it starts off good!"
+
+2. (East-West relations)
+
+Pre-requisite knowledge: West Germans regularly sent packages of desired goods to their friends and family in the East. Packages often included coffee, chocolate, panty-hose and other items that were hard-to-find in the East.
+
+Two cops were standing on the Berlin Wall. The first one said, "What would you do if I kicked you (off the wall)." The second replied, "Then every month I'd send you a package!"
+
+3. (Stasi)
+
+Pre-requisite knowledge: Often erroneously translated as "Secret Police," the Stasi is actually short for the East German "State Security Service." However, the Stasi functioned in some ways like a "secret police," using networks of informants and a variety of surveillance techniques to collect information on ordinary and not-so-ordinary individuals. Both East and West Germans were subject to surveillance; they may or may not have presented an actual threat to the communist regime. The Stasi could detain individuals, interrogate them, even imprison them without due process or other protections of civil society.
+
+Three hunters, including one from the Stasi, went into the woods. Each of them was supposed to shoot a wild boar. After a little while the first one came back to the meeting place. He has a large wild sow slung over his shoulder. Then the second one came back. He had a large boar as well. They waited and waited for the Stasi man to return. Finally they went to search for him. They found him in front of a tree. He had a hare tied to the tree. He was beating it and shouting "Confess that you're really wild boar! We know everything!"
+
+4. (The police)
+
+Pre-requisite knowledge: the police were often targets of jokes ridiculing their alleged stupidity.
+
+"Hey, I'm going to tell a political joke."  
+"Careful! I'm with the police."  
+"Yeah, yeah, I'll tell it slowly."
+
+5. (Factory work)
+
+Question: "What's the different between a ghost and socialist leadership?"  
+Answer: "There is none. Everyone talks about it, some even describe it, but no one's ever seen it."

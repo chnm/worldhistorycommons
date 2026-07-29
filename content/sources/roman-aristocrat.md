@@ -5,6 +5,7 @@ drupal_node_id: 351
 source_type: "Image"
 url: /roman-aristocrat
 image: /images/c6cfc95ef7f45efe8ae9add4339a7816.jpg
+image_alt: "Print of a political cartoon against the king"
 regions: 
   - "Europe"
 subjects: 
@@ -26,3 +27,11 @@ how_to_cite: |
 ---
 
 The fattened clergyman and the well–bedecked nobleman go off unbothered while the figure in the foreground assesses carefully the value of a commoner. This complex image also includes a pig—likely a symbol for Louis XVI—with the cleric and the noble. Thus the print clearly attacks the upper classes and likely the monarch. But there is more. Specifically, the National Assembly had set a means test for voters, and a higher one for prospective officeholders. So the gigantic female is measuring the commoner for his right to participate in the new revolutionary society. This then is also a critique of the National Assembly. Who, then, is the figure in the foreground? Perhaps it is the revolutionary legislature, represented here as an arrogant Roman Senate, a clearly oligarchical body.
+
+## Transcription
+
+**Title in French**  
+La Romaine Aristocratique
+
+**Caption**  
+le marc d'argent préside en France, Esprit talent dons superflus, Au diable vertus sans finances, Beaucoup d'appelés peu d'élus

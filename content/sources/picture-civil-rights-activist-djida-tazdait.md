@@ -5,6 +5,7 @@ drupal_node_id: 2917
 source_type: "Image"
 url: /picture-civil-rights-activist-djida-tazdait
 image: /images/Djida_Tazdai_t.jpg
+image_alt: "Djida Tazdaït in Lyon, France, 1989."
 regions: 
   - "Africa"
   - "Europe"

@@ -5,6 +5,7 @@ drupal_node_id: 2905
 source_type: "Image"
 url: /page-qing-veritable-records
 image: /images/Image_1_.jpeg
+image_alt: "Page from the Qing Veritable Records"
 regions: 
   - "Asia"
 subjects: 

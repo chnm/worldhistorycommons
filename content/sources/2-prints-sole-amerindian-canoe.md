@@ -5,6 +5,10 @@ drupal_node_id: 2994
 source_type: "Image"
 url: /2-prints-sole-amerindian-canoe
 image: /images/Print_of_a_sole_Amerindian_in_a_Canoe.png
+image_alt: "Print of a sole Amerindian in a canoe from Oviedo’s Historia general de las Indias"
+additional_images:
+  - src: "/images/source-media/2994/Print_of_a_sole_Amerindian_in_a_Canoe_2.jpg"
+    alt: "Print of a sole Amerindian in a canoe from Hystoria general de las Indias"
 regions: 
   - "North/Central America"
   - "South America"

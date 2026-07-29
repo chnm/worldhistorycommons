@@ -21,6 +21,8 @@ related_sources:
   - link: "/scandal-church-jose-de-alfaro-accuses-dona-theresa-bravo-and-others-insulting-and-beating-his"
     image: "/images/Icons-Document-thumbnail_730.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Gender and Race in Colonial Latin America," in World History Commons, https://worldhistorycommons.org/short-teaching-module-gender-and-race-colonial-latin-america [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -61,11 +63,11 @@ These documents effectively engage students in this, and in the other questions 
 
 [1](#1a)Boyer, Richard and Geoffrey Spurling, eds., *Colonial Lives: Documents in Latin American History, 1550-1850*. Oxford: Oxford University Press, 2000.
 
-> Cases:  
-> — “Scandal at the Church: José de Alfaro Accuses Doña Theresa Bravo and Others of Insulting and Beating His *Castiza* Wife, Josefa Cadena (Mexico, 1782),” Sonya Lipsett Rivera, pp. 216-223,”  
->    
-> —“Don Manuel Valdivieso y Carrión Protests the marriage of His Daughter to Don Teodoro Jaramillo, a Person of Lower Social Standing (Quito, 1784-85),” Christian Büschges, pp. 224-235  
->    
+> Cases:<br>
+> — “Scandal at the Church: José de Alfaro Accuses Doña Theresa Bravo and Others of Insulting and Beating His *Castiza* Wife, Josefa Cadena (Mexico, 1782),” Sonya Lipsett Rivera, pp. 216-223,”<br>
+><br>
+> —“Don Manuel Valdivieso y Carrión Protests the marriage of His Daughter to Don Teodoro Jaramillo, a Person of Lower Social Standing (Quito, 1784-85),” Christian Büschges, pp. 224-235<br>
+><br>
 > —“‘The Most Vile Atrocities’: Accusations of Slander Against María Cofignie, *Parda Libre* (Louisiana, 1795),” Kimberly S. Hanger, pp. 269-278
 
 [2](#2a)Instructors wishing more information about the *sistema de castas* could refer to Magnus Mörner’s classic, *Race Mixture in the History of Latin America*, (Boston: Little, Brown, 1967); Ilona Katzew’s study of the artwork (*pinturas de castas*) depicting the system, *Casta Painting: Images of Race in Eighteenth-Century Mexico* (New Haven: Yale University Press, 2004); or María Elena Martínez’s recent article, “The Black Blood of New Spain: *Limpieza de Sangre*, Racial Violence, and Gendered Power in Early Colonial Mexico,” *William and Mary Quarterly* 61:3, (July 2004), 479-520.
@@ -80,6 +82,8 @@ These documents effectively engage students in this, and in the other questions 
 
 ![Scandal at the Church: José de Alfaro Accuses Doña Theresa Bravo and Others of Insulting and Beating His Castiza Wife, Joséfa Cadena (Mexico, 1782)](/images/Icons-Document-thumbnail_730.jpg)
 
+#### Annotation
+
 Systems of honor in colonial Mexico meant that insults were more than just Swords. Utterances that defamed men and women of good reputation had to be answered or the slight to their personal status within the community would be permanent. Gossip underscored these taints, and although usually not as open, it could serve the same purpose as insults. Local elites believed that systems of honor applied only to them because only they could possess the high status that derived from their superior birth and lineage. From their vantage point at the apex of society, they looked down upon an undistinguished mass of commoners whose lack of virtue was patently clear and whose status could only be dishonorable.
 Yet, from the other end of the social spectrum plebeians also conceived themselves as possessors of honor. They might not compare themselves to a duke or a count, but within their local society they derived honor from proper conduct, legitimate birth, and sexual propriety. This honor was important in their every day dealings, since they often needed credit and aid from neighbors and friends and thus depended upon relationships of trust. Moreover, plebeians distinguish between various hues of racial categories, which they associated with greater lesser honor. While their perceptions varied from those of the dominant elite, plebeian self-identities were nevertheless important.
 Although insults to an individual’s honor had to be answered, reactions differed according to the circumstances. Could a social inferior attack and beat a social superior who had insulted him or her? Was a petition to the courts really a satisfactory rebuttal? In the document that follows, you will read how Theresa Bravo, an elite woman, reacted to inferences about her marital fidelity and how José de Alfaro, a plebeian husband, responded when doña Theresa beat and insulted his wife. Their individual perceptions of the incident in question differed considerably, not only because they were opponents in a lawsuit, but also because of their distinct social standing. There is much left unsaid in this document. For example, José de Alfaro, the plaintiff, seems to believe that he can advance his cause by harnessing ill feeling toward don Diego Fernandez, doña Theresa’s husband and a colonial official. It is also clear that José de Alfaro holds don Diego Fernandez directly responsible for the conduct of his wife, though doña Theresa’s precipitous actions and don Diego’s lackluster control over her brought dishonor onto his name. Yet, this was a plebeian perspective—part of the confusion of differing points-of-view found in this criminal complaint.
@@ -90,6 +94,8 @@ This source is a part of the  [*Gender and Race in Colonial Latin America*](http
 ### [Gender and Race in Colonial Latin America: “Don Manuel Valdivieso y Carrión Protests the marriage of His Daughter to Don Teodoro Jaramillo, a Person of Lower Social Standing (Quito, 1784-85)”](/gender-and-race-colonial-latin-america-don-manuel-valdivieso-y-carrion-protests-marriage-his)
 
 ![Gender and Race in Colonial Latin America: “Don Manuel Valdivieso y Carrión Protests the marriage of His Daughter to Don Teodoro Jaramillo, a Person of Lower Social Standing (Quito, 1784-85)”](/images/Icons-Document-thumbnail_731.jpg)
+
+#### Annotation
 
 INTRODUCTION
 Until the mid-eighteenth century, the church regulated the institution of marriage in Spanish America, emphasizing the freedom of individuals to marry according to their will and, if necessary, independently of their parents' consent. However, on March 23, 1776, the Spanish Crown introduced its own legislation, the Royal Pragmatic (Real Pragmática), to assert control over this important social institution. By 1778 the Crown had applied the Pragmatic to all of its colonies, and in subsequent years it issued a series of explanatory guidelines and supplementary decrees) The Royal Pragmatic sought to protect families from socially "unequal" marries a thus to preserve the traditional hierarchical social order. It required that children now obtain permission to marry from their father or, in his absence, from their mother, grandparents, or nearest adult relative or guardian. In cases where they married without parental authorization, the law allowed for their disinheritance.
@@ -119,6 +125,8 @@ This source is a part of the [*Gender and Race in Colonial Latin America*](https
 
 ![Gender and Race in Colonial Latin America: “‘The Most Vile Atrocities’: Accusations of Slander Against María Cofignie, Parda Libre (Louisiana, 1795)”](/images/Icons-Document-thumbnail_732.jpg)
 
+#### Annotation
+
 INTRODUCTION
 Spain obtained the province of Louisiana from France according to provisions of the Treaty of Paris, signed in 1763, and effectively ruled it from 1769 until 1803. Louisiana had been part of the French colonial system since 1699, and with its acquisition the Spanish Crown found itself in a situation to which it was not accustomed: taking over, rather than giving up, American territory from another European power. For both the French and Spanish, Louisiana's value was mainly strategic. The Bourbon monarchs viewed the colony as useful primarily within the context of larger geopolitical considerations: neither wanted Britain to seize it. Although Spain, like France, considered Louisiana an economic burden, the Spanish Crown hoped to use it as a protective barrier between mineral-rich New Spain and England's increasingly aggressive North American colonies.
 Founded in 1718 on the site of a long-established Native American portage point where the Mississippi River comes closest to the shores of Lake Pontchartrain, New Orleans was colonial Louisiana's principal urban center and port. The furs, hides, timber, and agricultural products of the Mississippi Valley region flowed through the city en route to the West Indies, the North American colonies, New Spain, and occasionally Europe. New Orleans also served as the entrepot for slaves and various goods such as flour and cloth that colonials could not supply or manufacture themselves. By the late eighteenth century "the city that care forgot"1 was a vibrant port, with people moving in and out, establishing relationships across racial and class boundaries, and generally challenging any kind of stable social order. The only nucleus to boast the title of ciudad (city) in all of northern New Spain, New Orleans had a resident population that grew from about three thousand to more than eight thousand during the era of Spanish rule, with a large transient population adding to this number. The percentage of libres (free blacks)2 rose from 10 to 20 percent of New Orleanians over the same period; the rest of the population was about evenly divided between whites and slaves, with varying numbers of indios (Indians) and mestizos (persons of mixed Indian and white ancestry) residing in and around the city.3
@@ -131,7 +139,6 @@ Although Cofignie repeatedly appealed for mercy based on the fact that she had t
 Many of those individuals who tested the boundaries of elite-defined acceptable behavior were free blacks like Maria Cofignie. Their position within New Orleans's hierarchy was not well defined, and, in fact, most libres did not choose to be demarcated as a separate group, preferring instead to be admitted to, and accepted by, white society. Although radicalized by the possibilities for equality with whites seemingly offered in the philosophies of the French and Haitian Revolutions, free blacks in New Orleans generally wanted to reform, not overthrow, the hierarchical Spanish social system that condemned them outright for being nonwhites and that failed to recognize their worth except as measured by skin color. Their challenges escalated in the revolutionary decades of the late eighteenth and early nineteenth centuries.11
 The case that follows reveals many of these tensions. In their recorded statements, the litigants raise the issue of racial discrimination and comment, often implicitly, on distinct notions of personal honor, patriarchy, family, gender roles, and the meaning of freedom. Like all libres living in slave societies, New Orleans free women of color operated from an undefined, anomalous position, the middle section of a three-tiered hierarchy in which they were not truly free or slave, often not pure black or white. Libre women were also trapped in a patriarchal so that valued males more than females but that did not afford them the paternal protection due the weaker sex because ostensibly they did not possess honor and virtue, attributes only accorded whites. But as we will see in the following testimony, Maria Cofignie and other libre women did not suffer in silence.
 This source is a part of the [*Gender and Race in Colonial Latin America*](https://worldhistorycommons.org/short-teaching-module-gender-and-race-colonial-latin-america) teaching module.
-
 
 ## Credits
 

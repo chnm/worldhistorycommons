@@ -5,6 +5,12 @@ drupal_node_id: 71
 source_type: "Image"
 url: /selling-toys
 image: /images/hm_selling_pinwheels_780df2cd56.jpg
+image_alt: "Photo of young boy with toys"
+additional_images:
+  - src: "/images/source-media/71/hm_selling_whistles_4636630705.jpg"
+    alt: "Photo of old man selling toys"
+  - src: "/images/source-media/71/hm_toy_vendor_ab7f84d15a.jpg"
+    alt: "Man and boy standing with toys to be sold"
 regions: 
   - "Asia"
 subjects: 

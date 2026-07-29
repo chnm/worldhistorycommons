@@ -5,6 +5,7 @@ drupal_node_id: 942
 source_type: "Text"
 url: /peter-kropotkin-need-individual-action
 image: /images/Peter_Kropotkin_circa_1900.jpg
+image_alt: "Peter Kropotkin"
 regions: 
   - "Asia"
   - "Europe"

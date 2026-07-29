@@ -5,6 +5,9 @@ drupal_node_id: 137
 source_type: "Video"
 url: /delaware-school-alumni-interviews
 image: 
+media_unavailable:
+  type: video
+  message: "The original site does not provide video media for this source."
 regions: 
   - "North/Central America"
 subjects: 

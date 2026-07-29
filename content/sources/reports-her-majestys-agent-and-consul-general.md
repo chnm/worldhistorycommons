@@ -5,6 +5,7 @@ drupal_node_id: 417
 source_type: "Text"
 url: /reports-her-majestys-agent-and-consul-general
 image: /images/reports-egypt-sudan.jpg
+image_alt: "Reports by Her Majesty's Agent and Consul-General"
 regions: 
   - "Africa"
 subjects: 

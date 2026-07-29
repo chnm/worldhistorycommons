@@ -5,6 +5,7 @@ drupal_node_id: 1493
 source_type: "Text"
 url: /revolutionary-armies-provinces-toulouse-september-1793
 image: /images/Icons-Document_265.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

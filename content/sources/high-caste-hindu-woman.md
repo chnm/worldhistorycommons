@@ -5,6 +5,7 @@ drupal_node_id: 385
 source_type: "Text"
 url: /high-caste-hindu-woman
 image: /images/high-caste-hindu-woman.jpg
+image_alt: "Image of Pandita Ramabai"
 regions: 
   - "Asia"
 subjects: 

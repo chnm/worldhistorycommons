@@ -5,6 +5,7 @@ drupal_node_id: 2901
 source_type: "Image"
 url: /femmes-nicaragua
 image: /images/Femmes_Nicaragua.JPG
+image_alt: "Frontpage of the French pamphlet Femmes Nicaragua"
 regions: 
   - "North/Central America"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 350
 source_type: "Image"
 url: /voracious-oath
 image: /images/ca98c49527a772da250b6ae55a0ae9c5.jpg
+image_alt: "Print characterizing patriotic virtues"
 regions: 
   - "Europe"
 subjects: 
@@ -30,3 +31,8 @@ how_to_cite: |
 ---
 
 This fascinating print is modeled on Jacques–Louis David’s Oath of the Horatii. In that famous painting, the artist sought to exemplify patriotic virtue by showing an austere father making his sons swear to defend Roman honor. Here this image turns David’s idea on its head, as aristocrats seem to be in league to some nefarious end. The woman on the right, quite unlike the approving, if resigned, female in David, shows her revolutionary disapproval through a forlorn expression.
+
+## Transcription
+
+**Title in French**  
+Le serment des Voraces

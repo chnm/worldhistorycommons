@@ -5,6 +5,7 @@ drupal_node_id: 2817
 source_type: "Text"
 url: /excerpt-kellogg-briand-pact-1928
 image: /images/Icons-Document_716.jpg
+image_alt: "an icon of a document. beneath it are the words view document."
 regions: 
   - "Global"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1223
 source_type: "Text"
 url: /review-age-consent-legislation-texas
 image: /images/Icons-Article-Excerpt_2.jpg
+image_alt: "image of the article"
 regions: 
   - "North/Central America"
 subjects: 

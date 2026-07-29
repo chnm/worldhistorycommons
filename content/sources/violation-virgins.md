@@ -5,6 +5,7 @@ drupal_node_id: 1133
 source_type: "Text"
 url: /violation-virgins
 image: /images/Icons-Article-Excerpt.jpg
+image_alt: "image of the article"
 regions: 
   - "Europe"
 subjects: 

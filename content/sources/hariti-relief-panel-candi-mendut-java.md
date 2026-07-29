@@ -5,6 +5,7 @@ drupal_node_id: 154
 source_type: "Image"
 url: /hariti-relief-panel-candi-mendut-java
 image: /images/hariti-candi-mendut_3406aa9732.jpg
+image_alt: "Carved stone relief from Candi Mendut"
 regions: 
   - "Asia"
 subjects: 

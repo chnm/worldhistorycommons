@@ -5,6 +5,7 @@ drupal_node_id: 2365
 source_type: "Object"
 url: /bone-comb
 image: /images/NeolithicComb.jpg
+image_alt: "A Stone Age comb with a horse head carved into the handle"
 regions: 
   - "Europe"
 subjects: 

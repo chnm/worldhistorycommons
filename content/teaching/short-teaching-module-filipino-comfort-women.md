@@ -20,6 +20,8 @@ related_sources:
   - link: "/lila-pilipina-brochure"
     image: "/images/comfortwomenbrochure-thumbnail.jpeg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Filipino Comfort Women," in World History Commons, https://worldhistorycommons.org/short-teaching-module-filipino-comfort-women [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -70,6 +72,8 @@ Through these exercises, students learn that women’s histories often conflict 
 
 ![Lila-Pilipina Brochure](/images/comfortwomenbrochure-thumbnail.jpeg)
 
+#### Annotation
+
 The Lila-Pilipina Brochure is a creation of the feminist group of Filipino “comfort women" called Lila-Pilipina, who have banded together with feminist goals/messages for peace. "Comfort women" were women during World War II forced into sexual slavery by the Japanese military, although it took decades for this to be acknowledged, and to this day is not acknowledged in Japanese history books. This brochure serves as an introduction to the cause of the Lila-Pilipina group, and includes their background, goals and a few pictures of their activities. Notably, the brochure includes a list of demands to both the Japanese and Filipino governments to acknowledge the history of sexual slavery faced by comfort women and the lingering social effects of the practice. This source represents an active telling of history by those affected and illustrates the different forms that telling history can take.
 This source is a part of the [*Filipino Comfort Women*](https://worldhistorycommons.org/short-teaching-module-filipino-comfort-women) teaching module.
 
@@ -77,9 +81,10 @@ This source is a part of the [*Filipino Comfort Women*](https://worldhistorycomm
 
 ![Piglas-Diwa newsletter/booklet](/images/piglas1small_0.jpeg)
 
+#### Annotation
+
 The Piglas-Diwa newsletter/booklet is a creation of the feminist group of Filipino “comfort women" called Lila-Pilipina, who have banded together with feminist goals/messages for peace. "Comfort women" were women during World War II forced into sexual slavery by the Japanese military, although it took decades for this to be acknowledged, and to this day is not acknowledged in Japanese history books. The newsletter includes comics, photographs, texts describing their purpose and history, and finally autobiographies describing the experience of several members. Notably, the newsletter includes a list of demands to both the Japanese government and the Filipino government about the acknowledgment of the sexual slavery faced by comfort women and the lingering social effects of the practice. This source represents an active telling of history by those affected and illustrates the different forms that telling history can take.
 This source is a part of the [*Filipino Comfort Women*](https://worldhistorycommons.org/short-teaching-module-filipino-comfort-women) teaching module.
-
 
 ## Credits
 

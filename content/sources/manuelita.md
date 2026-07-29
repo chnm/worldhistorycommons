@@ -5,6 +5,7 @@ drupal_node_id: 102
 source_type: "Image"
 url: /manuelita
 image: /images/rosas_fcbf3fe11b.jpg
+image_alt: "Painting of Manuela Rosas"
 regions: 
   - "South America"
 subjects: 

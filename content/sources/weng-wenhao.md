@@ -5,6 +5,7 @@ drupal_node_id: 3121
 source_type: "Image"
 url: /weng-wenhao
 image: /images/Weng_Wenhao.jpg
+image_alt: "Black and white portrait of Weng Wenhao"
 regions: 
   - "Asia"
 subjects: 

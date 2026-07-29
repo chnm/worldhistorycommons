@@ -5,6 +5,7 @@ drupal_node_id: 252
 source_type: "Image"
 url: /dream-malinche
 image: /images/ruizlarge.jpg
+image_alt: "The Dream of Malinche painting"
 regions: 
   - "North/Central America"
 subjects: 

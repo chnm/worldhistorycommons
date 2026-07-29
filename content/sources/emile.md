@@ -5,6 +5,7 @@ drupal_node_id: 297
 source_type: "Image"
 url: /emile
 image: /images/rousseau_emile_front.jpg
+image_alt: "Engraving of Emile"
 regions: 
   - "Europe"
 subjects: 

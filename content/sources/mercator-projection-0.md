@@ -5,6 +5,7 @@ drupal_node_id: 2418
 source_type: "Image"
 url: /mercator-projection-0
 image: /images/image002__1_.jpg
+image_alt: "The Mercator Projection Map of the World"
 regions: 
   - "Global"
 subjects: 

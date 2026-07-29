@@ -33,6 +33,8 @@ related_sources:
   - link: "/dona-marina-florentine-codex"
     image: "/images/florentinelarge-thumbnail.jpeg"
     alt: ""
+how_to_cite: |
+  "Long Teaching Module: Doña Marina, Cortés' Translator," in World History Commons, https://worldhistorycommons.org/long-teaching-module-dona-marina-cortes-translator [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -43,17 +45,17 @@ This long teaching module includes an informational essay, objectives, activitie
 
 ## Essay
 
-**Doña Marina’s Biography**  
+**Doña Marina’s Biography**<br>
 In 1519, shortly after Cortés arrived on the Gulf Coast of Mexico, this young woman was one of 20 slaves offered the Spanish conquistadors by a Maya lord. Baptized Marina, she distinguished herself in extraordinary ways, becoming instrumental to the Spaniards’ logistical ambitions and political endeavors. She served as translator, negotiator and cultural mediator. She was also Cortés’s concubine and gave birth to their son, Martín. In 1524, she was married to the conquistador Juan de Jaramillo, and again became a mother—this time of a daughter, María.
 
 The daily patterns of doña Marina’s life cannot be well documented. When doña Marina or Malintzin was a child growing up near today's Veracruz, her people were attacked by the Aztecs, and she ended up being sold into slavery in Maya territory. And for all the respect the title ‘doña’ and the reverential suffix ‘–tzin’ (in Malintzin) imply, she endured difficult days. She survived the massacre of indigenous people at Cholula, the conquest of Tenochtitlan, a grueling march with Cortés and his men to Honduras and back. She witnessed the deaths of hundreds and bore the children of two Spanish men. Whatever her ability to negotiate cultural differences, she died a young woman—in, or before 1527—and probably not more than 25 years old.
 
-**16th-Century Sources—Doña Marina and Malintzin**  
+**16th-Century Sources—Doña Marina and Malintzin**<br>
 As with so many women from the past, none of doña Marina’s actual words have survived, although descriptions written by conquistadors who knew and relied upon her stress her linguistic abilities. Bernal Díaz del Castillo, who marched with Cortés, claims she was beautiful and intelligent, she could speak Nahuatl and Maya. Without her, he says, the Spaniards could not have understood the language of Mexico. Díaz’s account is the most generous of any conquistador, but it was written decades after the conquest—his eyewitness history filtered through memory. In contrast, the conquistador who knew this woman best, Hernán Cortés, mentions doña Marina just twice in his letters to the King of Spain. Her appearance in the Second Letter has become the most famous. Here he describes her not by name but as “*la lengua…que es una India desta tierra*” (the tongue, the translator…who is an Indian woman of this land).
 
 Indigenous sources from the 16th century depict Malintzin through her deeds. The *Florentine Codex*, one of the most extensive Nahuatl descriptions of the conquest, hints at Malintzin’s bravery—as when she speaks from a palace rooftop, ordering food brought to the Spaniards, or at other times gold. In visual images, Malintzin appears as a well-dressed young woman, often standing between men who communicate and negotiate via her multilingual skills. Scenes from the *Lienzo de Tlaxcala*, now just fragments from a larger set of images, draw upon preconquest painting techniques and conventions. Like Malintzin herself, the *Lienzo* straddles a world of indigenous, preconquest practice and European intervention. Indigenous paintings of Malintzin from the 16th century do not bear their maker’s signature, and many post-date her death. Whether she would have approved of any of these images, we cannot say. Because so few women surface in indigenous representations of the conquest, her repeated appearance confirms that Nahuas, and not only Spaniards, recognized her importance.
 
-**Recent Sources—Malinche, Doña Marina, Malintzin**  
+**Recent Sources—Malinche, Doña Marina, Malintzin**<br>
 Since the 16th century, doña Marina’s reputation has remained neither static nor settled. Some have condemned her as traitor and collaborator because she aided the Spaniards, quickening the demise of indigenous Mexico and the rise of foreign rule. For others, she was the consummate strategist. Passed to Cortés as a slave and forced to travel at his side, what were her options for survival if she did not translate, if she would not bear his child? And because she bore Cortés a son, doña Marina has been deemed the mother of the first Mexican mestizo. Their child could not have been the first, but her union with Cortés—literally and metaphorically—inextricably binds her to the history of mestizaje.
 
 Many Mexican texts and images speak to these conflicted understandings. Two well-known works from the mid-20th century include Antonio Ruiz’s painting, *El sueño de la Malinche* (“The Dream of Malinche”) and Octavio Paz’s essay, “The Sons of Malinche,” in which he castigates doña Marina as the violated mother of the Mexican nation.
@@ -70,11 +72,15 @@ Is either of these images less “true” than the doña Marina of Díaz del Cas
 
 ![Dona Marina, Cortes' Translator: Letter, Hernán Cortés](/images/Icons-Document-thumbnail_120.jpg)
 
+#### Annotation
+
 This excerpt from Cortés’s Second Letter, written to Charles V in 1519 and first published in 1522, is one of only two instances in Cortés’s letters to the King that explicitly mentions his indigenous translator. The letters represent eyewitness accounts of the conquistadors’ deeds and experiences. In spite of the close relationship between Cortés and doña Marina, his comments are terse and emphasize her usefulness. In the most frequently cited passage about doña Marina from these letters, Cortés describes her not by name, but simply as “la lengua . . . que es una India desta tierra” (the tongue, the translator . . . who is an Indian woman of this land). Source: Cortés, Hernán. Hernán Cortés to Emperor Carlos V., 1522. In Hernán Cortés: Letters from Mexico. Translated and edited by Anthony Pagden, 72-74. New Haven and London: Yale University Press, 1986. This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
 
 ### [Dona Marina, Cortes’ Translator: Personal Account, Bernal Díaz del Castillo](/dona-marina-cortes-translator-personal-account-bernal-diaz-del-castillo)
 
 ![Dona Marina, Cortes’ Translator: Personal Account, Bernal Díaz del Castillo](/images/Icons-Document-thumbnail_125.jpg)
+
+#### Annotation
 
 Perhaps the most famous 16th-century portrayal of doña Marina, this description is also the most extensive from the period. Díaz del Castillo claims she was beautiful and intelligent, she could speak Nahuatl and Maya. Without doña Marina, he says, the Spaniards could not have understood the language of Mexico. These words, while evocative, were written decades after Díaz del Castillo marched with Cortés on Tenochtitlan, and thus represent both his memory of doña Marina and his reply to accounts of the conquest written and published by others.
 Source: Díaz del Castillo, Bernal. Chap. 22-23 in The Discovery and Conquest of Mexico, 1517-1521. 1585. Translated by A. P. Maudsley. New York: The Noonday Press, 1965.
@@ -84,6 +90,8 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 
 ![Cortés Greets Xicotencatl in Mexican Manuscript](/images/lienzolarge-thumbnail.jpeg)
 
+#### Annotation
+
 A detail from a larger manuscript page in the *Lienzo de Tlaxcala*, this scene was created by an indigenous painter in central Mexico. Scenes from the *Lienzo de Tlaxcala*, now just fragments from a larger set of images, draw upon preconquest painting techniques and conventions. Like Malintzin herself, the *Lienzo* straddles a world of indigenous, preconquest practice and European intervention. In this fragment, Xicotencatl, the head of the indigenous state of Tlaxcala, greets Hernán Cortés, the leader of the Spanish conquistadors. The two men would become allies, banding together to defeat Motecuzoma and his capital city, Tenochtitlan. Below and at the center of the image stands doña Marina; her placement underscores the role she played as linguistic and cultural mediator.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
 
@@ -91,12 +99,16 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 
 ![Dona Marina in Florentine Codex](/images/florentinelarge-thumbnail.jpeg)
 
+#### Annotation
+
 This image was created by an indigenous painter in central Mexico and accompanies a written description of the conquest of Tenochtitlan, penned in both Spanish and Nahuatl in the *Florentine Codex*. The *Florentine Codex* is one of the fullest Nahuatl descriptions of the conquest. The scene shows Malintzin in the act of translating. She sits upon a palace roof with Cortés. Her pointed finger and the small scrolls represent the act of speaking, and hint at her bravery.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
 
 ### [Dona Marina, Cortes’ Translator: Nonfiction, Florentine Codex (Nahuatl)](/dona-marina-cortes-translator-nonfiction-florentine-codex-nahuatl)
 
 ![Dona Marina, Cortes’ Translator: Nonfiction, Florentine Codex (Nahuatl)](/images/Icons-Document-thumbnail_130.jpg)
+
+#### Annotation
 
 This chapter from the Florentine Codex, a bilingual encyclopedia of central Mexican life and history, was created by the Franciscan friar, Bernardino de Sahagún and indigenous advisors, painters and scribes. Nahuatl and Spanish texts appear side by side, and are accompanied by an image of Malintzin translating. The Nahuatl version of this text describes indigenous objects, words, and emotions in more detail than its Spanish counterpart, from the treasured items seized by conquistadors to the palace roof where Malintzin uttered her commands. In this text, she emerges as the crucial figure—the name of Cortés is never mentioned, and the orders she gives seem to be hers alone, not a translation of his demands. So, too, is the fear she induces more palpable and poignant.
 Source: Bernardino de Sahagún. “Of how the Spaniards entered Moteucçoma’s private home, and what happened there.” Book 12, Chap. 18, p.124, 126 in Florentine Codex. ca. 1570-1585. In We People Here. Translated and edited by James Lockhart. Berkeley and Los Angeles: University of California Press, 1993.
@@ -106,6 +118,8 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 
 ![Dona Marina, Cortes’ Translator: Nonfiction, Florentine Codex (Spanish)](/images/Icons-Document-thumbnail_128.jpg)
 
+#### Annotation
+
 This chapter from the Florentine Codex, a bilingual encyclopedia of central Mexican life and history was created by the Franciscan friar, Bernardino de Sahagún and indigenous advisors, painters and scribes. Nahuatl and Spanish texts appear side by side, and are accompanied by the image of Malintzin translating (described above). The Spanish text represents Sahagún’s translation of the Nahuatl, although the two accounts are not identical. This Spanish account is shorter than the Nahuatl, even though it pauses to describe doña Marina—as a bilingual woman seized in the Yucatan—and clarify that she was Cortés’s interpreter. A sense of her role and its power emerges at the end of the text, when we read that the orders she issues on Cortés’s behalf strike fear in the Aztecs who heard her.
 Source: Bernardino de Sahagún. “Of how the Spaniards entered Moteucçoma’s private home, and what happened there.” Book 12, Chap. 18, p.125 in Florentine Codex. ca. 1570-1585. In We People Here. Translated and edited by James Lockhart. Berkeley and Los Angeles: University of California Press, 1993.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
@@ -114,12 +128,16 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 
 ![The Dream of Malinche](/images/ruiz-thumbnail.jpeg)
 
+#### Annotation
+
 This painting, by a Mexican artist engaged with the international movement of Surrealism, represents a slumbering Malinche; her body serves as the ground supporting an unnamed Mexican community and church. This image evokes certain female earth deities known to the Aztecs, and it sustains the metaphor of the Mexican nation having been built upon the “ground” laid by Malinche’s actions. The lightning above Malinche’s head suggests her dream (as in the painting’s title) may not be pacific. Should she toss or turn—or even awaken—the consequences for the Mexican community resting upon her blanket would be disastrous.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
 
 ### [Dona Marina, Cortes’ Translator: Nonfiction, Octavio Paz](/dona-marina-cortes-translator-nonfiction-octavio-paz)
 
 ![Dona Marina, Cortes’ Translator: Nonfiction, Octavio Paz](/images/Icons-Book-Excerpt-thumbnail_23.jpg)
+
+#### Annotation
 
 This essay, which seeks to explain modern Mexican sensibilities by examining the phrases “hijos de la chingada” and “malinchista,” presents La Malinche as violated woman—part victim, part traitor to her nation. In Paz’s words, the Mexican people (the sons of Malinche), “have not forgiven La Malinche for her betrayal.” The essay is now a touchstone and point of departure for revisionist work on Malinche, particularly by feminist, Chicana writers, artists, and activists.
 Source: Paz, Octavio. “The Sons of Malinche.” Chap. 4 in The Labyrinth of Solitude and The Other Mexico. Translated by Lysander Kemp, et al. New York: Grove Press, 1985.
@@ -129,6 +147,8 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 
 ![Dona Marina, Cortes’ Translator: Poem, Como Duele, 1993, Women in World History](/images/Icons-Document-thumbnail_158.jpg)
 
+#### Annotation
+
 One of the earliest meditations on Malinche and her meaning published by a Chicana in the United States. This narrative explores Malinche’s fate and her abilities to negotiate difficult and competing cultural demands. It also grapples with the violence of colonization—in history, in Mexico and in the United States. The history it evokes is the intertwined history of indigenous and Chicana people, with Malinche as the figure who binds the Aztec past to the 20th-century present.
 Source: Sosa-Riddell, Adaljiza. “Como Duele.” 1973. In Infinite Divisions: An Anthology of Chicana Literature. Edited by Tey Diana Rebolledo and Eliana Rivero. Tucson: University of Arizona Press, 1993. First published in El Grito, Berkeley, CA.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
@@ -136,6 +156,8 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 ### [Dona Marina, Cortes’ Translator: Poem, La Malinche](/dona-marina-cortes-translator-poem-la-malinche)
 
 ![Dona Marina, Cortes’ Translator: Poem, La Malinche](/images/Icons-Document-thumbnail_157.jpg)
+
+#### Annotation
 
 A well-known Chicana poem about Malinche. Tafolla took inspiration from the famous 1967 poem of the Chicano movement, “Yo Soy Joaquín,” but rewrites from an explicitly feminist perspective. The poem addresses the scene of European colonization, charting Malinche’s fate—as conquered woman, traitor, invincible survivor. Tafolla heightens the tension between traitor and survivor, raped slave and mother of la raza by writing as if Malinche herself was recounting her own history. Since none of Malinche’s 16th-century words have survived, the poem lends Malinche both an indomitable personality and powerful voice; she becomes a living figure, to be reckoned with in the present, and not merely a haunting ghost from the past.
 Source: Tafolla, Carmen. “La Malinche.” 1978. In Infinite Divisions: An Anthology of Chicana Literature. Edited by Tey Diana Rebolledo and Eliana Rivero. Tucson: University of Arizona Press, 1993. First published 1978 in Canto al Pueblo: Anthology of Experiences by Texas: Penca Books.
@@ -145,6 +167,8 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 
 ![Dona Marina, Cortes’ Translator: Painting, Santa Barraza](/images/woman_0.jpg)
 
+#### Annotation
+
 A representation of Malinche painted by a renowned Chicana visual artist and teacher from Texas. It depicts the beautiful, life-giving Malintzin, is a tiny image, crafted on metal, and meant to evoke ex-voto and other devotional images from Mexico. Malinche appears as a beautiful young woman with her gaze turned down so that she does not meet our eyes. Behind her appear references to the Spanish conquest, the introduction of Christianity, and violence of both. While it does not deny the horrors of Christian conquest, it paints a world where beauty and violence co-exist.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
 
@@ -152,9 +176,10 @@ This source is a part of the [*Doña Marina, Cortés' Translator*](https://world
 
 ![Malinche Sculpture](/images/durham-thumbnail.jpeg)
 
+#### Annotation
+
 A sculpted figure by an internationally-recognized Native American activist, writer and visual artist. The materials chosen by Jimmie Durham create an image of Malinche that seems emptied of life and perhaps not fully human. He stresses the darker underside of Malinche’s history. Her face is half human, half snakeskin. Scrawny legs, made of polyester batting, cannot support the figure. Malinche’s torso has no heart, no lungs, yet the bra complicates our understanding—why does Malinche wear this modern undergarment? There is nothing redemptive in Durham’s vision—Malinche may wear jewelry and feathers in her hair, but no beauty surfaces, no hope appears.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
-
 
 ## Teaching Strategies
 
@@ -262,7 +287,7 @@ After completing this lesson, students will be able to:
    * Who is the symbol of the "violated Mother?" Why?
    * What does the adjective *malinchista* mean?
    * What is meant by the frequent shout, *"Viva Mexico, hijos de la chingada!"*?
-   * What does the essay tell us about the role of women in contemporary (1985)  
+   * What does the essay tell us about the role of women in contemporary (1985)<br>
      Mexican life?
    * What does Paz tell us about Malinche (Doña Marina)?
    * What does this document add to the Traitor-Victim-Neither chart and where should it go?
@@ -287,7 +312,7 @@ Less Advanced Students: Have students create a drawing of Malinche when they hav
 
 ## Document Based Question
 
-##### Document Based Question (Suggested writing time: 40 minutes)
+#### Document Based Question (Suggested writing time: 40 minutes)
 
 *Directions:* The following question is based on the documents included in this module. This question is designed to test your ability to work with and understand historical documents. Write an essay that:
 
@@ -349,10 +374,10 @@ Dr. Blair Sullivan, UCLA Center for Medieval and Renaissance Studies
 
 Luisa Barrios, Galeria de Arte Mexicana
 
-**About the Author**  
+**About the Author**<br>
 Dana Leibsohn is Associate Professor of Art History and Director of the Latin American and Latino/a Studies Program at Smith College. Her research interests involve indigenous visual culture in colonial Latin America, with an emphasis on maps and modes of literacy, and she has received recognition and grants from the J. Paul Getty Trust, the National Gallery of Art, and the National Endowment for the Humanities. In 2004 she was awarded the Conference of Latin American History Best Article prize for “Hybridity and Its Discontents: Considering Visual Culture in Colonial Spanish America.” She is currently working on a multimedia project entitled *Vistas: Colonial Latin American Visual Culture: 1520-1820*.
 
-**About the Lesson Plan Author**  
+**About the Lesson Plan Author**<br>
 Harriett Lillich has extensive experience developing and implementing the Advanced Placement World History and Advanced Placement European History examinations. She received her AB and MA from the University of Alabama and taught for 36 years in Mobile, Alabama—first at Murphy High School and then at UMS-Wright Preparatory School. She has served as Faculty Consultant for the AP European History examination and was on the task force that recommended the implementation of the AP World History exam. She has written test questions for the SATII World Cultures exam, reviews for AP Central Teacher Resources, and AP European History Workshop Materials for 2004-05 (Special Topic: Teaching with Primary Sources). She has also received a Fulbright for study in The Netherlands and a Council for Basic Education grant to read “Imperial Russia: Peter the Great to the 1917 Revolution.”
 
 This teaching module was originally developed for the Women in World History project.

@@ -5,6 +5,7 @@ drupal_node_id: 329
 source_type: "Image"
 url: /lemonade-stand
 image: /images/captain_of_industry.jpg
+image_alt: "Electric Power and Light Company Ad of boy selling lemonade"
 regions: 
   - "North/Central America"
 subjects: 

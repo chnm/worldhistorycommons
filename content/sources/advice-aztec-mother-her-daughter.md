@@ -5,6 +5,7 @@ drupal_node_id: 420
 source_type: "Text"
 url: /advice-aztec-mother-her-daughter
 image: /images/aztec-mother.png
+image_alt: "Advice of an Aztec Mother to Her Daughter"
 regions: 
   - "North/Central America"
 subjects: 

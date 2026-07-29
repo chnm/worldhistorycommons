@@ -27,6 +27,8 @@ related_sources:
   - link: "/illustration-maqamat-al-hariri"
     image: "/images/Les_Makamat_de_Hariri_thumbnail.jpeg"
     alt: "Illustration from The Maqamat of al-Hariri thumbnail image"
+how_to_cite: |
+  "Long Teaching Module: Education in the Middle East, 1200-2010," in World History Commons, https://worldhistorycommons.org/long-teaching-module-education-middle-east-1200-2010 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -83,6 +85,8 @@ While access to education has improved dramatically in the Middle East in the se
 
 ![Ijazahs (Diploma)](/images/ijaza-yale-beineke-library_f205a1b9ceTHUMB.jpg)
 
+#### Annotation
+
 During the medieval period, gifted children who successfully memorized the entire Qur'an left their home at the age of about 12-14 to travel to a nearby town and eventually around the Middle East to study with renowned academic authorities to hear historical, religious, philosophical, and legal texts. When the student could recite the material flawlessly, the authority issued the student an ijazah (diploma). The ijazah system was based on a system of learning that prioritized memorization, face-to-face student-teacher contact, and oral recitation. An ijazah could vary in length from one paragraph to a sizable volume. They contained: an opening prayer; a flattering introduction of the student; the date of issuance; the authority's biography; and a genealogy of the chain of transmission of the mastered material, reaching back to the original author.
 Accurate oral transmission was important in the age before printing and this is why teachers evaluated students on memorization and oral recitation. The main goal of education was to train students to be future scholars of Islamic law, which required the ability to trace long chains of transmission that proved the validity of hadith (sayings attributed to the Prophet). The hadith were used in legal decisions that did not have a clear answer in the Qur'an itself. Students seeking specialized education in medicine, astronomy, or other fields would study at the courts or centers known for these fields, or would travel to read in the libraries where collections were found, perhaps receiving the hospitality of the library’s patron or a foundation during the period of study.
 The quantity of acquired ijazahs contributed to a student's future status as a scholar. Status was largely based on the links a scholar could document to earlier generations of scholars in the Muslim community. Each time a student received an ijazah, it meant that he had mastered a body of material that had been transmitted through a long series of scholars. The symbolic importance of these certificates can be noted in their artistic prose and artistic appearance. One notable difference between the ijazah and the medieval European university degree––an individual rather than an institution.
@@ -91,6 +95,8 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 ### [Ibn Khaldun's Study of History (1377 CE)](/ibn-khalduns-study-history-1377-ce)
 
 ![Ibn Khaldun's Study of History (1377 CE)](/images/Icons-Book-Excerpt-thumbnail_0.jpg)
+
+#### Annotation
 
 Statesman, jurist, historian, scholar, and philosopher Ibn Khaldun was born in Tunis on May 27, 1332. Ibn Khaldun is an exemplary example of product of the Islamic education that children and youth received. He received a traditional early education of Qur'an, jurisprudence, and Arabic grammar. In his early 20s, he traveled to Fes to complete his education with the eminent scholars of his day. Ibn Khaldun wrote The Muqaddimah in 1377 as the preface and first book of his world history volume. It is regarded as the earliest attempt made by any historian to discover patterns in changes in political and social organization and it represents a departure from traditional historiography that merely chronicled events. It also is often viewed as an early work of sociology and economics. Ibn Khaldun saw all societies as going through a cycle of growth and decline, followed by conquest, and then the conquering society would go through the same cycle. The majority of the volume was prepared in the form of academic lectures to be read aloud.
 
@@ -102,6 +108,8 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 
 ![Abd al-Latif al-Baghdadi's Autobiography](/images/Icons-Document-thumbnail_22.jpg)
 
+#### Annotation
+
 In medieval times, education was a key factor of Islamic society. It was considered the purpose for which God created man. As such, belief and education were not separated from one another. The first revealed verse of the Qur'an is "Read," demonstrating the value placed on knowledge and learning. Islamic civilization created a golden age of education during the European dark ages. For example, in the 9th century the library of the largest monastery in Europe contained 36 volumes, while Islamic cities, like Cordoba and Baghdad, at that time built public and private libraries with more than 400,000 books. Many of the achievements of the European Renaissance were later based on the accumulated knowledge of medieval Islamic civilization.
 The selections from this document provide a glimpse into the education that made a great scholar of the Islamic Middle Ages. During childhood, such an education left little time for rest and play. Also, fathers played a large role in decision-making about a child's academic path. The selections from this autobiography document the important role blind people played as tutors for children in the education system.
 This source is a part of the  [*Education in the Middle East, 1200-2010*](https://worldhistorycommons.org/long-teaching-module-education-middle-east-1200-2010) teaching module.
@@ -109,6 +117,8 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 ### [Illustration from The Maqamat of al-Hariri](/illustration-maqamat-al-hariri)
 
 ![Illustration from The Maqamat of al-Hariri](/images/Les_Makamat_de_Hariri_thumbnail.jpeg)
+
+#### Annotation
 
 During the Abassid period and onward, children four or older in villages and urban centers began attending schools (*maktabs*) attached to mosques to obtain a basic education in religious matters. Students in a *maktab* sat in a semicircle on the floor around the teacher writing their lessons on a tablet and then repeating it back for correction. In this illustration, one boy recites for the teacher while another boy takes his turn pulling the ceiling fan. Attendance at *maktabs* was voluntary; typically, wealthier families paid for their child to attend and poorer students exchanged the running of a teacher's errands for tuition. Successful students could go on to study with individual scholars at *madrasas*, which were supported by an endowment.
 Generally, girls did not attend schools and when they were educated, if at all, it was in separate facilities or by private tutors. Some women made notable contributions to Islamic scholarship in the medieval period, routinely giving lectures, traveling for knowledge, transmitting and critiquing *hadith*, and issuing legal decisions. They did so within the cultural conventions of modesty and avoiding, to the extent possible, mixing with men.
@@ -118,11 +128,15 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 
 ![Devshirme System](/images/devshirme-thumbnail.jpeg)
 
+#### Annotation
+
 This Ottoman miniature painting from 1558 shows a group of boys dressed in red, being registered for the *devshirme* (usually translated as “child levy” or “blood tax”). The *devshirme* *was* a system of forced labor, probably begun in the late 14th century, in which Christian boys, mostly from the Balkans, were taken from their homes to serve the Ottoman government. The artist captures the first stage of this process, with the boys’ families kept behind a wall by an Ottoman official. The aim of the sultans was to create a group of officials and soldiers who would be loyal to him rather than to their own families, as many Turkish nobles were. The boys were taken to Istanbul, forcibly converted to Islam, and placed with Muslim families or in schools. Those sent to school learned Arabic, Persian, Turkish, math, calligraphy, Islam, horsemanship, and weaponry, passing through a series of examinations to determine their intelligence and capabilities. They were essentially slaves to the state, but some acquired power and prestige. Many became soldiers and army officers, including the elite Janissary corps, the sultan’s personal troops. Others became government ministers, provincial governors, and even grand viziers, the highest office except for the sultan. Because of these opportunities, there is evidence that some families (including Muslim families) volunteered their sons, though the practice was also a source of trauma and resentment against Ottoman rule. The *devshirme* *system slowly declined in the 17th century.*
 
 ### [Ottoman Decree, 1856](/ottoman-decree-1856)
 
 ![Ottoman Decree, 1856](/images/Icons-Document-thumbnail_20.jpg)
+
+#### Annotation
 
 The Ottoman Empire undertook extensive reforms between 1839 and 1876, a period known as the Tanzimat (reorganization). Europeanized Ottoman bureaucrats and a series of decrees from the sultan shaped these reforms that sought administrative, military, legal, and educational improvements. A series of reversals in wars with European powers during the 18th century and the realization that the West had outstripped the Ottomans in scientific and technological advancements, forced the Ottoman government to reevaluate its institutions and introduce changes to the traditional education system.
 At the heart of the new direction lay the intent to quell growing nationalist agitation in the European provinces, secure the loyalty of Christian subjects, and break down the millet system that administered legal and communal rights within religious communities. The goal was for secular identity and a common Ottoman citizenship to replace religious affiliation.
@@ -132,6 +146,8 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 ### [British Parliamentary Papers](/british-parliamentary-papers)
 
 ![British Parliamentary Papers](/images/Icons-Document-thumbnail_549.jpg)
+
+#### Annotation
 
 Despite efforts to resist, by the end of the 19th century, almost all of the Middle East had fallen under the control of European powers. Whether in the form of a protectorate or colony, European powers made changes to the indigenous educational system that impacted children.
 Europeans offered European-style education to a very small elite group of Middle Eastern students and this education was intended to shape the children into abiding colonial subjects by teaching them that their civilization was backwards. These government schools created under the Europeans charged tuition that most families could not afford. The majority of children were deemed unfit for modern education and colonialists circulated the idea that Middle Eastern parents did not value education.
@@ -144,6 +160,8 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 
 ![Girls' Education is the Basis of Civilization and Moral Refinement, 1907](/images/Icons-Article-Excerpt-thumbnail_2.jpg)
 
+#### Annotation
+
 At the turn of the 20th century, Tehran published magazines intended to reshape social practices, to "civilize" and "modernize" the nation. Many magazines addressed the education of girls, contending that uneducated mothers resulted in uneducated children and hence a nation that could not advance.
 These calls for reform of girls' education came at a time when many countries in the Middle East began to demand independence from colonial powers. They debated the merits of "modernity" (which some understood as "western") and "tradition" (understood as "eastern"). For many nationalists and feminists, "modernity" meant greater education rights for women with the goal of strengthening the nation and its quest for independence from colonization and/or western imperialism.
 As part of the nationalist efforts, an increasing number of girls began to be offered access to education. The curriculum for girls usually centered on learning home-making and parenting skills so that the girls could grow up to properly raise the next generation of citizens.
@@ -152,6 +170,8 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 ### [Taha Hussein, Minister of Education](/taha-hussein-minister-education)
 
 ![Taha Hussein, Minister of Education](/images/Icons-Document-thumbnail_19.jpg)
+
+#### Annotation
 
 In the mid-20th century, countries in the Middle East struggled to establish a post-independence identity. Educational reformers and government officials tried to create national cohesion through expanded schooling, closing the gap between elites educated in private Francophone or Anglophone schools, and the masses of ordinary Egyptians. Taha Hussein (1889-1973) became a towering figure of educational reform in Egyptian 20th-century history. Despite being blind and coming from a poor, rural family, he achieved a high degree of education and power. With an advanced degree from the Sorbonne, Hussein served as academic advisor to the Minister of Education and then as Minister of Education (1950-1952).
 Hussein provided a conceptual framework for the development of a centralized national education system focused on schooling for all. He held that schools should be secular, promoting democracy, defending national economies, and maintaining a country's political independence.
@@ -162,12 +182,16 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 
 ![Education in Post-Colonial Algeria](/images/Icons-Article-Excerpt-thumbnail_1.jpg)
 
+#### Annotation
+
 In the immediate aftermath of independence, post-colonial governments in the Middle East prioritized education as a cornerstone for economic growth. This included revamping the curriculum, turning classrooms, in many instances, into battlegrounds in political and ideological fights. When Algeria obtained its independence from France in 1962, for example, after 132 years of colonization, Algerians determined to forge an identity free from western influence. The arabization of the Algerian school curriculum began in earnest in 1971, banning French and requiring Islamic law and the study of the Qur'an. Today the Algerian government is trying to reverse the momentum of Islamists and aims to reengineer the Algerian identity through the schools.
 This source is a part of the  [*Education in the Middle East, 1200-2010*](https://worldhistorycommons.org/long-teaching-module-education-middle-east-1200-2010) teaching module.
 
 ### [Gülen Movement](/gulen-movement)
 
 ![Gülen Movement](/images/Icons-Book-Excerpt-thumbnail.jpg)
+
+#### Annotation
 
 Despite media reports in the West that often link Islamic education with radical Islam, there are varieties of modern Islamic education. One such example is the Gülen movement. It has inspired the creation of hundreds of schools funded by Turkish entrepreneurs who are members of the Gülen movement, motivated by Islamic principles but offering nonreligious education, whose students often excel in academic achievement, science competitions, and university admittance rates. Founded in Turkey by Fethullah Gülen and now active in over 50 countries, the Gülen movement is an offshoot of Said Nursi's (1879-1960) Nurcu movement and derived from an understanding of Islam shaped by the secular Turkish context and by ideas formed in conservative Islamic circles. The Gülen movement seeks to implement Islam at an individual level rather than a state level, emphasizes science education rather than religion alone, and conducts interfaith dialogues. Some Turkish secularists believe that he is trying to transform Turkey into an Islamic state under the guise of peacefulness and goodwill, so Gülen lives in self-imposed exile in the U.S. Education of children in the Middle East, like anywhere in the world, is an arena in which larger social issues play out.
 This source is a part of the  [*Education in the Middle East, 1200-2010*](https://worldhistorycommons.org/long-teaching-module-education-middle-east-1200-2010) teaching module.
@@ -176,10 +200,11 @@ This source is a part of the  [*Education in the Middle East, 1200-2010*](https:
 
 ![Education in a Warzone](/images/audio-thumbnail.png)
 
+#### Annotation
+
 In some regions of the Middle East today, conflict impacts students' daily educational experience. Since the 2003 invasion of Iraq, militants have targeted educational establishments, thousands of academics have fled the country, and up to 70% of schools have been closed. People in this region maintain their high regard for education in the face of adversity, as this podcast relates.
 Recorded in 2008 to commemorate the fifth anniversary of the allied military invasion of Iraq, this podcast is made by Iraqi journalists about the daily life experiences of Iraqi children trying to pursue an education during a period of war. Young Iraqis report dodging bombs on their way to schools, being forced to discontinue their studies, and having to complete homework assignments without electricity.
 This source is a part of the  [*Education in the Middle East, 1200-2010*](https://worldhistorycommons.org/long-teaching-module-education-middle-east-1200-2010) teaching module.
-
 
 ## Teaching Strategies
 
@@ -227,7 +252,7 @@ Ask students what comes to mind when they think about schools in the Middle East
 
 Explain to students that they will learn about the history of schools in the Middle East. They will study primary sources that will help them understand the characteristics of schools in the pre-modern Middle East as well as the contemporaneous debates around schools. They will also study primary sources that will help them understand the changes that these schools have undergone in entering the modern era. This lesson will help students formulate an informed image of schools in the Middle East, which is the ultimate goal of the Document Based Question.
 
-First Activity  
+First Activity<br>
 The first activity will focus on piecing together information from the various sources about how schools functioned in the pre-modern Middle East.
 
 Divide the class into four groups. Tell them that each group will be assigned part of the larger project that is to create an imaginary 11-year old male pupil living in the Middle East in the 10th century. After each group completes their part of the project, they will present to the entire class. Every student in the class is responsible for learning all components of the material. Assign each group one of the following topics to describe in detail about the virtual student and tell them to base their answers on the first four sources provided in this module:

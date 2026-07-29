@@ -5,6 +5,7 @@ drupal_node_id: 1594
 source_type: "Text"
 url: /southeast-asian-politics-nonfiction-javanese-education
 image: /images/Icons-Document_349.jpg
+image_alt: "image of the text"
 regions: 
   - "Asia"
 subjects: 

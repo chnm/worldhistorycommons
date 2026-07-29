@@ -5,6 +5,7 @@ drupal_node_id: 570
 source_type: "Image"
 url: /triumph-liberty
 image: /images/86b3a24cd3a34e9e13e39822e50c5151.jpg
+image_alt: "Painting of personified Liberty"
 regions: 
   - "Europe"
 subjects: 
@@ -22,3 +23,8 @@ how_to_cite: |
 ---
 
 In this extraordinary painting stands a formidable and powerful figure of liberty with her pike and cap. As the title of this work suggests, Liberty appears here as a warrior surveying the field of battle from a commanding height. Furthermore, the cock crowing at the dawn suggests the arrival of an entirely new day.
+
+## Transcription
+
+**Title in French**  
+Le Triomphe de la Liberté

@@ -5,6 +5,7 @@ drupal_node_id: 1059
 source_type: "Image"
 url: /louis-leaves-his-family
 image: /images/79b82e47ab13e310b2481172a368bcb6.jpg
+image_alt: "Image of King Louis XVI leaving his family before execution"
 regions: 
   - "Europe"
 subjects: 

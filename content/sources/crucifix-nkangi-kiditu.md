@@ -5,6 +5,7 @@ drupal_node_id: 2383
 source_type: "Object"
 url: /crucifix-nkangi-kiditu
 image: /images/Brooklyn_Museum_2011.74_Crucifix_Nkangi_Kiditu.jpg
+image_alt: "Copper-alloy cast crucifix, with two kneeling figures resting on bar above hands, with a third projecting below the central figure's feet."
 regions: 
   - "Africa"
 subjects: 

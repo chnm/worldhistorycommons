@@ -5,6 +5,7 @@ drupal_node_id: 92
 source_type: "Text"
 url: /dance-dead
 image: /images/dance-of-the-dead_131a9d25c4.jpg
+image_alt: "Mural and poem of the Dance of the Dead"
 regions: 
   - "Europe"
 subjects: 

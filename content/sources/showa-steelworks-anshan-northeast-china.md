@@ -5,6 +5,7 @@ drupal_node_id: 3122
 source_type: "Image"
 url: /showa-steelworks-anshan-northeast-china
 image: /images/Showa_Steel_Works.jpeg
+image_alt: "Black and white photo of a factory. Several smoke stacks and smoke is visible."
 regions: 
   - "Asia"
 subjects: 

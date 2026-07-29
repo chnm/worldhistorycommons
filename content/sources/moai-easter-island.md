@@ -5,6 +5,12 @@ drupal_node_id: 3041
 source_type: "Image"
 url: /moai-easter-island
 image: /images/12842001_0.jpg
+image_alt: "A moai in the shape of a human figure with a smaller head, large nose and lips, rectangular ears, and a torso against a black background."
+additional_images:
+  - src: "/images/source-media/3041/Easter_Island__16471663317_.jpeg"
+    alt: "A moai with a large, long head with distinctive nose, lips, and rectangular ears outside with grass and other statues in the background."
+  - src: "/images/source-media/3041/Easter_Island__16678951235_.jpeg"
+    alt: "A moai with a large head, with distinctive eyes and lips, with the body sinking into the grassy ground. There is a fence around the moai to block people off."
 regions: 
   - "Oceania"
 subjects: 
@@ -26,7 +32,7 @@ time_periods:
 source_citation: |
   "Figure," The Trustees of the British Museum, 1000-1200 CE.
 credits: |
-  "Figure," The Trustees of the British Museum, 1000-1200 CE, Easter Island,<https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1>
+  "Figure," The Trustees of the British Museum, 1000-1200 CE, Easter Island, <https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1>
 how_to_cite: |
   "Moai on Easter Island," in World History Commons, https://worldhistorycommons.org/moai-easter-island [accessed April 8, 2026]
 ---

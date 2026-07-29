@@ -20,6 +20,8 @@ related_sources:
   - link: "/announcement-protest-bratislava"
     image: "/images/Icons-Document-thumbnail_455.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Letter by the Bratislava Five," in World History Commons, https://worldhistorycommons.org/short-teaching-module-letter-bratislava-five [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -34,9 +36,10 @@ This short teaching module includes brief context and guidance on discussing the
 
 ![Announcement of a Protest in Bratislava](/images/Icons-Document-thumbnail_455.jpg)
 
+#### Annotation
+
 In the summer of 1989, Slovak dissidents decided to commemorate the anniversary of the Warsaw Pact invasion by publicly laying flowers at various locations in Slovakia where citizens had been killed in 1968. They announced their plans in a letter to the Slovak government dated August 4, 1989. Copies of the letter were produced in samizdat (clandestine press) and secretly distributed throughout Slovakia. In Bratislava, the authorities arrested the five dissidents who had signed the letter. Though crowds gathered at the sites on the August 20 anniversary, the police prevented anyone from presenting flowers. In the Slovak press, the authors became known collectively as the 'Bratislava Five.' The public outcry that followed their arrest strengthened the ties between the different opposition groups in Slovakia, which united that fall to form Public Against Violence. This broad organization helped negotiate the peaceful transfer of power from the Communist authorities.
 This source is a part of the [*Letter by the Bratislava Five*](https://worldhistorycommons.org/short-teaching-module-letter-bratislava-five) teaching module.
-
 
 ## Teaching Strategies
 

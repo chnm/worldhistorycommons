@@ -5,6 +5,7 @@ drupal_node_id: 387
 source_type: "Text"
 url: /womens-union-telegram
 image: /images/telegram-to-governor-puerto-rico.jpg
+image_alt: "Women's Union Telegram"
 regions: 
   - "North/Central America"
 subjects: 

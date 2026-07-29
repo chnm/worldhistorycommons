@@ -5,6 +5,7 @@ drupal_node_id: 262
 source_type: "Image"
 url: /woman-leninstalin-flag
 image: /images/woman-with-lenin-flag.png
+image_alt: "Woman with Lenin/Stalin Flag"
 regions: 
   - "Europe"
 subjects: 

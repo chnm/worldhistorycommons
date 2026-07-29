@@ -5,6 +5,7 @@ drupal_node_id: 623
 source_type: "Image"
 url: /arms-reduction-eastern-europe
 image: /images/Arms-Reductions.jpg
+image_alt: "Chart of Arms Reduction in Eastern Europe"
 regions: 
   - "Europe"
 subjects: 

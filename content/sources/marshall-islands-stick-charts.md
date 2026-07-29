@@ -5,6 +5,10 @@ drupal_node_id: 2410
 source_type: "Object"
 url: /marshall-islands-stick-charts
 image: /images/Maps-Marshall-Islands-Stick-Chart.jpg
+image_alt: "Marshall Island Stick Chart, ca. 19th century"
+additional_images:
+  - src: "/images/source-media/2410/iiif-service_gmd_gmd9_g9461_g9461p_ct003132-full-pct_12.5-0-default.jpg"
+    alt: "Marshall Island Stick Chart, ca. 20th century."
 regions: 
   - "Global"
   - "Oceania"

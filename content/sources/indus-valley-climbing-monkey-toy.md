@@ -5,6 +5,7 @@ drupal_node_id: 156
 source_type: "Object"
 url: /indus-valley-climbing-monkey-toy
 image: /images/two-views-indus-valley-monkey-toy_56437deee3.jpg
+image_alt: "Photo of wooden monkey figurine"
 regions: 
   - "Middle East"
 subjects: 

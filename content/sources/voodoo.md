@@ -5,6 +5,7 @@ drupal_node_id: 1518
 source_type: "Text"
 url: /voodoo
 image: /images/Icons-Document_289.jpg
+image_alt: "Translation of text from original document"
 regions: 
   - "Global"
 subjects: 

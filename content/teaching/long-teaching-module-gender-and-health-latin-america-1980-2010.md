@@ -29,6 +29,8 @@ related_sources:
   - link: "/gender-and-health-latin-america-newspaper-domestic-violence-brazil"
     image: "/images/Icons-Document-thumbnail_405.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Long Teaching Module: Gender and Health in Latin America, 1980-2010," in World History Commons, https://worldhistorycommons.org/long-teaching-module-gender-and-health-latin-america-1980-2010 [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -69,7 +71,7 @@ First, legal debates concerning women’s bodies are an important factor in unde
 
 Contemporary experiences of Latin American women, testimonial accounts, and descriptions of women’s activism illustrate the variety of challenges different groups of women have to confront. Their accounts reveal desperation, anger, poverty, and the inability to control their lives—but they also demonstrate creativity in addressing problems, courage in challenging oppressive and painful systems, and the desire to act and engage in activities that improve their lives. Rural isolation, urban poverty, and the widespread lack of access to political channels and power encourages admirable and surprising ways women find to resist. After all, it is important to keep in mind that the topics of gender and health are closely connected to contemporary real-life experiences, to women who experience the ups and downs of modernity. The study of the historical roots of gender- and health-systems offers learning experiences that can be moved beyond the realm of academics to guide future thought and action.
 
-**Sources**  
+**Sources**<br>
 Definition of Reproductive Health, (New York: World Health Organization, Office at the United Nations, 1994).
 
 Marsha Freeman, Women's Rights and Reproduction: Capacity and Choice (Minnesota: Humphrey Institute of Public Affairs, 1991), p.2.
@@ -82,6 +84,8 @@ Preamble to the Constitution of the World Health Organization as adopted by the 
 
 ![Life Histories (Chile) Table](/images/mooneychart-thumbnail.jpeg)
 
+#### Annotation
+
 Women all over the world may undergo life-course transitions from daugtherhood to motherhood, a great *similarity* that shapes their lives due to what is perhaps the biological difference that most distinguishes women from men: their childbearing capacity. The circumstances under which women experience transitions, however, vary greatly. Female life histories—and meanings of motherhood—are shaped by multiple factors. Access to education is one of these factors.
 The following table presents an overview of case studies gathered in an effort to promote education among women. It introduces information in comparative perspective and sheds light on women’s life cycles in poor sectors of 20th-century Chilean society. Most of the life histories presented here introduce women who have not had a wide range of choices in their lives.
 In reading this source, consider the major experiences and factors that have shaped women’s decision-making patters regarding their health and well-being. Similarly, one should reflect on the ability of women to make independent and informed decisions.
@@ -90,6 +94,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 ### [Gender and Health in Latin America: Official Document, Women’s Status (Latin America)](/gender-and-health-latin-america-official-document-womens-status-latin-america)
 
 ![Gender and Health in Latin America: Official Document, Women’s Status (Latin America)](/images/Icons-Document-thumbnail_359.jpg)
+
+#### Annotation
 
 The right to life is a basic prerequisite to definitions of the right to live a healthy life. However, because of violence against women and various other stringent challenges to their daily lives, neither women’s health nor their daily lives are fully secure.
 This document offers insights into the work of the Organization of American States (OAS), an international agency which helps establish regional guidelines on human rights, health, and gender equity in the Western Hemisphere. While addressing health and healthcare on this level, the organization has long made reports on the status of women a priority. The reports are significant as standard-bearers to measure the state of human rights and health. Although they are not legally binding for the nations which are part of the OAS, these guidelines allow us to measure the progress in the effort to secure basic women’s rights as human rights.
@@ -100,6 +106,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 
 ![Gender and Health in Latin America: Committee Hearing, Sterilization (Peru)](/images/Icons-Document-thumbnail_404.jpg)
 
+#### Annotation
+
 Eugenics, defined as controlled human reproduction based on notions of desirable and undesirable populations or genotypes, have gained attention predominantly in the context of European fascist regimes that aimed at eliminating or controlling populations. Hitler’s campaign to eliminate Jews is perhaps the best known case in recent history. The concept of eugenics, however, has (re-)appeared in many different settings.
 These published transcripts of Congressional Hearings on Human Rights document the voices of women who have experienced attacks on their health and human rights as a result of sterilization campaigns. These women’s personal experiences with sterilization programs in Peru provide insight into healthcare programs that have discriminated against particular groups in Latin America. These Congressional Testimonies reveal a number of assumptions about the characteristics of the population targeted in the sterilization programs, and suggest that there is evidence of human rights violations in the women’s stories.
 This source is a part of the [*Gender and Health in Latin America, 1980-2010*](https://worldhistorycommons.org/long-teaching-module-gender-and-health-latin-america-1980-2010) teaching module.
@@ -107,6 +115,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 ### [Gender and Health in Latin America: Newspaper, Domestic Violence (Brazil)](/gender-and-health-latin-america-newspaper-domestic-violence-brazil)
 
 ![Gender and Health in Latin America: Newspaper, Domestic Violence (Brazil)](/images/Icons-Document-thumbnail_405.jpg)
+
+#### Annotation
 
 Domestic violence is hardly a new topic in the global history of gender relations. Scholars and counselors have long been familiar with responses to domestic violence, ranging from emergency hotlines and family counseling to restraining orders placed on abusive spouses or partners. However, the manner in which domestic violence is addressed must reflect the fact that it exists in different forms and cultural contexts across national boundaries.
 This provocative newspaper article reflects both Canadian and Brazilian culture simultaneously, introducing terms and categories used by the Canadian press to report on Brazilian news. Referring to machismo in the context of abused husbands, the article evokes stereotypes of Latin American masculinity that add a misleading tone to the report.
@@ -117,6 +127,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 
 ![Gender and Health in Latin America: Law, Maternity Leave (Cuba)](/images/Icons-Document-thumbnail_406.jpg)
 
+#### Annotation
+
 Motherhood and the many requirements that come with it provide a good starting point for analysis of women’s need for protection, on the one hand, and the limits on women’s decision-making imposed in protective legislation, on the other. When women entered the labor market, it became necessary to address their needs and concerns as both women and workers. As a result, women’s movements worldwide have focused on legal rights that seek to acknowledge women’s roles as both mothers and professionals, such as maternity leave.
 This legal document, the “Working Women’s Maternity Law,” demonstrates how Cuban legislature, under the only revolutionary government in the Americas, has addressed the topic of motherhood and women workers’ rights. Given that the Cuban leadership prides itself in promoting equality among all Cubans as part of the goals of the Cuban Revolution, this document deserves particular attention.
 Consider whether the Cuban Law indeed reflects gender equity, addressing men and women as citizens with equal rights and obligations. To what extent do traditional understandings of women’s roles in society shape this revolutionary legislation? Reflect on how and why the roles of working mothers and fathers are different, and the ways that biological difference influences the understanding of equal rights in a legal context.
@@ -126,6 +138,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 
 ![Gender and Health in Latin America: Interview, Abortion Rights (Chile)](/images/Icons-Document-thumbnail_407.jpg)
 
+#### Annotation
+
 As a topic of discussion in the United States, abortion has long raised red flags. Not surprisingly, it is hardly a neutral subject in other national settings. Yet, apart from questions about the origin of life and legal questions about abortion rights, there are other dimensions to the history of abortion that relate to the lives of individual people on the local level.
 The following source is an interview with a Chilean woman who violated her country’s abortion laws, and is part of a larger study based on the oral history accounts of 159 women from poor sectors of Chilean society. The study gives insights into the methods by which women who had abortions are reported to the police and describes the criminal process that abortion providers and their “accomplices” undergo. In Chile, abortion is illegal under all circumstances, not even to save the life of the mother. Women who have abortions frequently go to prison. Legal questions, once again, are only one part of the story, and too easily overshadow the individual experiences and challenges of women. Thus, in the larger context of the issues surrounding unwanted pregnancies, one must consider the role of the individual, the family, and the state.
 This source is a part of the [*Gender and Health in Latin America, 1980-2010*](https://worldhistorycommons.org/long-teaching-module-gender-and-health-latin-america-1980-2010) teaching module.
@@ -133,6 +147,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 ### [Gender and Health in Latin America: Personal Account, Prostitution (Mexico)](/gender-and-health-latin-america-personal-account-prostitution-mexico)
 
 ![Gender and Health in Latin America: Personal Account, Prostitution (Mexico)](/images/Icons-Document-thumbnail_408.jpg)
+
+#### Annotation
 
 As a popular saying and historical reality suggest, prostitution is the world’s oldest profession. On one level, the topic of prostitution is connected to a set of moral-ethical considerations. On a different level, however, it is necessary to address prostitution from a health and human rights perspective. Female prostitutes in Latin America and other parts of the world often rely on prostitution as a means, and often as the last resort, to provide for one’s personal and family needs. Women are forced to work under unhealthy and dangerous conditions, are frequently subjected to violence, and almost always cope with a blatant absence of women’s rights and rights other professions may count on.
 In this source, Claudia Colimoro, a feminist prostitute who was on the Revolutionary Workers’ Party (PRT) slate during the 1991 Mexican parliamentary and municipal elections, addresses the topic of prostitution based on her own personal experience with the profession, revealing her knowledge of occupational challenges and health risks. She was part of the Convención Nacional de Mujeres por la Democracia (National Women’s Convention For Democracy), which was the first organization in Mexico since the 1930s women’s suffrage campaign to create a women’s ticket in an election.
@@ -143,6 +159,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 
 ![Gender and Health in Latin America: Interview, Reproductive Rights (Brazil)](/images/Icons-Document-thumbnail_428.jpg)
 
+#### Annotation
+
 In the 1950s, when the first contraceptive pills were tested in Puerto Rico, politicians, health administrators, and Church officials worldwide began to discuss human reproduction in new ways. The understanding that pregnancy could be prevented by “scientific” means stimulated debates on the regulation and control of human reproduction. After World War II, Neo-Malthusian views and the fear of overpopulation entered the popular imagination and shaped policymaking. Population bombs were expected to explode, especially in the developing regions of the world. “Excess populations,” along the lines of this view, would potentially cause social unrest and revolutions, in which tidal waves of poor people would rise against authorities and threaten political and economic stability. Population control was clearly on the mind of policy makers and health care officials alike. Issues of gender equity and women’s bodily integrity played only secondary roles in most approaches to fertility regulation and family planning.
 In this source, an interview with human rights activist Maria Amélia Teles, the interviewee criticizes approaches to population control that exclude women’s rights and hopes to see reproductive rights take center stage. Teles is part of Brazil’s new women’s movement, which emerged between 1964 and 1985, during the period of military rule. She addresses some of the crucial obstacles that have prevented Brazilian women from living healthy and peaceful lives. Government policies, she asserts, have failed to protect women from becoming victims of violence and human rights abuses.
 This source is a part of the [*Gender and Health in Latin America, 1980-2010*](https://worldhistorycommons.org/long-teaching-module-gender-and-health-latin-america-1980-2010) teaching module.
@@ -150,6 +168,8 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 ### [Gender and Health in Latin America: Interview, Violence Against Women (Uruguay)](/gender-and-health-latin-america-interview-violence-against-women-uruguay)
 
 ![Gender and Health in Latin America: Interview, Violence Against Women (Uruguay)](/images/Icons-Document-thumbnail_429.jpg)
+
+#### Annotation
 
 Violence against women may take place within families as well as in settings outside of the domestic environment. Policy makers, academics, and activists have long sought to identify root causes of violence. These efforts have included strategies to help the victims of violence and to terminate violent behavior. Police stations staffed by women have been innovative testing grounds in some Latin American countries, thereby allowing women to report violent acts to female members of the force. While it seems plausible that female victims of violence might find it easier to talk to women about their experiences, this approach isolates the issues from main-stream police work and does not do enough to prompt long-term solutions.
 In the following interview, an experienced self-help activist from Uruguay offers interpretations that might inspire the search for additional strategies. As the director of SOS Mujer, a sanctuary for women affected by violence, Lady Elizabeth Repetto gained firsthand insights into the horrors of everyday violence against women in Montevideo and she draws conclusions about the causes of such violence.
@@ -159,11 +179,12 @@ This source is a part of the [*Gender and Health in Latin America, 1980-2010*](h
 
 ![Gender and Health in Latin America: Personal Account, Education (Honduras)](/images/Icons-Document-thumbnail_430.jpg)
 
+#### Annotation
+
 Access to education and the willingness to learn are crucial ingredients to improve the health of women throughout the world. Good health depends on an understanding of the human body, but also requires the knowledge to maintain a healthy lifestyle. However, access to that knowledge is often dictated by social and economic standing within a society. As a result, poor or rural women need to rely on different strategies than, for example, middle-class women in urban centers.
 This source, the voice of a nurse and self-appointed educator in rural Honduras, makes clear that knowledge means survival. Her insights depict the lack of education, the limited motivation, and the lack of confidence among poor rural women. Ramirez’s story offers insights into the divergent and myriad needs of both rural and urban women in Latin America as they confront challenges to their health.
 Consider the ways that class, geography, and urban and rural lifestyles affect how women learn about health. What additional circumstances in women’s lives should policymakers address when trying to improve women’s health?
 This source is a part of the [*Gender and Health in Latin America, 1980-2010*](https://worldhistorycommons.org/long-teaching-module-gender-and-health-latin-america-1980-2010) teaching module.
-
 
 ## Teaching Strategies
 
@@ -205,12 +226,12 @@ After completing this lesson, students will be able to:
 
 * Sufficient copies of the following sources (in this order):
 
-Source 2: Official Document, Women’s Status  
-Source 9: Interview, Violence Against Women  
-Source 5: Law, Maternity Leave  
-Source 4: Newspaper, Domestic Violence  
-Source 1: Table, Life Histories  
-Source 3: Committee Hearing, Sterilization  
+Source 2: Official Document, Women’s Status<br>
+Source 9: Interview, Violence Against Women<br>
+Source 5: Law, Maternity Leave<br>
+Source 4: Newspaper, Domestic Violence<br>
+Source 1: Table, Life Histories<br>
+Source 3: Committee Hearing, Sterilization<br>
 Source 10: Personal Account, Education
 
 * White/black board and markers/chalk, or overhead, transparencies, and pens (if desired)

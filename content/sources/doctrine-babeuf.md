@@ -5,6 +5,7 @@ drupal_node_id: 1503
 source_type: "Text"
 url: /doctrine-babeuf
 image: /images/Icons-Document_275.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

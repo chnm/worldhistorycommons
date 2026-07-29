@@ -21,6 +21,8 @@ related_sources:
   - link: "/page-qing-veritable-records"
     image: "/images/Image_1_THumb.png"
     alt: "Page from the Qing Veritable Records"
+how_to_cite: |
+  "Short Teaching Module: Translation and a World History of the Qing Empire," in World History Commons, https://worldhistorycommons.org/short-teaching-module-translation-and-world-history-qing-empire [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -47,11 +49,15 @@ In the end, these methodological challenges highlight the act of mediation invol
 
 ![Page from Qing Veritable Records](/images/Image_1_THumb.png)
 
+#### Annotation
+
 The Qing court used a twelve-month lunar calendar based on the sexagenary cycle, distinct from the solar Gregorian calendar used by most of the world today. This page from the *Qing Veritable Records* (Da Qing shilu) provides a good example. Here, the date is given in the following format: Qianlong year 2, *dingsi* [year], month 4, *jiaxu* [date]. To make this date comprehensible to my readers, I provide both the original date and the Gregorian equivalent in my work: Qianlong 2.4.jiaxu=5/15/1737. At the same time, the practice of dating the years according to the reign era of the current emperor (the Qianlong emperor in this case) highlights the centrality of the institution of the emperorship for one’s sense of time in late imperial China.
 
 ### [Page from the Pentaglot Manchu Glossary](/page-pentaglot-manchu-glossary)
 
 ![Page from the Pentaglot Manchu Glossary](/images/Image_2_Thumb.jpg)
+
+#### Annotation
 
 The Qing empire was founded by the Manchus, and they used a language and a script that were distinct from those used in China Proper. From the 1630s to the 1760s, the Manchus went on to build an early modern empire consisting of its core of China Proper as well as the Inner Asian frontiers such as Manchuria, Mongolia, Tibet, and Xinjiang. Ruling over such a vast territory and a diverse array of peoples, the Qing state had to employ more than its two main administrative languages (Chinese and Manchu) in its daily operations. This page from the *Pentaglot Manchu Glossary* (*Wuti Qingwen jian)* provides a clear piece of evidence for the multilingual characteristic of the Qing empire. Entry 1, for example, lists the word heaven in five scripts: Manchu, Tibetan, Mongolian, Chaghatay Turkic, and Chinese.
 
@@ -59,8 +65,9 @@ The Qing empire was founded by the Manchus, and they used a language and a scrip
 
 ![Veritable Records of the Chosŏn Dynasty](/images/Image_3_Thumb.jpg)
 
-In the twenty-first century, we are used to post-Westphalian norms of inter-state equality and noninterference. These norms, however, did not apply to interstate relations between the Qing empire and its tributary states. For example, in official diplomatic documents, the king of Chosŏn often referred to Qing as the “great country” (*shangguo*) and his own country as the “small state” (*xiaobang*).  Moreover, in their internal documents, tributary states employed their own categories of classification. For example, the Chosŏn court could use any of the following terms to refer to Qing subjects: “Han Chinese” (*Han in*), “Tang person” (*Tang in*), “Qing person” (*Ch’ŏng in*), or “northern barbarian” (*ho*). These pages from the *Veritable Records of the Chosŏn Dynasty* (*Chosŏn wangjo sillok*) show the Chosŏn use of the terms “Tang person” and “northern barbarian.” Similarly, the Lê court could use terms like “guest” (*khách*) and “Qing person” (*Thanh nhân*) to refer to Qing subjects. Trying to preserve the nuances of the original terms while rendering them intelligible in contemporary English is one of the most difficult methodological challenges faced by a world historian of the Qing empire.
+#### Annotation
 
+In the twenty-first century, we are used to post-Westphalian norms of inter-state equality and noninterference. These norms, however, did not apply to interstate relations between the Qing empire and its tributary states. For example, in official diplomatic documents, the king of Chosŏn often referred to Qing as the “great country” (*shangguo*) and his own country as the “small state” (*xiaobang*).  Moreover, in their internal documents, tributary states employed their own categories of classification. For example, the Chosŏn court could use any of the following terms to refer to Qing subjects: “Han Chinese” (*Han in*), “Tang person” (*Tang in*), “Qing person” (*Ch’ŏng in*), or “northern barbarian” (*ho*). These pages from the *Veritable Records of the Chosŏn Dynasty* (*Chosŏn wangjo sillok*) show the Chosŏn use of the terms “Tang person” and “northern barbarian.” Similarly, the Lê court could use terms like “guest” (*khách*) and “Qing person” (*Thanh nhân*) to refer to Qing subjects. Trying to preserve the nuances of the original terms while rendering them intelligible in contemporary English is one of the most difficult methodological challenges faced by a world historian of the Qing empire.
 
 ## Credits
 

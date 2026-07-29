@@ -5,6 +5,7 @@ drupal_node_id: 2844
 source_type: "Image"
 url: /photograph-boy-scout-world-jamboree-1929
 image: /images/Scouts.jpg
+image_alt: "Scouts in uniforms marching with flags and a sign reading \"Union of S. Africa\""
 regions: 
   - "Global"
 subjects: 

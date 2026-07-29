@@ -5,6 +5,7 @@ drupal_node_id: 3024
 source_type: "Image"
 url: /zoomorphic-figure-papua-new-guinea
 image: /images/WHC_zoomorphic_main_image.jpeg
+image_alt: "A tan colored stone in the shape of an animal with head at the top and a rounded end."
 regions: 
   - "Oceania"
 subjects: 

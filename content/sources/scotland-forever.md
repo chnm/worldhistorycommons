@@ -5,6 +5,7 @@ drupal_node_id: 250
 source_type: "Image"
 url: /scotland-forever
 image: /images/Scotland_Forever.jpg
+image_alt: "Scotland Forever"
 regions: 
   - "Europe"
 subjects: 

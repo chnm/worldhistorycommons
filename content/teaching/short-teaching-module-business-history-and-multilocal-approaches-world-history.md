@@ -19,6 +19,8 @@ related_sources:
   - link: "/coca-cola-overseas"
     image: "/images/Reggio_calabria_stabilimento_socibTHUMB.jpeg"
     alt: "Photograph of a factory or plant with a \"Coca Cola\" sign"
+how_to_cite: |
+  "Short Teaching Module: Business History and Multilocal Approaches to World History," in World History Commons, https://worldhistorycommons.org/short-teaching-module-business-history-and-multilocal-approaches-world-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -45,8 +47,8 @@ To conclude, extending a multilocal approach from the business field to our own 
 
 ---
 
-1 The term “glocalization” is a linguistic hybrid combining “globalization” and “localization.” It was first introduced in the 1980s in the *Harvard Business Review* by Japanese economists, and later popularized by the sociologist Roland Robertson. According to the Oxford Dictionary, glocalization refers to “the practice of conducting business according to both local and global considerations,” while the *Encyclopedia Britannica* defines it as “the simultaneous occurrence of both universalizing and particularizing tendencies in contemporary social, political, and economic systems. See: Roland Robertson, *Globalization: Social Theory and Global Culture*. London: SAGE Publishing, 1992; Roland Robertson. “Globalization or Glocalization?” *The Journal of International Communication* 18, no. 2 (2012). Victor Roudometof, *Glocalization: A Critical Introduction*. New York: Routledge, 2016.  
-2 The quote comes from: Emory University – Manuscript, Archives, and Rare Book Library, MSS 10, Robert Winship Woodruff Papers, Box 340: Don Wharton, “Coca Cola: America’s Champagne,” approximately 1940s.  
+1 The term “glocalization” is a linguistic hybrid combining “globalization” and “localization.” It was first introduced in the 1980s in the *Harvard Business Review* by Japanese economists, and later popularized by the sociologist Roland Robertson. According to the Oxford Dictionary, glocalization refers to “the practice of conducting business according to both local and global considerations,” while the *Encyclopedia Britannica* defines it as “the simultaneous occurrence of both universalizing and particularizing tendencies in contemporary social, political, and economic systems. See: Roland Robertson, *Globalization: Social Theory and Global Culture*. London: SAGE Publishing, 1992; Roland Robertson. “Globalization or Glocalization?” *The Journal of International Communication* 18, no. 2 (2012). Victor Roudometof, *Glocalization: A Critical Introduction*. New York: Routledge, 2016.<br>
+2  The quote comes from: Emory University – Manuscript, Archives, and Rare Book Library, MSS 10, Robert Winship Woodruff Papers, Box 340: Don Wharton, “Coca Cola: America’s Champagne,” approximately 1940s.<br>
 3 Economic Route to Friendship,” *Coca Cola Overseas*, December 1952, p. 7.
 
 ## Primary Sources
@@ -55,10 +57,11 @@ To conclude, extending a multilocal approach from the business field to our own 
 
 ![Coca Cola Overseas](/images/Reggio_calabria_stabilimento_socibTHUMB.jpeg)
 
+#### Annotation
+
 Multinational corporations do not usually have archives. And even when they do, these are seldom accessible. And even when this is the case, the documentation held by the archives mostly pertains to the activity of the mother company, not of its many local and national branches. Such shortage forces historians to look for sources elsewhere and/or to address the sources from a multilocal point of view. That is to simultaneously consider what a source tells us about the company’s global(izing) activity and what it reveals about the company’s  local impact and strategies. When we examine an article (e.g. the one quoted in the essay) from a magazine such as Coca Cola Overseas – which was dedicated to the company’s overseas expansion, but also exclusively intended for internal use and distribution – we have to consider what purpose the article served for The Coca Cola Company in Atlanta (e.g. why did Coca Cola provide itself with an informative magazine on foreign markets? To whom was the article addressed?), and what it unveils on Coke’s penetration into a specific non-American market. In doing so, we meet two objectives. By considering the purpose of the article (for example: an article written by Coke’s representatives in Italy might serve to provide evidence of Coca Cola’s strategies there and thus justify greater investments), we make sure not to uncritically trust a source. By putting into relation what various articles reveal about Coke’s activities in different local contexts with the general strategies employed by the mother company, we establish meaningful transboundary and multilocal connections. Likewise, if we want to inquire about the history of a simultaneously global and multilocal company such as Coca Cola, we must be ready to look into the documentation produced by its local branches. The image shows one of Coke's several bottling plants in Italy: tracing all of them down enables us to understand who were the bottlers entrusted with Coca Cola's expansion, what were their strategies and whether or how and why these were different from those adopted by the mother company. We thereby enhance our comprehension of how the global dimension is intertwined with the local one and how multinational corporations are able to locally integrate their activity and thus thrive.
 
 This source is included as part of the [Business History and Multilocal Approaches to World History teaching module](https://worldhistorycommons.org/short-teaching-module-business-history-and-multilocal-approaches-world-history).
-
 
 ## Bibliography
 

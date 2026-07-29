@@ -5,6 +5,7 @@ drupal_node_id: 169
 source_type: "Image"
 url: /democrat-or-reason-and-philosophy
 image: /images/e7f9b59088f9cc30f5b652e7b2e9a653.jpg
+image_alt: "Cartoon of British caricature"
 regions: 
   - "Europe"
 subjects: 

@@ -5,6 +5,7 @@ drupal_node_id: 1143
 source_type: "Text"
 url: /handwriting-assignment-san-telmo-parish
 image: /images/Icons-Document_17.jpg
+image_alt: "image of the text"
 regions: 
   - "South America"
 subjects: 

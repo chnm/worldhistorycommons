@@ -11,9 +11,9 @@ layout: video-guides
 <div class="video-grid">
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/FfhKDMUgAa0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="World History Commons introductory video" src="https://www.youtube.com/embed/FfhKDMUgAa0?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/world-history-commons-introductory-video-transcript)
 
@@ -21,9 +21,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/jHxyJu6SyVk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Women and gender in world history syllabus" src="https://www.youtube.com/embed/jHxyJu6SyVk?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/women-and-gender-world-history-syllabus-transcript)
 
@@ -31,9 +31,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/b2aXDCSvWK4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Supplementing courses using free resources" src="https://www.youtube.com/embed/b2aXDCSvWK4?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/supplementing-courses-free-resources)
 
@@ -41,9 +41,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/GuI-0C_ax1M?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Teaching women in the Islamic world, 600–1600" src="https://www.youtube.com/embed/GuI-0C_ax1M?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/women-islamic-world-transcript)
 
@@ -51,9 +51,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/VZTqoNfO0_0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Teaching gender, health, and reproduction in Latin America, 1980–2010" src="https://www.youtube.com/embed/VZTqoNfO0_0?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/teaching-gender-health-and-reproduction-latin-america-1980-2000)
 
@@ -61,9 +61,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/AhPuCFojfxM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Supplementing world history textbooks" src="https://www.youtube.com/embed/AhPuCFojfxM?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/supplementing-world-history-textbooks)
 
@@ -71,9 +71,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/86pMLr6quAQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Beyond survey courses" src="https://www.youtube.com/embed/86pMLr6quAQ?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/beyond-survey-courses-transcript)
 
@@ -81,9 +81,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/_yRFA8ORqYw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Global perspectives for students" src="https://www.youtube.com/embed/_yRFA8ORqYw?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/global-perspectives-students-transcript)
 
@@ -91,9 +91,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/D7P7r5UbMWo?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Organizing learning materials" src="https://www.youtube.com/embed/D7P7r5UbMWo?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/organizing-learning-materials-transcript)
 
@@ -101,9 +101,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/5zw1g-K-VAI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Navigating to find primary sources" src="https://www.youtube.com/embed/5zw1g-K-VAI?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/navigating-find-primary-sources-transcript)
 
@@ -111,9 +111,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/4Y1-K0AjTMs?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Finding specific sources" src="https://www.youtube.com/embed/4Y1-K0AjTMs?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/finding-specific-sources)
 
@@ -121,9 +121,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Cc8DCMyrnKY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Finding secondary sources" src="https://www.youtube.com/embed/Cc8DCMyrnKY?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/finding-secondary-sources-transcript)
 
@@ -131,9 +131,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/wJdsK9q0iqA?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Organizing learning materials in a learning management system" src="https://www.youtube.com/embed/wJdsK9q0iqA?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/organizing-learning-materials-2-transcript)
 
@@ -141,9 +141,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/3jJXDZ8n2kc?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Creative Commons and adapting resources" src="https://www.youtube.com/embed/3jJXDZ8n2kc?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/creative-commons-and-adapting-resources-transcript)
 
@@ -151,9 +151,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/-XX0lEU2kS0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Teaching world history through revolutions" src="https://www.youtube.com/embed/-XX0lEU2kS0?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/teaching-world-history-through-revolutions-transcript)
 
@@ -161,9 +161,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/YBdE2_3vKCk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Engaging students with primary sources" src="https://www.youtube.com/embed/YBdE2_3vKCk?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/engaging-students-primary-sources-transcript)
 
@@ -171,9 +171,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/EuWDShTX2ZY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Making connections with a thematic approach" src="https://www.youtube.com/embed/EuWDShTX2ZY?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/making-connections-using-thematic-approach-transcript)
 
@@ -181,9 +181,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/d_HIKrHul-k?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Teaching world history with material objects" src="https://www.youtube.com/embed/d_HIKrHul-k?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/teaching-world-history-material-objects-transcript)
 
@@ -191,9 +191,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/TwU0mkNYONQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Integrating World History Commons into your learning management system" src="https://www.youtube.com/embed/TwU0mkNYONQ?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/integrating-world-history-commons-your-lms-transcript)
 
@@ -201,9 +201,9 @@ layout: video-guides
 </div>
 
 <div class="video-item">
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/sFeGNXYg9MI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe title="Finding sources for world history projects" src="https://www.youtube.com/embed/sFeGNXYg9MI?rel=0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-### Video Clip Transcripts:
+## Video Clip Transcripts:
 
 [Transcript](/finding-sources-world-history-projects-transcript)
 

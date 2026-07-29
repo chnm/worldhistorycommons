@@ -5,6 +5,7 @@ drupal_node_id: 200
 source_type: "Image"
 url: /baaka-women-dancing-hunting-dance-ndambo
 image: /images/womendancing.jpg
+image_alt: "BaAka Women Dancing the Hunting Dance"
 regions: 
   - "Africa"
 subjects: 

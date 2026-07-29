@@ -5,6 +5,7 @@ drupal_node_id: 1028
 source_type: "Image"
 url: /return-varennes-arrival-louis-capet-paris
 image: /images/884047aa5f2785e30e0497bb9fb045cd.jpg
+image_alt: "Engraving of royal family returning to Paris"
 regions: 
   - "Europe"
 subjects: 
@@ -29,3 +30,11 @@ how_to_cite: |
 ---
 
 Following his arrest, Louis and his family are returned to Paris. Large, silent crowds looked on disapprovingly.
+
+## Transcription
+
+**Title in French**  
+Retour de Varennes. Arrivée de Louis Capet à Paris
+
+**Caption**  
+le 25 juin 1791

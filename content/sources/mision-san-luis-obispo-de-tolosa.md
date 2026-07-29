@@ -5,6 +5,7 @@ drupal_node_id: 2673
 source_type: "Image"
 url: /mision-san-luis-obispo-de-tolosa
 image: /images/Mission_San_Luis_Obispo.JPG
+image_alt: "Mission exterior"
 regions: 
   - "North/Central America"
 subjects: 

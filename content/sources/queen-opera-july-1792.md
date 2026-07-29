@@ -5,6 +5,7 @@ drupal_node_id: 1483
 source_type: "Text"
 url: /queen-opera-july-1792
 image: /images/Icons-Document_256.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 

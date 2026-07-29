@@ -5,6 +5,7 @@ drupal_node_id: 407
 source_type: "Text"
 url: /incidents-life-slave-girl
 image: /images/incidentsinlife.jpg
+image_alt: "Title page of Incidents in the Life of a Slave Girl"
 regions: 
   - "North/Central America"
 subjects: 

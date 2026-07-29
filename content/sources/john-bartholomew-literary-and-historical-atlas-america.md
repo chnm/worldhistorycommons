@@ -5,6 +5,7 @@ drupal_node_id: 2519
 source_type: "Image"
 url: /john-bartholomew-literary-and-historical-atlas-america
 image: /images/Toscanelli.jpg
+image_alt: "John Bartholomew modern rendering of Toscanelli 1474 map"
 regions: 
   - "Asia"
   - "Europe"

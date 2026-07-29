@@ -5,6 +5,7 @@ drupal_node_id: 1081
 source_type: "Image"
 url: /louis-no-more-man
 image: /images/101e7d4eeeb917dc2fc424740e5f9b79.jpg
+image_alt: "Image of King Louis XVI depicted as a commoner"
 regions: 
   - "Europe"
 subjects: 

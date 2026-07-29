@@ -5,6 +5,7 @@ drupal_node_id: 1509
 source_type: "Text"
 url: /revival-mountain
 image: /images/Icons-Document_280.jpg
+image_alt: "image of the text"
 regions: 
   - "Europe"
 subjects: 
