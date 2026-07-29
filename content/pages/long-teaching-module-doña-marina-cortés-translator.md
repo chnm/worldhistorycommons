@@ -256,7 +256,7 @@ Less Advanced Students: Have students create a drawing of Malinche when they hav
 
 ### Document Based Question
 
-##### Document Based Question (Suggested writing time: 40 minutes)
+#### Document Based Question (Suggested writing time: 40 minutes)
 
 *Directions:* The following question is based on the documents included in this module. This question is designed to test your ability to work with and understand historical documents. Write an essay that:
 

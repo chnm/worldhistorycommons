@@ -20,6 +20,7 @@
       </div>
       {{ end }}
 
+      <h2 class="visually-hidden">Review</h2>
       <div class="review-well">
         {{ .Content }}
       </div>
@@ -43,7 +44,7 @@
 
     <div class="pull-quote--sidebar">
       {{ with .Params.image }}
-      <img src="{{ . }}" alt="">
+      <img src="{{ . }}" alt="Screenshot of {{ $.Title }}">
       {{ end }}
       {{ with .Params.pull_quote }}
       <div class="quote">{{ . }}</div>

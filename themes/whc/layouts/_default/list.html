@@ -7,7 +7,8 @@
     </div>
     <div class="content-well col-1-3">
       <div>
-        <form class="views-exposed-form" id="filter-form" onsubmit="return false;">
+        <form class="views-exposed-form" id="filter-form" aria-labelledby="filter-heading" onsubmit="applyFilters(); return false;">
+          <h2 class="visually-hidden" id="filter-heading">Filter {{ .Title }}</h2>
           <div class="form-item">
             <label for="filter-region">Region</label>
             <select id="filter-region" class="form-select">
@@ -27,12 +28,13 @@
             </select>
           </div>
           <div class="form-actions">
-            <input type="submit" value="Apply" onclick="applyFilters()">
-            <input type="submit" value="Reset" onclick="resetFilters()">
+            <button type="submit">Apply filters</button>
+            <button type="button" onclick="resetFilters()">Reset filters</button>
           </div>
+          <p class="filter-status" id="filter-status" role="status" aria-live="polite" aria-atomic="true">Showing all {{ len .Pages }} items.</p>
         </form>
       </div>
-      <div class="vdh" id="content-list">
+      <div class="vdh" id="content-list" tabindex="-1" aria-label="Filtered results">
         {{/* Hugo-rendered default listing (visible without JS, replaced when filtering) */}}
         {{ $sorted := sort .Pages "Params.drupal_node_id" "desc" }}
         {{ $paginator := .Paginate $sorted }}
@@ -58,7 +60,7 @@
     <div id="hugo-pager">
       {{ template "_internal/pagination.html" . }}
     </div>
-    <nav class="pager" role="navigation" id="js-pager" style="display:none;">
+    <nav class="pager" aria-label="Filtered results pages" id="js-pager" style="display:none;">
     </nav>
   </div>
 </div>
@@ -160,6 +162,9 @@ function renderPage() {
   var end = Math.min(start + perPage, filtered.length);
   var html = "";
 
+  if (filtered.length === 0) {
+    html = '<p class="no-results">No items match the selected filters.</p>';
+  }
   for (var i = start; i < end; i++) {
     var item = filtered[i];
     html += '<div class="views-row">';
@@ -172,6 +177,12 @@ function renderPage() {
   }
 
   list.innerHTML = html;
+  var totalPages = Math.ceil(filtered.length / perPage);
+  var status = filtered.length === 0
+    ? "No items match the selected filters."
+    : "Showing results " + (start + 1) + "\u2013" + end + " of " + filtered.length +
+      ". Page " + (currentPage + 1) + " of " + totalPages + ".";
+  document.getElementById("filter-status").textContent = status;
   renderPager();
 }
 
@@ -183,27 +194,27 @@ function renderPager() {
 
   var html = '<ul class="pager__items js-pager__items">';
   if (currentPage > 0) {
-    html += '<li class="pager__item pager__item--previous"><a href="#" onclick="goPage(' + (currentPage - 1) + '); return false;"><span>previous</span></a></li>';
+    html += '<li class="pager__item pager__item--previous"><button type="button" onclick="goPage(' + (currentPage - 1) + ')">previous</button></li>';
   }
   var startP = Math.max(0, currentPage - 3);
   var endP = Math.min(totalPages, currentPage + 4);
   if (startP > 0) {
-    html += '<li class="pager__item"><a href="#" onclick="goPage(0); return false;">1</a></li>';
+    html += '<li class="pager__item"><button type="button" onclick="goPage(0)">1</button></li>';
     if (startP > 1) html += '<li class="pager__item">\u2026</li>';
   }
   for (var p = startP; p < endP; p++) {
     if (p === currentPage) {
-      html += '<li class="pager__item is-active"><a href="#" aria-current="page">' + (p + 1) + '</a></li>';
+      html += '<li class="pager__item is-active"><span aria-current="page">' + (p + 1) + '</span></li>';
     } else {
-      html += '<li class="pager__item"><a href="#" onclick="goPage(' + p + '); return false;">' + (p + 1) + '</a></li>';
+      html += '<li class="pager__item"><button type="button" onclick="goPage(' + p + ')">' + (p + 1) + '</button></li>';
     }
   }
   if (endP < totalPages) {
     if (endP < totalPages - 1) html += '<li class="pager__item">\u2026</li>';
-    html += '<li class="pager__item"><a href="#" onclick="goPage(' + (totalPages - 1) + '); return false;">' + totalPages + '</a></li>';
+    html += '<li class="pager__item"><button type="button" onclick="goPage(' + (totalPages - 1) + ')">' + totalPages + '</button></li>';
   }
   if (currentPage < totalPages - 1) {
-    html += '<li class="pager__item pager__item--next"><a href="#" onclick="goPage(' + (currentPage + 1) + '); return false;"><span>next</span></a></li>';
+    html += '<li class="pager__item pager__item--next"><button type="button" onclick="goPage(' + (currentPage + 1) + ')">next</button></li>';
   }
   html += '</ul>';
   nav.innerHTML = html;
@@ -212,7 +223,9 @@ function renderPager() {
 function goPage(p) {
   currentPage = p;
   renderPage();
-  window.scrollTo(0, 0);
+  var list = document.getElementById("content-list");
+  list.focus();
+  list.scrollIntoView();
 }
 </script>
 {{ end }}

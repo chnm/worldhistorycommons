@@ -94,6 +94,11 @@ parity-audit-reviewed *args:
 parity-audit-test:
     cd scraper && uv run python -m unittest discover -s tests -p 'test_*.py'
 
+# Build and run static accessibility checks without Pagefind.
+a11y-audit:
+    hugo
+    cd scraper && uv run python audit_accessibility.py
+
 # Rate-limited external-link audit for Website Reviews.
 review-link-audit *args:
     cd scraper && uv run python audit_review_links.py {{args}}

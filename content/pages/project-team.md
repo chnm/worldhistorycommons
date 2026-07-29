@@ -4,7 +4,7 @@ url: /project-team
 layout: people
 ---
 
-#### The World History Commons Project Team bring years of experience in creating open, innovative resources to support the teaching and learning of world history. Collectively team members have served on projects that have reached over 20 million users. Content and technology experts collaborate closely throughout the project to ensure that World History Commons brings engaging teaching resources backed by scholarship to educators and students throughout the world.
+## The World History Commons Project Team bring years of experience in creating open, innovative resources to support the teaching and learning of world history. Collectively team members have served on projects that have reached over 20 million users. Content and technology experts collaborate closely throughout the project to ensure that World History Commons brings engaging teaching resources backed by scholarship to educators and students throughout the world.
 
 <hr class="about-divider">
 

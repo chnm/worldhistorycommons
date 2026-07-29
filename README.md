@@ -78,6 +78,13 @@ gaps and editorial improvements should remain in the report as the explanation
 for an intentional difference. Run the network-free fixtures with
 `just parity-audit-test`.
 
+## Accessibility Checks
+
+Run `just a11y-audit` to build Hugo without Pagefind and scan every generated
+HTML page for structural accessibility regressions. See the
+[WCAG 2.2 AA audit](docs/accessibility-audit.md) for the automated and manual
+results, remediation, and tracked content exceptions.
+
 ## License
 
 Content is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

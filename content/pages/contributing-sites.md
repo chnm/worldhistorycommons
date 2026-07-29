@@ -3,7 +3,7 @@ title: "Contributing Sites"
 url: /contributing-sites
 ---
 
-#### The core of World History Commons is comprised of digital world history projects developed by the Roy Rosenzweig Center for History and New Media from 2003 to 2018. These were individual projects are organized around specific topics and many were only possible with generous funding from the National Endowment of the Humanities.
+## The core of World History Commons is comprised of digital world history projects developed by the Roy Rosenzweig Center for History and New Media from 2003 to 2018. These were individual projects are organized around specific topics and many were only possible with generous funding from the National Endowment of the Humanities.
 
 [**Children and Youth in History**
 

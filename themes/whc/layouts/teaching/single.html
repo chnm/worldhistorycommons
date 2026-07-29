@@ -46,7 +46,8 @@
     {{ range $otherSections }}
     <details{{ if eq .heading "Credits" }} open{{ end }}>
       <summary><h3>{{ .heading }}</h3></summary>
-      <div class="well--data"><div>{{ .body | markdownify }}</div></div>
+      {{ $body := replaceRE `(?m)^##### ` "#### " .body }}
+      <div class="well--data"><div>{{ $body | markdownify }}</div></div>
     </details>
     {{ end }}
 

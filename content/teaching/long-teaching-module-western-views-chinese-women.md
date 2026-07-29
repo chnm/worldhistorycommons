@@ -229,7 +229,7 @@ After completing this lesson, students will be able to:
 [Download Primary Source Packet](https://worldhistorycommons.org/sites/default/files/whc-western-views-of-chienese-women-primary-source-packet.pdf)<br>
 [Download Text Analysis Worksheet](https://worldhistorycommons.org/sites/default/files/whc-analyzing-texts-worksheet.pdf)
 
-##### Strategies
+##### Lesson Plan Strategies
 
 Day 1:<br>
 1. Hook: The teacher will introduce the lesson by showing students images of different kinds of fashions for women that restricted or inhibited their movement such as corsets, high heel shoes, mini-skirts, heavy jewelry, and Chinese foot binding. To show Chinese foot binding, the teacher could use Source 7: Photograph, Foot Binding, which depicts a Northern Chinese woman with bound feet from the late Qing period. The teacher will start a discussion by asking the following questions:
