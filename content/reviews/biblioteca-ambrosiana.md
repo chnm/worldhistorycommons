@@ -6,7 +6,7 @@ url: /biblioteca-ambrosiana
 image: /images/Biblioteca_thumbnail.jpg
 website_authors: "University of Notre Dame"
 reviewer: "Reviewed by Mary Halavais, Sonoma State University"
-reviewed_url: "https://italnet.nd.edu/"
+reviewed_url: "https://web.archive.org/web/20250219085159/https://italnet.nd.edu/"
 pull_quote: "“The site is visually attractive and well designed, with straightforward navigation. It provides an introduction to the site and a history of the collection; a database search that scans the collection by artist, subject, and other parameters; and bibliographies for the drawings, for the history of the Ambrosiana, and for various exhibitions.”"
 how_to_cite: |
   "Biblioteca Ambrosiana," in in World History Commons, https://worldhistorycommons.org/biblioteca-ambrosiana [accessed April 8, 2026]
@@ -25,7 +25,7 @@ time_periods:
 
 One of the great joys, and frustrations, of being a European historian is that many of the archives are in Europe. This makes travel to Europe mandatory; archives are protective of their holdings.
 
-This [online inventory and catalog](https://italnet.nd.edu/) is an example of how archivists can provide wider access to researchers and others while retaining responsible control of a collection. This bilingual site, available in English or, with a single click, in Italian, catalogs some 12,000 drawings by European artists of the 14th through the 19th centuries. It also provides images for some 7,700 drawings to date.
+This [online inventory and catalog](https://web.archive.org/web/20250219085159/https://italnet.nd.edu/) is an example of how archivists can provide wider access to researchers and others while retaining responsible control of a collection. This bilingual site, available in English or, with a single click, in Italian, catalogs some 12,000 drawings by European artists of the 14th through the 19th centuries. It also provides images for some 7,700 drawings to date.
 
 The site is visually attractive and well designed, with straightforward navigation. It provides an introduction to the site and a history of the collection; a database search that scans the collection by artist, subject, and other parameters; and bibliographies for the drawings, for the history of the Ambrosiana, and for various exhibitions.
 

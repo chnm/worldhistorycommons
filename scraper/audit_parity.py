@@ -696,9 +696,10 @@ def compare_snapshots(
     elif target.kind == "review":
         add_collection_findings(findings, "authors", drupal.authors, hugo.authors)
         add_scalar_finding(findings, "body", drupal.body, hugo.body)
-        add_scalar_finding(
-            findings, "reviewed_url", drupal.reviewed_url, hugo.reviewed_url
-        )
+        if drupal.reviewed_url:
+            add_scalar_finding(
+                findings, "reviewed_url", drupal.reviewed_url, hugo.reviewed_url
+            )
         add_scalar_finding(findings, "reviewer", drupal.reviewer, hugo.reviewer)
         add_scalar_finding(findings, "pull_quote", drupal.pull_quote, hugo.pull_quote)
         add_collection_findings(

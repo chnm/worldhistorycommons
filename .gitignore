@@ -5,6 +5,8 @@ drupal_urls.txt
 hugo_urls.txt
 missing_in_hugo.txt
 extra_in_hugo.txt
+review_link_audit.csv
+review_link_audit_cache.json
 .claude/
 node_modules/
 images_bak/

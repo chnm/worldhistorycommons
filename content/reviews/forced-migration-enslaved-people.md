@@ -5,7 +5,7 @@ drupal_node_id: 3150
 url: /forced-migration-enslaved-people
 website_authors: "Robert K. Nelson, Edward L. Ayers, Justin Madron, and Nathaniel Ayers"
 reviewer: "Reviewed by Michael Caraballo, Roy Rosenzweig Center for History and New Media"
-reviewed_url: ""
+reviewed_url: "https://dsl.richmond.edu/panorama/forcedmigration/"
 pull_quote: "“The Forced Migration of Enslaved People is an excellent digital source for understanding the forced migratory patterns of enslaved people in the early 19th-century.”"
 how_to_cite: |
   "The Forced Migration of Enslaved People," in in World History Commons, https://worldhistorycommons.org/forced-migration-enslaved-people [accessed April 8, 2026]

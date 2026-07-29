@@ -6,7 +6,7 @@ url: /african-activist-archive
 image: /images/SouthAfricanPoster.jpeg
 website_authors: "Richard Knight, Michigan State University"
 reviewer: "Reviewed by Carolyn Mason, George Mason University"
-reviewed_url: "https://africanactivist.msu.edu/index.php"
+reviewed_url: "https://web.archive.org/web/20220515210711/https://africanactivist.msu.edu/index.php"
 pull_quote: "“This archive serves as a general reference place for primary sources, as well as a starting point for focused research projects into specific organizations, as well as examinations on how activism is documented.”"
 how_to_cite: |
   "African Activist Archive," in in World History Commons, https://worldhistorycommons.org/african-activist-archive [accessed April 8, 2026]

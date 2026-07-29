@@ -6,7 +6,7 @@ url: /slaves-and-courts-1740-1860
 image: /images/slaves-court-thumbnail.jpeg
 website_authors: "Library of Congress"
 reviewer: "Reviewed by Joan Bristol, George Mason University"
-reviewed_url: "http://www.loc.gov/teachers/classroommaterials/connections/slaves-court/file.html"
+reviewed_url: "https://web.archive.org/web/20200815090203/http://www.loc.gov/teachers/classroommaterials/connections/slaves-court/file.html"
 pull_quote: "“This site offers 105 documents published between 1772 and 1889 that deal with the legal experiences of slaves and the legal aspects of slavery in the United States and Great Britain.”"
 how_to_cite: |
   "Slaves and the Courts, 1740-1860," in in World History Commons, https://worldhistorycommons.org/slaves-and-courts-1740-1860 [accessed April 8, 2026]

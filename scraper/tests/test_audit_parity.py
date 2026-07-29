@@ -260,6 +260,32 @@ class SnapshotTests(unittest.TestCase):
             )
         )
 
+    def test_review_reports_restored_upstream_target_as_gap(self):
+        drupal_html = """
+        <div class="content-header review-header">
+          <h1>Example Review</h1>
+        </div>
+        <div class="review-well"><p>Review body.</p></div>
+        """
+        hugo_html = drupal_html.replace(
+            '<div class="content-header review-header">',
+            '<a href="https://example.org/resource" class="content-header review-header">',
+        ).replace("</div>", "</a>", 1)
+        findings = compare_snapshots(
+            parse_snapshot(drupal_html, "/review", "review"),
+            parse_snapshot(hugo_html, "/review", "review"),
+            Target("/review", "review"),
+        )
+        reviewed_url_findings = [
+            finding for finding in findings if finding.field == "reviewed_url"
+        ]
+        self.assertEqual(len(reviewed_url_findings), 1)
+        self.assertEqual(reviewed_url_findings[0].classification, "upstream_gap")
+        self.assertEqual(
+            reviewed_url_findings[0].hugo,
+            "https://example.org/resource",
+        )
+
     def test_cited_youtube_link_is_not_treated_as_an_embed(self):
         html = SOURCE_DRUPAL.replace(
             "An annotation.",

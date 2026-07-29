@@ -6,7 +6,7 @@ url: /latin-american-caribbean-digital-primary-resources
 image: /images/salalm_thumbnail.jpg
 website_authors: "Seminar on the Acquisition of Latin American Library Materials"
 reviewer: "Reviewed by Brittany Erwin, The University of Texas at Austin"
-reviewed_url: "https://salalm.org/collection-development-resources/digital-primary-resources/"
+reviewed_url: "https://web.archive.org/web/20220723181402/https://salalm.org/collection-development-resources/digital-primary-resources/"
 pull_quote: "“As a whole, the database serves the important goal of improving the accessibility of online libraries and archives. It provides a jumping off point for research into a variety of topics within Latin American history, and as it expands, its value will only increase”"
 how_to_cite: |
   "Latin American & Caribbean Digital Primary Resources," in in World History Commons, https://worldhistorycommons.org/latin-american-caribbean-digital-primary-resources [accessed April 8, 2026]
@@ -38,7 +38,7 @@ time_periods:
   - "Contemporary (1950 CE - Present)"
 ---
 
-Open-access digital archives have become a crucial resource for humanities research. Online sources eliminate the costs and hassles of travel to and from the archives that preserve the actual documents. They also expand access, by granting students, scholars, teachers, and interested members of the public the opportunity to explore the sources themselves. To that end, many universities and libraries maintain online collections. However, some of these institutions occupy a more well known position than others. For example, their collections may appear more prominently on university websites or Google searches. To facilitate the localization of hundreds of valuable repositories on Latin American history around the world, the [Seminar on the Acquisition of Latin American Library Resources](https://salalm.org/collection-development-resources/digital-primary-resources/) has organized a database.
+Open-access digital archives have become a crucial resource for humanities research. Online sources eliminate the costs and hassles of travel to and from the archives that preserve the actual documents. They also expand access, by granting students, scholars, teachers, and interested members of the public the opportunity to explore the sources themselves. To that end, many universities and libraries maintain online collections. However, some of these institutions occupy a more well known position than others. For example, their collections may appear more prominently on university websites or Google searches. To facilitate the localization of hundreds of valuable repositories on Latin American history around the world, the [Seminar on the Acquisition of Latin American Library Resources](https://web.archive.org/web/20220723181402/https://salalm.org/collection-development-resources/digital-primary-resources/) has organized a database.
 
 Entitled Latin American & Caribbean Digital Primary Resources, it provides overviews, geographical, and temporal information on current collections. Each entry also has a direct link to the website housing its primary documents.
 
