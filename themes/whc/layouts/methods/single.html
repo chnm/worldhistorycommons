@@ -31,15 +31,7 @@
 
 <div class="two-cols">
   <div>
-    <div class="box-border box-tile">
-      {{ if .Params.related_sources }}
-        {{ range .Params.related_sources }}
-        <a href="{{ .link }}"><img src="{{ .image }}" alt="{{ .alt }}"></a>
-        {{ end }}
-      {{ else }}
-        {{ with .Params.image }}<img src="{{ . }}" alt="">{{ end }}
-      {{ end }}
-    </div>
+    {{ partial "related-sources.html" . }}
   </div>
   <div>
     <div class="box-border">

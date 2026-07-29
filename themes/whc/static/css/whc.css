@@ -47,3 +47,71 @@
 /* Guide page float image */
 .guide-float-img{float:right;width:300px;margin:0 0 1rem 1.5rem;border:3px solid #4f90b8;border-radius:2px;}
 @media(max-width:600px){.guide-float-img{float:none;width:100%;margin:1rem 0;}}
+
+/* Related primary-source navigation on Teaching and Methods pages. */
+.related-sources__heading {
+  color: #4f90b8;
+  font-size: 1.3rem;
+  margin-bottom: 0;
+}
+
+.related-sources__intro {
+  margin-bottom: 1rem;
+}
+
+.related-sources__list {
+  list-style: none;
+  margin: 0;
+  min-height: 0;
+  padding: 0;
+}
+
+.related-source-card {
+  align-self: stretch;
+}
+
+.related-source-card a {
+  border: 2px solid #4f90b8;
+  color: #1b1b1b;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0;
+  text-decoration: none;
+}
+
+.related-source-card a:hover,
+.related-source-card a:focus-visible {
+  border-color: #fdbd06;
+  color: #1b1b1b;
+  outline-offset: 2px;
+}
+
+.related-source-card a:hover {
+  outline: 3px solid #fdbd06;
+}
+
+.related-source-card a:focus-visible {
+  outline: 3px solid #1b1b1b;
+}
+
+.related-source-card img {
+  display: block;
+  flex: 1 0 auto;
+}
+
+.related-source-card__title {
+  background: #edf4f7;
+  display: block;
+  font-weight: bold;
+  line-height: 1.25;
+  padding: 0.65rem 0.75rem;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 800px) {
+  .two-cols {
+    grid-gap: 1rem;
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
