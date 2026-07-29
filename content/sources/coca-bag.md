@@ -25,7 +25,7 @@ time_periods:
 source_citation: |
   "Coca Bag," Metropolitan Museum of Art, 5th-7th Century CE.
 credits: |
-  "Coca Bag," Metropolitan Museum of Art, 5th-7th Century CE,<https://www.metmuseum.org/art/collection/search/316913>.
+  "Coca Bag," Metropolitan Museum of Art, 5th-7th Century CE, <https://www.metmuseum.org/art/collection/search/316913>.
 how_to_cite: |
   "Coca Bag," in World History Commons, https://worldhistorycommons.org/coca-bag [accessed April 8, 2026]
 ---

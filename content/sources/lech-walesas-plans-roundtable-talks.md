@@ -27,27 +27,27 @@ In September 1988, Lech Walesa, leader of Poland's Solidarity Movement and later
 
 ## Text
 
-Memorandum by Lech Walesa, “On Starting the Roundtable Talks”  
+Memorandum by Lech Walesa, “On Starting the Roundtable Talks”<br>
 4 September 1988
 
 On starting the [Roundtable] talks
 
-Right now we can begin to discuss the topics for negotiations, which I presented  
-in my statement of 26 August. I think that in the beginning of next week talks should be  
+Right now we can begin to discuss the topics for negotiations, which I presented<br>
+in my statement of 26 August. I think that in the beginning of next week talks should be<br>
 concerned with two questions:
 
-1) implementation of the promise made by the authorities that there would be no  
-repression toward striking workers, and that those [repressive measures] have been  
-applied, will be annulled,  
-2) union pluralism and within its framework the legalization of NSZZ  
+1\) implementation of the promise made by the authorities that there would be no<br>
+repression toward striking workers, and that those [repressive measures] have been<br>
+applied, will be annulled,<br>
+2\) union pluralism and within its framework the legalization of NSZZ<br>
 “Solidarity”, consistent with the postulate of the striking crews.
 
-I think that the first stage of implementing the principle of the “Roundtable” as a  
-process should be a factual discussion of the above topics and preliminary decisions. The  
-composition of the meeting should initially be trilateral, as was our meeting on 31  
+I think that the first stage of implementing the principle of the “Roundtable” as a<br>
+process should be a factual discussion of the above topics and preliminary decisions. The<br>
+composition of the meeting should initially be trilateral, as was our meeting on 31<br>
 August. I am going to present personal proposals separately.
 
-A positive consideration of the above mentioned questions will allow for a  
+A positive consideration of the above mentioned questions will allow for a<br>
 broader debate on economic and political reforms in our country
 
 Gdansk, 4 September 1988

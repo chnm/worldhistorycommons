@@ -15,7 +15,8 @@ subjects:
 time_periods: 
   - "Modern (1800 CE - 1950 CE)"
 source_citation: ""
-credits: "An Act to Organize the Territories of Nebraska and Kansas, <kansasmemory.org>, Kansas Historical Society"
+credits: |
+  An Act to Organize the Territories of Nebraska and Kansas, kansasmemory.org, Kansas Historical Society
 how_to_cite: |
   "Kansas-Nebraska Act, 1854," in World History Commons, https://worldhistorycommons.org/kansas-nebraska-act-1854 [accessed April 8, 2026]
 ---

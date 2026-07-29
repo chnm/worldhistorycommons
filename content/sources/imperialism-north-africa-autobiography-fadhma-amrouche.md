@@ -20,7 +20,7 @@ subjects:
 time_periods: 
   - "Contemporary (1950 CE - Present)"
 source_citation: |
-  Fadhma Amrouche, "*The Autobiography of a Berber Woman*" 1968, Women in World History.**
+  Fadhma Amrouche, "*The Autobiography of a Berber Woman*" 1968, Women in World History.
 credits: ""
 how_to_cite: |
   "Imperialism in North Africa: Autobiography, Fadhma Amrouche," in World History Commons, https://worldhistorycommons.org/imperialism-north-africa-autobiography-fadhma-amrouche [accessed April 8, 2026]

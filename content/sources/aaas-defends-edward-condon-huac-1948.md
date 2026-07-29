@@ -30,16 +30,16 @@ This source is part of the [science and Cold War teaching module](https://worldh
 
 ## Transcription
 
-April 5, 1948  
+April 5, 1948<br>
 Dear Member of the National Academy of Sciences:
 
-This letter of March 31, from Dr. Richards, submitting a proposed statement concerning the attack on Dr. Condon, includes in full the Report of the Un-American Activities Committee, and no reply or rebuttal by Dr. Condon. It has therefore appeared desirable to the undersigned to call attention to a statement by members of the American Academy of Arts and Sciences, with the permission of its president, Dr. Howard Mumford Jones. We have all been close enough to the case to feel that this statement is an accurate representation of the facts.  
-    L.C. Dunn        D.A. MacInnes  
-    Louis P. Hammett    I.I. Rabi  
-    Victor K. LaMer    M.M. Rhoades  
+This letter of March 31, from Dr. Richards, submitting a proposed statement concerning the attack on Dr. Condon, includes in full the Report of the Un-American Activities Committee, and no reply or rebuttal by Dr. Condon. It has therefore appeared desirable to the undersigned to call attention to a statement by members of the American Academy of Arts and Sciences, with the permission of its president, Dr. Howard Mumford Jones. We have all been close enough to the case to feel that this statement is an accurate representation of the facts.<br>
+    L.C. Dunn        D.A. MacInnes<br>
+    Louis P. Hammett    I.I. Rabi<br>
+    Victor K. LaMer    M.M. Rhoades<br>
     L.G. Longsworth    D.D. Van Slyke
 
-----  
+----<br>
 To the Fellows of the American Academy of Arts and Sciences:
 
 Gentlemen:
@@ -54,9 +54,9 @@ Such persecution of government scientists can only result in a reluctance on the
 
 “The Fellows of the American Academy of Arts and Sciences condemn the un-American procedure of the House Committee on Un-American Activities in publishing in the public press charges of disloyalty against Dr. E.U. Condon, on evidence which clearly appears inadequate, and without giving him an adequate to present his case.”
 
-    P.W. Bridgman,     Professor of Mathematics and Natural Philosophy,   
-Harvard University  
-    E.M. Morgan,     Professor of Law,  
-                Harvard University  
-    J.C. Slater,        Chairman, Professor of Physics,  
+    P.W. Bridgman,     Professor of Mathematics and Natural Philosophy, <br>
+Harvard University<br>
+    E.M. Morgan,     Professor of Law,<br>
+                Harvard University<br>
+    J.C. Slater,        Chairman, Professor of Physics,<br>
                 Massachusetts Institute of Technology

@@ -25,7 +25,7 @@ source_citation: |
 credits: |
   Courtesy of the California Digital Newspaper Collection, Center for Bibliographic Studies and Research, University of California, Riverside, http://cdnc.ucr.edu.
   
-  https://cdnc.ucr.edu/?a=cl&cl=CL1&sp=SFC&e=-------en--20--1--txt-txIN-taraknath+Das+AND+citizenship-------1"
+  https://cdnc.ucr.edu/?a=cl&cl=CL1&sp=SFC&e=-------en--20--1--txt-txIN-taraknath+Das+AND+citizenship-------1
 how_to_cite: "\"U.S. targets Indian activist, Taraknath Das  ,\" in World History Commons, https://worldhistorycommons.org/us-targets-indian-activist-taraknath-das [accessed April 8, 2026]"
 ---
 

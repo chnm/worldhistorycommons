@@ -21,7 +21,7 @@ time_periods:
 source_citation: |
   "Altar," The Trustees of the British Museum, 300-900 AD.
 credits: |
-  "Altar," The Trustees of the British Museum, 300-900 AD, <https://www.britishmuseum.org/collection/object/E_Am1997-Q-1953>.
+  "Altar," The Trustees of the British Museum, 300-900 AD, <https://www.britishmuseum.org/collection/object/E_Am1997-Q-1953> .
 how_to_cite: |
   "Altar from the Classic Maya Period ," in World History Commons, https://worldhistorycommons.org/altar-classic-maya-period [accessed April 8, 2026]
 ---

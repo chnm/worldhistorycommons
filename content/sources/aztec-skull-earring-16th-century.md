@@ -14,10 +14,12 @@ subjects:
   - "Travel"
 time_periods: 
   - "Early Modern (1450 CE - 1800 CE)"
-source_citation: "Skull Earring, early 16th Century"
+source_citation: |
+  Skull Earring, early 16th Century
 credits: |
   Precolumbian Portfolio: An Archive of Photographs Created by Justin Kerr
-  http://research.mayavase.com/portfolio_hires.php?search=*Gold*&date_added=&image=3024&display=8
+
+  http://research.mayavase.com/portfolio\_hires.php?search=\*Gold\*&date\_added=&image=3024&display=8
 how_to_cite: |
   "Aztec Skull Earring, 16th Century ," in World History Commons, https://worldhistorycommons.org/aztec-skull-earring-16th-century [accessed April 8, 2026]
 ---

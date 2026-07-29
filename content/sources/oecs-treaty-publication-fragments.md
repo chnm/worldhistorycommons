@@ -23,7 +23,7 @@ time_periods:
 source_citation: |
   "Economic Integration: The O.E.C.S. Experience," from the Organisation of the Eastern Caribbean States, March 1988.
 credits: |
-  "Economic Integration, The OECS Experience," *Organisation of Eastern Caribbean States,* September 7, 2016,<https://www.oecs.org/en/component/edocman/economic-integration-march-1988opt-pdf>
+  "Economic Integration, The OECS Experience," *Organisation of Eastern Caribbean States,* September 7, 2016, <https://www.oecs.org/en/component/edocman/economic-integration-march-1988opt-pdf>
 how_to_cite: |
   "OECS Treaty Publication Fragments ," in World History Commons, https://worldhistorycommons.org/oecs-treaty-publication-fragments [accessed April 8, 2026]
 ---

@@ -190,6 +190,50 @@ class SnapshotTests(unittest.TestCase):
             [],
         )
 
+    def test_inline_markup_preserves_adjacent_punctuation(self):
+        drupal = parse_snapshot(
+            SOURCE_DRUPAL.replace(
+                "<p>A citation.</p>",
+                "<p>Statistics (http://example.org), 1998.</p>",
+            ),
+            "/example",
+            "source",
+        )
+        hugo = parse_snapshot(
+            SOURCE_DRUPAL.replace(
+                "<p>A citation.</p>",
+                '<p>Statistics (<a href="http://example.org">http://example.org</a>), 1998.</p>',
+            ),
+            "/example",
+            "source",
+        )
+        self.assertEqual(
+            compare_snapshots(
+                drupal,
+                hugo,
+                Target("/example", "source"),
+            ),
+            [],
+        )
+
+    def test_generated_ordered_list_markers_match_literal_numbered_lines(self):
+        drupal = SOURCE_DRUPAL.replace(
+            "<p>Transcribed text.</p>",
+            "<p>1. First item.<br>2. Second item.</p>",
+        )
+        hugo = SOURCE_DRUPAL.replace(
+            "<p>Transcribed text.</p>",
+            "<ol><li>First item.</li><li>Second item.</li></ol>",
+        )
+        self.assertEqual(
+            compare_snapshots(
+                parse_snapshot(drupal, "/example", "source"),
+                parse_snapshot(hugo, "/example", "source"),
+                Target("/example", "source"),
+            ),
+            [],
+        )
+
     def test_review_reports_missing_target_url(self):
         drupal = parse_snapshot(REVIEW_DRUPAL, "/review", "review")
         hugo = parse_snapshot(REVIEW_HUGO_EMPTY_URL, "/review", "review")

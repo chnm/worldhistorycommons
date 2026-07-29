@@ -21,7 +21,7 @@ time_periods:
   - "Modern (1800 CE - 1950 CE)"
   - "Contemporary (1950 CE - Present)"
 source_citation: |
-  "Databank: World Development Indicators," *The World Bank*.**
+  "Databank: World Development Indicators," *The World Bank*.
 credits: |
   "Databank: World Development Indicators," *The World Bank,* <https://databank.worldbank.org/indicator/SP.POP.TOTL/1ff4a498/Popular-Indicators#>
 how_to_cite: |

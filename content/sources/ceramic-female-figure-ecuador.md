@@ -20,8 +20,10 @@ subjects:
   - "Women"
 time_periods: 
   - "Ancient (before 500 CE)"
-source_citation: "Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art."
-credits: "Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art,<https://www.metmuseum.org/art/collection/search/314161>."
+source_citation: |
+  Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art.
+credits: |
+  Double Headed Figure, 3rd Millennium BCE, Metropolitan Museum of Art, <https://www.metmuseum.org/art/collection/search/314161>.
 how_to_cite: |
   "Ceramic Female Figure from Ecuador ," in World History Commons, https://worldhistorycommons.org/ceramic-female-figure-ecuador [accessed April 8, 2026]
 ---

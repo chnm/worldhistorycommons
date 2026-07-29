@@ -15,7 +15,8 @@ subjects:
   - "Politics"
 time_periods: 
   - "Contemporary (1950 CE - Present)"
-source_citation: "Alma-Ata Declaration December 21, 1991."
+source_citation: |
+  Alma-Ata Declaration December 21, 1991.
 credits: |
   Russian text via:
   
@@ -23,7 +24,7 @@ credits: |
   https://web.archive.org/web/20060103164158/http://www.cis.minsk.by/main.aspx?uid=178
   
   English Translation  
-  Helen Fedor*, Belarus and Moldova: country studies,* 195-196 Library of Congress  
+  *Helen Fedor, Belarus and Moldova: country studies,* 195-196 Library of Congress
   https://www.loc.gov/item/95045993/
 how_to_cite: |
   "The Alma-Ata Declaration ," in World History Commons, https://worldhistorycommons.org/alma-ata-declaration [accessed April 8, 2026]

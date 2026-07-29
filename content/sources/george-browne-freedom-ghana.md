@@ -42,14 +42,14 @@ The background music is provided by African drums played by two Gold Coast nativ
 
 The song consists of eight verses with a refrain or chorus after each verse.
 
-1) From his Ussherfort cell, Where they bolted the doors so well, Nkrumah made his clarion call, And the people voted him one and all,
+1\) From his Ussherfort cell, Where they bolted the doors so well, Nkrumah made his clarion call, And the people voted him one and all,
 
 CHORUS: *Freedom, Freedom is in the land, Friends let us shout long live the C.P.P. Which now controls Africa's destiny.*
 
-2) Gbedemah the Labour man, Botslo for Education, Kwesl Plange local Government, Edusie the man with the whip in his hand.                  (Chorus)
+2\) Gbedemah the Labour man, Botslo for Education, Kwesl Plange local Government, Edusie the man with the whip in his hand.                  (Chorus)
 
-3) They called us all the verandah boys. They thought we were just a bunch of toys. But we won the vote at the midnight hour Come out of jail and took over power.            (Chorus)
+3\) They called us all the verandah boys. They thought we were just a bunch of toys. But we won the vote at the midnight hour Come out of jail and took over power.            (Chorus)
 
-4) With Applah the ambassador. Casely Hayford the barrister. These two gentlemen did quite well When they got us out of the jailhouse cell.                   (Chorus)
+4\) With Applah the ambassador. Casely Hayford the barrister. These two gentlemen did quite well When they got us out of the jailhouse cell.                   (Chorus)
 
-5) The British M.P. Gammens was rude. By his dog-in-the-mangerish attitude. But like the ostrich, we know than man, Can go and bury his head in the sand.           (Chorus)
+5\) The British M.P. Gammens was rude. By his dog-in-the-mangerish attitude. But like the ostrich, we know than man, Can go and bury his head in the sand.           (Chorus)

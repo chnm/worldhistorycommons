@@ -29,7 +29,7 @@ from typing import Iterable
 from urllib.parse import unquote, urljoin, urlparse
 
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, NavigableString, Tag
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -143,10 +143,99 @@ def normalize_text(value: str) -> str:
     return value
 
 
+BLOCK_ELEMENTS = {
+    "address",
+    "article",
+    "aside",
+    "blockquote",
+    "dd",
+    "details",
+    "div",
+    "dl",
+    "dt",
+    "figcaption",
+    "figure",
+    "footer",
+    "form",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "header",
+    "li",
+    "main",
+    "nav",
+    "ol",
+    "p",
+    "section",
+    "summary",
+    "table",
+    "td",
+    "th",
+    "tr",
+    "ul",
+}
+
+
+def list_marker(element: Tag) -> str:
+    """Return the visible marker browsers generate for a list item."""
+    parent = element.parent
+    if not isinstance(parent, Tag):
+        return ""
+    if parent.name == "ul":
+        return "- "
+    if parent.name != "ol":
+        return ""
+
+    siblings = [
+        child
+        for child in parent.children
+        if isinstance(child, Tag) and child.name == "li"
+    ]
+    try:
+        position = siblings.index(element)
+    except ValueError:  # pragma: no cover - defensive DOM handling
+        position = 0
+    try:
+        start = int(parent.get("start", 1))
+    except (TypeError, ValueError):
+        start = 1
+    try:
+        value = int(element.get("value", start + position))
+    except (TypeError, ValueError):
+        value = start + position
+    return f"{value}. "
+
+
+def semantic_fragments(node: Tag | NavigableString) -> list[str]:
+    """Extract visible text without adding spaces around inline elements."""
+    if isinstance(node, NavigableString):
+        return [str(node)]
+    if node.name in {"script", "style", "template"}:
+        return []
+    if node.name == "br":
+        return [" "]
+    if node.name == "hr":
+        return [" "]
+
+    block = node.name in BLOCK_ELEMENTS
+    fragments = [" "] if block else []
+    if node.name == "li":
+        fragments.append(list_marker(node))
+    for child in node.children:
+        if isinstance(child, (Tag, NavigableString)):
+            fragments.extend(semantic_fragments(child))
+    if block:
+        fragments.append(" ")
+    return fragments
+
+
 def element_text(element: Tag | None) -> str:
     if element is None:
         return ""
-    return normalize_text(element.get_text(" ", strip=True))
+    return normalize_text("".join(semantic_fragments(element)))
 
 
 def normalize_url(value: str, *, base_url: str = DEFAULT_BASE_URL) -> str:

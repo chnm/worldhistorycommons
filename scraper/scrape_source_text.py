@@ -22,7 +22,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 from markdownify import markdownify as md
 
 
@@ -36,6 +36,7 @@ SOURCE_SECTION_RE = re.compile(
     r"(?ms)^##[ \t]+(Text|Transcription|Translation)[ \t]*\n"
     r".*?(?=^##[ \t]+|\Z)"
 )
+FRONT_MATTER_RE = re.compile(r"\A(---\n.*?\n---\n)(.*)\Z", re.DOTALL)
 
 SESSION = requests.Session()
 SESSION.headers.update(
@@ -65,9 +66,53 @@ def fetch(url: str, delay: float) -> BeautifulSoup:
 def html_to_markdown(element) -> str:
     if element is None:
         return ""
-    text = md(str(element), heading_style="atx", strip=["img"])
+    fragment = BeautifulSoup(str(element), "html.parser")
+    for inline in fragment.find_all(
+        ["a", "abbr", "b", "cite", "code", "em", "i", "s", "small", "span",
+         "strong", "sub", "sup", "u"]
+    ):
+        text = inline.get_text()
+        if text and not text.strip():
+            inline.replace_with(NavigableString(text))
+    text = md(str(fragment), heading_style="atx", strip=["img"])
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def protect_source_text_markdown(text: str) -> str:
+    """Keep literal source-document notation from becoming Markdown syntax."""
+    text = re.sub(r"[ \t]{2,}\n", "<br>\n", text)
+    text = re.sub(
+        r"(?m)^([ \t]*)(\d+)([.)])([ \t]+)",
+        r"\1\2\\\3\4",
+        text,
+    )
+    text = re.sub(
+        r"(?m)^([ \t]*)(-{3,})([ \t]*)$",
+        r"\1\\\2\3",
+        text,
+    )
+    return text.replace("``", r"\`\`")
+
+
+def get_annotation(soup: BeautifulSoup) -> str:
+    for box in soup.select("div.box-border"):
+        heading = box.select_one("h2.box-border--title")
+        if heading and heading.get_text(" ", strip=True).lower() == "annotation":
+            return html_to_markdown(heading.find_next_sibling("div"))
+    return ""
+
+
+def get_source_citation(soup: BeautifulSoup) -> str:
+    return html_to_markdown(soup.select_one("div.content-meta"))
+
+
+def get_credits(soup: BeautifulSoup) -> str:
+    for detail in soup.select("div.content-details details"):
+        heading = detail.select_one("summary h3")
+        if heading and heading.get_text(" ", strip=True).lower() == "credits":
+            return html_to_markdown(detail.select_one("div.well--data"))
+    return ""
 
 
 def get_source_sections(soup: BeautifulSoup) -> list[SourceSection]:
@@ -83,7 +128,7 @@ def get_source_sections(soup: BeautifulSoup) -> list[SourceSection]:
         if label is None or label in seen:
             continue
         well = detail.select_one("div.well--data")
-        content = html_to_markdown(well)
+        content = protect_source_text_markdown(html_to_markdown(well))
         if content:
             sections.append(SourceSection(label, content))
             seen.add(label)
@@ -120,6 +165,52 @@ def merge_source_sections(
     return updated.rstrip() + "\n"
 
 
+def merge_annotation(markdown: str, annotation: str) -> str:
+    """Replace only the body content preceding the first level-two section."""
+    match = FRONT_MATTER_RE.match(markdown)
+    if match is None:
+        raise ValueError("Source Markdown is missing YAML front matter")
+    front_matter, body = match.groups()
+    first_section = re.search(r"(?m)^##[ \t]+", body)
+    suffix = body[first_section.start():].strip() if first_section else ""
+    pieces = [front_matter.rstrip(), annotation.strip()]
+    if suffix:
+        pieces.append(suffix)
+    return "\n\n".join(pieces).rstrip() + "\n"
+
+
+def merge_front_matter_field(markdown: str, field_name: str, value: str) -> str:
+    """Replace one scalar front-matter field without parsing unrelated YAML."""
+    match = FRONT_MATTER_RE.match(markdown)
+    if match is None:
+        raise ValueError("Source Markdown is missing YAML front matter")
+    front_matter, body = match.groups()
+    lines = front_matter.rstrip().splitlines()
+    start = next(
+        (
+            index
+            for index, line in enumerate(lines)
+            if line.startswith(f"{field_name}:")
+        ),
+        None,
+    )
+    if start is None:
+        raise ValueError(f"Source front matter is missing {field_name}")
+    end = start + 1
+    while end < len(lines) and (
+        lines[end].startswith((" ", "\t")) or not lines[end].strip()
+    ):
+        end += 1
+    replacement = (
+        [f"{field_name}: |"]
+        + [f"  {line}" if line else "" for line in value.strip().splitlines()]
+        if value.strip()
+        else [f'{field_name}: ""']
+    )
+    lines[start:end] = replacement
+    return "\n".join(lines) + "\n" + body
+
+
 def front_matter_url(markdown: str) -> str:
     match = re.search(r"^url:[ \t]*(.+)$", markdown, re.MULTILINE)
     return normalize_path(match.group(1).strip().strip("\"'")) if match else ""
@@ -136,7 +227,7 @@ def source_files_by_path(content_dir: Path) -> dict[str, Path]:
     return files
 
 
-def report_paths(report_path: Path) -> set[str]:
+def report_paths(report_path: Path, fields: set[str]) -> set[str]:
     """Select source pages with missing or differing source-text sections."""
     report = json.loads(report_path.read_text(encoding="utf-8"))
     selected: set[str] = set()
@@ -145,11 +236,20 @@ def report_paths(report_path: Path) -> set[str]:
             continue
         for finding in page.get("findings", []):
             field = finding.get("field", "")
-            if field == "section_names" or field in {
+            if (
+                "source_sections" in fields
+                and (field == "section_names" or field in {
                 "sections.Text",
                 "sections.Transcription",
                 "sections.Translation",
-            }:
+                })
+            ) or (
+                "annotation" in fields and field == "annotation"
+            ) or (
+                "source_citation" in fields and field == "source_citation"
+            ) or (
+                "credits" in fields and field == "sections.Credits"
+            ):
                 selected.add(normalize_path(page["path"]))
                 break
     return selected
@@ -159,10 +259,16 @@ def update_markdown(
     filepath: Path,
     remote_sections: list[SourceSection],
     *,
+    annotation: str | None = None,
+    metadata: dict[str, str] | None = None,
     dry_run: bool = False,
 ) -> bool:
     content = filepath.read_text(encoding="utf-8")
     updated = merge_source_sections(content, remote_sections)
+    if annotation is not None:
+        updated = merge_annotation(updated, annotation)
+    for field_name, value in (metadata or {}).items():
+        updated = merge_front_matter_field(updated, field_name, value)
     if updated == content:
         return False
     if not dry_run:
@@ -182,6 +288,12 @@ def build_parser() -> argparse.ArgumentParser:
         help="Only check source-section discrepancies in a parity JSON report.",
     )
     parser.add_argument(
+        "--field",
+        action="append",
+        choices=("source_sections", "annotation", "source_citation", "credits"),
+        help="Content to synchronize (repeatable; defaults to source_sections).",
+    )
+    parser.add_argument(
         "--url",
         action="append",
         default=[],
@@ -194,11 +306,12 @@ def build_parser() -> argparse.ArgumentParser:
 
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
+    fields = set(args.field or ["source_sections"])
     files = source_files_by_path(args.content_dir)
 
     selected = set(files)
     if args.report:
-        selected &= report_paths(args.report)
+        selected &= report_paths(args.report, fields)
     if args.url:
         selected &= {normalize_path(value) for value in args.url}
 
@@ -226,8 +339,22 @@ def main(argv: list[str] | None = None) -> int:
             print(f"ERROR {path}: {exc}")
             continue
 
-        sections = get_source_sections(soup)
-        changed = update_markdown(filepath, sections, dry_run=args.dry_run)
+        sections = (
+            get_source_sections(soup) if "source_sections" in fields else []
+        )
+        annotation = get_annotation(soup) if "annotation" in fields else None
+        metadata = {}
+        if "source_citation" in fields:
+            metadata["source_citation"] = get_source_citation(soup)
+        if "credits" in fields:
+            metadata["credits"] = get_credits(soup)
+        changed = update_markdown(
+            filepath,
+            sections,
+            annotation=annotation,
+            metadata=metadata,
+            dry_run=args.dry_run,
+        )
         if changed:
             updated_count += 1
             for section in sections:

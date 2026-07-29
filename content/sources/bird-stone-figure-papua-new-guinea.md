@@ -15,8 +15,10 @@ subjects:
   - "Religion"
 time_periods: 
   - "Ancient (before 500 CE)"
-source_citation: "Stone Implements, ca. 1500 BCE-1600 CE."
-credits: "Bird Stone Figure from Papua New Guinea,1500 BCE-1600 CE, Metropolitan Museum of Art,<https://www.metmuseum.org/art/collection/search/317803>."
+source_citation: |
+  Stone Implements, ca. 1500 BCE-1600 CE.
+credits: |
+  Bird Stone Figure from Papua New Guinea,1500 BCE-1600 CE, Metropolitan Museum of Art, <https://www.metmuseum.org/art/collection/search/317803>.
 how_to_cite: |
   "Bird Stone Figure from Papua New Guinea," in World History Commons, https://worldhistorycommons.org/bird-stone-figure-papua-new-guinea [accessed April 8, 2026]
 ---

@@ -16,7 +16,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs, unquote
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 from markdownify import markdownify as md
 
 BASE_URL = "https://worldhistorycommons.org"
@@ -121,11 +121,35 @@ def html_to_markdown(element) -> str:
     """Convert a BeautifulSoup element to clean markdown."""
     if element is None:
         return ""
-    html = str(element)
+    fragment = BeautifulSoup(str(element), "html.parser")
+    for inline in fragment.find_all(
+        ["a", "abbr", "b", "cite", "code", "em", "i", "s", "small", "span",
+         "strong", "sub", "sup", "u"]
+    ):
+        text = inline.get_text()
+        if text and not text.strip():
+            inline.replace_with(NavigableString(text))
+    html = str(fragment)
     text = md(html, heading_style="atx", strip=["img"])
     # Clean up excessive whitespace
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def protect_source_text_markdown(text: str) -> str:
+    """Keep literal source-document notation from becoming Markdown syntax."""
+    text = re.sub(r"[ \t]{2,}\n", "<br>\n", text)
+    text = re.sub(
+        r"(?m)^([ \t]*)(\d+)([.)])([ \t]+)",
+        r"\1\2\\\3\4",
+        text,
+    )
+    text = re.sub(
+        r"(?m)^([ \t]*)(-{3,})([ \t]*)$",
+        r"\1\\\2\3",
+        text,
+    )
+    return text.replace("``", r"\`\`")
 
 
 def extract_tags(soup: BeautifulSoup) -> dict:
@@ -248,7 +272,9 @@ def parse_source(soup: BeautifulSoup, url_path: str) -> dict:
             if well and not credits:
                 credits = html_to_markdown(well)
         elif section_name in {"Text", "Transcription", "Translation"} and well:
-            section_content = html_to_markdown(well)
+            section_content = protect_source_text_markdown(
+                html_to_markdown(well)
+            )
             if section_content:
                 source_sections.append(
                     {"label": section_name, "content": section_content}

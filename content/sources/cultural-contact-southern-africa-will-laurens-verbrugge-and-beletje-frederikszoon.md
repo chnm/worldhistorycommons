@@ -28,7 +28,7 @@ Laurens was Beletje’s second husband, which was not unusual at the Cape, where
 
 ## Text
 
-27 October 1711  
+27 October 1711<br>
 Testament between Laurens Verbrugge and Beletje Frederiksz.
 
 In the Name of the Lord, amen.
@@ -45,17 +45,17 @@ Next, the testatrix, declares that it is her will and design, that the slave chi
 
 Having heard the above clearly and precisely read to them, the testators declare this to be their final will and testament, desiring that the same will stand and take effect in every part. . . . All of this done in the house of the testators, in the presence of the former town counselors, Jan Botma and Adam Tas—as witnesses of good reputation, expressly asked to be here, who, together with me, the provisional secretary, and the testators, sign below on the day, hour and year mentioned above.
 
-As witnesses  
-[signatures of]  
-Jan Botma  
+As witnesses<br>
+[signatures of]<br>
+Jan Botma<br>
 Ad. Tass
 
-This is the personal mark t mark and signature  
+This is the personal mark t mark and signature<br>
 of Laurens Verbrugge
 
-This the mark \\\ and the personal signature of  
+This the mark \\\\\\ and the personal signature of<br>
 Beletje Frederiks
 
-With my knowledge  
-P. Kolbe  
+With my knowledge<br>
+P. Kolbe<br>
 Provisional secretary

@@ -38,22 +38,22 @@ Article 1. When the internal or external security of the State is threatened, an
 
 Citizens, the homeland is in danger!
 
-2. Immediately upon publishing that declaration, the departmental and district councils shall assemble, and, along with the town councils and communal councils, be on permanent watch. From this time forward, no public servant can leave, or stay away from, his post.
+2\. Immediately upon publishing that declaration, the departmental and district councils shall assemble, and, along with the town councils and communal councils, be on permanent watch. From this time forward, no public servant can leave, or stay away from, his post.
 
-3. All citizens capable of carrying arms, and having already served in the National Guard, will also be on active duty.
+3\. All citizens capable of carrying arms, and having already served in the National Guard, will also be on active duty.
 
-4. All citizens shall be called upon to declare, before their respective municipalities, the quantity and type of arms and munitions they own. Refusal to declare, or providing false information, if denounced and proven, shall be punished by the magistrate's police, as follows: for the first offense, imprisonment for a term not less than two months and not greater than one year; and for the second offense, imprisonment for a term not less than one year and not greater than two years.
+4\. All citizens shall be called upon to declare, before their respective municipalities, the quantity and type of arms and munitions they own. Refusal to declare, or providing false information, if denounced and proven, shall be punished by the magistrate's police, as follows: for the first offense, imprisonment for a term not less than two months and not greater than one year; and for the second offense, imprisonment for a term not less than one year and not greater than two years.
 
-8. The citizens who shall have received the honor of being the first to march for the security of the threatened homeland shall report within three days to the town in their district. They shall form a company in front of the district's Administrative Commissioner and there they shall receive military lodging and be prepared to march at first orders.
+8\. The citizens who shall have received the honor of being the first to march for the security of the threatened homeland shall report within three days to the town in their district. They shall form a company in front of the district's Administrative Commissioner and there they shall receive military lodging and be prepared to march at first orders.
 
-12. In towns that are cantonal seats, national weapons shall be returned to the National Guard who have been chosen for the new volunteer battalions. The National Assembly asks all citizens to voluntarily entrust their weapons for the duration of the threat to those responsible for defending them.
+12\. In towns that are cantonal seats, national weapons shall be returned to the National Guard who have been chosen for the new volunteer battalions. The National Assembly asks all citizens to voluntarily entrust their weapons for the duration of the threat to those responsible for defending them.
 
-13. Immediately upon publication of this decree, each district's administrative directory shall provide a thousand war-gauge ball cartridges which shall be kept in a safe place so they may be distributed to the volunteers when the board deems it appropriate. The executive branch shall give orders to send the necessary articles to the departments for manufacturing the cartridges.
+13\. Immediately upon publication of this decree, each district's administrative directory shall provide a thousand war-gauge ball cartridges which shall be kept in a safe place so they may be distributed to the volunteers when the board deems it appropriate. The executive branch shall give orders to send the necessary articles to the departments for manufacturing the cartridges.
 
-15. The volunteers may perform their military duties without wearing the national uniform.
+15\. The volunteers may perform their military duties without wearing the national uniform.
 
-16. Any man residing in, or traveling through, France, is required to wear the national cockade.
+16\. Any man residing in, or traveling through, France, is required to wear the national cockade.
 
 Accredited ambassadors and officials of foreign powers are exempt from this regulation.
 
-17. Any person wearing an emblem of rebellion shall be taken before the common court and, if found guilty of having deliberately done so, shall be put to death. It is hereby ordered that all citizens arrest or denounce these persons on the spot, or risk being accused of abetment. Any cockade other than the revolutionary cockade is a sign of rebellion.
+17\. Any person wearing an emblem of rebellion shall be taken before the common court and, if found guilty of having deliberately done so, shall be put to death. It is hereby ordered that all citizens arrest or denounce these persons on the spot, or risk being accused of abetment. Any cockade other than the revolutionary cockade is a sign of rebellion.

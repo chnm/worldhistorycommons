@@ -24,7 +24,7 @@ time_periods:
 source_citation: |
   "Adding and Subtracting with an Early Modern Counting Board," Youtube Video, 7:15, posted by Roy Rosenzweig Center for History and New Media, Oct. 26, 2022.
 credits: |
-  "Adding and Subtracting with an Early Modern Counting Board," Youtube Video, 7:15, posted by Roy Rosenzweig Center for History and New Media, October 26, 2022, [https://www.youtube.com/watch?v=C3Bx1J1o4BQ&ab_channel=RoyRosenzweigCenterforHistoryandNewMedia.]("Adding and Subtracting with an Early Modern Counting Board," Youtube Video, 7:15, Roy Rosenzweig Center for History and New Media, October 26, 2022, https://www.youtube.com/watch?v=C3Bx1J1o4BQ&ab_channel=RoyRosenzweigCenterforHistoryandNewMedia. )
+  "Adding and Subtracting with an Early Modern Counting Board," Youtube Video, 7:15, posted by Roy Rosenzweig Center for History and New Media, October 26, 2022, <https://www.youtube.com/watch?v=C3Bx1J1o4BQ&ab_channel=RoyRosenzweigCenterforHistoryandNewMedia>.
 how_to_cite: |
   "Adding and Subtracting with an Early Modern Counting Board," in World History Commons, https://worldhistorycommons.org/adding-and-subtracting-early-modern-counting-board [accessed April 8, 2026]
 ---

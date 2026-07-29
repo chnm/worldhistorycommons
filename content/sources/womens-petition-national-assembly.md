@@ -48,22 +48,22 @@ Proposal for a Decree
 
 The National Assembly, wishing to reform the greatest and most universal of abuses, and to repair the wrongs of a six-thousand-year long injustice, has decreed and decrees as follows:
 
-1) All the privileges of the male sex are entirely and irrevocably abolished throughout France;
+1\) All the privileges of the male sex are entirely and irrevocably abolished throughout France;
 
-2) The feminine sex will always enjoy the same liberty, advantages, rights, and honors as does the masculine sex;
+2\) The feminine sex will always enjoy the same liberty, advantages, rights, and honors as does the masculine sex;
 
-3) The masculine gender (genre) will no longer be regarded, even grammatically, as the more noble genre, given that all genders, all sexes, and all beings should be and are equally noble;
+3\) The masculine gender (genre) will no longer be regarded, even grammatically, as the more noble genre, given that all genders, all sexes, and all beings should be and are equally noble;
 
-4) That no one will henceforth insert in acts, contracts, obligations, etc., this clause, so common but so insulting for women: That the wife is authorized by her husband before those present, because in the household both parties should enjoy the same power and authority;
+4\) That no one will henceforth insert in acts, contracts, obligations, etc., this clause, so common but so insulting for women: That the wife is authorized by her husband before those present, because in the household both parties should enjoy the same power and authority;
 
-5) That wearing breeches will no longer be the exclusive prerogative of the male sex, but each sex will have the right to wear them in turn;
+5\) That wearing breeches will no longer be the exclusive prerogative of the male sex, but each sex will have the right to wear them in turn;
 
-6) When a soldier has, out of cowardice, compromised French honor, he will no longer be degraded as is the present custom, by making him wear women's clothing; but as the two sexes are and must be equally honorable in the eyes of humanity, he will henceforth be punished by declaring his gender to be neuter.
+6\) When a soldier has, out of cowardice, compromised French honor, he will no longer be degraded as is the present custom, by making him wear women's clothing; but as the two sexes are and must be equally honorable in the eyes of humanity, he will henceforth be punished by declaring his gender to be neuter.
 
-7) All persons of the feminine sex must be admitted without exception to the district and departmental assemblies, elevated to municipal responsibilities and even as deputies to the National Assembly, when they fulfill the requirements set forth in the electoral laws. They will have both consultative and deliberative voices . . . ;
+7\) All persons of the feminine sex must be admitted without exception to the district and departmental assemblies, elevated to municipal responsibilities and even as deputies to the National Assembly, when they fulfill the requirements set forth in the electoral laws. They will have both consultative and deliberative voices . . . ;
 
-8) They can also be appointed as Magistrates. There is no better way to reconcile the public with the courts of justice than to seat beauty and to see the graces presiding there;
+8\) They can also be appointed as Magistrates. There is no better way to reconcile the public with the courts of justice than to seat beauty and to see the graces presiding there;
 
-9) The same applies to all positions, compensations, and military dignities. In this way the French will be truly invincible, when their courage is inspired by the joint themes of glory and love; we do not even make exception for the staff of a marshal of France; so that justice can be rendered equally, we order this instrument to be passed alternatively between men and women;
+9\) The same applies to all positions, compensations, and military dignities. In this way the French will be truly invincible, when their courage is inspired by the joint themes of glory and love; we do not even make exception for the staff of a marshal of France; so that justice can be rendered equally, we order this instrument to be passed alternatively between men and women;
 
-10) Nor do we hesitate to open the sanctuary to the feminine sex, which has so long rightly been referred to as the devoted sex. But since the piety of the faithful has noticeably diminished, said sex promises and obligates itself, when it mounts the chair of truth, to moderate its zeal and not make excessive demands on the attention of the audience.
+10\) Nor do we hesitate to open the sanctuary to the feminine sex, which has so long rightly been referred to as the devoted sex. But since the piety of the faithful has noticeably diminished, said sex promises and obligates itself, when it mounts the chair of truth, to moderate its zeal and not make excessive demands on the attention of the audience.

@@ -24,7 +24,7 @@ time_periods:
 source_citation: |
   "Miniature Tunic," The Metropolitan Museum of Art, 14th-16th Century CE.
 credits: |
-  "Miniature Tunic," The Metropolitan Museum of Art, 14th-16th Century CE,<https://www.metmuseum.org/art/collection/search/316939>.
+  "Miniature Tunic," The Metropolitan Museum of Art, 14th-16th Century CE, <https://www.metmuseum.org/art/collection/search/316939>.
 how_to_cite: |
   "Inca Miniature Tunic ," in World History Commons, https://worldhistorycommons.org/inca-miniature-tunic [accessed April 8, 2026]
 ---

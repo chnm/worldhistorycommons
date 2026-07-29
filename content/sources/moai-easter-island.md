@@ -32,7 +32,7 @@ time_periods:
 source_citation: |
   "Figure," The Trustees of the British Museum, 1000-1200 CE.
 credits: |
-  "Figure," The Trustees of the British Museum, 1000-1200 CE, Easter Island,<https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1>
+  "Figure," The Trustees of the British Museum, 1000-1200 CE, Easter Island, <https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1>
 how_to_cite: |
   "Moai on Easter Island," in World History Commons, https://worldhistorycommons.org/moai-easter-island [accessed April 8, 2026]
 ---

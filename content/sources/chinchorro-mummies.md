@@ -23,7 +23,7 @@ time_periods:
 source_citation: |
   "Momia Chinchorro,"  *Wikimedia Commons, *February 2008.**
 credits: |
-  "Momia Chinchorro," *Wikimedia Commons*, February 2008,<https://commons.wikimedia.org/wiki/File:MomiaChinchorro.jpg>.
+  "Momia Chinchorro," *Wikimedia Commons*, February 2008, <https://commons.wikimedia.org/wiki/File:MomiaChinchorro.jpg>.
 how_to_cite: |
   "Chinchorro Mummies ," in World History Commons, https://worldhistorycommons.org/chinchorro-mummies [accessed April 8, 2026]
 ---
