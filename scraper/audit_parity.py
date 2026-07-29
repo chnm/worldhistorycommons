@@ -814,8 +814,10 @@ def report_page(
     session: requests.Session,
     timeout: float,
 ) -> dict:
+    url = urljoin(base_url.rstrip("/") + "/", target.path.lstrip("/"))
     page = {
         "path": target.path,
+        "url": url,
         "kind": target.kind,
         "source_type": target.source_type,
         "notes": target.notes,
@@ -847,15 +849,36 @@ def report_page(
     except Exception as exc:  # pragma: no cover - defensive report path
         page["status"] = "local_error"
         page["error"] = str(exc)
+        page["findings"] = [
+            asdict(
+                Finding(
+                    "migration_loss",
+                    "page",
+                    "Rendered Hugo page could not be parsed",
+                    "Drupal page available for comparison",
+                    f"Parse error: {exc}",
+                )
+            )
+        ]
         return page
 
-    url = urljoin(base_url.rstrip("/") + "/", target.path.lstrip("/"))
     try:
         response = session.get(url, timeout=timeout)
         response.raise_for_status()
     except requests.RequestException as exc:
         page["status"] = "remote_error"
         page["error"] = str(exc)
+        page["findings"] = [
+            asdict(
+                Finding(
+                    "upstream_gap",
+                    "page",
+                    "Drupal page could not be fetched for comparison",
+                    f"Fetch error: {exc}",
+                    "Rendered Hugo page available",
+                )
+            )
+        ]
         return page
 
     remote_snapshot = parse_snapshot(response.text, target.path, target.kind)
@@ -903,6 +926,7 @@ def write_csv_report(path: Path, pages: list[dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     columns = [
         "path",
+        "url",
         "kind",
         "status",
         "classification",
@@ -921,6 +945,7 @@ def write_csv_report(path: Path, pages: list[dict]) -> None:
                 writer.writerow(
                     {
                         "path": page["path"],
+                        "url": page.get("url", ""),
                         "kind": page["kind"],
                         "status": page["status"],
                         "review_notes": page.get("notes", ""),
@@ -931,6 +956,7 @@ def write_csv_report(path: Path, pages: list[dict]) -> None:
                 writer.writerow(
                     {
                         "path": page["path"],
+                        "url": page.get("url", ""),
                         "kind": page["kind"],
                         "status": page["status"],
                         "classification": finding.get("classification", ""),
@@ -1058,6 +1084,7 @@ def main(argv: list[str] | None = None) -> int:
     print(f"  Migration losses:      {summary['migration_losses']}")
     print(f"  Rendering mismatches:  {summary['rendering_mismatches']}")
     print(f"  Upstream gaps:         {summary['upstream_gaps']}")
+    print(f"  Editorial improvements:{summary['editorial_improvements']:>6}")
     print(f"  Remote errors:         {summary['remote_errors']}")
     print(f"  Local errors:          {summary['local_errors']}")
     print(f"  JSON: {args.output_json}")

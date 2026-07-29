@@ -1,8 +1,12 @@
+import csv
 import sys
+import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import Mock
 
 from bs4 import BeautifulSoup
+import requests
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -13,6 +17,8 @@ from audit_parity import (  # noqa: E402
     discover_csv_targets,
     element_text,
     parse_snapshot,
+    report_page,
+    write_csv_report,
 )
 
 
@@ -433,6 +439,68 @@ class CsvDiscoveryTests(unittest.TestCase):
                 else:
                     path.rmdir()
             root.rmdir()
+
+
+class ReportingTests(unittest.TestCase):
+    def test_remote_error_is_an_actionable_classified_finding(self):
+        with tempfile.TemporaryDirectory() as directory:
+            public = Path(directory)
+            local = public / "example" / "index.html"
+            local.parent.mkdir()
+            local.write_text(SOURCE_DRUPAL, encoding="utf-8")
+            session = Mock()
+            session.get.side_effect = requests.ConnectionError("offline")
+
+            page = report_page(
+                Target("/example", "source", "text"),
+                "https://worldhistorycommons.org",
+                public,
+                session,
+                30,
+            )
+
+        self.assertEqual(page["status"], "remote_error")
+        self.assertEqual(
+            page["url"],
+            "https://worldhistorycommons.org/example",
+        )
+        self.assertEqual(page["findings"][0]["classification"], "upstream_gap")
+        self.assertEqual(page["findings"][0]["field"], "page")
+        self.assertIn("offline", page["findings"][0]["drupal"])
+        self.assertTrue(page["findings"][0]["hugo"])
+
+    def test_csv_report_includes_canonical_page_url_and_values(self):
+        pages = [
+            {
+                "path": "/example",
+                "url": "https://worldhistorycommons.org/example",
+                "kind": "source",
+                "status": "checked",
+                "notes": "Team note",
+                "findings": [
+                    {
+                        "classification": "migration_loss",
+                        "field": "annotation",
+                        "detail": "Present in Drupal but absent from Hugo",
+                        "drupal": "Annotation text",
+                        "hugo": "",
+                    }
+                ],
+            }
+        ]
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "report.csv"
+            write_csv_report(path, pages)
+            with path.open(newline="", encoding="utf-8") as handle:
+                rows = list(csv.DictReader(handle))
+
+        self.assertEqual(
+            rows[0]["url"],
+            "https://worldhistorycommons.org/example",
+        )
+        self.assertEqual(rows[0]["field"], "annotation")
+        self.assertEqual(rows[0]["drupal"], "Annotation text")
+        self.assertEqual(rows[0]["review_notes"], "Team note")
 
 
 if __name__ == "__main__":
