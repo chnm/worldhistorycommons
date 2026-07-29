@@ -27,6 +27,8 @@ related_sources:
   - link: "/excerpt-letter-episcopate-parish-clergy-poland-1981"
     image: "/images/Icons-Document-thumbnail_367.jpg"
     alt: ""
+how_to_cite: |
+  "Long Teaching Module: The Catholic Church in Poland, 1950-2000," in World History Commons, https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -55,13 +57,13 @@ By the late 1980s the Church was widely seen as the primary site for anti-Commun
 
 When the Communist regime extended feelers towards the opposition in the late 1980s, the Church hierarchy was asked to serve as a mediator. The bishops who took part in the Round Table Talks of 1989 insisted that they were not parties to the debates, but neutral guarantors who insured that both Solidarity and the communists were negotiating in good faith. This was slightly disingenuous—it was obvious that their sympathies were with Solidarity—but it was true that they were committed to ensuring that open conflict (particularly violent struggle) was avoided at all costs. In this sense, they played a crucial role in ensuring that the voices of moderation and compromise emerged victorious.
 
-Brian Porter  
-University of Michigan  
+Brian Porter<br>
+University of Michigan<br>
 Ann Arbor, Michigan
 
-NOTES:  
-"Almost all Polish children. . ." Statistics found in: Irena Borowik and Tadeusz Doktór, Pluralizm religijny i moralny w Polsce: Raport z badań (Kraków: Nomos, 2001), 23, 127.  
-"Indeed, some have credited. . ." See, for example, some of the commentaries published at the time of his death in 2005: Andrew Nagorski, “Freedom Matters,” Newsweek 145, 15 (April 11, 2005): 46-47; David van Biema, “Defender of the Faith: Pope John Paul II 1920-2005,” Time 165, 15 (April 11, 2005): 35-42.  
+NOTES:<br>
+"Almost all Polish children. . ." Statistics found in: Irena Borowik and Tadeusz Doktór, Pluralizm religijny i moralny w Polsce: Raport z badań (Kraków: Nomos, 2001), 23, 127.<br>
+"Indeed, some have credited. . ." See, for example, some of the commentaries published at the time of his death in 2005: Andrew Nagorski, “Freedom Matters,” Newsweek 145, 15 (April 11, 2005): 46-47; David van Biema, “Defender of the Faith: Pope John Paul II 1920-2005,” Time 165, 15 (April 11, 2005): 35-42.<br>
 Adam Michnik quoted from Adam Michnik, Józef Tischner, and Jacek Żakowski, Między panem a plebanem (Kraków: Znak, 1998), 287, 290.
 
 ## Primary Sources
@@ -70,12 +72,16 @@ Adam Michnik quoted from Adam Michnik, Józef Tischner, and Jacek Żakowski, Mi�
 
 ![Statistics on Polish Catholicism in the Communist Era](/images/Statistics-on-Polish-Communism.jpeg)
 
+#### Annotation
+
 The information presented in this table highlights some of the ambiguities regarding the position of the Roman Catholic Church in the Polish People's Republic. The basic message in these data is that Catholicism thrived between WWII and the 1990s. These decades saw an expanding network of parishes and a dramatic surge in the construction of church buildings. However, by comparing the last column of this chart with the overall increase in parishes (and with the information we gain from the other sources provided in the Teaching Module on the Roman Catholic Church in Poland), we see that it is more likely that the Church was indeed successfully improving its pastoral services.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
 
 ### [The Pledge of Jasna Góra](/pledge-jasna-gora)
 
 ![The Pledge of Jasna Góra](/images/Icons-Document-thumbnail_364.jpg)
+
+#### Annotation
 
 This text was written by Cardinal Stefan Wyszyński in 1956 and used that year for a ceremony at the Marian shrine of Jasna Góra in the town of Częstochowa. Promoted heavily by the Polish Episcopate, the pledge became a mainstay of organized pilgrimages and remains popular to this day. Częstochowa was the site of a famous battle in 1655, when an invading Swedish (Protestant) army besieged the monastery of Jasna Góra but was repulsed (so the story goes) by the intervention of the Virgin Mary. In 1656 King Jan Kazimierz of Poland pledged his country in fealty to Mary in gratitude for her assistance, staging an elaborate ceremony in which she was crowned as "Queen of Poland." Three hundred years later Primate Stefan Wyszyński celebrated the anniversary of this coronation with this updated "Pledge of Jasna Góra," and in the years to come this text became a key element of Catholic devotional practice in Poland. Though cast in the form of a prayer, the political content of this text is evident. This text also seeks to clarify the specific goals and ambitions of the Polish Catholic Church. To American eyes, this document might present a set of anomalies: a commitment to social justice, peace, and equity alongside a cultural agenda that condemns divorce, abortion, and "promiscuity." This helps sheds light on what exactly divided Catholics and communists: not so much the social policies of an interventionist state, but rather the failure of that state to uphold what Cardinal Wyszyński considered to be traditional Catholic values.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
@@ -84,12 +90,16 @@ This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https:
 
 ![Excerpts from a sermon given by Primate Stefan Wyszyński in 1976](/images/Icons-Document-thumbnail_365.jpg)
 
+#### Annotation
+
 This sermon was delivered by Cardinal Stefan Wsyzyński, the Primate of the Roman Catholic Church in Poland, on January 25, 1976, in Warsaw's Holy Cross Church. Here we see the conservative political convictions shared by most members of the Polish clergy at the time (and today), according to which the Church, the nation, and the state must be tightly intertwined. The Polish Church, barely touched by the ideas of the Second Vatican Council, continued to advocate a political system in which Poland would be a Catholic country—officially and legally as well as demographically. In various sermons and pastoral letters we find the view that the Church was the only appropriate moral educator of the nation, that Poland was necessarily and uniformly Catholic, and that to challenge the Church was necessarily to challenge the nation itself.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
 
 ### [Excerpt from a letter from the Episcopate to the parish clergy of Poland in 1981](/excerpt-letter-episcopate-parish-clergy-poland-1981)
 
 ![Excerpt from a letter from the Episcopate to the parish clergy of Poland in 1981](/images/Icons-Document-thumbnail_367.jpg)
+
+#### Annotation
 
 This pastoral letter was issued on March 11, 1981, and sent to every priest in Poland. It summarizes the message that the bishops wanted the parish clergy to transmit to their flocks during their Sunday sermons. While not every priest faithfully replicated the tone of this letter, very few openly defied the instructions of the Church hierarchy. The goal of this letter is clear: to hold the Solidarity movement back from any actions that might threaten social disorder or public peace. This document provides a point of entry into the controversial issue of the Church's stance in 1980 and 1981. Despite the explicit public religiosity of Lech Wałęsa and other Solidarity activists, the stance of the Church hierarchy toward the strikes of 1980 and the dynamic social movement that emerged afterward remained highly ambiguous. Certainly the bishops were concerned about the possibility of a Soviet invasion if Solidarity pushed its contest with the government too far, and they realized that the relative security they had won for the Church in Communist Poland would be lost if the Soviets got directly involved. Just as seriously, they recognized that such an outcome would almost certainly lead to massive casualties. At the same time, they understood that the Church enjoyed enormous respect in Poland in the early 1980s precisely because it constituted the one public space independent of Communist control, and that people looked to the Church for protection and refuge. Given this, to show lackluster support for the Solidarity movement would be seen by many as a betrayal.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
@@ -98,12 +108,16 @@ This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https:
 
 ![Prayer for the Fatherland](/images/Icons-Document-thumbnail_366.jpg)
 
+#### Annotation
+
 This prayer was composed by the Polish Episcopate shortly after Solidarity was legalized for the first time, in 1980. The bishops instructed that henceforth it be recited during every mass. In just one paragraph this text captures several important themes: the link between nationalism and Catholicism; the Church's desire to avoid confrontation and conflict; and the Church's support for basic human rights.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
 
 ### [Anonymous sermon from 1982](/anonymous-sermon-1982)
 
 ![Anonymous sermon from 1982](/images/Icons-Document-thumbnail_368.jpg)
+
+#### Annotation
 
 This sermon was delivered in Podkowa Leśna, a small town in central Poland near Warsaw, on October 13, 1982. An émigré publishing house in the United States published a transcript in a collection of sermons that purported to present the views of the rank-and-file clergy during the period of martial law. Much more militant than the official pronouncements of the Bishops, texts such as these show that the Church spoke with many voices and that the leadership of the Church did not exercise tight control over parish priests.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
@@ -112,12 +126,16 @@ This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https:
 
 ![Photographs of the St. Stanisław Kostka Church in Warsaw](/images/Pictures18_9adef26d86_copy.jpg)
 
+#### Annotation
+
 Father Jerzy Popiełuszko was one of the most vocal priests involved in the Solidarity movement in the early 1980s. Even after the declaration of martial law in 1981, Father Popiełuszko remained an outspoken opponent of the Communist regime, and his church in the Warsaw suburb of Żoliborz became a gathering point for those who wanted to hear anticommunist sermons. The monthly "Masses for the Fatherland" that Father Popiełuszko held drew crowds that overflowed into the streets. In October 1984, this maverick priest was seized by two security service officers who beat him to death and dumped his body into a river. The public outpouring of anger and sorrow was overwhelming, even under conditions of martial law. The authorities blamed the murder on rogue agents, whom they quickly arrested and imprisoned. The precise responsibility for the killing remains unknown to this day. The shrine pictured here was created after Father Popiełuszko's death. The tombstone is in the shape of a cross, with a chain of stone rosary beads surrounding it. More important, though, were the banners that were placed on the inside fence of his church. The banners were not clearly visible from the street, but once inside the church grounds, visitors were surrounded by posters proclaiming the continued existence of Solidarity. These photos, taken in 1986, show a typical scene. Delegations from all over Poland made pilgrimages to this church, leaving behind banners of their local union chapters. Opposition meetings were held in the basement of this church—indeed, in churches all over Poland—without state intervention.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
 
 ### [Photographs from the Papal Visit of 1987](/photographs-papal-visit-1987)
 
 ![Photographs from the Papal Visit of 1987](/images/thumb_Pictures12_1e609c0a2c_copy.jpg)
+
+#### Annotation
 
 From June 8-14, 1987, Pope John Paul II made his third "pilgrimage" to his homeland (he had already visited in 1979 and 1983). As on the first two occasions, life in Poland seemed to stop during his visit, as nearly the entire country (at least, so it seemed) participated in this historic moment. These photographs were taken a week before he arrived, and the buildings were far from any of the Pope's planned routes. The signs read "Open the Door to Christ" and "With you we are not afraid—Gdynia loves the Pope." Throughout the country people decorated their apartments and homes in this way, with hardly a window or balcony anywhere lacking some sign or banner.
 When he arrived in Warsaw and drove from the airport to the Primate's palace, a huge crowd turned out to greet him, and flowers were laid out along the street that he was scheduled to travel. This pattern was repeated throughout his visit, wherever he went. Though tens of thousands of people lined the roads just to see him pass by, and millions attended his open-air masses, the entire state apparatus seemed to vanish for those few summer days. Crowd control was managed almost entirely by volunteers (they can be identified by their sky-blue paper hats). Even the motorcycle escorts of the "popemobile" were provided by the Church, not the Communist state.
@@ -130,6 +148,8 @@ This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https:
 
 ![Excerpts from the sermon given by Pope John Paul II in Warsaw in 1987](/images/Icons-Document-thumbnail_369.jpg)
 
+#### Annotation
+
 This is the sermon that Pope John Paul II delivered at the open-air mass described in the previous section, and it is typical of both his rhetorical style and the substance of the sermons he delivered during his trips to Poland. The formal occasion for the mass was the conclusion of a national Eucharistic Congress that had been held over the preceding days in various sites around Poland. Such events are staged from time to time in every Catholic country to promote among the faithful the importance of the sacrament of Holy Communion. Their meaning is supposed to be strictly religious and devotional, though in the context of Communist Poland most people ascribed political overtones to the Pope's visit. Those who attended Papal masses in Poland in 1979, 1982 and 1987 often described them as profound moments that left them energized and fortified in their opposition to the Communist regime. Above all, those who saw and heard the Pope spoke later of feeling that they were part of a greater national whole, that they were truly joined together in (small-s) solidarity.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
 
@@ -137,9 +157,10 @@ This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https:
 
 ![Statistics on Catholicism in Poland after the fall of Communism](/images/chart---how-often-do-you-go-to-church-_1998__868b2d4639_0.jpg)
 
+#### Annotation
+
 These figures show the fragility of Catholicism in Poland after the communist era. Whether questioned about matters of doctrine or lifestyle, large numbers of Poles agreed with the stated positions of the Roman Catholic Church. Discussing these figures will help students understand that the image of “Catholic Poland” is more complicated than a casual observer might assume. Some scholars interpret this apparent shift in beliefs between 1991 and 1998 as a sign that the Church has been able to use the post-communist public sphere to propagate its own point of view more effectively, with Poland moving towards a Catholic hegemony to rival the old (always incomplete) communist hegemony. Others have suggested that once unrestrained by communist-era restrictions, the Church could inform the faithful more completely about the views that good Catholics were supposed to articulate, so that people who felt themselves to be Catholic were less likely to differ from the Vatican’s official line.
 This source is a part of the [*The Catholic Church in Poland, 1950-2000*](https://worldhistorycommons.org/long-teaching-module-catholic-church-poland-1950-2000) teaching module.
-
 
 ## Teaching Strategies
 
@@ -247,7 +268,7 @@ Have the groups record their answers to these questions. Each group should repor
 
 **Presentation and Discussion:** Have students present their research (even read their essays aloud) to the class. This can happen before their essays are completed. Have the entire class reflect on what the research shows in answering the question of how the Catholic Church influenced and shaped modern Polish society.
 
-**Wrap Up:** Return to the primary sources. You could even repeat the first activity as an interesting way to re-examine the sets. Reflect on the growth in student awareness and sense of mastery of the material. Discuss how the primary sources guided their analysis and inquiry. Brainstorm the how the Church shaped Polish history—in what ways? At particular moments? Finally, discuss student opinions on the ability of the Catholic Church (or any religious organization) to play similar roles in U.S. history. Has it? Should it? Can it? What are the differences between Poland and America that shape the relationships between religion and society and religion and government? What does that tell them about each  
+**Wrap Up:** Return to the primary sources. You could even repeat the first activity as an interesting way to re-examine the sets. Reflect on the growth in student awareness and sense of mastery of the material. Discuss how the primary sources guided their analysis and inquiry. Brainstorm the how the Church shaped Polish history—in what ways? At particular moments? Finally, discuss student opinions on the ability of the Catholic Church (or any religious organization) to play similar roles in U.S. history. Has it? Should it? Can it? What are the differences between Poland and America that shape the relationships between religion and society and religion and government? What does that tell them about each<br>
 country?
 
 **Document Based Questions:**
@@ -262,7 +283,7 @@ Explain the reasons why the Catholic Church was and is such an integral part of 
 
 **Differentiation**
 
-Provide summaries or highlighted sections of the documents to assist students in processing the primary sources used during the activities. Similarly, pre-organized note sheets (containing key words, ideas, and foreign topics) will aid in comprehension. For the research, provide some short suggestions or summaries to guide student participation. When administering the Document Based Question, allow additional time and provide outline guides for student responses. Allow for differing types of responses rather than simply essay format (editorial cartoons, short audio news “programs,” dictated responses,  
+Provide summaries or highlighted sections of the documents to assist students in processing the primary sources used during the activities. Similarly, pre-organized note sheets (containing key words, ideas, and foreign topics) will aid in comprehension. For the research, provide some short suggestions or summaries to guide student participation. When administering the Document Based Question, allow additional time and provide outline guides for student responses. Allow for differing types of responses rather than simply essay format (editorial cartoons, short audio news “programs,” dictated responses,<br>
 etc.).
 
 **Background Sources for Teachers:**

@@ -19,6 +19,8 @@ related_sources:
   - link: "/excerpt-travels-africa"
     image: "/images/Icons-Document-thumbnail_713_12_2.jpeg"
     alt: "Document icon"
+how_to_cite: |
+  "Short Teaching Module: Women's Travel Writing," in World History Commons, https://worldhistorycommons.org/short-teaching-module-womens-travel-writing [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -61,6 +63,8 @@ The main problems students encounter are related to details, as many texts assum
 
 ![Excerpt from Travels in Africa](/images/Icons-Document-thumbnail_713_12_2.jpeg)
 
+#### Annotation
+
 Imperialism is one of the most pertinent topics in relation to travel and exploration. By the end of the 19th century, the spread of European imperialism had made many areas of the world “safe” for women travelers. As a result the volume of women’s writing increased significantly, so there is a wide range of texts to choose from. One such example is Mary Kingsley, who traveled to West Africa in 1893 and 1895, and to compare it to male versions of earlier African exploration, such as the works of H.M. Stanley or J. H. Speke.The masculine tradition of travel writing was considered to reflect public and professional concerns, whereas the feminine tradition was considered to fall into the private and personal sphere. Mary Kingsley’s work belies this stereotype. She allied herself with the masculine tradition of producing scientific research, yet she was well aware of social expectations.
 Kingsley’s negative attitude toward British colonization and sympathy for the peoples of West Africa are amply demonstrated. This highlights the approach of many 19th-century travelers who were not opposed to imperialism or colonization, but were critical of the abuses engendered by the system. In this excerpt Kingsley describes an encounter with a herd of elephants. Students can be guided to note her attention to detail and what might be called the *female gaze*. How does the passage demonstrate a particularly female gaze, as opposed to a male gaze? This source is a part of the [*Women's Travel Writing*](https://worldhistorycommons.org/short-teaching-module-womens-travel-writing) teaching module.
 
@@ -68,19 +72,20 @@ Kingsley’s negative attitude toward British colonization and sympathy for the 
 
 ![Excerpt from letter by Lady Mary Wortley](/images/Icons-Document-thumbnail_713_12_1.jpeg)
 
-Travel writing by women can reveal a number of themes in world history. One useful example are the letters written by Lady Mary Wortley Montagu (1689-1786) who worked as a missionary in Turkey. Lady Mary's observations allow students to explore the question of the Ottoman Empire and its relations to the West, to draw attention to the views of an 18th-century aristocratic woman on the Ottoman Empire, and to discuss the importance of letter-writing as a means of private and public communication. Instructors can also use Lady Mary's letters to introduce the idea of the "grand tour" -- travel for pleasure that was an essentially upper-class European activity in the 18th and early 19th centuries. In this letter, Lady Mary discusses religion and morals and attempts to understand Turkish religious beliefs from their point of view. This source is a part of the [*Women's Travel Writing*](https://worldhistorycommons.org/short-teaching-module-womens-travel-writing) teaching module.
+#### Annotation
 
+Travel writing by women can reveal a number of themes in world history. One useful example are the letters written by Lady Mary Wortley Montagu (1689-1786) who worked as a missionary in Turkey. Lady Mary's observations allow students to explore the question of the Ottoman Empire and its relations to the West, to draw attention to the views of an 18th-century aristocratic woman on the Ottoman Empire, and to discuss the importance of letter-writing as a means of private and public communication. Instructors can also use Lady Mary's letters to introduce the idea of the "grand tour" -- travel for pleasure that was an essentially upper-class European activity in the 18th and early 19th centuries. In this letter, Lady Mary discusses religion and morals and attempts to understand Turkish religious beliefs from their point of view. This source is a part of the [*Women's Travel Writing*](https://worldhistorycommons.org/short-teaching-module-womens-travel-writing) teaching module.
 
 ## Bibliography
 
-[1](#footnote1) See for example Dea Birkett, *Spinsters Abroad: Victorian Lady Explorers* (Oxford, 1989) and *Amazonian: The Penguin Book of Women’s New Travel Writing* (London, 1998); Sara Mills, *Discourses of Difference: An Analysis of Women’s Travel Writing and Colonialism* (London, 1991); Jane Robinson, *Wayward Women. A Guide to Women Travellers* (Oxford, 1991); Billie Melman, *Women’s Orients. English Women and the Middle East 1718-1918* (London, 1992); Catherine Barnes Stevenson, *Victorian Women Travel Writers in Africa* (Boston, 1992); Susan Morgan, *Place Matters: Gendered Geography in Victorian Women’s Travel Books About S.E. Asia* (New Brunswick, N.J., 1996); Bénédicte Monicat, *Itinéraires de l’écriture au feminine* (Amsterdam, 1996); Indira Ghose, *Women Travellers in Colonial India: The Power of the Female Gaze* (Oxford, 1998); June Edith Hahner, *Women Through Womenös Eyes. Latin American Women in 19th-century Travel Accounts* (Wilmington, Del. 1998); Cheryl McEwan, *Gender, Geography and Empire. Victorian Women Travellers in West Africa* (Bloomington, 2000).  
-  
-[2](#footnote2) For extracts from women missionaries’ writings see Patricia W. Romero (ed.), *Women Voices on Africa. A century of travel writings* (Princeton, 1992). For a discussion of women missionaries in the Near East see Melman, Op. Cit.  
-  
-[3](#footnote3) Her second work, *West African Studies*, published in 1899, was a scholarly approach to the subject into which she incorporated information from both her voyages to the area including material that had been excluded from *Travels in West Africa.*   
-  
-[4](#footnote4) Mary Kingsley, *Travels in West Africa* (London: Thomas Nelson, 1965, 3rd edition) p. 502  
-  
+[1](#footnote1) See for example Dea Birkett, *Spinsters Abroad: Victorian Lady Explorers* (Oxford, 1989) and *Amazonian: The Penguin Book of Women’s New Travel Writing* (London, 1998); Sara Mills, *Discourses of Difference: An Analysis of Women’s Travel Writing and Colonialism* (London, 1991); Jane Robinson, *Wayward Women. A Guide to Women Travellers* (Oxford, 1991); Billie Melman, *Women’s Orients. English Women and the Middle East 1718-1918* (London, 1992); Catherine Barnes Stevenson, *Victorian Women Travel Writers in Africa* (Boston, 1992); Susan Morgan, *Place Matters: Gendered Geography in Victorian Women’s Travel Books About S.E. Asia* (New Brunswick, N.J., 1996); Bénédicte Monicat, *Itinéraires de l’écriture au feminine* (Amsterdam, 1996); Indira Ghose, *Women Travellers in Colonial India: The Power of the Female Gaze* (Oxford, 1998); June Edith Hahner, *Women Through Womenös Eyes. Latin American Women in 19th-century Travel Accounts* (Wilmington, Del. 1998); Cheryl McEwan, *Gender, Geography and Empire. Victorian Women Travellers in West Africa* (Bloomington, 2000).<br>
+<br>
+[2](#footnote2) For extracts from women missionaries’ writings see Patricia W. Romero (ed.), *Women Voices on Africa. A century of travel writings* (Princeton, 1992). For a discussion of women missionaries in the Near East see Melman, Op. Cit.<br>
+<br>
+[3](#footnote3) Her second work, *West African Studies*, published in 1899, was a scholarly approach to the subject into which she incorporated information from both her voyages to the area including material that had been excluded from *Travels in West Africa.*<br>
+<br>
+[4](#footnote4) Mary Kingsley, *Travels in West Africa* (London: Thomas Nelson, 1965, 3rd edition) p. 502<br>
+<br>
 [5](#footnote5) A website that contains other materials on Kingsley, including audio recordings and a map of her travels in West Africa is at: <http://www.loe.org/series/discovery_women/kingsley.php>
 
   ||  | |

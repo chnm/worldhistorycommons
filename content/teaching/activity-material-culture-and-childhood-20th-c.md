@@ -25,6 +25,8 @@ related_sources:
   - link: "/toys"
     image: "/images/toys-thumbnail.jpeg"
     alt: "Image of a girl playing with toys"
+how_to_cite: |
+  "Activity: Material Culture and Childhood (20th c.)," in World History Commons, https://worldhistorycommons.org/activity-material-culture-and-childhood-20th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -39,12 +41,16 @@ This activity includes instructions on carrying out the activity and incorporate
 
 ![Diapers](/images/pampers_cruisers_73fc8fa125_0.jpg)
 
+#### Annotation
+
 The material culture of early childhood in the 21st century is characterized by an emphasis on biological age and related levels of cognitive and motor skill development. All types of objects, including diapers, toys, food products, and clothing, are divided into categories based on the age-appropriateness of a particular object. Descriptions of these categories commonly explain how each object functions to enable a child to attain a particular skill or reach a developmental milestone. Appeals to medical and developmental science are common. Diapers, for example, are marketed for babies of different ages: "newborn," "baby," "toddler," and "preschooler." Each of these categories is associated with specific developmental milestones, and diaper brands emphasize how their product can help with children's developing mobility skills–from rolling over, to crawling, to walking. Scholarship on childhood has shown that emphases on biological development are particular to contemporary western cultures and tends to reinforce ideas that childhood is a "natural" or "universal" experience regardless of time period or cultural context. Anthropological research with children from different cultures has shown, however, that developmental sequences vary widely as different cultural settings place particular demands on the mental and physical development of young children.
 This source is a part of the [*Material Culture and Childhood (20th c.)*](https://worldhistorycommons.org/activity-material-culture-and-childhood-20th-c?page=0%2C3) teaching module.
 
 ### [Food](/food)
 
 ![Food](/images/food_cc14324b93THUMB.jpeg)
+
+#### Annotation
 
 The material culture of early childhood in the 21st century is characterized by an emphasis on biological age and related levels of cognitive and motor skill development. All types of objects, including diapers, toys, food products, and clothing, are divided into categories based on the age-appropriateness of a particular object. Descriptions of these categories commonly explain how each object functions to enable a child to attain a particular skill or reach a developmental milestone. Appeals to medical and developmental science are common. Foods are marketed along an age grade that progress a child through various stages of development (e.g., Newborn, Stage 1, Stage 2, Stage 3, One Year etc.), with each stage requiring different nutritional needs to promote appropriate development. They also emphasize the physiological development of children in each stage and what an infant is capable of eating in these earliest periods of development. A secondary concern in products is their "naturalness" or an emphasis on not containing ingredients that might be harmful to proper development and health. It is far rarer to have food marketed for things that we as adults find valuable- taste and appeal for example- which tend to be highly individualized. Scholarship on childhood has shown that emphases on biological development are particular to contemporary western cultures and tends to reinforce ideas that childhood is a "natural" or "universal" experience regardless of time period or cultural context. Individual children, however, may experience their own developmental trajectories. Anthropological research with children from different cultures has shown that developmental sequences vary widely as different cultural settings place particular demands on the mental and physical development of young children.
 This source is a part of the [*Material Culture and Childhood (20th c.)*](https://worldhistorycommons.org/activity-material-culture-and-childhood-20th-c?page=0%2C3) teaching module.
@@ -53,6 +59,8 @@ This source is a part of the [*Material Culture and Childhood (20th c.)*](https:
 
 ![Clothing](/images/children-clothing-thumbnail_0.jpg)
 
+#### Annotation
+
 The material culture of early childhood in the 21st century is characterized by an emphasis on biological age and related levels of cognitive and motor skill development. All types of objects, including diapers, toys, food products, and clothing, are divided into categories based on the age-appropriateness of a particular object. Descriptions of these categories commonly explain how each object functions to enable a child to attain a particular skill or reach a developmental milestone. Appeals to medical and developmental science are common. Clothing is often marketed for its ability to facilitate different types of developmental movements such as crawling, walking, or rolling over. Children's clothing is also noteworthy for its emphasis on marking very young individuals with their gender. Properly color coding children into pink for girls and blue for boys is of paramount concern in the clothing industry. Similarly, patterns reflect particular gender ideals. It is very difficult, for example, to find a girl's outfit that has a plaid pattern or a car on it, even in pink, or a boys outfit that has a floral pattern or an image of a doll. This type of gender coding at a very young age is culturally important when children are introduced socially into the world- it is a major social gaffe to misidentify a child's gender but if it occurs it is usually because the child is dressed in a gender-neutral color such as yellow or green. Children's clothing points to the importance of gender in our culture, and also the ways that gender roles are taught to children from birth.
 This source is a part of the [*Material Culture and Childhood (20th c.)*](https://worldhistorycommons.org/activity-material-culture-and-childhood-20th-c?page=0%2C3) teaching module.
 
@@ -60,9 +68,10 @@ This source is a part of the [*Material Culture and Childhood (20th c.)*](https:
 
 ![Toys](/images/toys-thumbnail.jpeg)
 
+#### Annotation
+
 The material culture of early childhood in the 21st century is characterized by an emphasis on biological age and related levels of cognitive and motor skill development. All types of objects, including diapers, toys, food products, and clothing, are divided into categories based on the age-appropriateness of a particular object. Descriptions of these categories commonly explain how each object functions to enable a child to attain a particular skill or reach a developmental milestone. Appeals to medical and developmental science are common. Toys are marketed using age ranges for which the product has been deemed appropriate: "Ages 4-8" or "Ages 3 and Up" for example. Each of these categories is associated with specific developmental milestones, and toys emphasize how their product can help with children's developing cognitive skills, mobility skills (e.g. walking, coordination), or particular sets of knowledge (e.g., shapes, colors, numbers). Scholarship on childhood has shown that emphases on biological development are particular to contemporary western cultures and tends to reinforce ideas that childhood is a "natural" or "universal" experience regardless of time period or cultural context. Individual children, however, may experience their own developmental trajectories. Anthropological research with children from different cultures has shown that developmental sequences vary widely as different cultural settings place particular demands on the mental and physical development of young children.
 This source is a part of the [*Material Culture and Childhood (20th c.)*](https://worldhistorycommons.org/activity-material-culture-and-childhood-20th-c?page=0%2C3) teaching module.
-
 
 ## Teaching Strategies
 
@@ -94,5 +103,5 @@ Each of these points relates to the general ideas about childhood introduced in 
 
 ## Credits
 
-JANE EVA BAXTER, DEPAUL UNIVERSITY  
+JANE EVA BAXTER, DEPAUL UNIVERSITY<br>
 This teaching module was originally developed for the Children and Youth in History project.

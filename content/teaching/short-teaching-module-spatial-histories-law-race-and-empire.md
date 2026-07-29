@@ -24,6 +24,8 @@ related_sources:
   - link: "/batavia-castle"
     image: "/images/SK-A-19__1_.jpg"
     alt: "Painting of The Batavia Castle seen from the Kali Besar West"
+how_to_cite: |
+  "Short Teaching Module: Spatial Histories of Law, Race and Empire ," in World History Commons, https://worldhistorycommons.org/short-teaching-module-spatial-histories-law-race-and-empire [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -38,7 +40,7 @@ In my work, I ask how legal spaces in colonial Indonesia were constructed, and w
 
 This emphasis in Indonesia on pluralism, with all of its nuances, problems and realities, also translates, now, as it did in the precolonial and colonial past, into the legal pluralism of adat—which means unwritten customs or customary law, later influenced by Islamic law. Now and in the past, adat, Islamic law and state law each play out in different ways and constellations on the many different Indonesian islands. In this module, we’ll take a closer look at issues of law, race and empire in Java, the most populous Indonesian island that was increasingly and heavily impacted by Dutch colonialism from the early seventeenth century until 1942.
 
-The following historical anecdote shows how complex racial hierarchies and identities were central to and shaped colonial law. Pangeran Aria Achmad Djajadiningrat was a prominent Indonesian bupati (regent) under Dutch rule, who depicted the following childhood memory in his memoirs. One night, in the 1890s, when he was a Hogere Burgerschool (HBS, secondary school) student in Batavia, he and his friends decided to go on a quintessential teenage boys’ adventure; they attempted to visit a boarding school for girls at night. The boys were caught by the police and sent to the assistant resident (a Dutch administrator). But, upon arriving at his office, the assistant resident sent Djajadiningrat to the jaksa (local prosecutor) for punishment because he was Javanese. Djajadiningrat felt humiliated:  
+The following historical anecdote shows how complex racial hierarchies and identities were central to and shaped colonial law. Pangeran Aria Achmad Djajadiningrat was a prominent Indonesian bupati (regent) under Dutch rule, who depicted the following childhood memory in his memoirs. One night, in the 1890s, when he was a Hogere Burgerschool (HBS, secondary school) student in Batavia, he and his friends decided to go on a quintessential teenage boys’ adventure; they attempted to visit a boarding school for girls at night. The boys were caught by the police and sent to the assistant resident (a Dutch administrator). But, upon arriving at his office, the assistant resident sent Djajadiningrat to the jaksa (local prosecutor) for punishment because he was Javanese. Djajadiningrat felt humiliated:<br>
 "One by one we were summoned by the assistant resident... However, when it was my turn and I mentioned my name, the assistant resident said: “Ah, so you are a native. Then you should go to the jaksa, who will refer you to the police law. [This action] severely hurt me.”
 
 Djajadiningrat was culturally and socially part of the highest class of society. He lived with a Dutch host family and was a student at a Dutch school in Batavia. He formally fell under the jurisdiction of European law courts through a privilegium fori (privilege of legal forum). This also exempted him and other elites from being punished by police law. Yet, when Djajadiningrat encountered the colonial system in Batavia, what counted foremost to the European resident was his Javanese background.
@@ -63,6 +65,8 @@ How the various spatial layers (of law) co-existed within this larger urban dyna
 
 ![The Batavia Castle](/images/SK-A-19__1_.jpg)
 
+#### Annotation
+
 Seventeenth-century market in the city Batavia (nowadays Jakarta, Indonesia), the central node of Dutch imperial activities in the Indian Ocean region. The Batavia Castle is visible in the background and to its right the Council of Justice with the gallows and whipping post in front of it. The Dutch artist depicts a varity of people at the market. Inhabitants of different parts of the Indonesian archipelago, Chinese, Eurasians, Arabs, Japanese and Europeans are walking around, chatting, and buying or selling goods. Among these people are both free and enslaved persons, as more than half of the inhabitants of Batavia were enslaved at the end of the seventeenth century. Batavia became the central slave market of the region, where Europeans and Asians traded enslaved people, who were of non-European descent and originated from near or more far-flung places around the Indian Ocean.
 
 Questions for discussion: Who and what do you see on this painting? What were conversation topics the people depicted in the painting could have been talking about? What do the clothing, objects and goods tell you about Batavia and its inhabitants? The painting was made by a Dutch artist; how might this influence the painting and the impression of Batavia it presents to modern viewers? What kind of court cases do you imagine were adjudicated at the Council of Justice we see in the painting? How do you think this law court functioned in the early-modern imperial city?
@@ -73,12 +77,13 @@ This source is part of the teaching module [spatial histories of law, race, and 
 
 ![The landraad in Pati](/images/LandraadPatiGroot__1_.jpg)
 
+#### Annotation
+
 This is a photo of a mixed colonial law court, the landraad, in Pati, a town located on the island of Java, now part of Indonesia. The photo was made by the British photographers Woodbury & Page on the request of the bupati (regent) Raden Adipati Ario Tjondro Adhi Negoro. We know the names of a few of the court members. Seated on the chair on the left side is the Chinese Captain Oei Hotam. The third chair on the left side is occupied by the Javanese bupati (regent) Raden Adipati Ario Tjondro Adhi Negoro. Seated in the middle of the table is the Dutch resident P.W.A. van Spall, who is assisted by the Eurasian secretary H.D. Wiggers. Seated on the chair at the utmost right side is the Javanese-Islamic advisor penghulu hadji Minhat. The photo is taken around 1865, two centuries after the painting of the market in Batavia was made, when the Dutch had moved beyond the larger cities and colonized large parts of the island of Java. Control over coffee, indigo and tea plantations, sugar, later rubber – all supported by a growing colonial criminal law system – were the most important colonial reforms, with profound consequences for the Indonesian population of Java, Sumatra and increasingly also other Indonesian islands. The number of mixed courts, of landraaden, in Java increased from 2 in 1800 to 89 in 1874. Until the end of colonial rule in 1942, the landraad continued to function as a mixed court with all original officials present.
 
 Questions for discussion: Who and what do you see on this photo? What do the cloth and objects tell you about this law court and its members? The photo was made on the request of the Javanese bupati; how might this influence the depiction of the court and our impression of this law court as a modern viewer? What kind of court cases were adjudicated at this law court? What is different and what is similar about this depiction of Java, compared to the seventeenth-century painting of the market in Batavia?
 
 This source is part of the teaching module [spatial histories of law, race, and empire](https://worldhistorycommons.org/short-teaching-module-spatial-histories-law-race-and-empire).
-
 
 ## Credits
 

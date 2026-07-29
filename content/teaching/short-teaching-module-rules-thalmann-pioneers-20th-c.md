@@ -18,6 +18,8 @@ related_sources:
   - link: "/rules-thalmann-pioneers"
     image: "/images/Icons-Document-thumbnail_9.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Short Teaching Module: Rules of the Thälmann Pioneers (20th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-rules-thalmann-pioneers-20th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -32,11 +34,12 @@ This short teaching module includes guidance on introducing and discussing the o
 
 ![The Rules of the Thälmann Pioneers](/images/Icons-Document-thumbnail_9.jpg)
 
+#### Annotation
+
 As a state-socialist society, the German Democratic Republic (GDR) did not have the multitude of independent organizations or voluntary associations that characterize civil society in democratic countries. Rather, even children's associations in the GDR were organized under the auspices of the state and, therefore, the Communist Party.
 The Ernst Thälmann Pioneers (named for the communist leader who was murdered by the Nazis at Buchenwald) was a youth association that enrolled students in grades 4 through 7. Students in the Ernst Thälmann pioneers participated in community service, public ceremonies, sports, and recreation. However, their costumes, ceremonies, songs, slogans, and literature also directly and indirectly taught socialist ideology.
 This document was taken from a book published in the 1980s. It conveys many of the values with which GDR youth were inculcated. These include love for the socialist fatherland, pride, Soviet friendship, hatred of fascism, order, discipline, and health. While not all children embraced the values conveyed by these lines, many did. This fact provides some insight into the profound ambivalence experienced by many East Germans after the collapse of the GDR in 1989 and 1990.
 This source is a part of the  [*Rules of the Thälmann Pioneers (20th c.)*](https://worldhistorycommons.org/short-teaching-module-rules-th%C3%A4lmann-pioneers-20th-c) teaching module.
-
 
 ## Teaching Strategies
 

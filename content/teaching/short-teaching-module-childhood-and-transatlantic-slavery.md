@@ -28,6 +28,8 @@ related_sources:
   - link: "/interesting-narrative-life-olaudah-equiano-slave-auction"
     image: "/images/Olaudah_Equiano_thumbnail.jpeg"
     alt: "Title page of The Interesting Narrative of the Life of Olaudah Equiano"
+how_to_cite: |
+  "Short Teaching Module: Childhood and Transatlantic Slavery," in World History Commons, https://worldhistorycommons.org/short-teaching-module-childhood-and-transatlantic-slavery [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -94,6 +96,8 @@ Critics argue that the surviving documents may be mistaken, noting, for example,
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Kidnapping](/images/olaudah-equiano-thumbnail.jpg)
 
+#### Annotation
+
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 In this excerpt, Equiano gives an account of his kidnapping. While it is not only a particularly detailed account of the kidnapping of a child into the slave trade, several things should be of interest to students. Equiano makes note of several precautions taken to protect African children from kidnapping, which tells us that kidnapping was prevalent enough to warrant such precautions. Of particular importance in this excerpt are the vivid emotions expressed by Equiano as he recounts not only the loss of his freedom, but also the loss of his sister who he never saw again.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) and the [*Childhood and Transatlantic Slavery*](https://worldhistorycommons.org/short-teaching-module-childhood-and-transatlantic-slavery) teaching modules.
@@ -101,6 +105,8 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 ### [The Interesting Narrative of the Life of Olaudah Equiano: Slave Ship](/interesting-narrative-life-olaudah-equiano-slave-ship)
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Slave Ship](/images/olaudah-equiano-title-page-thumbnail.jpeg)
+
+#### Annotation
 
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 Many Africans who survived the coffles and made their way to the coast had never seen a white man, let alone the ocean or a slave ship. For Equiano, a child of 11, this experience was one he could not understand. What is particularly important about this source, however, is Equiano's placement into the hold of the slave ship. As a child, he should have traveled the Middle Passage on deck, unfettered with the slave women and children. Yet, Equiano was put in the hold with the adults, giving him a different experience entirely.
@@ -110,6 +116,8 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Middle Passage](/images/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano_thumbnail.jpeg)
 
+#### Annotation
+
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 This excerpt is particularly telling of the special treatment many children received while traveling the Middle Passage. Although it is short, it speaks volumes as to the lengths that some crew members went to assuage the children's fears and sadness.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) and the [*Childhood and Transatlantic Slavery*](https://worldhistorycommons.org/short-teaching-module-childhood-and-transatlantic-slavery) teaching modules.
@@ -118,10 +126,11 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Slave Auction](/images/Olaudah_Equiano_thumbnail.jpeg)
 
+#### Annotation
+
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 In this excerpt, Equiano gives an excellent description of the auction experience. Once slaves reached their final destinations, the mood aboard ship became more jovial. Many traders gave extra food, allowed the slaves in the hold of the ship to spend extra time aboard deck, and slaves were given hope. Yet, as Equiano shows below, the harsh realities of the auction centers separated slaves from their families and shipmates. Equiano's experience is given in such detail that one can not only feel the desperation in his narrative, but the fear and confusion he felt as well. For children who did not understand what was happening, this experience would be surreal. Although Equiano was only eleven when he was kidnapped into the slave trade, he never forgot his experience.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) and the [*Childhood and Transatlantic Slavery*](https://worldhistorycommons.org/short-teaching-module-childhood-and-transatlantic-slavery) teaching modules.
-
 
 ## Credits
 

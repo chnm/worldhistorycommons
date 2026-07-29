@@ -26,6 +26,8 @@ related_sources:
   - link: "/happy-life-chairman-mao-gave-us-1954"
     image: "/images/cult03_f1a23c6397THUMB.jpg"
     alt: "Thumbnail of poster of family eating at a table"
+how_to_cite: |
+  "Short Teaching Module: Chinese Propaganda Posters," in World History Commons, https://worldhistorycommons.org/short-teaching-module-chinese-propaganda-posters [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -40,6 +42,8 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![The happy life Chairman Mao gave us, 1954](/images/cult03_f1a23c6397THUMB.jpg)
 
+#### Annotation
+
 Visual images provide valuable material for the exploration of childhood, youth and history. Propaganda posters from the People's Republic of China (1949-present) are particularly rich, offering images that are both bold and subtle, and which many students find as nicely accessible sources to explore. The posters offer a sense of the ways in which a Chinese state and the individual artists it employed sought to use the image of the child to gain a broader public investment in political movements and to define new visions of the revolutionary cause, particularly during the Great Proletarian Cultural Revolution (1966-1976). Exploration of the imagery of children in these posters provides useful sources through which to explore the ways in which images of children would come to signify broader social and political meanings and to potentially inspire both youths and adults in their own definitions of self-identity.
 This image, "The happy life Chairman Mao gave us, 1954," offers a domestic scene which appears surprisingly familiar to many students in its presentation of a happy family meal. Students have commented upon the ways in which children seem to symbolize the peace and material prosperity of China after the revolution of 1949. And yet, the prominence of the image of Mao himself is also noted – indeed, one student has insightfully observed that Mao himself appears to be joining the family at its very own dinner table.
 This source is a part of the [*Chinese Propaganda Posters*](https://worldhistorycommons.org/short-teaching-module-chinese-propaganda-posters) teaching module.
@@ -47,6 +51,8 @@ This source is a part of the [*Chinese Propaganda Posters*](https://worldhistory
 ### [Protect the Great Results of the Cultural Revolution, 1974](/protect-great-results-cultural-revolution-1974)
 
 ![Protect the Great Results of the Cultural Revolution, 1974](/images/great-results-thumbnail.jpg)
+
+#### Annotation
 
 Visual images provide valuable material for the exploration of childhood, youth and history. Propaganda posters from the People’s Republic of China (1949-present) are particularly rich, offering images that are both bold and subtle, and which many students find as nicely accessible sources to explore. The posters offer a sense of the ways in which a Chinese state and the individual artists it employed sought to use the image of the child to gain a broader public investment in political movements and to define new visions of the revolutionary cause, particularly during the Great Proletarian Cultural Revolution (1966-1976). Exploration of the imagery of children in these posters provides useful sources through which to explore the ways in which images of children would come to signify broader social and political meanings and to potentially inspire both youths and adults in their own definitions of self-identity.
 In “Protect the great results of the Cultural Revolution, 1974,” a cohort of determined youth in red armbands replace adults and offer their own voices to a new definition of the revolutionary cause through the posters and slogans they paint. Gender is a theme of particular value here, both in comparison with ["The happy life Chairman Mao gave us, 1954"](http://chnm.gmu.edu/cyh/case-studies/270) image and ["Studying for the mother country, 1986"](http://chnm.gmu.edu/cyh/case-studies/272). In this poster, we find a determined teenage girl leading the way rather than serving the table.
@@ -56,10 +62,11 @@ This source is a part of the [*Chinese Propaganda Posters*](https://worldhistory
 
 ![Studying for the mother country, 1986](/images/vis01_e017778035THUMB.jpg)
 
+#### Annotation
+
 Visual images provide valuable material for the exploration of childhood, youth and history. Propaganda posters from the People’s Republic of China (1949-present) are particularly rich, offering images that are both bold and subtle, and which many students find as nicely accessible sources to explore. The posters offer a sense of the ways in which a Chinese state and the individual artists it employed sought to use the image of the child to gain a broader public investment in political movements and to define new visions of the revolutionary cause, particularly during the Great Proletarian Cultural Revolution (1966-1976). Exploration of the imagery of children in these posters provides useful sources through which to explore the ways in which images of children would come to signify broader social and political meanings and to potentially inspire both youths and adults in their own definitions of self-identity.
 This image appeared following the arrival of a Chinese reform agenda and the end of the Maoist campaigns. Entitled, "Studying for the mother country, 1986," it presents a girl at the center of an image that invokes many of the official "four modernizations" (specifically, industry, technology, agriculture, and defense) that were proclaimed by a new leader, Deng Xiaoping, as the primary goals for building a strong Chinese nation. Students may explore the ways in which the busy detail of this image represents themes of industrialization, urbanization, national progress (as symbolized by a space program, among other projects), as well as the combined imagery of the flag, the doves around it, and, importantly, the tools that the girl herself thoughtfully wields.
 This source is a part of the [*Chinese Propaganda Posters*](https://worldhistorycommons.org/short-teaching-module-chinese-propaganda-posters) teaching module.
-
 
 ## Teaching Strategies
 

@@ -13,6 +13,8 @@ related_sources:
   - link: "/voyages-and-adventures-ferdinand-mendez-pinto"
     image: "/images/voyages-and-adventures-thumbnail.jpeg"
     alt: "Title page of The Voyages and Adventures of Ferdinand Mendez Pinto"
+how_to_cite: |
+  "Primer: Transnational History," in World History Commons, https://worldhistorycommons.org/primer-transnational-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -35,7 +37,7 @@ It is likewise possible to query the focus on border crossing. In taking mobilit
 
 Among the historical approaches orbiting the larger field of World history, Transnational History is a relative newcomer. Not unlike Connected History, it emerged as a clearly identifiable approach only in the late 1990s. It is no coincidence that Transnational History, which questions the nation-state as the primary unit of history, came up during this time. It reflects a rise in the number and importance of transnational and non-state actors globally from the 1990s onwards, and the questions this raises for the current international system. Law, political science, sociology, and other academic disciplines, have all seen similar orientations towards transnational questions and explanations during this period. Nevertheless, as Antoinette Burton argues in After the Imperial Turn, obituaries of the nation are, so far, premature. A consensus on what Transnational History does and does not include is still developing. What it offers as an approach, however, is a deeper understanding of historical contacts between polities as well as societies.
 
-**For further reading:**   
+**For further reading:**<br>
 Pierre-Yves Saunier, Transnational History (New York: Palgrave Macmillan, 2013).
 
 ## Primary Sources
@@ -44,9 +46,10 @@ Pierre-Yves Saunier, Transnational History (New York: Palgrave Macmillan, 2013).
 
 ![The Voyages and Adventures of Ferdinand Mendez Pinto](/images/voyages-and-adventures-thumbnail.jpeg)
 
+#### Annotation
+
 One of the most important results of the early modern period was the spread of European culture generally, and Christian religion particularly, throughout the globe. The selection below, taken from the diaries of Mendez Pinto, a Portuguese sailor captured by the Chinese, illustrates the early stages of contact between Europe and the East. Pinto was shipwrecked around 1537, and landed in the Chinese town of Sempitay. There he encountered Inez de Leyria, a Chinese Christian of Eurasian ancestry, who boldly approached him as a fellow Christian. The episode demonstrates that unofficial channels of Christianization—most likely through the Silk Road—were available prior to 1580, when the Jesuits were granted official permission to enter China, the most powerful state in the world at the time. The excerpt also shows that women played a crucial role in this early transmission of European culture in Asia. Moreover, we learn that, in contrast to Confucian mores which excluded women from major public roles, Christianity offered de Leyria a leadership role in the local community, as well as ties to a larger global identity.
 This source is a part of the [*Women in the Early Modern World, 1500-1800*](https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800) teaching module and the [*Primer: Transnational History*](https://worldhistorycommons.org/primer-transnational-history) methods module.
-
 
 ## Credits
 

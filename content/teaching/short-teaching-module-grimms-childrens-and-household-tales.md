@@ -16,6 +16,8 @@ related_sources:
   - link: "/how-some-children-played-slaughtering"
     image: "/images/kinderund-thumbnail.jpeg"
     alt: "Brothers Grimm cover"
+how_to_cite: |
+  "Short Teaching Module: Grimms' Children's and Household Tales," in World History Commons, https://worldhistorycommons.org/short-teaching-module-grimms-childrens-and-household-tales [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -28,9 +30,10 @@ Folktales and fairy tales are excellent resources for dealing with historical to
 
 !["How Some Children Played at Slaughtering"](/images/kinderund-thumbnail.jpeg)
 
+#### Annotation
+
 The pioneering collection of fairy tales published by Jacob and Wilhelm Grimm in the first half of the 19th century reflects both the romantic interest in the national past—that is, in the cultural origins and "childhood" of the German people—and the burgeoning efforts to create a literature tailored to the perceived needs of children. "How Some Children Played at Slaughtering" encompasses two stories included in the first edition of Grimms' collection (vol. 1, 1812). The brothers' decision to withdraw the tales from subsequent editions provides insights into the Grimms' generic conception of the fairy tale and debates about appropriate reading material for children. The two stories themselves shed light on the ways in which adults construct ideas about childhood.
 This source is a part of the [*Grimms' Children's and Household Tales*](https://worldhistorycommons.org/short-teaching-module-grimms-childrens-and-household-tales) teaching module.
-
 
 ## Teaching Strategies
 

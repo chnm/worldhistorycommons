@@ -25,6 +25,8 @@ related_sources:
   - link: "/viefville-des-essars-emancipation-negroes-1790"
     image: "/images/Icons-Document-thumbnail_300.jpg"
     alt: ""
+how_to_cite: |
+  "Source Collection: Evolution of Rights in Saint Domingue," in World History Commons, https://worldhistorycommons.org/source-collection-evolution-rights-saint-domingue [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -51,11 +53,15 @@ Exploring these resources, specifically, will help students better understand th
 
 ![THE CODE NOIR (THE BLACK CODE)](/images/Icons-Document-thumbnail_290.jpg)
 
+#### Annotation
+
 The Code noir initially took shape in Louis XIV’s edict of 1685. Although subsequent decrees modified a few of the code’s provisions, this first document established the main lines for the policing of slavery right up to 1789. The very first article expels all Jews from the colonies; Jews played a significant but hardly dominant role in the Dutch colonies of the Caribbean region but were not allowed to own property or slaves in the French colonies. The edict also insisted that all slaves be instructed as Catholics and not as Protestants. For the most part, the code concentrated on defining the condition of slavery (passing the condition through the mother not the father) and establishing harsh controls over the conduct of those enslaved. Slaves had virtually no rights, though the code did enjoin masters to take care of the sick and old.
 
 ### [Declaration of the Rights of Man and Citizen, 26 August 1789](/declaration-rights-man-and-citizen-26-august-1789)
 
 ![Declaration of the Rights of Man and Citizen, 26 August 1789](/images/Icons-Document-thumbnail_54.jpg)
+
+#### Annotation
 
 Once they had agreed on the necessity of drafting a declaration of rights, the deputies of the National Assembly still faced the daunting task of composing one that a majority could accept. The debate raised several questions: should the declaration be short and limited to general principles or should it rather include a long explanation of the significance of each article; should the declaration include a list of duties or only rights; and what precisely were "the natural, inalienable, and sacred rights of man"? After several days of debate and voting, the deputies decided to suspend their deliberations on the declaration, having agreed on seventeen articles. These laid out a new vision of government, in which protection of natural rights replaced the will of the King as the justification for authority. Many of the reforms favored by Enlightenment writers appeared in the declaration: freedom of religion, freedom of the press, no taxation without representation, elimination of excessive punishments, and various safeguards against arbitrary administration.
 
@@ -65,11 +71,15 @@ This source is part of the [Analyzing Official Documents](https://worldhistoryco
 
 ![Grievance List (September 1789)](/images/Icons-Document-thumbnail_298.jpg)
 
+#### Annotation
+
 The Haitian free blacks and creoles, many of them substantial property owners and slaveholders, sent delegates to the National Assembly in France with a list of their stated grievances and demands. This list of grievances—modeled on those sent from the various districts of France in the spring of 1789—demonstrates the power of the idea of rights but also the particular concerns of those living in the colonies; the free blacks wanted freedom and rights for themselves but assume the continuance of slavery.
 
 ### [Viefville des Essars, On the Emancipation of the Negroes (1790)](/viefville-des-essars-emancipation-negroes-1790)
 
 ![Viefville des Essars, On the Emancipation of the Negroes (1790)](/images/Icons-Document-thumbnail_300.jpg)
+
+#### Annotation
 
 This project to free enslaved people in the French colonies was presented to the National Assembly. The defensive tone and rhetorical structure that emerge in the course of this document demonstrate the power of the interests opposed to even cautious steps toward emancipation.
 
@@ -77,14 +87,17 @@ This project to free enslaved people in the French colonies was presented to the
 
 ![Declaration of the Independence of the Blacks of St. Domingo](/images/Icons-Document-thumbnail_306.jpg)
 
+#### Annotation
+
 This important and revealing document evokes both the contemporary situation in the colonies and the political developments taking place in Paris. It comes from Marcus Rainsford’s supportive account of the Haitian Revolution.
 
 ### [A Divided Elite from An Historical Account of the Black Empire of Hayti](/divided-elite-historical-account-black-empire-hayti)
 
 ![A Divided Elite from An Historical Account of the Black Empire of Hayti](/images/Icons-Document-thumbnail_307.jpg)
 
-In this excerpt, Rainsford describes the divisive effects of the Declaration of Rights of the Blacks among the various racial/social groupings.
+#### Annotation
 
+In this excerpt, Rainsford describes the divisive effects of the Declaration of Rights of the Blacks among the various racial/social groupings.
 
 ## Document Based Question
 

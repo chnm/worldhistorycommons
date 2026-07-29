@@ -17,6 +17,8 @@ related_sources:
   - link: "/hagia-sophia"
     image: "/images/hagia-sophia-thumbnail.jpeg"
     alt: "Thumbnail image of the Hagia Sophia"
+how_to_cite: |
+  "Analyzing Objects," in World History Commons, https://worldhistorycommons.org/analyzing-objects [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -29,6 +31,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Hagia Sophia](/images/hagia-sophia-thumbnail.jpeg)
 
+#### Annotation
+
 This an image of the Hagia Sophia, the cathedral of the Byzantine Empire in Constantinople. It was built in the early 6th century by the Emperor Justinian and stands today, almost 1,500 years later, despite earthquakes, wars, and revolutions. The Hagia Sophia began its life as a Christian church, became a Muslim mosque and is now a museum.
 This source is a part of the [*Analyzing Objects*](https://worldhistorycommons.org/analyzing-objects) methods module.
 
@@ -36,9 +40,10 @@ This source is a part of the [*Analyzing Objects*](https://worldhistorycommons.o
 
 ![Hagia Sophia Floor Plan](/images/hagia-sophia-floor-plan-thumbnail.jpeg)
 
+#### Annotation
+
 This is an architectural drawing of the Hagia Sophia’s floor plan. Buildings such as the Hagia Sophia offer us wonderful opportunities to investigate such things as evolving religious practices, architectural and engineering techniques, and the relationship between a building and political power.
 This source is a part of the [*Analyzing Objects*](https://worldhistorycommons.org/analyzing-objects) methods module.
-
 
 ## Credits
 
@@ -46,6 +51,6 @@ Lawrence Butler is a medievalist with particular focus on Byzantine and Islamic 
 
 Grateful Acknowledgement is made to the following institutions and individuals for permission to publish material from their collections:
 
-Dumbarton Oaks  
-Turizm.net  
+Dumbarton Oaks<br>
+Turizm.net<br>
 Lawrence Butler

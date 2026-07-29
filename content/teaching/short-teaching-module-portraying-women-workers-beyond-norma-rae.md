@@ -22,6 +22,8 @@ related_sources:
   - link: "/puerto-rican-needleworkers-factory-san-juan-puerto-rico-1942"
     image: "/images/Needlework_Factory_thumbnail.jpeg"
     alt: "Photo shows women working at sewing machines on both sides of 2 long tables."
+how_to_cite: |
+  "Short Teaching Module: Portraying Women Workers: Beyond Norma Rae ," in World History Commons, https://worldhistorycommons.org/short-teaching-module-portraying-women-workers-beyond-norma-rae [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -54,6 +56,8 @@ It is not enough to study southern mill hands, or Puerto Rican needleworkers, or
 
 ![Puerto Rican Needleworkers in a Factory, San Juan, Puerto Rico, 1942](/images/Needlework_Factory_thumbnail.jpeg)
 
+#### Annotation
+
 This government photograph provides an important contrast to the popular culture images of poor southern whites. During the 1940s and 1950s, U.S. government agencies hired photographers to travel the main island of Puerto Rico to capture the conditions of working people. This photo was taken at a “good factory” subsidized by the U.S. government to serve mainland manufacturers. The photographer would have taken contrasting photos of women doing piece work in rural shacks and dingy sweatshops to show “bad exploitation.” The intention was to celebrate the modernization of colonial labor. Women like these in San Juan produced textiles and apparel for U.S. companies, and many joined the International Ladies’ Garment Workers’ Union (ILGWU) and migrated to the Northeast for the better pay and public education. Puerto Rican needleworkers on the island and in New York City and New England did a range of labor, including floorgirl, reeling and winding of yarn or thread, weaving, cloth loading, cutting patterns, sewing machine operation for all types of apparel and home goods, hemming and finishing edges, basic and fine embroidery, and packing. They also told their stories in union newspapers and oral history projects to assert their own narrative of the American working class. These official photos, however, remained in offices for business and trade or archives for scholars, and did not reach popular media. Meanwhile, television shows like The Real McCoys (1957-1962) and movies like God’s Little Acre (1958) and Norma Rae (1979) presented southern white workers as part of the American working class.
 
 This source is part of the [women workers in film teaching module](https://worldhistorycommons.org/short-teaching-module-portraying-women-workers-beyond-norma-rae).
@@ -61,6 +65,8 @@ This source is part of the [women workers in film teaching module](https://world
 ### [Brochure for the South Carolina Inter-State and West Indian Exposition / Charleston Exposition, 1901-1902](/brochure-south-carolina-inter-state-and-west-indian-exposition-charleston-exposition-1901-1902)
 
 ![Brochure for the South Carolina Inter-State and West Indian Exposition / Charleston Exposition, 1901-1902](/images/SC_Inter-State_and_West_Indian_Exposition__thumbnail.png)
+
+#### Annotation
 
 This is the cover for a pamphlet to promote the Charleston Exposition and recruit exhibitors and attendees from along the entire U.S. Atlantic, which ran from New England to Florida to Cuba and Puerto Rico. It is an effective visual representation of how cotton growers and textile and apparel producers envisioned the U.S. Atlantic as a coherent market for labor and trade, even if the parts were differentiated. In 1899, a group of South Carolina businessmen set out to coordinate this exposition for the cotton industry. Their objective was not a world’s fair. They wanted to foster economic ties along the U.S. Atlantic for textiles, apparel, and home goods. Multiple pamphlets and editions of a promotional magazine invited politicians and textile, garment, and hosiery companies to exhibit and to attend the exposition. The magazine included updates from the West Indian Commissioner, who traveled to Puerto Rico to visit Ponce, Yauco, and San Juan, where he met with the Chamber of Commerce.
 
@@ -70,6 +76,8 @@ This source is part of the [women workers in film teaching module](https://worl
 
 ![Norma Rae: Depicting Women's Labor History through Film](/images/sallyfield_normarae_thumbnail.jpeg)
 
+#### Annotation
+
 In this still shot from the movie Norma Rae, two pretty and petite white actors represent southern mill hands. Norma, portrayed by the famous actress Sally Field, stands with her mother (Barbara Baxley). Even though Sutton worked in the put-up department as a gift-set operator, arranging fancy towels in boxes, the director and writer placed Norma in a weaving room on the stereotypical cotton looms. Like Puerto Rican needleworkers, southern mill hands did reeling and winding of yarn or thread, weaving, cloth loading, shearing, hemming and finishing edges, trimming loose fabric off finished items, and folding items for retail packaging. In addition, many southern women, including Sutton, trained as sewing machine operators and worked in apparel factories, not just textile and home goods mills.
 
 The Norma Rae costumers, two creative professionals from Hollywood, selected the clothing for all actors, even the extras who were local residents. They gave their staff directions to make clothing appear more worn by using bleach and sandpaper.
@@ -77,7 +85,6 @@ The Norma Rae costumers, two creative professionals from Hollywood, selected the
 This particular movie creation was not inevitable, but rather the result of two conditions. The first was the dominant cultural narrative of the American working class as white industrial workers in isolated gritty factories. The second was the ongoing contest between Sutton, the director, the producers, and their attorneys. Although Sutton was eventually removed from the production, she forced the director to change the character names and title, and after the movie was released, she capitalized and contested its success by presenting herself as “the real Norma Rae” for public speaking and other labor events.
 
 This source is part of the [women workers in film teaching module](https://worldhistorycommons.org/short-teaching-module-portraying-women-workers-beyond-norma-rae).
-
 
 ## Bibliography
 

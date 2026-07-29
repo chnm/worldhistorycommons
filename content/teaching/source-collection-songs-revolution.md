@@ -29,6 +29,8 @@ related_sources:
   - link: "/alarm-people"
     image: "/images/Icons-Song-thumbnail_9.jpg"
     alt: ""
+how_to_cite: |
+  "Source Collection: Songs of the Revolution," in World History Commons, https://worldhistorycommons.org/source-collection-songs-revolution [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -61,7 +63,7 @@ The final years of the Revolution witnessed a depoliticization of songs and hymn
 
 The government continued to organize festivals for which it subsidized music composition and hymn writing, but here, too, politics seemed to have been pushed aside. Rather than celebrating the execution of the King or the fall of Robespierre, as they had once done, revolutionary hymns became increasingly allegorical, commemorating youth and age, marriage or birth. Almost the only topical hymns were those that, like popular songs, praised military men or celebrated the making of war and peace. For the next two generations, overtly political compositions would once again be sung on the sly, as they had been under the old regime.
 
-**Music as a Historical Source**  
+**Music as a Historical Source**<br>
 Only a few generations ago, historians might have divided hymns and songs into categories of "elite" and "popular" culture, asserting that each form would help us to better know distinct social groups. Hymns, such an argument might have run, were written by learned men and women who combined poetic lyrics with unique musical compositions; thus they might provide evidence of "high" and official revolutionary culture. Popular songs, on the other hand, which consisted of nothing more than new words rhymed (often poorly) to a well-known tune, might offer insight into the ideas and aspirations of ordinary men and women about whom little historical evidence remains.
 
 In the past twenty years, however, scholars have abandoned rigid distinctions between "elite" and "popular" culture, and they have ceased to argue that form or content alone can give us a full picture of the society in which music (or any other cultural form) was produced. It is now more common to ask how different kinds of culture were shared across social boundaries. And, indeed, upon inspection, revolutionary musical culture was highly accessible to all. Certainly, some popular songs seem to have been composed by ordinary citizens who left no more than a name and perhaps occupation or residence—"Bellrose, singer," or "Derant the Younger, in Saint-Germain-en-Laye"—but others were produced by government bureaucrats, journalists, or theatrical authors whose learning was equal to that of composers of hymns. Even more to the point: what are we to make of a composition like the *Marseillaise*? Composed by a reasonably well-educated army captain, possessed of a relatively complex tune and quite learned lyrics, this piece of music crossed all social barriers: performed as a hymn at festivals and on the stage, it was also adopted as a popular song in parks and cafés and taught by republican mothers to their young *sans-culottes*.
@@ -76,12 +78,16 @@ What makes musical culture especially significant is the accessibility of singin
 
 ![Te Deum for the Federation of July 14, 1790 at the Champ de Mars](/images/Icons-Song-thumbnail_8.jpg)
 
+#### Annotation
+
 A hymn written by Joseph Gossec to celebrate national unity on the first anniversary of the taking of the Bastille. Combining old and new, Gossec set a traditional Latin text to music scored for wind instruments (rather than the common organ), the sound of which carried well at the outdoor festival.
 This source is a part of the [*Songs of the Revolution*](https://worldhistorycommons.org/source-collection-songs-revolution) source collection.
 
 ### [The Marseillaise (War Song for the Army of the Rhine)](/marseillaise-war-song-army-rhine)
 
 ![The Marseillaise (War Song for the Army of the Rhine)](/images/Icons-Song-thumbnail_11.jpg)
+
+#### Annotation
 
 Composed by Joseph Rouget de Lisle when he learned that France had declared war on Austria, the Marseillaise quickly became the anthem of the republican Revolution. it remains the French national anthem today. A republican anthem, the Marseillaise was considered suitable for all sorts of revolutionary events. While it was often sung casually in streets and parks, its learned composition also facilitated its adoption as a hymn by formally–trained musicians and singers.
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) and [*Songs of the Revolution*](https://worldhistorycommons.org/source-collection-songs-revolution) source collections.
@@ -90,6 +96,8 @@ This source is a part of the [*Legacies of the Revolution*](https://worldhistory
 
 ![The Marseillaise](/images/marseillaise-thumbnail.jpeg)
 
+#### Annotation
+
 A similar emphasis on patriotic unity can be seen in Jean Renoir’s film, La Marseillaise (1938). The movie tells the story of France’s national anthem, composed by Rouget de Lisle as a way to rally the troops. The song, written for soldiers from Marseillaise, soon inspired the entire nation.
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) and [*Songs of the Revolution*](https://worldhistorycommons.org/source-collection-songs-revolution) source collections.
 
@@ -97,9 +105,10 @@ This source is a part of the [*Legacies of the Revolution*](https://worldhistory
 
 ![The Alarm of the People](/images/Icons-Song-thumbnail_9.jpg)
 
+#### Annotation
+
 Composed by J.M. Souriguieres, a parisian dramatist, and Pierre Gaveaux, an actor, this song demands revenge for the crimes and bloodshed of the Terror. It was quickly adopted as an anthem by the "gilded youth" of the Thermidoran Reaction, who sang it in opposition to singers of the Marseillaise.
 This source is a part of the [*Songs of the Revolution*](https://worldhistorycommons.org/source-collection-songs-revolution) source collection.
-
 
 ## Credits
 

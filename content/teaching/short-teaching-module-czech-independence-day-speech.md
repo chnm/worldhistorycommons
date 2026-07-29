@@ -19,6 +19,8 @@ related_sources:
   - link: "/havels-independence-day-address-1990"
     image: "/images/Icons-Document-thumbnail_454.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Czech Independence Day Speech," in World History Commons, https://worldhistorycommons.org/short-teaching-module-czech-independence-day-speech [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -33,9 +35,10 @@ This short teaching module includes the broader context of the course in which t
 
 ![Havel's Independence Day Address, 1990](/images/Icons-Document-thumbnail_454.jpg)
 
+#### Annotation
+
 Every political upheaval is followed by a "morning after." In 1990, the new Czechoslovak President, Vaclav Havel, gave an important speech commemorating the one-year anniversary of the Velvet Revolution (the end of Communism in his country). In addition to celebrating the tremendous achievement of growing democracy in his newly-independent country, Havel also added a note of caution with his concern for the future of the country. In particular, the reappearance of issues related to nationalism in the aftermath of the collapse of the Soviet imperium brings home the fact that the "Velvet Revolution" in Czechoslovakia did not necessarily lead to a "living happily ever after" ending for the common state of Czechs and Slovaks.
 This source is a part of the [*Czech Independence Day Speech*](https://worldhistorycommons.org/short-teaching-module-czech-independence-day-speech) teaching module.
-
 
 ## Teaching Strategies
 

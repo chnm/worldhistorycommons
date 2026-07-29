@@ -16,6 +16,8 @@ related_sources:
   - link: "/women-bohemia"
     image: "/images/womenwork-thumbnail.jpeg"
     alt: "Rare photograph of women from Bohemia thumbnail"
+how_to_cite: |
+  "Analyzing Census Data," in World History Commons, https://worldhistorycommons.org/analyzing-census-data [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -28,6 +30,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Women from Bohemia](/images/womenwork-thumbnail.jpeg)
 
+#### Annotation
+
 This is a rare photograph of women from Bohemia. Information about women during this period is especially difficult for historians to uncover, and these sources can provide valuable insights into women’s daily lives.
 This source is a part of the [*Analyzing Census Data*](https://worldhistorycommons.org/analyzing-census-data#) methods module.
 
@@ -35,9 +39,10 @@ This source is a part of the [*Analyzing Census Data*](https://worldhistorycommo
 
 ![Census of 1910 tuberculosis data](/images/praguetubTHUMB.jpg)
 
+#### Annotation
+
 Census data is one way for historians to better understand the lives of average people who otherwise might be largely invisible to scholars. This excerpt from the 1910 census conducted by the Hapsburg Monarchy. The census data was collected for most towns and cities throughout the Monarchy every few years from between 1880 and 1910. It covers occupation, disease, language, and literacy for men and women separately. This excerpt deals specifically with the city of Prague and contains information on residents who have contracted tuberculosis.
 This source is a part of the [*Analyzing Census Data*](https://worldhistorycommons.org/analyzing-census-data#) methods module.
-
 
 ## Credits
 

@@ -18,6 +18,8 @@ related_sources:
   - link: "/noticias-de-portugal"
     image: "/images/noticiasdeportugal-thumbnail.jpeg"
     alt: "Title page of Noticias de Portugal"
+how_to_cite: |
+  "Short Teaching Module: Orphans and Colonialism (17th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-orphans-and-colonialism-17th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -32,10 +34,11 @@ This short teaching module includes guidance on introducing and discussing the o
 
 ![Noticias de Portugal](/images/noticiasdeportugal-thumbnail.jpeg)
 
+#### Annotation
+
 Suggestion for handling orphans, devised in 1655 by Manoel Severim de Faria, an official for the bishop of Evora in Portugal. Here Severim de Faria speaks about the role orphaned children could and should play in the Portuguese empire. Students need to know that most orphans in early modern Europe were taken into the home of a relative, but some were placed in public or church orphanages, in which their chances of survival were not great. As they read the document, students learn that Severim de Faria sees orphans within the context of social problems—including a shortage of sailors, vagrancy, and underpopulation—and their solutions. He proposes gender specific solutions: boys are to work on ships and learn how to sail them better, girls are to get married and have more children.
 This source can be used as a springboard to broader discussion of many things: gender differences in young people's experiences, attitudes toward children and towards the poor, marital patterns in which women were expected to bring a dowry, coerced migration, and the role of children in colonial expansion. This document is only a plan, but such proposals were followed by several early modern governments and private companies.
 This source is a part of the [*Orphans and Colonialism (17th c.)*](https://worldhistorycommons.org/short-teaching-module-orphans-and-colonialism-17th-c) teaching module.
-
 
 ## Teaching Strategies
 

@@ -24,6 +24,8 @@ related_sources:
   - link: "/george-browne-freedom-ghana"
     image: "/images/Freedom_for_Ghana_thumb.jpg"
     alt: "Image of newspaper. Transcription in folder."
+how_to_cite: |
+  "Short Teaching Module: Music and Decolonization in the Black Atlantic," in World History Commons, https://worldhistorycommons.org/short-teaching-module-music-and-decolonization-black-atlantic [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -40,9 +42,9 @@ Through analyses of the numerous songs, historians can identify particular theme
 
 One of the major issues of the latter decades of colonialism was that British officials had introduced a cash crop economy focused on export of a select few agricultural products such as palm oil and cocoa to European markets, leaving Gold Coast to rely heavily on imports rather than maintaining a sustainable, diverse agricultural system to support its own population. This was a significant concern for nationalist leaders who envisioned a future for Ghana as a self-sustaining nation. A highlife song from the 1950s criticized the colonial economy and the lack of African control over the fruits of production. In his highlife titled “Cocoa,” the musician Joe Kelly sang in Akan about these concerns. (English translation is from Professor Kwadwo Osei-Nyame. Translation copies are held at Bokoor African Popular Music Archives Foundation in Accra, Ghana.)
 
-Gold Coast money is taken abroad  
-Gold Coast money they take it abroad  
-Gold Coast money they use it to buy cloth  
+Gold Coast money is taken abroad<br>
+Gold Coast money they take it abroad<br>
+Gold Coast money they use it to buy cloth<br>
 They use it to put up buildings
 
 West Indian artists took a particular interest in the events in Ghana, demonstrating the significance of their transnational networks of cultural connections. Analysis of these kinds of broad connections across the soundscapes of the Black Atlantic reveals much about the collective nature of challenges to colonialism. As one of the first African nations to achieve independence, Ghana became a model for other African and also West Indian nations working toward their own self-determination. In London, West Indian and West African students, journalists, musicians, artists, and other intellectuals and their audiences exchanged ideas in social spaces as they helped create the language and framework for emerging nationalist movements. The connections between West African and West Indian artists in London and in the colonies help historians understand why, for example, the calypso song by the Trinidadian musician Lord Kitchener titled “Birth of Ghana” commemorating Ghana’s independence in 1957 came to be a soundtrack for the moment in the new nation’s history (see annotation). The Ghanaian highlife musician E.T. Mensah, who played music alongside West Indian musicians in London and listened to Lord Kitchener’s records, celebrated the country’s independence as well in his song “Ghana Freedom Highlife” (https://www.youtube.com/watch?v=OUMbrs4aEsA). Today, the two songs are still played at independence day celebrations in Ghana and remain closely tied up with the memory of March 6, 1957.
@@ -53,6 +55,8 @@ West Indian artists took a particular interest in the events in Ghana, demonstra
 
 ![George Browne “Freedom for Ghana”](/images/Freedom_for_Ghana_thumb.jpg)
 
+#### Annotation
+
 While living in London in the early 1950s, the Trinidadian calypsonian George Browne (whose stage name was Young Tiger) penned a calypso called “Freedom for Ghana” that caught the attention of George Padmore, the Trinidadian pan-Africanist intellectual and journalist, who wrote about it in the Ghanaian newspaper *The Morning Telegraph* (Sekondi) in this article from February 5, 1952. Browne was joined by two musicians from the Gold Coast, a fairly common occurrence in African diasporic bands popular in London. The song praises the Ghanaian leader Kwame Nkrumah who had been released from jail a year before, following his Convention People’s Party’s (CPP) stunning election victories. Nkrumah had become a symbol of Black Nationalism and pan-Africanism. In addition to informing listeners of some of the key figures in the CPP, the song’s lyrics demonstrate the connection that London-based Trinidadian and Ghanaian musicians felt with the CPP’s efforts in Gold Coast. The first-person pronouns seemingly indicate that, despite being in London, Browne and his bandmates viewed themselves as part of the movement. The line “they called us all the verandah boys” can be interpreted that they considered themselves one with the CPP’s supporters in Gold Coast. Historian Roger Gocking wrote that the term “verandah boys” had been used derisively in the colony to refer to the “farmers, petty traders, drivers, artisans, schoolteachers, clerks and letter writers” and others among the masses that had found themselves out of work and unable to find jobs. Many did not have homes and therefore had to sleep on the verandahs of roadside trading houses. Nkrumah had become so popular in large part due to his travels around the colony where he reached out to these groups among the masses. Therefore, the “verandah boys” lyric would have resonated with those individuals and their families who had experienced unemployment and homelessness.
 
 This source is part of the [teaching module on music and decolonization in the Black Atlantic](https://worldhistorycommons.org/short-teaching-module-music-and-decolonization-black-atlantic).
@@ -61,12 +65,13 @@ This source is part of the [teaching module on music and decolonization in the B
 
 ![Lord Kitchener, “Birth of Ghana,” 1957](/images/Birth_of_Ghana_Thumb.jpg)
 
+#### Annotation
+
 On March 6, 1957, the Gold Coast Colony declared its independence from Britain and became Ghana, the first West African nation to break from European colonial rule. The calypso musician Lord Kitchener (birth name Aldwyn Roberts) recorded his song titled “Birth of Ghana” to celebrate independence. “Kitch,” as he was fondly known, was from the British West Indian colony of Trinidad, but had been living and working in London since 1948. His song quickly became immensely popular in Ghana and throughout West Africa, where calypso music enjoyed a robust market. In formal independence ceremonies and informal street parties across Ghana’s capital city of Accra, people danced and sang to Kitch’s catchy tune praising Dr. Kwame Nkrumah. The lyrics contained a nod to the transnational and Pan-Africanist importance of Nkrumah and Ghana’s independence: Haile Selassie, Emperor of Ethiopia, was similarly revered as a symbol of African resistance to European colonialism. “Birth of Ghana” became synonymous with the moment of independence and records of it are still prized as souvenirs in Ghana today.
 
 You can listen to the song here: https://www.youtube.com/watch?v=c-imEGXqHis
 
 This source is part of the [teaching module on music and decolonization in the Black Atlantic](https://worldhistorycommons.org/short-teaching-module-music-and-decolonization-black-atlantic).
-
 
 ## Bibliography
 

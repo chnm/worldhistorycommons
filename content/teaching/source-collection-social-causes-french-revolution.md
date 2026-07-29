@@ -30,6 +30,8 @@ related_sources:
   - link: "/arthur-young-views-countryside"
     image: "/images/Icons-Document-thumbnail_695.jpg"
     alt: ""
+how_to_cite: |
+  "Source Collection: Social Causes of the French Revolution," in World History Commons, https://worldhistorycommons.org/source-collection-social-causes-french-revolution [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -82,11 +84,15 @@ Thus in both towns and countryside, it seemed that the Revolution was not produc
 
 ![Poverty Observed!: Journal of a Country Priest](/images/Icons-Document-thumbnail_693.jpg)
 
+#### Annotation
+
 Village priests served as community leaders in a variety of respects, including keeping a register of births, marriages, and deaths. One such curate, the abbé Lefeuvre, also included in his register impressions of life during the severe winter of 1709, which give a sense of the difficult and fragile lives of the poor in rural towns in the eighteenth century.
 
 ### [Poverty in Auvergne](/poverty-auvergne)
 
 ![Poverty in Auvergne](/images/Icons-Document-thumbnail_694.jpg)
+
+#### Annotation
 
 The difficulty of life in rural regions led some to leave home and seek a better life elsewhere, particularly in the growing cities. Such migration worried some observers, who feared villages would be emptied and no one would be left to work the land. In the excerpt below, a local government official in the Auvergne region comments on the causes and effects of emigration.
 
@@ -94,11 +100,15 @@ The difficulty of life in rural regions led some to leave home and seek a better
 
 ![Two Peasants Repairing a Cart](/images/cartfix_thumbnail.png)
 
+#### Annotation
+
 This image of peasants repairing a cart demonstrates both the hard work done by cultivators and their fragile economic situation, which could easily be imperiled by a broken cart. Under such circumstances, poor people constantly repaired durable and personal goods, such as carts or clothing, because they could not afford to replace them with new ones.
 
 ### [Arthur Young Views the Countryside](/arthur-young-views-countryside)
 
 ![Arthur Young Views the Countryside](/images/Icons-Document-thumbnail_695.jpg)
+
+#### Annotation
 
 Arthur Young, an Englishman, traveled across France on the eve of the Revolution recording his impressions of life there, particularly those aspects that seemed to him to compare unfavorably with his native land. In the excerpt below, he comments on the peasantry’s landholdings, remarking on the multiple arrangements of land tenure and on the small size of peasant farms, all of which seemed strange to him, because, in England at this time, most of the arable land belonged to absentee landlords who hired others to work their large farms for them.
 
@@ -106,11 +116,15 @@ Arthur Young, an Englishman, traveled across France on the eve of the Revolution
 
 ![The Traditional Order Defended](/images/Icons-Document-thumbnail_696.jpg)
 
+#### Annotation
+
 This newspaper article considers the question of equality from the opposite point of view—arguing that without social distinctions making clear who should lead and who should follow, society cannot hold together. In particular, the article emphasizes that economic changes such as reliance on the market to set prices undercut older ideas of protection by the elite, shifting notions of social morality.
 
 ### [People under the Old Regime](/people-under-old-regime)
 
 ![People under the Old Regime](/images/frenchpeople_thumb.png)
+
+#### Annotation
 
 This image shows "the people" as a chained and blindfolded man being crushed under the weight of the rich, including both clergy and nobility. Such a perspective on the period before 1789 purposely exaggerates social divisions and would have found few proponents before the French Revolution, but the image does reveal the social clash felt so intensely by the revolutionaries.
 
@@ -118,11 +132,15 @@ This image shows "the people" as a chained and blindfolded man being crushed und
 
 ![The Saint–Marcel Neighborhood](/images/Icons-Document-thumbnail_697.jpg)
 
+#### Annotation
+
 The writer Louis–Sébastien Mercier recorded in his *Portrait of Paris* detailed and witty commentaries on many aspects of life among the common people. In this article on the Saint–Marcel neighborhood, he comments on the difficulties faced by urban workers.
 
 ### [Apprentices and Masters](/apprentices-and-masters)
 
 ![Apprentices and Masters](/images/Icons-Document-thumbnail_698.jpg)
+
+#### Annotation
 
 Unlike the Marquis de Mirabeau, (see document *Tension between Rich and Poor*) Jacques Savary sought to promote commerce and those who engaged in it. In this excerpt from his 1757 edition of *The Perfect Merchant*, which was widely read, Savary comments on the proper relations between apprentices learning a trade and the masters who owned the shop. Although his views in general were favorable to the chance for personal advancement made possible by commerce, he also retained a clear preference for hierarchy.
 
@@ -130,11 +148,15 @@ Unlike the Marquis de Mirabeau, (see document *Tension between Rich and Poor*) J
 
 ![A Bread Riot](/images/Icons-Document-thumbnail_699.jpg)
 
+#### Annotation
+
 Bread was the basic staple of most people’s diets, and variations in the price of bread were keenly felt by the poor, especially by women who most frequently bought bread in the marketplace. Women would sometimes protest against what they thought to be unjust price increases for bread in what were known as "bread riots." As this excerpt shows, these were not usually violent, nor did they involve looting, but instead were a collective action designed to force bakers to sell bread at a "just" or "moral" price rather than at whatever price the market would allow. This passage is taken from a well–known chronicle of the reign of Louis XV by Etienne–Joseph Barbier.
 
 ### [Voltaire’s Understanding of Inequality](/voltaires-understanding-inequality)
 
 ![Voltaire’s Understanding of Inequality](/images/Icons-Document-thumbnail_700.jpg)
+
+#### Annotation
 
 This passage from François–Marie Arouet, pen–named Voltaire, who was perhaps the best–known writer of the eighteenth century, illustrates the spirit of investigation of the Enlightenment. The philosophes wanted to understand the rationale behind inequality, were particularly interested if there were natural reasons for it, or if inequality came wholly from social conventions. From a well–to–do middle–class background, Voltaire condemned arbitrary inequality and the social conditions that spawned it.
 
@@ -142,11 +164,15 @@ This passage from François–Marie Arouet, pen–named Voltaire, who was perhap
 
 ![Montesquieu’s Attack on the Nobility](/images/Icons-Document-thumbnail_701.jpg)
 
+#### Annotation
+
 In his *Persian Letters*, published anonymously and abroad in 1721, Charles–Louis de Sécondat, Baron de Montesquieu, president of the Parlement of Bordeaux and a noble himself, made a scathing critique of nobility that set the tone for the philosophes’ attack on the inequality of eighteenth–century French society.
 
 ### [Beaumarchais’s Understandings of Inequality](/beaumarchaiss-understandings-inequality)
 
 ![Beaumarchais’s Understandings of Inequality](/images/Icons-Document-thumbnail_702.jpg)
+
+#### Annotation
 
 Like his predecessors of earlier generations, playwright Pierre–Augustin Caron de Beaumarchais—who became an important figure of the late Enlightenment because of the controversy surrounding his work *The Marriage of Figaro* [1784]—believed that a truly rational society would not tolerate arbitrary inequality.
 
@@ -154,11 +180,15 @@ Like his predecessors of earlier generations, playwright Pierre–Augustin Caron
 
 ![Tension between Rich and Poor](/images/Icons-Document-thumbnail_703.jpg)
 
+#### Annotation
+
 The Marquis de Mirabeau, a well–educated nobleman, worried about the migration of French nobles to the cities and the passing of lands into the hands of "new men," wealthy commoners without a sense of paternal obligation toward the peasants on that land. In a 1756 treatise entitled The Friend of Men, or Treatise on Population, he expressed concern about rising tensions between wealthy landowners and poor peasants, which he thought signaled a decline in morality.
 
 ### [Royal Decree Convoking the Estates–General and the Parlementary Response (1788)](/royal-decree-convoking-estates-general-and-parlementary-response-1788)
 
 ![Royal Decree Convoking the Estates–General and the Parlementary Response (1788)](/images/Icons-Document-thumbnail_230.jpg)
+
+#### Annotation
 
 By the fall of 1788, parlementary opposition to royal reforms had brought about a stalemate, with the Parlements refusing all reforms to the tax system. To gain the Parlement of Paris’s acceptance of new loans to keep the monarchy from going bankrupt, the new finance minister (Louis XVI’s fifth), Étienne–Charles Loménie de Brienne, decided to convoke an Estates–General for the first time since 1614. In his memoirs, he claims that he sought to keep conservative nobles from dominating the Estates–General and obstructing reforms by giving the Third Estate twice as many deputies as the other orders and by allowing all deputies’ votes to count equally. In this way, he hoped to build a working majority in favor of reform in the Estates–General. This decision was announced by a royal decree of 25 September 1788. The Parlement of Paris accepted this decree. However, it committed what became a major tactical error by demanding that the Estates–General follow the "forms of 1614," meaning that each order should have the same number of representatives rather than allow a "doubling of the Third" and that each estate should vote independently. When this resolution was published, it set off an outpouring of pamphlets and newspapers opposing the Parlements and calling for the Estates–General to vote "by head" rather than "by order."
 
@@ -166,11 +196,15 @@ By the fall of 1788, parlementary opposition to royal reforms had brought about 
 
 ![Sieyès, "What Is the Third Estate?" (1789)](/images/Icons-Document-thumbnail_106.jpg)
 
+#### Annotation
+
 Emmanuel–Joseph Sieyès was born at Fréjus, 3 May 1748. He was educated at a Jesuit school, became a licentiate of the canon law, and was appointed vicar–general by the bishop of Chartres. He first came into prominence with the publication of his pamphlet, "Qu’est ce que le tiers état?" In 1789, he was elected delegate to the Estates–General from Paris, and in the preliminary struggle for organization was made spokesman of the Third Estate. The policy indicated in his pamphlet was one actually carried out in the conservative period of the Revolution. As the Revolution progressed, Sieyès dropped out of sight and had the good fortune to escape death. When asked, at a later period, what he had done during the Terror, he summed up his whole experience in the words: "I existed." In 1795, he again came forward and was appointed member of a commission to draft a new constitution. His views did not obtain prominence in the constitution of 1795, and he refused to accept a position in the directory of the new government. Sieyès took part with Napoleon in the coup d’état of 18 Brumaire and was made one of the provisional consuls with Napoleon and Ducos. Later on he was made a count of the empire and given extensive estates as a reward for his services to France. This marks Sieyès’s final retirement from public life. He fled to Brussels on the second return of the Bourbons, returned after the revolution of 1830, and died in Paris on 20 June 1836.
 
 ### [The Joyous Accord](/joyous-accord)
 
 ![The Joyous Accord](/images/accordthumb.png)
+
+#### Annotation
 
 This allegorical image represents the sentiments of social unity that the National Assembly sought to promote through the Festival of the Federation of 14 July 1790 during the French Revolution. This festival, though technically but a military parade of units from around the country, also implied to most observers the unity of all orders and classes.
 
@@ -178,11 +212,15 @@ This allegorical image represents the sentiments of social unity that the Nation
 
 ![General Federation of the French](/images/genassembly_thumb.png)
 
+#### Annotation
+
 This image provides a visual overview of the Festival of Federation of 14 July 1790. Commemorating the fall of the Bastille one year earlier this massive military parade of troops from all regions of the kingdom converged on a triple–tiered triumphal arch where all the soldiers swore an oath to serve the king and the National Assembly. The pageant drew nearly a million spectators and represented the apex of the social, geographical and political unity that reformers and early revolutionaries hoped would solve France’s problems. This festival was a powerful counterpoint to those who believed that the social question ultimately would undermine the French Revolution.
 
 ### [Through Me You Are All Brothers](/through-me-you-are-all-brothers)
 
 ![Through Me You Are All Brothers](/images/brothers_thumb.png)
+
+#### Annotation
 
 Reflecting the sentiments of the French Revolution, this image shows the three orders unified by religion. The Virgin standing at right in a cloud holds a cross from which rays emanate to three figures representing the clergy, nobility, and Third Estate. A hooded figure with a serpent’s tail, representing the dangerous traditionalism of the old regime, clings to the robes of the priest and noble, holding them back from merging with the nation.
 
@@ -190,11 +228,15 @@ Reflecting the sentiments of the French Revolution, this image shows the three o
 
 ![Reunion](/images/reunion_thumb.png)
 
+#### Annotation
+
 This piece of crockery further demonstrates the sentiments of social unity so prevalent at the 1790 Festival of Federation celebrating the French Revolution. The crossed sword, pike, clerical staff, and bonnet symbolize the union of the nobility, peasants, clergy, and workers, respectively.
 
 ### [Awakening of the Third Estate](/awakening-third-estate)
 
 ![Awakening of the Third Estate](/images/thirdestate_thumb.png)
+
+#### Annotation
 
 With the Bastille being destroyed in the background, a member of the Third Estate breaks his shackles. Here, the clergy and nobility recoil in fear, thereby emphasizing the conflict between the estates during the French Revolution.
 
@@ -202,11 +244,15 @@ With the Bastille being destroyed in the background, a member of the Third Estat
 
 ![I Was Sure We Would Have Our Turn](/images/turn_thumb.png)
 
+#### Annotation
+
 Class solidarity was never universal, as this print celebrates the victory of the peasantry over the nobility and clergy. The two defeated orders, linked together to create a horse, support the peasant who with his newly-won freedom, carries the result of a hunt--an activity not legal for commoners under the Old Regime. The peasant also proclaims, “Vive le roi [the King]. Vive la Nation.” This indicates that this was published early in the French Revolution, for by 1792, Louis XVI would no longer be popular.
 
 ### [Oath of the New Horaces](/oath-new-horaces)
 
 ![Oath of the New Horaces](/images/horaces_thumb.png)
+
+#### Annotation
 
 Social discrimination against old regime elites continued in this parody of a famous painting prior to the French Revolution, *The Oath of the Horatii*, by Jacques–Louis David which focused on the courage of three brothers who thrust their arms bravely forward to signal their willingness to sacrifice themselves for their country. In this image, three officers recruited from the nobility offer a weak salute, suggesting their irresolute allegiance to the king and a lack of leadership ability.
 
@@ -214,11 +260,15 @@ Social discrimination against old regime elites continued in this parody of a fa
 
 ![We Must Hope That It Will Soon Be Over](/images/hope_thumb.png)
 
+#### Annotation
+
 A common complaint of pre-revolutionary rural petitions was the abuse of seigneurial dues owed by French peasants to lords supposedly in exchange for protection and supervision. This image demonstrates the view that peasants envisioned their lords not as protectors, but as exploiters who constantly turned the screws on them to extract ever more rent or other payments.
 
 ### [National Assembly Relinquishes All Privileges](/national-assembly-relinquishes-all-privileges)
 
 ![National Assembly Relinquishes All Privileges](/images/national-assembly.jpg)
+
+#### Annotation
 
 This image, part of a series produced to show the most important events of the Revolution, focuses on 4 and 5 August 1789, when the system of privileges came to an end. This legal structure, characteristic of the old regime, guaranteed different rights for different people. Most obviously, nobles had advantages over commoners, but the system was a far more general phenomenon that encompassed guilds, cities, and regions. Almost, everyone participated in this system, but grievances were most obviously directed against the nobility. In destroying privilege, the National Assembly meant to set up a new system, in which every individual was equal before the law.
 This source is a part of the [*Legacies of the Revolution*](https://worldhistorycommons.org/source-collection-legacies-revolution) source collection.
@@ -227,11 +277,15 @@ This source is a part of the [*Legacies of the Revolution*](https://worldhistory
 
 ![Decree of the National Assembly Abolishing the Feudal System, 11 August 1789](/images/Icons-Document-thumbnail_132.jpg)
 
+#### Annotation
+
 The abolition of the feudal system, which took place during the famous night session of 4–5 August 1789, was precipitated by the reading of a report on the misery and disturbances in the provinces. The voting was carried in a fervor of enthusiasm and excitement that made some later revision necessary. The decree given here was drawn up during the following days and contains some alterations and important amplifications of the original provisions as passed in the early morning of August 5th.
 
 ### [Abolition of Nobility](/abolition-nobility)
 
 ![Abolition of Nobility](/images/Icons-Document-thumbnail_704.jpg)
+
+#### Annotation
 
 The major principle underlying the 4 August decree found legislative expression in the decree of 19 June 1790. Situated in the broader context of the French Revolution, this document legally abolished the nobility, all its privileges, and, as the excerpt demonstrates, those aspects that seemed particularly contrary to reason.
 
@@ -239,11 +293,15 @@ The major principle underlying the 4 August decree found legislative expression 
 
 ![The Welcoming of a Marquis in Hell](/images/marquis_thumb.png)
 
+#### Annotation
+
 Reflecting French Revolutionary sentiments, the image points out the destruction of the nobility, depicting the arrival in Hell of a "marquis" and several other "aristocrats," described in the legend as "conspirators" and "traitors."
 
 ### [The Crushed Aristocracy](/crushed-aristocracy)
 
 ![The Crushed Aristocracy](/images/aristocracy_thumb.png)
+
+#### Annotation
 
 This image uses the classical figures of an angel and a cherub to celebrate the achievements of Louis XVI on the base of a statue. The words state that he has destroyed the "aristocracy" and established the liberty of the French people. The monarch’s action is equated with the other great reminder of national emancipation and the French Revolution, the Bastille, seen in the background.
 
@@ -251,11 +309,15 @@ This image uses the classical figures of an angel and a cherub to celebrate the 
 
 ![Cahiers—A Parish Cahier](/images/Icons-Document-thumbnail_705.jpg)
 
+#### Annotation
+
 The *cahiers de doléances* ["lists of grievances"] drawn up by each assembly in choosing deputies to the Estates–General are the best available source of the thoughts of the French population on the eve of the Revolution. This excerpt from a parish cahier in the sénéchaussée of Aix–en–Provence demonstrates that popular unrest stemmed in large part from the privileges enjoyed by nobles and by officeholders, and that such offices were not usually open to the most qualified individuals.
 
 ### [Three Cahiers from Orléans](/three-cahiers-orleans)
 
 ![Three Cahiers from Orléans](/images/Icons-Document-thumbnail_706.jpg)
+
+#### Annotation
 
 The *cahiers de doléances* ("list of grievances") drawn up by each assembly in choosing deputies to the Estates–General are the best available source of the thoughts of the French population on the eve of the French Revolution. The following excerpts from workers’ cahiers in various towns around the kingdom again show an important complaint: that nobles and officeholders enjoyed numerous privileges and that such offices were not usually open to the most qualified members of society.
 
@@ -263,11 +325,15 @@ The *cahiers de doléances* ("list of grievances") drawn up by each assembly in 
 
 ![Cahiers from Rural Districts: Attack on Seigneurial Dues](/images/Icons-Document-thumbnail_707.jpg)
 
+#### Annotation
+
 The petitions from rural communities decried the abuse of seigneurial dues that peasants owed to lords in exchange for which they were supposed to receive protection and supervision. But by 1789, on the verge of the French Revolution, these excerpts demonstrate how peasants had come to see their lords not as protectors, but as creditors, constantly turning the screws on them for ever more rent or other payments.
 
 ### [Departure of the Three Orders for Versailles](/departure-three-orders-versailles)
 
 ![Departure of the Three Orders for Versailles](/images/departure_thumb.png)
+
+#### Annotation
 
 Although 14 July 1790 was a high point in the aspiration for unity during the French Revolution, the preparation for the Estates–General set the stage for later problems. In this image, representatives of each of the three orders depart together in a cart for the 1789 meeting of the Estates–General at Versailles, where they will advise the King on behalf of the nation. The social differences depicted here and shown in the cahiers would not long remain under control.
 
@@ -275,11 +341,15 @@ Although 14 July 1790 was a high point in the aspiration for unity during the Fr
 
 ![Beware the Wealthy Bourgeoisie](/images/Icons-Document-thumbnail_708.jpg)
 
+#### Annotation
+
 The term "bourgeoisie" had many meanings in eighteenth–century France, from the most literal sense of "citizens of a city" to a more sociological meaning of talented and cultivated members of the Third Estate. Some eighteenth–century writers also used the term to refer to merchants. However, it did not yet connote upper–middle–class status or adherence to certain dominant social norms, as the term would suggest today. In this passage, from the newspaper *Révolutions de Paris*, the journalist distinguishes between the "bonne bourgeoisie," who he says are "aristocratic" and "monarchist by instinct" and who fear that any political change will cost money, and the "petite bourgeoisie," who are allied with "the people" and have shown themselves to be patriotic supporters of the French Revolution.
 
 ### [Populace Awake](/populace-awake)
 
 ![Populace Awake](/images/Icons-Document-thumbnail_709.jpg)
+
+#### Annotation
 
 In the view of the most radical commentators, such as those writing for the newspaper *Révolutions de Paris*, the French Revolution had to be the work of more than just the deputies of the National Assembly; it had to be an effort of the common people. To encourage that effort, the newspaper here calls upon all good patriots to form groups in their towns and villages whose purpose will be to debate the major issues of the day, form opinions on them, and, most important, hold demonstrations so as to make certain that the National Assembly will hear of the input of the "good people" of France and not merely that of the "aristocrats."
 
@@ -287,11 +357,15 @@ In the view of the most radical commentators, such as those writing for the news
 
 ![Le Chapelier Law](/images/Icons-Document-thumbnail_710.jpg)
 
+#### Annotation
+
 In the spring of 1791, as the National Assembly worked on political and social reforms, workers in Paris took economic matters into their own hands by staging a series of strikes and demonstrations against their employers. To many deputies, most prominently Isaac–René–Guy Le Chapelier, the workers were still thinking in terms of a guild concept, and they were acting on a collective rather than an individual basis. Thus Le Chapelier found their demands for higher wages contrary to what he claimed were the new principles of the French Revolution. To prevent continued associations of workers based on such economic interests, he introduced a measure (passed into law on 14 June 1791) that historians remember by his name, the "Le Chapelier law." It barred craft guilds and would bar trade unions until 1884.
 
 ### [Abuses to Suppress](/abuses-suppress-0)
 
 ![Abuses to Suppress](/images/abuses_thumb.png)
+
+#### Annotation
 
 This French Revolution era print depicts the Third Estate—represented by the peasant at the rear of the chariot, the worker leading the horse, and the merchant driving—delivering to the National Assembly a petition listing "abuses" to be remedied.
 
@@ -299,11 +373,15 @@ This French Revolution era print depicts the Third Estate—represented by the p
 
 ![Active Citizen/ Passive Citizen](/images/passive-citizen.jpg)
 
+#### Annotation
+
 This cartoon mocks the distinction between active and passive citizens. Many revolutionaries hated this difference, essentially dividing those with property from those without. The propertied (active) were the only ones who could participate in the political process.
 
 ### [The Good Sans–Culotte](/good-sans-culotte)
 
 ![The Good Sans–Culotte](/images/goodsans_thumb.png)
+
+#### Annotation
 
 Reflecting values of the French Revolution, Male and female *sans–culottes* were supposed to embody frugality, thrift, hard work, and, above all, honest devotion—whether to pets, the nation, or fellow comrades.
 
@@ -311,11 +389,15 @@ Reflecting values of the French Revolution, Male and female *sans–culottes* we
 
 ![Père Duchesne Idealizes the Sans–culottes](/images/Icons-Document-thumbnail_59.jpg)
 
+#### Annotation
+
 The sans–culotte [without the breeches of the wealthy] became the symbol of the committed, patriotic revolutionary everyman. This newspaper article describes the ideal sans–culotte, emphasizing his industriousness as a handicraft worker, his honesty, his simplicity, his willingness to act directly, and above all his commitment to sacrifice for the Revolutionary cause. This description is from a radical newspaper, "Father Duchesne" was, like the sans–culotte, a figure drawn from popular culture: a good–hearted, honest–speaking, hard–working stove repairman who would report to his companions in layman’s terms the strange doings of the wealthy he overheard while in their homes to fix stoves, a luxury item in the eighteenth century.
 
 ### [Manifesto of the Enragés](/manifesto-enrages)
 
 ![Manifesto of the Enragés](/images/Icons-Document-thumbnail_711.jpg)
+
+#### Annotation
 
 Jacques Roux, a former priest turned radical French revolutionary, became the leading voice for a group known as the "Enraged," because they expressed constant anger at the unfairness shown toward the ordinary, poor people who made up the bulk of the patriotic citizenry and whose plight Roux demanded the government redress by any means necessary. In this speech to the Convention on 25 June 1793, Roux laid out the basic economic demands of this group: more stringent economic measures against the rich, hoarders, speculators, and profiteers, who should be made to justify themselves to the hard–working, honest patriots for whom Roux claimed to speak. Here Roux explains his understanding of equality and trade.
 
@@ -323,11 +405,15 @@ Jacques Roux, a former priest turned radical French revolutionary, became the le
 
 ![Inside a Revolutionary Committee during the Reign of Terror](/images/committee_thumb.png)
 
+#### Annotation
+
 The extremely respectful view of *sans–culotte* militancy is evident in this image, engraved by the French Revolutionary sculptor Berthault and based on a painting by Fragonard, the son of the famous old regime painter. Imitating an old master’s interior scene, it shows a committee somberly meting out revolutionary justice.
 
 ### [The Carmagnole](/carmagnole)
 
 ![The Carmagnole](/images/Icons-Song-thumbnail_10.jpg)
+
+#### Annotation
 
 Sharing its name with a popular dance, this song heaps scorn upon the queen (Madame Veto), believed to be a traitor, and the "aristocrats" who support her. Like "It’ll Be Okay", the simple tune of the "Carmagnole" permitted even the illiterate to learn lyrics with which to proclaim their conviction in the Revolution’s progress.
 
@@ -335,11 +421,15 @@ Sharing its name with a popular dance, this song heaps scorn upon the queen (Mad
 
 ![President of a Revolutionary Committee Distracting Himself with His Art While Waiting](/images/6625a22d1d437c0313a61ac75354b2b9_Thumbnail.jpg)
 
+#### Annotation
+
 The shoemaker shown here is president of his neighborhood revolutionary committee. Although this engraving does not portray a specific political activity, the character evokes hostility toward laborers and artisans who involved themselves in politics. The president hardly seems presidential.
 
 ### [President of a Revolutionary Committee After the Seal Is Taken Off](/president-revolutionary-committee-after-seal-taken)
 
 ![President of a Revolutionary Committee After the Seal Is Taken Off](/images/b9dd0edeab9b366005ce0dc651193dee_Thumbnail.jpg)
+
+#### Annotation
 
 Critics of popular action first mastered the art of searing attacks and here sharpen their propaganda skills against this activist worker, who appears to be walking off with his "loot" after the locks have been broken.
 
@@ -347,11 +437,15 @@ Critics of popular action first mastered the art of searing attacks and here sha
 
 ![Babeuf’s Trial](/images/Icons-Document-thumbnail_712.jpg)
 
+#### Annotation
+
 Long after *sans–culotte* influence on the government had waned, social conflicts continued to drive some revolutionary events. Throughout 1794 and 1795, urban and rural radicals alike demanded "bread and the constitution of 1793," meaning that the government should feed the people and grant universal male suffrage. One such radical, who took the name Gracchus Babeuf, supposedly organized the "Conspiracy of Equals," a secret group that he hoped to lead in a surprise insurrection to take power and use it to distribute land equally among all citizens. When the "conspiracy" was betrayed, Babeuf was arrested and tried. Before being sentenced and executed, Babeuf offered a statement of his principles and a defense of his action. His attack on private property scandalized many at the time, but others later called him the first socialist. In short, to those who would look back to the French Revolution as the unsuccessful birth of socialist movements, Babeuf would remain an inspiration. To his contemporary critics, who were influenced in part by the Directory’s successful propaganda, Babeuf’s conspiracy demonstrated the instability of the Republic and the need for forceful government repression of popular political activity. In their view, such an approach would ensure stability and prevent a return to the chaos of the Terror.
 
 ### [Attack on Seigneurial Dues](/attack-seigneurial-dues)
 
 ![Attack on Seigneurial Dues](/images/Icons-Document-thumbnail_713.jpg)
+
+#### Annotation
 
 The petitions from rural communities focused in part on the abuse of seigneurial dues owed by peasants to lords for which, in principle, they received protection and supervision. But by 1789, on the verge of the French Revolution, these excerpts demonstrate that peasants considered their lords not as protectors but as exploiters who constantly turned the screws to extract ever more rent or other payments.
 
@@ -359,11 +453,15 @@ The petitions from rural communities focused in part on the abuse of seigneurial
 
 ![4 August Decrees](/images/Icons-Document-thumbnail_44.jpg)
 
+#### Annotation
+
 In late July 1789, as reports of several thousand separate yet related peasant mobilizations poured into Paris from the countryside, a majority of them against seigneurial property, the deputies of the National Assembly debated reforming not just the fiscal system or the constitution but the very basis of French society. In a dramatic all–night session on 4–5 August, one deputy after another stepped forward to renounce for the good of the "nation" the particular privileges enjoyed by their town or region. By the morning deputies of all orders had proposed, debated, and approved even more systematic reform, voting to "abolish the feudal system entirely." In effect, they had decided to eliminate noble and clerical privilege, the fundamental principle of French society since the Middle Ages. Nevertheless, the meaning was unclear, for the "feudal system" had ceased to exist in France several hundred years earlier. Thus working out the details of this decree became a primary objective of the National Assembly for the next two years.
 
 ### [A Democrat, or Reason and Philosophy](/democrat-or-reason-and-philosophy)
 
 ![A Democrat, or Reason and Philosophy](/images/reason-and-philosophy.jpg)
+
+#### Annotation
 
 This cartoon by the popular British caricaturist James Gillray depicts the British politician Charles James Fox as a sans–culotte. Wearing a cockade in his wig and a bandage on his forehead, the unshaven Fox raises his bloody left hand as he lifts his left leg to break wind. Notice his torn shirt, the bloody dagger in his belt, and the fact that he wears no pants. He sings the popular revolutionary song, "Ça ira!" ["It’ll be okay."]
 
@@ -371,11 +469,15 @@ This cartoon by the popular British caricaturist James Gillray depicts the Briti
 
 ![The Third Estate Marrying Priests with Nuns](/images/estatemarry_thumb.png)
 
+#### Annotation
+
 The National Assembly also eliminated monasteries during the French Revolution, since monks and nuns had increasingly become figures of ridicule. This image depicts the dissolution of the religious orders, rather than the confiscation of lands, as the crucial element in religious reorganization. It shows "the National Assembly marrying nuns and monks" so they will become productive citizens.
 
 ### [Monks Learning to Exercise.](/monks-learning-exercise)
 
 ![Monks Learning to Exercise.](/images/monks_thumb.png)
+
+#### Annotation
 
 This image ridicules monks for contributing nothing to society, either economically or demographically, by depicting a group of them being taken from the monastery and drafted into the army, where they hope "to become good citizens" as was expected under religious restructuring during the French Revolution. To bring the clergy under the control of the new government, on 12 July 1790, the National Assembly passed the measure that became known as the Civil Constitution of the Clergy. It targets not Catholicism but past clerical abuses. The measure sought to create a "revolutionary" clergy, which would serve the people rather than rule over them.
 
@@ -383,11 +485,15 @@ This image ridicules monks for contributing nothing to society, either economica
 
 ![Report by the Jacobin Society of Besançon on Refractory Priests](/images/Icons-Document-thumbnail_714.jpg)
 
+#### Annotation
+
 A Jacobin club in Besançon in the Franche–Comté on the eastern borders of France sent this report to the Jacobin Club of Paris on 8 January 1792. The club sees the continuing presence of those who did not take the clerical oath to the new regime ["nonjurors"] as a destabilizing factor and is concerned that their agitation will turn to open resistance. This worry would become more and more widespread in 1793, particularly in the west, but the roots of the problem can be seen here.
 
 ### [Letter from Rabaut de Saint–Étienne to the Minister of the Interior (27 February 1791)](/letter-rabaut-de-saint-etienne-minister-interior-27-february-1791)
 
 ![Letter from Rabaut de Saint–Étienne to the Minister of the Interior (27 February 1791)](/images/Icons-Document-thumbnail_715.jpg)
+
+#### Annotation
 
 In this document, Jean–Paul Rabaut de Saint–Étienne, a Protestant pastor from Nîmes who had been a deputy to the National Assembly and who would later be elected to the National Convention, warns the central government of the ongoing violence in the Midi and the role of refractory priests and religious issues in that violence. Throughout southern France, revolutionaries and counterrevolutionaries were involved in a struggle for power within the municipalities and more broadly. Rabaut de Saint–Étienne fears what would happen to the Revolution and by implication its supporters if, with help from abroad, counterrevolutionaries should seize control of the region.
 
@@ -395,8 +501,9 @@ In this document, Jean–Paul Rabaut de Saint–Étienne, a Protestant pastor fr
 
 ![Proclamation of the Department of the Seine–et–Oise (9 March 1792)](/images/Icons-Document-thumbnail_716.jpg)
 
-Despite the radical measures taken by the National Assembly, such as the abolition of nobility and the Civil Constitution of the Clergy, social conflicts continued to manifest themselves after the National Assembly completed its work in 1791. In the document below, we see evidence of continued friction over the circulation of grain and bread. Peasants continued to believe they were not getting all that was due them from urban merchants who bought their grain, while city dwellers continued to attribute the high cost of bread to the hoarding of grain by large landowners in the countryside. The government, seeking always to serve "the people," found itself caught between conflicting constituencies.
+#### Annotation
 
+Despite the radical measures taken by the National Assembly, such as the abolition of nobility and the Civil Constitution of the Clergy, social conflicts continued to manifest themselves after the National Assembly completed its work in 1791. In the document below, we see evidence of continued friction over the circulation of grain and bread. Peasants continued to believe they were not getting all that was due them from urban merchants who bought their grain, while city dwellers continued to attribute the high cost of bread to the hoarding of grain by large landowners in the countryside. The government, seeking always to serve "the people," found itself caught between conflicting constituencies.
 
 ## Credits
 

@@ -17,6 +17,8 @@ related_sources:
   - link: "/excerpt-memoirs-glikl"
     image: "/images/Glikl-Pappenheim-thumbnail_0.jpeg"
     alt: "Thumbnail image of Glikl"
+how_to_cite: |
+  "Analyzing Personal Accounts," in World History Commons, https://worldhistorycommons.org/analyzing-personal-accounts [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -29,6 +31,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Excerpt from Memoirs by Glikl](/images/Glikl-Pappenheim-thumbnail_0.jpeg)
 
+#### Annotation
+
 The is a diary written by a Jewish merchant, Glikl of Hameln, a woman living in northern Germany in the 17th century.
 This source is a part of the [*Women and Gender in World History, 600-2000*](https://worldhistorycommons.org/syllabus-women-and-gender-world-history-600-2000) teaching module and the [*Analyzing Personal Accounts*](https://worldhistorycommons.org/analyzing-personal-accounts) methods module.
 
@@ -36,9 +40,10 @@ This source is a part of the [*Women and Gender in World History, 600-2000*](htt
 
 ![Excerpt from Memoirs by Catharina Schrader](/images/CatharinaSchrader-thumbnail.jpeg)
 
+#### Annotation
+
 This is a memoir written by a Protestant midwife, Catharina Schrader, who lived in Germany during the 1600s. It offers an important window into the daily lives and life cycles of non-elite women living in early modern Europe.
 This source is a part of the [*Analyzing Personal Accounts*](https://worldhistorycommons.org/analyzing-personal-accounts) methods module.
-
 
 ## Credits
 
@@ -46,6 +51,6 @@ Merry Wiesner-Hanks is Professor of History, the Director of the Center for Wome
 
 Grateful Acknowledgement is made to the following institutions and individuals for permission to publish material from their collections:
 
-Alabama Maps Site - http://alabamamaps.ua.edu/  
-The State and University Library of Frankfurt am Main  
+Alabama Maps Site - http://alabamamaps.ua.edu/<br>
+The State and University Library of Frankfurt am Main<br>
 Merry Wiesner-Hanks

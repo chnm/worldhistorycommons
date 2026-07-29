@@ -16,6 +16,8 @@ related_sources:
   - link: "/geez-script"
     image: "/images/WHC_thumnail_geez.png"
     alt: "Black consonant letters from the Ge'ez script against a white background. There are 26 letters in three rows."
+how_to_cite: |
+  "Source Collection: The Ongoing Discovery of the Aksumite Kingdom," in World History Commons, https://worldhistorycommons.org/source-collection-ongoing-discovery-aksumite-kingdom [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -40,6 +42,8 @@ According to historians, Ethiopia has been the only African country to not be co
 
 ![Ge'ez Script](/images/WHC_thumnail_geez.png)
 
+#### Annotation
+
 Ge’ez script is a script used in modern-day Eritrea and Ethiopia that dates back to the 1st century CE. Ge’ez was derived from the Ancient South Arabian script from the region around modern-day YemenUnlike a modern alphabet, the script began as an abjad, where only consonant letters are listed, but became an abugida, or a writing system with consonant-vowel sequences written as units, after 350 CE with the influence of Christianity in the region. There are 26 consonants in the Ge’ez script, and Ge’ez uses an alphabetical numeral system.
 
 Ge’ez script was important for many religious practices and was the liturgical language of the Ethiopian Orthodox Tewehedo Church, the Eritrean Orthodox Tewahedo Church, the Eritrean Catholic Church, and the Ethiopian Catholic Church, along with being used by Jewish groups in Ethiopia such as Beta Israel and Haymanot Judaism.
@@ -48,10 +52,11 @@ Ge’ez script was important for many religious practices and was the liturgical
 
 ![Ethiopian Healing Scrolls](/images/WHC_healing_scroll_thumbnail.png)
 
+#### Annotation
+
 Ethiopian healing scrolls are believed to eliminate sickness by ridding spirits and demons from an ill person. Originating sometime between the 1st and 8th century CE in the Axum empire, the scrolls are still used to this day, and still written in the Ge’ez script of the Axum empire. These scrolls are used as part of a larger healing process, and are meant to be used in conjunction with plant and animal medicine; they are meant to alleviate more of the spiritual issues. The scrolls were significant for illiterate populations, as the designs and illustrations are considered their own form of talismans that act as an aid for the written prayers.
 
 The scrolls were still in heavy use in the 19th century, though their use has declined significantly since the late 20th century. Ethiopian healing scrolls have been an important and consistent part of practice for over a thousand years, excepting a period in the 15th century when emperor  Zar’a Ya’eqop condemned their use and also persecuted those who used any sort of magical objects or did divination.
-
 
 ## Document Based Question
 

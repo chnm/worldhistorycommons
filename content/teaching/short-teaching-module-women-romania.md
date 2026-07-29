@@ -32,6 +32,8 @@ related_sources:
   - link: "/womens-reflections-food-rationing-1980s"
     image: "/images/Icons-Document-thumbnail_618.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Women in Romania," in World History Commons, https://worldhistorycommons.org/short-teaching-module-women-romania [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -80,12 +82,16 @@ Typically my students express sympathy for my subjects who are having difficulti
 
 ![Women’s Reflections on Work and Gender Relations under Socialism](/images/Icons-Document-thumbnail_623.jpg)
 
+#### Annotation
+
 In this collection of oral histories from Romania, subjects “R,” “I,” “M,” “E,” and “N” talk about their experiences of work during the socialist period. Although “R” and “M” worked in male-dominated fields and faced harassment by their male colleagues, “M” was able to overcome these difficulties by playing the role of the oddball woman. Meanwhile, “I” reflects on how ordered her life was during the socialist period, stressing that a strong work ethic, rather than the political system, constitutes a good life. Finally, “N” and “E” focus on the issue of equality between men and women under socialism.
 This source is a part of the [*Women in Romania*](https://worldhistorycommons.org/short-teaching-module-women-romania)  teaching module.
 
 ### [Women’s Reflections on Marital Relations under Socialism](/womens-reflections-marital-relations-under-socialism)
 
 ![Women’s Reflections on Marital Relations under Socialism](/images/Icons-Document-thumbnail_622.jpg)
+
+#### Annotation
 
 In this collection of oral histories, “V” and “L” reflect on marital relations under socialism. According to “V,” men’s upbringing in the family played a fundamental role in shaping their attitudes toward wives. Thus it would seem that socialist policy and propaganda that promoted equality between women and men had little effect on men’s attitudes toward women—though they clearly had an effect on “V”’s sense of self, motivating her to leave her husband. In the second source “L” talks about the important role her husband played in procuring food for the family during the period of rationing in the 1980s, something that she views as at least as important as doing housework.
 This source is a part of the [*Women in Romania*](https://worldhistorycommons.org/short-teaching-module-women-romania)  teaching module.
@@ -94,12 +100,16 @@ This source is a part of the [*Women in Romania*](https://worldhistorycommons.or
 
 ![Women’s Reflections on Motherhood and Reproduction under Socialism](/images/Icons-Document-thumbnail_619.jpg)
 
+#### Annotation
+
 During a set of oral history interviews conducted in Braşov, Romania, during the summer of 2003, “F” and “R” talk about rearing children under Socialism. For “F” it was a mixed-blessing, since she adored her infant son, yet had to do so under less than optimal conditions. While for “F,” caring for her son was a chore as a result of the manifold shortages in the 1980s, for “R” it was not so bad—at least once the child reached 3 years of age—since the state provided nurseries and kindergartens where children were well looked after while women worked. In the final section, “R” reflects on the inhumanity of the pronatalist policies introduced by Ceauşescu designed to encourage women to have more children.
 This source is a part of the [*Women in Romania*](https://worldhistorycommons.org/short-teaching-module-women-romania)  teaching module.
 
 ### [Women’s Reflections on Food Rationing in the 1980s](/womens-reflections-food-rationing-1980s)
 
 ![Women’s Reflections on Food Rationing in the 1980s](/images/Icons-Document-thumbnail_618.jpg)
+
+#### Annotation
 
 During a series of oral history interviews conducted in Braşov, Romania, during the summer of 2003, “S” and “M” discuss the various strategies they used to procure food and concoct meals for their families during the period of rationing in the 1980s. Meanwhile “E” offers insight into Romanian hospitality, stressing that even in the midst of mass shortages, women managed to lay out a full table of food for friends and guests from abroad.
 This source is a part of the [*Women in Romania*](https://worldhistorycommons.org/short-teaching-module-women-romania)  teaching module.
@@ -108,6 +118,8 @@ This source is a part of the [*Women in Romania*](https://worldhistorycommons.or
 
 ![Vacations under Socialism](/images/Icons-Document-thumbnail_617.jpg)
 
+#### Annotation
+
 In this oral history interview conducted in Braşov, Romania, during the summer of 2003, “E” discusses traveling under Socialism. She notes that, despite the fact that the country was led by an uneducated dictator, people—that is working people—always received a two week, state-subsidized vacation. Since this benefit is no longer guaranteed by the State, a number of women felt this aspect of life was better under Socialism because everyone was guaranteed days of rest.
 This source is a part of the [*Women in Romania*](https://worldhistorycommons.org/short-teaching-module-women-romania)  teaching module.
 
@@ -115,9 +127,10 @@ This source is a part of the [*Women in Romania*](https://worldhistorycommons.or
 
 ![Women’s Attitudes Toward the Transition to Democracy](/images/Icons-Document-thumbnail_616.jpg)
 
+#### Annotation
+
 During a set of oral history interviews conducted in Braşov, Romania, in the summer of 2003, “C,” “E,” “O,” “M,” and “L” discuss how the transition to a democratic system and a market economy have impacted politics, the economy, and women’s professional and everyday lives. Their reflections offer insights into the varied ways that women have been affected by, and perceive the changes that have taken place since the fall of the Communist regime in Romania in 1989.
 This source is a part of the [*Women in Romania*](https://worldhistorycommons.org/short-teaching-module-women-romania)  teaching module.
-
 
 ## Credits
 

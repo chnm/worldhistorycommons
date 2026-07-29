@@ -19,6 +19,8 @@ related_sources:
   - link: "/puppeteers-painting"
     image: "/images/itcho_children_thumbnail.jpeg"
     alt: "Puppeteers Painting image thumbnail"
+how_to_cite: |
+  "Short Teaching Module: Play in Tokugawa Japan," in World History Commons, https://worldhistorycommons.org/short-teaching-module-play-tokugawa-japan [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -33,9 +35,10 @@ This short teaching module includes guidance on introducing and discussing the o
 
 ![Puppeteers Painting](/images/itcho_children_thumbnail.jpeg)
 
+#### Annotation
+
 This is an ink painting on a scroll by Hanabusa Itchô (born Taga Shinkô), a Japanese artist of the early Tokugawa period (1600–1868). Tokugawa artists typically used pen names and Itchô used several names at different times as an artist and poet. This black and white image, showing two puppeteers entertaining children, is a detail from one of 36 paintings in Itchô's *zatsu-gachô* or "miscellany sketchbook," many of which have been lost. Itchô is best known for his *genre paintings*, scenes of ordinary life on the streets of Edo. Children sometimes appear in these scenes, along with dogs, street vendors, traveling entertainers and other characters, often portrayed with a light, almost humorous touch.
 This source is a part of the [*Play in Tokugawa Japan*](https://worldhistorycommons.org/short-teaching-module-play-tokugawa-japan) teaching module and the [*Students’ Guide to “Reading” Primary Sources on the History of Children & Youth*](https://worldhistorycommons.org/students%E2%80%99-guide-%E2%80%9Creading%E2%80%9D-primary-sources-history-children-youth) methods module.
-
 
 ## Teaching Strategies
 

@@ -216,7 +216,14 @@ def semantic_fragments(node: Tag | NavigableString) -> list[str]:
     if node.name in {"script", "style", "template"}:
         return []
     if node.name == "br":
-        return [" "]
+        # html.parser can incorrectly nest following text beneath legacy
+        # self-closing <br /> tags. Browsers treat br as void but still render
+        # that following text, so preserve any parser-created children.
+        fragments = [" "]
+        for child in node.children:
+            if isinstance(child, (Tag, NavigableString)):
+                fragments.extend(semantic_fragments(child))
+        return fragments
     if node.name == "hr":
         return [" "]
 

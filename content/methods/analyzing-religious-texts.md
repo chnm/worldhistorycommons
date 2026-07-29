@@ -17,6 +17,8 @@ related_sources:
   - link: "/prophet-muhammad-and-aisha"
     image: "/images/Muhammed-Aisha-thumbnail.jpeg"
     alt: "The Prophet Muhammad and A’isha"
+how_to_cite: |
+  "Analyzing Religious Texts," in World History Commons, https://worldhistorycommons.org/analyzing-religious-texts [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -29,6 +31,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![The Prophet Muhammad and A’isha](/images/Muhammed-Aisha-thumbnail.jpeg)
 
+#### Annotation
+
 This is a depiction of A’isha, one of Muhammad’s wives. She was close to the Prophet and is the author of roughly 1,200 Hadith. Her involvement tells us something about the public role that some women played in the early Muslim community and the respect she was given.
 This source is a part of the [*Analyzing Religious Texts*](https://worldhistorycommons.org/analyzing-religious-texts) methods module.
 
@@ -36,9 +40,10 @@ This source is a part of the [*Analyzing Religious Texts*](https://worldhistoryc
 
 ![Excerpts from the Hadith by A’isha](/images/hadith-thumbnail_0.png)
 
+#### Annotation
+
 Hadith are reports about what the Prophet Muhammad said or thought. They provide Muslims with a sense of how Muhammad applied the guidelines of the Koran to daily life. They are based on the memories and stories of those who knew the Prophet and were recorded a few generations after his death. Women in the Prophet’s family are acknowledged as legitimate authors of these religious texts, and they provide a glimpse into the roles that Muslim women played in the early Islamic period.
 This source is a part of the [*Analyzing Religious Texts*](https://worldhistorycommons.org/analyzing-religious-texts) methods module.
-
 
 ## Credits
 

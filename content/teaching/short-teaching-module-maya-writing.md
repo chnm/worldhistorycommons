@@ -28,6 +28,8 @@ related_sources:
   - link: "/maya-deity-face-jade-pendant-7th-8th-century"
     image: "/images/DP148420THUMB.jpg"
     alt: "Small figure carved in jade"
+how_to_cite: |
+  "Short Teaching Module: Maya Writing," in World History Commons, https://worldhistorycommons.org/short-teaching-module-maya-writing [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -52,6 +54,8 @@ Many of the surviving large-scale inscriptions are historical documents recordin
 
 ![Maya Monument with glyphs, 4th-9th centuries](/images/DT10173THUMB.jpg)
 
+#### Annotation
+
 This stone monument carved with glyphs comes from Tortuguero, a Maya archeological site in southernmost Tabasco, Mexico that has been badly damaged by development. The monument is in a museum in Tabasco, and the smaller fragment is in the Metropolitan Museum in New York City. The inscription on the monument is the only one known that mentions 2012 as the end of the current era in the Maya Long Count linear calendar. Scholars explained over and over that Maya scribes did this in order to situate the event described in the glyphs—the ritual dedication of a building by the ruler of Tortuguero who calls himself “Lord Jaguar”—in time. Throughout the text, the sculptor makes reference to future and past calendric period endings, similar to our saying something like "just after the New Year," or “right before Thanksgiving in 2010.” Lord Jaguar also boasts about his conquests in the inscription, with descriptions of pools of blood and piles of skulls. Despite the explanations of scholars, prophecy seekers interpreted this the way they wanted, reading its descriptions of past events as predictions for a future doomsday or spiritual transformation. Books, movies, TV programs, newspaper articles, Youtube videos, and online conspiracy-mongering added to the hype, and the Maya calendar became a part of the world view of those featured on the National Geographic Channel’s “Doomsday Preppers” reality series.
 
 The source is part of the [teaching module on Maya writing](https://worldhistorycommons.org/short-teaching-module-maya-writing).
@@ -59,6 +63,8 @@ The source is part of the [teaching module on Maya writing](https://worldhistory
 ### [Maya Vase with Mythological Scene, 7th-8th century](/maya-vase-mythological-scene-7th-8th-century)
 
 ![Maya Vase with Mythological Scene, 7th-8th century](/images/DP348021THUMB.jpg)
+
+#### Annotation
 
 This drinking cup shows the aging Rain God Chank with a ceremonial ax in one hand and the other on a building that has split open. Other figures on the cup may represent the Maize God, who the Rain God is bringing back to life by breaking open the building’s roof, although the mythic scene is difficult to interpret. Around the rim of the cup are glyphs that refer to the raising of a drinking cup as a dedication, and refer to the owner of the vessel as “striker,” perhaps linking him to the action of the Rain God shown on it.
 
@@ -68,6 +74,8 @@ The source is part of the [teaching module on Maya writing](https://worldhistory
 
 ![Maya Drinking Vessel with Seated Lord, 7th-8th century](/images/1992.4_bTHUMB.JPG)
 
+#### Annotation
+
 This large ceramic vessel, made for drinking chocolate, shows a figure wearing a loincloth, necklace, and a large headdress that looks like the tail feathers of the quetzal bird. The text, which appears in a glyph block right in front of the figure (only partially visible here), identifies this as “the drinking cup of Baje(?) Kaan Took’, the ruler.” The figure may be the ruler Kaan Took’, as his elbow overlaps the final glyph and he appears to be blowing smoke underneath the glyph block. Maya scribes and artists often created scenes with complex interplay between text and image, as here.
 
 The source is part of the [teaching module on Maya writing](https://worldhistorycommons.org/short-teaching-module-maya-writing).
@@ -76,10 +84,11 @@ The source is part of the [teaching module on Maya writing](https://worldhistory
 
 ![Maya Deity-Face Jade Pendant, 7th-8th century](/images/DP148420THUMB.jpg)
 
+#### Annotation
+
 This small carved jade ornament, about 2 inches square, was most likely the central ornament on the paper headband of a Maya ruler. Kings received the paper headband during the ritual in which they became king, signifying the moment in which they were “wrapped” into the office of kingship, transitioning from human mortal into divine king. The ornament represents the face of Ux Yop Hu’n (“Three Leaves Paper” or “Three-Leaf-Paper”) a complex supernatural being associated with the beginnings of kingship and the foundations of human rule who personified the paper headband worn by ancient Maya rulers. This supernatural face also serves as a hieroglyph in other examples of Maya writing, standing for Ux Yop Hu’n and for the Principal Bird Deity, a great supernatural bird associated with wealth and rulership in ancient Maya myth. So the symbols and writing carved on this small ornament connected the ruler with mythical precedents and cosmic forces, as did the fact it was made from rare and valuable jade.
 
 The source is part of the [teaching module on Maya writing](https://worldhistorycommons.org/short-teaching-module-maya-writing).
-
 
 ## Bibliography
 

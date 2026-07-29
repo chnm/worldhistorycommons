@@ -122,6 +122,22 @@ def html_to_markdown(element) -> str:
     if element is None:
         return ""
     fragment = BeautifulSoup(str(element), "html.parser")
+    for hidden in fragment.find_all(["script", "style", "template"]):
+        hidden.decompose()
+    for link in fragment.find_all("a", href=True):
+        if any(character in link["href"] for character in "<>"):
+            del link["href"]
+    for line_break in reversed(fragment.find_all("br")):
+        for child in reversed(list(line_break.contents)):
+            line_break.insert_after(child.extract())
+    for table in fragment.find_all("table"):
+        if table.find("th") is not None:
+            continue
+        for container in table.find_all(
+            ["caption", "colgroup", "col", "thead", "tbody", "tfoot", "tr", "td"]
+        ):
+            container.unwrap()
+        table.unwrap()
     for inline in fragment.find_all(
         ["a", "abbr", "b", "cite", "code", "em", "i", "s", "small", "span",
          "strong", "sub", "sup", "u"]
@@ -131,6 +147,7 @@ def html_to_markdown(element) -> str:
             inline.replace_with(NavigableString(text))
     html = str(fragment)
     text = md(html, heading_style="atx", strip=["img"])
+    text = re.sub(r"[ \t]{2,}\n", "<br>\n", text)
     # Clean up excessive whitespace
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
@@ -150,6 +167,23 @@ def protect_source_text_markdown(text: str) -> str:
         text,
     )
     return text.replace("``", r"\`\`")
+
+
+def protect_nested_section_headings(text: str) -> str:
+    """Keep nested Drupal h1/h2 elements inside their parent Hugo section."""
+    def heading_html(match: re.Match[str]) -> str:
+        content = match.group(2).strip()
+        content = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", content)
+        content = re.sub(r"\*(.+?)\*", r"<em>\1</em>", content)
+        content = re.sub(r"\[(.+?)\]\((.+?)\)", r'<a href="\2">\1</a>', content)
+        level = len(match.group(1))
+        return f"<h{level}>{content}</h{level}>"
+
+    return re.sub(
+        r"(?m)^(#{1,2})[ \t]+(.+?)[ \t]*#*[ \t]*$",
+        heading_html,
+        text,
+    )
 
 
 def extract_tags(soup: BeautifulSoup) -> dict:
@@ -351,10 +385,14 @@ def parse_teaching_or_methods(soup: BeautifulSoup, url_path: str, content_type: 
                     })
                 sections["primary_sources"] = slides
             else:
-                sections[section_name.lower().replace(" ", "_")] = html_to_markdown(well)
+                sections[section_name.lower().replace(" ", "_")] = (
+                    protect_nested_section_headings(html_to_markdown(well))
+                )
 
     tags = extract_tags(soup)
     node_id = extract_node_id(soup)
+    cite_span = soup.select_one("div.citation span")
+    how_to_cite = cite_span.get_text(" ", strip=True) if cite_span else ""
 
     hugo_type = "teaching" if content_type == "node-teaching" else "methods"
 
@@ -364,6 +402,7 @@ def parse_teaching_or_methods(soup: BeautifulSoup, url_path: str, content_type: 
         "authors": authors,
         "overview": overview,
         "sections": sections,
+        "how_to_cite": how_to_cite,
         "tags": tags,
         "node_id": node_id,
         "url_path": url_path,
@@ -486,13 +525,14 @@ def write_teaching_hugo(data: dict, section_dir: Path):
 
     fm = f"""---
 title: {yaml_escape(data['title'])}
-type: {data['type']}
+doc_type: {data['type']}
 drupal_node_id: {data.get('node_id', '')}
 url: {data['url_path']}
 authors: {authors_yaml}
 regions: {yaml_list(tags['regions'])}
 subjects: {yaml_list(tags['subjects'])}
 time_periods: {yaml_list(tags['time_periods'])}
+how_to_cite: {yaml_escape(data.get('how_to_cite', ''))}
 ---
 
 ## Overview
@@ -506,6 +546,7 @@ time_periods: {yaml_list(tags['time_periods'])}
             fm += "\n## Primary Sources\n\n"
             for slide in value:
                 fm += f"### [{slide['title']}]({slide['link']})\n\n"
+                fm += "#### Annotation\n\n"
                 if slide.get("annotation"):
                     fm += f"{slide['annotation']}\n\n"
         elif key == "credits":

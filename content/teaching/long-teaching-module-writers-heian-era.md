@@ -27,6 +27,8 @@ related_sources:
   - link: "/writers-heian-era-diary-sei-shonagon-3"
     image: "/images/Icons-Book-Excerpt-thumbnail_19.jpg"
     alt: "thumbnail of the book excerpt"
+how_to_cite: |
+  "Long Teaching Module: Writers of the Heian Era," in World History Commons, https://worldhistorycommons.org/long-teaching-module-writers-heian-era [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -75,12 +77,16 @@ But it did mean that it was women who, using the vernacular, were able to explor
 
 ![Writers of the Heian Era: Diary, Sei Shônagon 4](/images/Icons-Document-thumbnail_434.jpg)
 
+#### Annotation
+
 Sei Shônagon, a lady-in-waiting to Empress Teishi (or Sadako), left a journal of anecdotes, impressions, and commentary called The Pillowbook (covering the years 986-1000 CE) that has become a valuable source for the court society and cultural life of the Heian Period. Sei was not shy about expressing her opinions and exercising her wit on all manner of subjects, including the conduct of a love affair. It was the custom at this time for the lover (or husband, as the case may be) to arrive at evening and leave early the following morning while it is still dark in order to avoid detection. In the passage below, the fact that a woman is in effect legislating what is acceptable and not acceptable behavior during a love affair is almost as interesting as the opinion itself. Conducting a love affair would seem to be a kind of ritual or performance attended by implicit etiquette; one’s behavior before and after is at least equally important as the night spent together.
 This source is a part of the [*Writers of the Heian Era*](https://worldhistorycommons.org/long-teaching-module-writers-heian-era) teaching module.
 
 ### [Writers of the Heian Era: Diary, Sei Shônagon 1](/writers-heian-era-diary-sei-shonagon-1)
 
 ![Writers of the Heian Era: Diary, Sei Shônagon 1](/images/Icons-Document-thumbnail_432.jpg)
+
+#### Annotation
 
 Sei Shônagon, a lady-in-waiting to Empress Teishi (or Sadako), left a journal of anecdotes, impressions, and commentary called The Pillowbook (covering the years 986-1000 CE) that has become a valuable source for the court society and cultural life of the Heian Period. Sei’s description of natural scenes and phenomena are admired for their vividness and subtlety, their both poetic and painterly evocation of lighting and color, temperature and the tactile. It is a product of a lifestyle lived in wooden residences surrounded by verandas, and whose walls were panels and latticed screens that could be opened up to the outside, bringing the sights, sounds, and scents of nature into the inside. The first passage below in effect taught the specific appeal of each of the four seasons for the rest of Japanese cultural history. The particularly close and subtle appreciation of nature within daily life is one of the most important legacies of Heian women’s writing to Japanese culture.
 This source is a part of the [*Writers of the Heian Era*](https://worldhistorycommons.org/long-teaching-module-writers-heian-era) teaching module.
@@ -89,6 +95,8 @@ This source is a part of the [*Writers of the Heian Era*](https://worldhistoryco
 
 ![Writers of the Heian Era: Diary, Sei Shônagon 2](/images/Icons-Document-thumbnail_433.jpg)
 
+#### Annotation
+
 Sei Shônagon, a lady-in-waiting to Empress Teishi (or Sadako), left a journal of anecdotes, impressions, and commentary called The Pillowbook (covering the years 986-1000 CE) that has become a valuable source for the court society and cultural life of the Heian Period. By the Heian period, the gender parity that is believed to have existed in ancient times was giving way to a system of male domination. Particularly with the adoption of the Chinese bureaucratic system, all offices and ranks were designated for males, with only a few exceptions for the Handmaids’ Office in the Palace. Ambitious women like Sei Shônagon decried the lack of offices women could aspire to and expressed envy of the honor and respect men garner when they are promoted through the hierarchy.
 This source is a part of the [*Writers of the Heian Era*](https://worldhistorycommons.org/long-teaching-module-writers-heian-era) teaching module.
 
@@ -96,12 +104,16 @@ This source is a part of the [*Writers of the Heian Era*](https://worldhistoryco
 
 ![Writers of the Heian Era: Diary, Sei Shônagon 3](/images/Icons-Book-Excerpt-thumbnail_19.jpg)
 
+#### Annotation
+
 Sei Shônagon, a lady-in-waiting to Empress Teishi (or Sadako), left a journal of anecdotes, impressions, and commentary called The Pillowbook (covering the years 986-1000 CE) that has become a valuable source for the court society and cultural life of the Heian Period. For a Heian lady, service at court was the sphere for pursuing a career, the stage where she could develop and display her social and aesthetic talents and accomplishments. Not all fathers, however, allowed their daughters to enter court. The reasons no doubt had to do with the opinions Sei reveals below about the alleged immodesty and wickedness of court ladies. It is interesting to note that Sei accuses the men of the same immodesty, seeming to imply that if the conventional gender segregation is breached at court, it is done so by both men and women. The majority of noblewomen remained at home as wives, some of whom might have court connections and participate, through correspondence, in the cultural life there.
 This source is a part of the [*Writers of the Heian Era*](https://worldhistorycommons.org/long-teaching-module-writers-heian-era) teaching module.
 
 ### [Writers of the Heian Era: Fiction, The Tale of Genji 1](/writers-heian-era-fiction-tale-genji-1)
 
 ![Writers of the Heian Era: Fiction, The Tale of Genji 1](/images/Icons-Document-thumbnail_435.jpg)
+
+#### Annotation
 
 The greatest work produced during the Heian era was The Tale of Genji by Murasaki Shikibu, lady-in-waiting to Empress Akiko. Considered the world’s first novel, Genji is written as an absorbing portrait of Heian court life, the splendor of its rituals, and aesthetic culture. One of the most fascinating passages in the novel is a long conversation among the hero, Genji, and his friends one rainy night about women (where Genji himself remains mostly silent, an interested and sometimes skeptical listener) that has since become known among Genji-philes as “the rainy night disquisition on the types of women.”
 Several recognizable types are taken up and critiqued by the men, who profess the greatest difficulties in finding and even determining what constitutes the ideal woman or the one who would make a good wife. Not the least interesting aspect of this discussion is the fact that it transpires among men only, but was conceived by a woman writer; this factor suggests that the men’s opinions should be read with some irony or the proverbial grain of salt. Nevertheless, the “disquisition on types of women,” which occurs early, in Chapter 2 “The Broom Tree,” has also been read as a key to the subsequent development of the novel’s plot and the various types of women who make their appearance in its pages.
@@ -112,6 +124,8 @@ This source is a part of the [*Writers of the Heian Era*](https://worldhistoryco
 
 ![Writers of the Heian Era: Fiction, The Tale of Genji 2](/images/Icons-Document-thumbnail_472.jpg)
 
+#### Annotation
+
 The greatest work produced during the Heian era was The Tale of Genji by Murasaki Shikibu, lady-in-waiting to Empress Akiko. Considered the world’s first novel, Genji is written as an absorbing portrait of Heian court life, the splendor of its rituals, and aesthetic culture. One of the most fascinating passages in the novel is a long conversation among the hero, Genji, and his friends one rainy night about women (where Genji himself remains mostly silent, an interested and sometimes skeptical listener) that has since become known among Genji-philes as “the rainy night disquisition on the types of women.” In this passage, Murasaki Shikibu has a young man from the Ministry of Rites regale Genji and the others with the comic story of his involvement with a very learned woman.
 Learning, understood as the ability to read and write Chinese and knowledge of the Chinese classics, was expected of men, and their education in the Academy consisted of it. That it was highly anomalous in a woman to be so learned as to even use mainly Chinese in her correspondence is clear in the men’s incredulous reception of this story. Women were expected to write in the phonetic script called kana, and their essential education consisted of calligraphy, Japanese poetry, and music. As we know from Murasaki’s diary and the allusions to Chinese poems and stories in Genji, she knew Chinese well enough to read and even teach the Empress to read the poet Po Chü-i, though they had to keep these sessions secret. Sei Shônagon, a contemporary of Murasaki Shikibu, also liked to show off her Chinese knowledge in the Pillowbook, but then she made no secret of her satisfaction in besting men in their own spheres.
 The story below features a woman who is so far advanced in her Chinese learning that she becomes her husband’s teacher. It is interesting to note the young man’s attitude of rueful self-deprecation in portraying himself as the student of a woman in a case of reverse gender difference in the field of writing and education.
@@ -121,12 +135,16 @@ This source is a part of the [*Writers of the Heian Era*](https://worldhistoryco
 
 ![Writers of the Heian Era: Diary, Lady Sarashina](/images/Icons-Book-Excerpt-thumbnail_20.jpg)
 
+#### Annotation
+
 The Sarashina nikki (Sarashina Diary, ca. 1059 CE) is the memoir of a woman called “Takasue’s Daughter,” also known as “Lady Sarashina” from the translator Ivan Morris’s name for her. Her father, Sugawara Takasue, was governor of Kazusa Province (modern Chiba, southeast of Tokyo) in what was then the remote Eastern region, where she spent some three years as a girl of nine to twelve years. Her memoir is remembered especially for two things. One is the poetic account of her family’s journey from Kazusa back to the capital in Kyoto, which is viewed as a precursor of the poetic travel journal genre later developed by medieval poet-pilgrims and the early modern haiku poet Bashô. The other is its thematization of her obsession with reading tales (monogatari), in particular the Genji monogatari, and how it detracted from her pursuit of religious piety. The passage below is particularly striking for the way it underscores the guilty pleasure of reading Genji as against the priestly admonition to read instead the fifth volume of the Lotus Sutra, where a female, the Dragon King’s daughter, famously undergoes buddhahood despite her inferior sex by first being transformed into a male.
 This source is a part of the [*Writers of the Heian Era*](https://worldhistorycommons.org/long-teaching-module-writers-heian-era) teaching module.
 
 ### [Bamboo River II, Tale of Genji Painting Scroll](/bamboo-river-ii-tale-genji-painting-scroll)
 
 ![Bamboo River II, Tale of Genji Painting Scroll](/images/genjibamboo-thumbnail.jpeg)
+
+#### Annotation
 
 The greatest work produced during the Heian era was *The Tale of Genji* by Murasaki Shikibu, lady-in-waiting to Empress Akiko. Considered the world’s first novel, *Genji* is written as an absorbing portrait of Heian court life, the splendor of its rituals, and aesthetic culture. *The Tale of Genji* has been, through the centuries, the subject of visual illustration and dramatization, from paintings to modern full-length films, cartoons, and animé.
 The picture here is from the 12th-century *Tale of Genji Painting Scroll (Genji monogatari emaki)*, which was created over a century after Murasaki Shikibu’s literary work, but is one of the oldest surviving illustrations of it. Only four of the original ten scrolls have come down to us (20 paintings and some 70 fragments of calligraphic text) and the paintings are severely damaged, with layers of paint peeling off, faded, or completely gone in places. Nevertheless, they remain an invaluable historical source today on how readers then visualized the novel, which particular scenes they thought should be illustrated and which passages excerpted. The pictures also constitute visual evidence of court costumes, interior furnishings, and court manners, as well as the way in which faces are depicted in a stylized fashion.
@@ -138,6 +156,8 @@ This source is a part of the [*Writers of the Heian Era*](https://worldhistoryco
 
 ![Lady of the Bridge, Tale of Genji Painting Scroll](/images/genjilady2-thumbnail.jpeg)
 
+#### Annotation
+
 The greatest work produced during the Heian era was *The Tale of Genji* by Murasaki Shikibu, lady-in-waiting to Empress Akiko. Considered the world’s first novel, *Genji* is written as an absorbing portrait of Heian court life, the splendor of its rituals, and aesthetic culture. *The Tale of Genji* has been, through the centuries, the subject of visual illustration and dramatization, from paintings to modern full-length films, cartoons, and animé.
 The pictures here are from the 12th-century *Tale of Genji Painting Scroll (Genji monogatari emaki)*, which was created over a century after Murasaki Shikibu’s literary work, but is one of the oldest surviving illustrations of it. Only four of the original ten scrolls have come down to us (20 paintings and some 70 fragments of calligraphic text) and the paintings are severely damaged, with layers of paint peeling off, faded, or completely gone in places. Nevertheless, they remain an invaluable historical source today on how readers then visualized the novel, which particular scenes they thought should be illustrated and which passages excerpted. The pictures also constitute visual evidence of court costumes, interior furnishings, and court manners, as well as the way in which faces are depicted in a stylized fashion.
 For our purposes, it is sufficient to notice such aspects as the women’s elaborate silk robes, which could be from six to twelve layers in all, depending on the weather and the formality of the occasion. An indication of a lady’s cultivation and taste, the set of robes—each layer shorter than the last at the hem and sleeves—aimed to create a distinctive color harmony and aesthetic effect appropriate to the season and occasion, and is also an index to the wearer’s creativity. Note the openness of Heian-period architecture: latticed windows and wall panels could be taken away, leaving only bamboo blinds to screen the interior.
@@ -148,7 +168,6 @@ The other, leaning against an armrest, had a koto before her. “I have heard th
 “I may be asking too much, I admit, but you have to admit that lutes and moons are related.”
 It was a charming scene, utterly unlike what Kaoru had imagined from afar.
 This source is a part of the [*Writers of the Heian Era*](https://worldhistorycommons.org/long-teaching-module-writers-heian-era) teaching module.
-
 
 ## Teaching Strategies
 
@@ -235,7 +254,7 @@ After completing this lesson students will be able to:
 
 - **Share (5 minutes):** Have students share their findings about pre-Heian era women. What have they uncovered about how women held power prior to the Heian period? Raise the question and have students brainstorm: What caused Japanese women to lose their power?
 
-- **Discussion (10 minutes):**  
+- **Discussion (10 minutes):**<br>
   Questions to generate discussion:
 
 * Why was there such a major shift in women’s role in Japanese society from pre-Heian to Heian Era?
@@ -244,7 +263,7 @@ After completing this lesson students will be able to:
 
 This could be set up in a Socratic seminar format to allow students to delve more deeply into the shift of power for Japanese women. Bring in the issues surrounding the integration of Confucianism into Japanese society, and make direct references to Ban Zhao’s excerpt discussed in the previous day’s class.
 
-- **Small Group Work (40 - 45 minutes):**  
+- **Small Group Work (40 - 45 minutes):**<br>
   Break up the class into small groups of three to four students. Each group can be assigned to take a closer look at a set of documents, such as Source 2: Diary, Sei Shônagon 2 and Source 3: Diary, Sei Shônagon 3, and Source 4: Diary, Sei Shônagon 4 and Source 7: Diary, Lady Sarashina, and Source 5: Fiction, The Tale of Genji 1 and Source 6: Fiction, The Tale of Genji 2. Each group should fill out the Primary Source Analysis Worksheet: Texts for each source. Then, jigsaw the student groups for them to share their findings with each other. After the jigsaw, what conclusions can they draw about Heian court life? What is the role of women and what limitations were placed on them?
 
 Alternative: Hand out Source 2 through Source 7. Have students read individually through all the documents and fill out only one Primary Source Analysis Worksheet: Texts for each source in small groups of two to three students.
@@ -278,12 +297,12 @@ Bingham, Marjorie Wall and Susan Hill Gross. *Women in Japan*. St. Louis Park, M
 
 > The relevant chapters used were “Women ad Confucian Principles – Triple Obedience and Filial Piety” and “Women Writers of the Heian Age – A ‘Blazing Fire.’” Bingham and Gross give a historical background on Confucian principles and the Heian era through their use of excerpts of primary sources related to those topics.
 
-Hooker, Richard. “Ancient Japan.” 1996. Washington State University.  
+Hooker, Richard. “Ancient Japan.” 1996. Washington State University.<br>
 <http://www.wsu.edu:8080/~dee/ANCJAPAN/CONTENTS.HTM>
 
 > This website provides a solid background on imperial Japan, both in the pre-Heian era and during the Heian period. Hooker also gives summaries about Japanese female communities and about Japanese literature, which include the Heian women writers.
 
-Hughes, Sarah S. and Brady Hughes, eds. “China and Japan: The Patriarchal Ideal” in  
+Hughes, Sarah S. and Brady Hughes, eds. “China and Japan: The Patriarchal Ideal” in<br>
 *Women in World History: Readings in Prehistory to 1500 ( Vol. 1)*. Armonk, NY: M.E. Sharpe, 1997.
 
 > The two volumes of this series are a great primary-source resource for teachers who want to focus more on women’s roles in different time periods of world history. This chapter provide a little background about how Confucian concept of patriarchy was applied in the China and Japan and gives several primary sources about women from both societies.

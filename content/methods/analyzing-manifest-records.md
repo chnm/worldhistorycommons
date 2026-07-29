@@ -17,6 +17,8 @@ related_sources:
   - link: "/guadeloupean-household-workers-ellis-island"
     image: "/images/immigrants-from-Guadeloupe-thumbnail.jpeg"
     alt: ""
+how_to_cite: |
+  "Analyzing Manifest Records," in World History Commons, https://worldhistorycommons.org/analyzing-manifest-records [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -29,6 +31,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Guadeloupean Household Workers at Ellis Island](/images/immigrants-from-Guadeloupe-thumbnail.jpeg)
 
+#### Annotation
+
 This is a photograph of household workers from the Caribbean island of Guadeloupe just after their arrival in New York in 1911.
 This source is a part of the [*Analyzing Manifest Records*](https://worldhistorycommons.org/analyzing-manifest-records) methods module.
 
@@ -36,9 +40,10 @@ This source is a part of the [*Analyzing Manifest Records*](https://worldhistory
 
 ![Manifest Record from the S.S. Atenas](/images/manifestrecord-thumbnail.jpeg)
 
+#### Annotation
+
 This document is part of a manifest record from the SS *Atenas*. This ship sailed from Kingston, Jamaica, to New York City in 1920. These records provide information on individual passengers for 29 categories, including age, race, gender, marital status, occupation, how the cost for the voyage was paid, and the nearest relative living in New York.
 This source is a part of the [*Analyzing Manifest Records*](https://worldhistorycommons.org/analyzing-manifest-records) methods module.
-
 
 ## Credits
 
@@ -46,6 +51,6 @@ Wendi Manuel-Scott received her PhD from Howard University and is Associate Prof
 
 Grateful Acknowledgement is made to the following institutions and individuals for permission to publish material from their collections:
 
-National Archives photo no. 90-G-125-48  
-New York Public Library  
+National Archives photo no. 90-G-125-48<br>
+New York Public Library<br>
 Marcus Garvey and Universal Negro Improvement Association Papers Project

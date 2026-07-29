@@ -13,6 +13,8 @@ related_sources:
   - link: "/edifying-and-curious-letters-some-missioners-society-jesus-foreign-missions"
     image: "/images/Background__2_.png"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Cultural Exchange Before Modern Times," in World History Commons, https://worldhistorycommons.org/short-teaching-module-cultural-exchange-modern-times [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -37,6 +39,8 @@ Because cultural exchange in the pre-modern world was a byproduct of other excha
 
 ![Edifying and curious letters of some Missioners of the Society of Jesus from foreign missions](/images/Background__2_.png)
 
+#### Annotation
+
 After reaching and residing in foreign places, Christian missionaries sent different kinds of writings (letters, reports, notes, etc.) back to Europe. These writings, based on different Church orders to which missionaries belonged, are normally stored in different archives (most in Rome). Among these writings, Lettres Édifiantes Et Curieuses, Écrites des Missions Étrangères was probably the most famous and widely read collection (edited and published from 1702 to 1776). This collection included the letters sent to Europe by Jesuit missionaries in China, India, America etc. Some letters of this collection were translated to English and published in London as a two-volume book with the title Edifying and Curious Letters of Some Missioners of the Society of Jesus from Foreign Missions.
 The full text can be found [*here*](https://www.google.com/books/edition/Edifying_and_curious_letters_of_some_Mis/Lf-a_oP2FC0C?hl=en&gbpv=0).
 This source is a part of the [*Cultural Exchange Before Modern Times*](https://worldhistorycommons.org/short-teaching-module-cultural-exchange-modern-times) teaching module.
@@ -45,16 +49,19 @@ This source is a part of the [*Cultural Exchange Before Modern Times*](https://w
 
 ![Buddhist Records Of The Western World](/images/Thumbnail_11.jpeg)
 
+#### Annotation
+
 Xuanzang ( or Hiuen Tsiang) was a Chinese monk ( 602-664) who went to India to study Buddhism. After he went back to China, he told his 17-year journey to his disciple, Bianji, who edited and wrote it in Chinese and published it with a title: da tang xi yu ji (the meaning of the title is the records regarding the western area of the Great Tang dynasty). It remains a very valuable resource to know the countries, customs, and products of the wide-area Xuanzang traveled. Because many parts of the book were written from a cultural comparison perspective, it is a useful resource for anyone interested in themes of cultural exchange and cultural comparison. Samuel Beal translated the records into English in the nineteenth century.  The English version is freely available online: https://catalog.hathitrust.org/Record/100895376   On a side note, the popular cartoon Monkey King comes from the sixteenth-century Chinese novel The Journey to the West. This novel is based on Xuanzang’s journey to India, where the Monkey King is an imaginary character who has magic powers to protect Xuanzang from all kinds of danger on the road. This source is a part of the [*Cultural Exchange Before Modern Times*](https://worldhistorycommons.org/short-teaching-module-cultural-exchange-modern-times) teaching module.
 
 ### [Map of the Travels of Xuanzang (629 AD - 645 AD) Journey to the West](/map-travels-xuanzang-629-ad-645-ad-journey-west)
 
 ![Map of the Travels of Xuanzang (629 AD - 645 AD) Journey to the West](/images/Background__3_.png)
 
+#### Annotation
+
 This Schematic Map shows the entire "Journey to the West" as made by the Chinese Monk Xuanzang (Hsüan-tsang) on the Silk Road between China and India in the years 629 AD to 645 AD. The Path of the Journey to led from the Chinese Capital in Shaanxi Province of China acros the Yellow River to the westernmost pass of the Great Wall of China. Via Xinjiang it continued into Kyrgyzstan, Uzbekistan, Tajikistan, Afghanistan, Pakistan and India. The Return Journey led through current day Pakistan and Afghanistan to reach Kashgar in current day Xinjiang-Uyghur Autonomous Region of China. Because the (Han) Chinese Cultural Zone during the Tang Dynasty Era only reached as far as Dunhuang, where the Great Wall of China began, Xuanzang had to travel south-east from Kashgar via Yarkant and Hotien (Khotan) along the South Route around the Taklamakan Desert to finally return to his native China in 645 AD. Xuanzang died as a National Hero in 661 AD.
 This annotation comes from [*The China Report*](http://www.drben.net/ChinaReport/Sources/China_Maps/China_Empire_History/Tang_Dynasty/Map-Asia-Xuanzhang_Travel_Route-629-645AD-1A.html).
 This source is a part of the [*Cultural Exchange Before Modern Times*](https://worldhistorycommons.org/short-teaching-module-cultural-exchange-modern-times) teaching module.
-
 
 ## Credits
 

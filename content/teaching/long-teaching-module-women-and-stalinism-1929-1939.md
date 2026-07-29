@@ -28,6 +28,8 @@ related_sources:
   - link: "/women-and-stalinism-newspaper-womens-roles"
     image: "/images/Icons-Article-Excerpt-thumbnail_12.jpg"
     alt: "thumbnail of the article"
+how_to_cite: |
+  "Long Teaching Module: Women and Stalinism, 1929-1939," in World History Commons, https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -38,7 +40,7 @@ This long teaching module includes an informational essay, objectives, activitie
 
 ## Essay
 
-**The Stalinist System**  
+**The Stalinist System**<br>
 During this period, the following distinctive elements of the “Stalinist” system emerged:
 
 * a one-party system in which the Communist Party controlled decisions having to do with political appointments, economic policy, cultural activities, and foreign relations;
@@ -49,12 +51,12 @@ During this period, the following distinctive elements of the “Stalinist” sy
 
 During the decade from 1929 to 1939, the foundation was laid for a system that transformed the Soviet Union, became the basis for extending communist influence into neighboring regions, and exerted a powerful influence on shaping world history in the 20th century.
 
-**Understanding Stalinism**  
+**Understanding Stalinism**<br>
 An important way to understand Stalinism, both in the context of Soviet history and more generally, in 20th-century world history, is to ask about the impact of these elements on the population. While most studies of Stalinism concentrate on the biography of the leader, the establishment of the political regime, and the enforcement of a rigid ideology, this approach provides only a partial and somewhat distorted evaluation of the lived experience of this era. It is important to understand the ideology of the Soviet government and its uses of repressive mechanisms, but it is also important to find sources that provide information and perspectives that illustrate how people coped with dictatorship. Such an approach to aspects of everyday life—such as work, family life, and educational attainment—provides a way to assess both the systemic influence of political controls and threats and the constructive elements that allowed the Soviet people to function even in a repressive system.
 
 Examining the lives of Soviet women provides an excellent way to consider these aspects of Stalinism. Soviet ideology declared that the “emancipation” of women was possible only in a socialist system, in which women were no longer treated as a kind of domestic property, in which educational and employment opportunities were offered to men and women equally, and in which women’s political involvement was actively encouraged. In 1917, women’s protests in anticipation of the socialist-designated celebration of International Woman’s Day had been one of the sparks that set off the Russian revolution. Throughout Soviet history, March 8 was recognized by the regime and the people as “International Communist Woman’s Day,” with rallies and speeches by political leaders, articles in the newspaper commemorating the achievements of individuals and describing the advances brought to all women, and, on a daily level, meetings in factories, in offices, and in neighborhoods in which women were given gifts and recognized for their contribution to the nation, to society, and to their families.
 
-**Women in Stalinism**  
+**Women in Stalinism**<br>
 Yet these propaganda claims did not fully reflect the complex situation of Soviet women during the 1930s. Women experienced all the most destructive elements of Stalinism as well. During the famine that followed collectivization, women suffered from the shortages of food, which posed a direct threat to their traditional role as family providers. The hardships of rapid industrialization and urbanization, including shortages of housing, lack of services, and other difficulties, were borne disproportionately by women even as they also coped with increased demands and requirements in their employment. While more men than women were killed during the most violent phases of Stalinism, such as the repression that accompanied collectivization, or the hundreds of thousands of summary executions during the “Great Terror” which peaked in 1936-1938, women were victims as well, as thousands were killed or imprisoned, while others dealt with the great burdens of losing fathers, husbands, or sons. Stalinism was an extremely destructive period of Soviet history, the implications of which bore more directly on the population and which had broader implications for 20th-century world history.
 
 For the Soviet population, however, the 1930s were also a period of transformations in work, family life, household activities, and political involvement that inevitably combined “positive” elements with the “negative” consequences described above. More women entered the labor force and educational institutions, yet even as their numbers increased throughout the economy, proportionally they remained concentrated in certain fields, such as medicine, education, and domestic services, which were lower paying, less prestigious, and certainly not as politically influential. As millions of people migrated from villages to the rapidly growing cities, women found new opportunities for work, study, and leisure, even as those left behind in the villages had to bear an increasing share of the labor burden with even fewer resources. Finally, the ideological commitment to women’s equality and emancipation was not shared by all men, and on a daily level, women continued to encounter harassment, prejudice, and exploitation. By exploring these “everyday” aspects of Stalinism, these materials provide insights into the ways that Soviet women in particular, but the population more generally, coped with the demands and dilemmas of dictatorship.
@@ -65,12 +67,16 @@ For the Soviet population, however, the 1930s were also a period of transformati
 
 ![Women and Stalinism: Newspaper, Women's Equality](/images/Icons-Article-Excerpt-thumbnail_11.jpg)
 
+#### Annotation
+
 Articles and images published in Soviet newspapers on March 8, International Communist Woman’s Day, provide the most obvious examples of how women were used as symbols in a propaganda campaign. These texts and images were clearly intended to convey a certain message about the changing role of women in the Soviet system. In particular, March 8 publications celebrated the achievements of Soviet women in part by comparing their lives to the difficulties of Russian women “in the past,” prior to the revolution, and to contemporary women “outside the Soviet borders,” which included the capitalist countries of Western Europe and the United States and the Asian and African colonial peoples ruled by European governments. This article suggests key themes that dominated Soviet discourse on women in the 1930s: the new roles for women in employment, government, and education, the ongoing effort to overcome the legacies of the past, the unity of women behind the Soviet government and Communist Party, and the assertions that Soviet women were the most equal and most emancipated women in the world.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
 
 ### [Women and Stalinism: Drawing, Old Way of Life](/women-and-stalinism-drawing-old-way-life)
 
 ![Women and Stalinism: Drawing, Old Way of Life](/images/old-way-of-life-thumbnail.jpg)
+
+#### Annotation
 
 Articles and images published in Soviet newspapers on March 8, International Communist Woman’s Day, provide the most obvious examples of how women were used as symbols in a propaganda campaign. These texts and images were clearly intended to convey a certain message about the changing role of women in the Soviet system. In particular, March 8 publications celebrated the achievements of Soviet women in part by comparing their lives to the difficulties of Russian women “in the past,” prior to the revolution, and to contemporary women “outside the Soviet borders,” which included the capitalist countries of Western Europe and the United States and the Asian and African colonial peoples ruled by European governments. This image contrasts the symbols of woman’s oppression in the “old way of life,” such as cooking utensils and makeup products, with one of the most evocative symbols of the new Soviet order: a young woman driving a tractor.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
@@ -79,12 +85,16 @@ This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhis
 
 ![Woman with Lenin/Stalin Flag](/images/woman-with-lenin-flag-thumbnail.png)
 
+#### Annotation
+
 Articles and images published in Soviet newspapers on March 8, International Communist Woman’s Day, provide the most obvious examples of how women were used as symbols in a propaganda campaign. These texts and images were clearly intended to convey a certain message about the changing role of women in the Soviet system. In particular, March 8 publications celebrated the achievements of Soviet women in part by comparing their lives to the difficulties of Russian women “in the past,” prior to the revolution, and to contemporary women “outside the Soviet borders,” which included the capitalist countries of Western Europe and the United States and the Asian and African colonial peoples ruled by European governments. In this cartoon, a woman waves a flag bearing the images of Lenin and Stalin while standing in front of buildings and factories symbolizing industrialization and urbanization.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
 
 ### [Women and Stalinism: Newspaper, Women’s Roles](/women-and-stalinism-newspaper-womens-roles)
 
 ![Women and Stalinism: Newspaper, Women’s Roles](/images/Icons-Article-Excerpt-thumbnail_12.jpg)
+
+#### Annotation
 
 Articles and images published in Soviet newspapers on March 8, International Communist Woman’s Day, provide the most obvious examples of how women were used as symbols in a propaganda campaign. These texts and images were clearly intended to convey a certain message about the changing role of women in the Soviet system. In particular, March 8 publications celebrated the achievements of Soviet women in part by comparing their lives to the difficulties of Russian women “in the past,” prior to the revolution, and to contemporary women “outside the Soviet borders,” which included the capitalist countries of Western Europe and the United States and the Asian and African colonial peoples ruled by European governments. In contrast to the themes a decade earlier, this text also reveals subtle changes in this message, including the growing prominence of Stalin and other individuals as essential leaders, and the downplaying of promises of a complete transformation in daily life.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
@@ -93,12 +103,16 @@ This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhis
 
 ![Women and Stalinism: Quantitative Evidence, Women's Education](/images/sovietquant2_0.gif)
 
+#### Annotation
+
 The increased presence of women in the workforce as a result of industrialization and other aspects of modernization during the 1930s was documented in government publications. While the numbers themselves cannot be independently verified, the more important analytical question involves asking about the explicit claims and underlying issues in these sources. Another important propaganda use of statistics can be seen in this table, in which a comparison of women’s higher education enrollment in the Soviet Union and three so-called “capitalist countries” shows just how unusual the Stalinist period was for the history of women.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
 
 ### [Women and Stalinism: Quantitative Evidence, Women's Employment](/women-and-stalinism-quantitative-evidence-womens-employment)
 
 ![Women and Stalinism: Quantitative Evidence, Women's Employment](/images/sovietquant1_0.gif)
+
+#### Annotation
 
 The increased presence of women in the workforce as a result of industrialization and other aspects of modernization during the 1930s was documented in government publications. While the numbers themselves cannot be independently verified, the more important analytical question involves asking about the explicit claims and underlying issues in these sources. In this table on employment, the most striking changes are the overall increase in women’s employment, which more than doubled in six years, and the even more rapid proportional increase in women’s employment in traditionally “male” sectors such as heavy industry, construction, and transportation. Yet most women workers still predominated in more traditionally “female” sectors, as shown by the much higher proportion of women in food preparation, services, and institutions, which suggest that even as conditions changed, the relative position of women remained consistent in important ways.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
@@ -107,12 +121,16 @@ This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhis
 
 ![Women and Stalinism: Newspaper, Women’s Work](/images/Icons-Article-Excerpt-thumbnail_13.jpg)
 
+#### Annotation
+
 The increased presence of women in the workforce as a result of industrialization and other aspects of modernization during the 1930s was documented in government publications. While the numbers themselves cannot be independently verified, the more important analytical question involves asking about the explicit claims and underlying issues in these sources. This article, published in the Moscow city newspaper, indicates how the recruitment of women into production was an important government project.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
 
 ### [Women and Stalinism: Newspaper, Women Workers](/women-and-stalinism-newspaper-women-workers)
 
 ![Women and Stalinism: Newspaper, Women Workers](/images/Icons-Article-Excerpt-thumbnail_14.jpg)
+
+#### Annotation
 
 The increased presence of women in the workforce as a result of industrialization and other aspects of modernization during the 1930s was documented in government publications. While the numbers themselves cannot be independently verified, the more important analytical question involves asking about the explicit claims and underlying issues in these sources. In this article, published in the Minsk city newspaper, it is clear that government efforts to recruit women workers did not eliminate problems encountered at work, including discrimination at the hands of men, as well as broader problems, including work assignments, wages, and prostitution.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
@@ -121,12 +139,16 @@ This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhis
 
 ![Women and Stalinism: Newspaper, Daily Life](/images/Icons-Document-thumbnail_385.jpg)
 
+#### Annotation
+
 This article reflects a more complex example of state-controlled media. It is more negative in tone, by providing examples of problems in daily life, including shortages of housing and food, unequal treatment at work, and lack of services for families. Once again, the intention is to assert the achievements of the Soviet regime while also referring to problems that needed to be overcome through even greater efforts. In this case, however, the article also seeks to attribute blame for these problems to specific individuals, offices, or practices that could be made accountable. Women continued to bear a disproportionate burden of family responsibilities, and the actual availability of maternity leave, services for new mothers, and child care fell short of promises and propaganda. This article from a regional newspaper in the Far North provides just a partial view of what were clearly broad trends in the daily lives of women in this period.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
 
 ### [Women and Stalinism: Newspaper, Women’s Education](/women-and-stalinism-newspaper-womens-education)
 
 ![Women and Stalinism: Newspaper, Women’s Education](/images/Icons-Document-thumbnail_386.jpg)
+
+#### Annotation
 
 This article reflects a more complex example of state-controlled media. It is more negative in tone, by providing examples of problems in daily life, including shortages of housing and food, unequal treatment at work, and lack of services for families. Once again, the intention is to assert the achievements of the Soviet regime while also referring to problems that needed to be overcome through even greater efforts. In this case, however, the article also seeks to attribute blame for these problems to specific individuals, offices, or practices that could be made accountable. Women continued to bear a disproportionate burden of family responsibilities, and the actual availability of maternity leave, services for new mothers, and child care fell short of promises and propaganda. In this article, a schoolteacher writes to the main educational newspaper to complain about treatment by her school director, who is not upholding regulations.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
@@ -135,15 +157,16 @@ This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhis
 
 ![Women and Stalinism: Newspaper, Women’s Activism](/images/Icons-Document-thumbnail_387.jpg)
 
+#### Annotation
+
 This article reflects a more complex example of state-controlled media. It is more negative in tone, by providing examples of problems in daily life, including shortages of housing and food, unequal treatment at work, and lack of services for families. Once again, the intention is to assert the achievements of the Soviet regime while also referring to problems that needed to be overcome through even greater efforts. In this case, however, the article also seeks to attribute blame for these problems to specific individuals, offices, or practices that could be made accountable. Women continued to bear a disproportionate burden of family responsibilities, and the actual availability of maternity leave, services for new mothers, and child care fell short of promises and propaganda. This article, from the regional newspaper for Uzbekistan, reflects a shift in the tone of the Soviet press during the Great Terror, when articles became almost hysterical in making accusations against alleged “enemies” and “traitors” accused of “anti-Soviet” activities. This extreme language served the dual purpose of explaining continued difficulties by finding scapegoats and legitimizing the repressive measures taken by Stalin, the secret police, and the regime as a whole against so-called “enemies of the people.” In this article, the increased activism in women is contrasted to the continued discrimination, harassment, and even violence that they encountered at the hands of men, as a husband was sentenced to death for attempting to kill his wife in retaliation for her increased political activism in support of the Soviet government.
 This source is a part of the [*Women and Stalinism, 1929-1939*](https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939) teaching module.
 
-
 ## Teaching Strategies
 
-Using primary sources to study the issues and themes outlined in the introduction poses particular challenges for teachers and students. All of the sources included in this packet were produced by the Soviet regime through its publication of newspapers and release of statistics. The Soviet media of the 1930s was controlled by the Communist Party and its affiliate organizations, and served as a means to disseminate a particular set of messages. These articles should not be read as if they followed the ideal model of a free press, where newspapers provided space for opposing views, where distinctions were made between news articles and opinion pieces, and where journalists enjoyed some measure of autonomy from the government. A more productive approach is to read these sources as a kind of advertising for the Soviet regime and its ideological position.   
-  
-  
+Using primary sources to study the issues and themes outlined in the introduction poses particular challenges for teachers and students. All of the sources included in this packet were produced by the Soviet regime through its publication of newspapers and release of statistics. The Soviet media of the 1930s was controlled by the Communist Party and its affiliate organizations, and served as a means to disseminate a particular set of messages. These articles should not be read as if they followed the ideal model of a free press, where newspapers provided space for opposing views, where distinctions were made between news articles and opinion pieces, and where journalists enjoyed some measure of autonomy from the government. A more productive approach is to read these sources as a kind of advertising for the Soviet regime and its ideological position.<br>
+<br>
+<br>
 Like advertisements, these sources deliberately combined positive and negative messages, selectively introduced examples that promoted certain objectives, and sought to convince the reader of a definite set of opinions. Soviet sources can also be read for both their intended and inadvertent content. Particularly in cases where the articles described some of the more difficult or destructive aspects of Stalinism, reading “against the grain” is a useful exercise in historical analysis. While all the articles contain some negative elements, these need to be seen as part of a propaganda campaign: by describing obstacles and problems, these articles sought to convince readers that while progress had been and was still being made, even greater efforts would be needed in the future.
 
 **Discussion Questions:**
@@ -165,9 +188,9 @@ After completing this lesson, students will be able to:
 
 1. describe examples of Soviet propaganda on women.
 2. form reasonable hypotheses about the reasons for that propaganda.
-3. identify primary areas of women’s employment in the Soviet Union, and the  
+3. identify primary areas of women’s employment in the Soviet Union, and the<br>
    particular successes of women in the world of work.
-4. evaluate the advantages and disadvantages of having large numbers of women  
+4. evaluate the advantages and disadvantages of having large numbers of women<br>
    enter the workforce.
 
 ##### Materials
@@ -268,10 +291,10 @@ Women’s roles in the 1930s are discussed in terms of a long process of pursuin
 
 ## Credits
 
-**About the Author**  
+**About the Author**<br>
 Tom Ewing is Professor of History at the Virginia Polytechnic Institute and State University. He has written several books, including *Revolution and Pedagogy: Interdisciplinary and Transnational Perspectives on Educational Foundations* (2005) and *Teachers of Stalinism: Policy, Practice, and Power in Soviet Schools of the 1930s* (2002). Other publications include “Restoring Teachers to their Rights: Soviet Education and the 1936 Denunciation of Pedology”; “Personal Acts with Public Meanings: Suicide by Soviet Women Teachers in the Stalin Era”, and “Gender Equity as a Revolutionary Strategy: Soviet Coeducation, 1917 to 1943.” He is also Project Director of the Digital History Reader, an educational website dedicated to the study of United States and European history.
 
-**About the Lesson Plan Author**  
+**About the Lesson Plan Author**<br>
 Elizabeth Ten Dyke teaches 9th and 10th grade Global History and Geography at Kingston High School in Kingston, New York. In the past she has also taught secondary sociology, psychology, and AP Human Geography, as well as undergraduate and graduate courses in cultural anthropology. Trained as a cultural anthropologist, Dr. Ten Dyke is the author of *Dresden: Paradoxes of Memory in History*, published with Routledge in 2001. This study explores tensions and contradictions in social memory and historical understanding in the former German Democratic Republic during the post-socialist transition.
 
 This teaching module was originally developed for the Women in World History project.

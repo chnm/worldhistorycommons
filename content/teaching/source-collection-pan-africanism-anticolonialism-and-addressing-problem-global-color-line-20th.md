@@ -26,6 +26,8 @@ related_sources:
   - link: "/newspaper-report-fourth-pan-african-congress-meeting-1927"
     image: "/images/The_Monitor_source_4_thumbnail.png"
     alt: "Image of newspaper. Transcription in folder."
+how_to_cite: |
+  "Source Collection: Pan-Africanism, Anticolonialism and Addressing the Problem of the Global Color Line in the 20th Century," in World History Commons, https://worldhistorycommons.org/source-collection-pan-africanism-anticolonialism-and-addressing-problem-global-color-line-20th [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -50,6 +52,8 @@ This primary source set may be of use to instructors wanting to provide students
 
 ![Newspaper Report on Pan-African Congress's Response to U.S. Lynchings](/images/US_LYNCHING_THUMBNAIL.png)
 
+#### Annotation
+
 This November 19, 1921 article comes from The Chicago Whip, a Chicago-based newspaper founded by William C. Linton, an African American editor and publisher originally from Atlanta, Georgia. The paper frequently reported on racial inequality in the United States. This article in particular covers a speech Walter F. White, then secretary of the National Association for the Advancement of Colored People and American delegate to the Pan-African Congress, gave in the United States after returning from the 1921 Pan-African Congress in London, England. According to White, during this most recent meeting of the Pan-African Congress, European delegates to the Pan-African Congress in general, and British people in particular had expressed disgust and abhorrence at the rate at which whites lynched Black people in the United States. White further noted that an un-named delegate from South Africa not only drew a comparison between white-on-Black violence in the United States and South Africa but also suggested that there was a direct correlation between anti-Black racial violence in the United States and South Africa. According to the South African delegate, white South Africans felt emboldened to act on “racial hatred” because they saw how the U.S. federal government had taken no legislative steps to prevent lynching despite such anti-Black racial violence becoming the subject of international attention via international newspaper coverage. The author further notes that during this session of the Pan-African Congress, delegates framed anti-Black racism and racial inequality as an international problem and proposed these disparities be addressed through economic resources.
 
 This source is part of the [source collection on the Pan-African movement's activism against the global color line](https://worldhistorycommons.org/source-collection-pan-africanism-anticolonialism-and-addressing-problem-global-color-line-20th).
@@ -57,6 +61,8 @@ This source is part of the [source collection on the Pan-African movement's acti
 ### [Newspaper Article Promoting the Pan-African Congress](/newspaper-article-promoting-pan-african-congress)
 
 ![Newspaper Article Promoting the Pan-African Congress](/images/The_Monitor_thumbnail_2__WC___copy.png)
+
+#### Annotation
 
 This article appears in the August 4, 1921 edition of the Omaha, Nebraska based newspaper, The Monitor. The Monitor was an African American run newspaper and typically featured stories about African Americans. This article contains quotes from African American intellectual, writer, and activist W.E.B. Du Bois, an organizer and American delegate for the 1919 Pan-African Congress. The article follows a question-and-answer pattern and offers readers insight into the who, what, when, where and why of the Pan-African Congress. The author notes that “Pan-African” refers to all the people of African descent regardless of national identity and reveals that the Pan-African Congress seeks to unite Pan-Africans and their white allies in a fellowship that seeks to address the “color problem” (a term used during this period to describe racial inequality and white racial and political hegemony) at the international level through cooperation, rather than local level. The article also makes reference to all modern problems having an international dimension and directly ties the fate of people of color living in the United States to those living in Jamacia or other parts of the world noting that the modern world is an interdependent world. The article also emphasizes that “the Pan-African Congress is not a scheme of migration to Africa or elsewhere.” Although the article does not specifically explain this, this is likely a reference to Garveyism and Ethiopianism, other competing black nationalist movements during this period that sometimes advocated for people of African descent to migrate to Africa. The author also explains that the Congress “is not a project of veiled or open war or conquest. It is not based on revolution or race hatred. It seeks knowledge and action through reason and law.” This clarification is likely a preemptive response to anyone wishing to discredit the group or its intentions. The article ends with a note about how the NAACP is helping to fund the Pan-African Congress’ upcoming meeting and asks if readers will contribute financially to the cause.
 
@@ -66,6 +72,8 @@ This source is part of the [source collection on the Pan-African movement's acti
 
 ![W.E.B. DuBois Details the 1919 Pan-African Congress in Newspaper Article](/images/The_Pan-African_Congress_WEB_DUBOiS_thumbnail_copy.jpg)
 
+#### Annotation
+
 This article comes from Cayton’s Weekly, a historically Black newspaper published in Seattle, Washington. The article, written by W.E.B. Du Bois, offers readers insight into the 1919 Pan-African Congress held in Paris, France. This Congress was comprised of fifty-seven delegates from fifteen nations and European colonial outposts including the United States,  the French West Indies, Haiti, France, Liberia, the Spanish Colonies, Portuguese Colonies, Santo Domingo, England, British Africa, French Africa, Algeria, Egypt, Belgian Congo, and Abyssinia. According to Du Bois, delegates expressed their desire to promote racial unity. Some delegates also utilized a human rights discourse, to challenge the legitimacy of racial inequality while the delegate from Liberia presented his country as an example for the rest of the world of a Black republic. France’s Chairman of Foreign Affairs pointed to the fact that France had six chamber members that were persons of color as proof that France was committed to liberty and equality regardless of race. This is contrasted with other white hegemonic states such as Britain and the United States who, despite racial diversity within their populations, lack diversity in government. Several delegates also make reference to the need to people of color to assert and claim rights.
 
 This source is part of the [source collection on the Pan-African movement's activism against the global color line](https://worldhistorycommons.org/source-collection-pan-africanism-anticolonialism-and-addressing-problem-global-color-line-20th).
@@ -74,10 +82,11 @@ This source is part of the [source collection on the Pan-African movement's acti
 
 ![Newspaper Report on the Fourth Pan-African Congress Meeting in 1927](/images/The_Monitor_source_4_thumbnail.png)
 
+#### Annotation
+
 This article comes from The Monitor, a historically African American newspaper published in Omaha, Nebraska. The article offers readers insight into the fourth Pan-African Congress meeting held in 1927 in New York City. According to the article, this meeting comprised of delegates from twenty states,  the West Indies, South America, South Africa, Japan, Germany, the Gold Coast, Nigeria, Liberia, and Sierra Leone, resulted in the publication of a manifesto. This manifesto called for Black people to have a larger presence in government, for “native rights to the land and its natural resources,” “modern education for all children,” “the development of Africa for the Africans and not merely for the profit of the Europeans,” “the re-organization of commerce and industry so as to make the main object of capital and labor the welfare of the many rather than the enrichment of the few,” and “the treatment of civilized men as civilized despite differences of birth race or color.”  The article also notes that members of this Congress argued that the United States should remove its troops for Haiti, criticized white South Africans for settling onto lands occupies by Black South African Natives, and advocated for “the cessation of interference by the United States in Central and South African countries. Connecting the fate of Black Americans to other people of African descent around the world, the Congress further noted that Black Americans should focus on “the international problems of the color line.” Members also expressed support for national independence for Egypt, China, and India thus further demonstrating a critique of colonialism.  Members of the Pan African Congress also declared themselves in favor of Black Americans joining trade unions.
 
 This source is part of the [source collection on the Pan-African movement's activism against the global color line](https://worldhistorycommons.org/source-collection-pan-africanism-anticolonialism-and-addressing-problem-global-color-line-20th).
-
 
 ## Teaching Strategies
 

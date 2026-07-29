@@ -26,6 +26,8 @@ related_sources:
   - link: "/terakoya-vs-meiji-school"
     image: "/images/terakoya_for_girls_thumbnail.jpeg"
     alt: "Terakoya vs. Meiji School thumbnail image"
+how_to_cite: |
+  "Long Teaching Module: Educational Reform in Japan (19th c.)," in World History Commons, https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -72,12 +74,16 @@ While the public educational systems in mid-19th century Europe and America repr
 
 ![Emperor Meiji to President Grant on Iwakura Mission](/images/Icons-Document-thumbnail_115.jpg)
 
+#### Annotation
+
 The Iwakura Mission was a visit to the United States and Europe between 1871 and 1873 by many of the top officials of the new Meiji government. The primary purpose of the mission was to observe Western countries with an eye towards building a modern nation-state in Japan: in the words of the document, to "select from the various institutions prevailing among enlightened nations such as are best suited to our present conditions, and adapt them in gradual reforms and improvements of our policy and customs so as to be upon an equality with them." Notice, however, that such "improvements" were also motivated by the desire to overturn the unequal treaties imposed upon Japan by the U.S. in 1858. Education is not mentioned here, but the members of the Iwakura Mission were keenly interested in observing schools and learning more about educational policy. Educational reform was tied closely to the desire to overturn unequal trade arrangements and avoid falling prey to Western imperialism.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
 
 ### [Preamble to the Fundamental Code of Education](/preamble-fundamental-code-education)
 
 ![Preamble to the Fundamental Code of Education](/images/Icons-Document-thumbnail_114.jpg)
+
+#### Annotation
 
 The following paragraphs came at the beginning of a 109-article plan, promulgated in 1872, to establish a national school system under the direction of the new Meiji government. This ambitious plan divided the country into eight university districts, each of which was divided into 32 middle-school districts. This plan drew upon a close examination of educational systems in the West—the U.S. and France, in particular—and reflected the desire on the part of the Meiji government to make schooling compulsory and centralized. Several decades would pass before this goal was fully realized. Nonetheless, it is important to note that the new government prioritized at its very inception—at a time when it was still unstable and financially strapped—the goal of standardized, compulsory, centralized schooling.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
@@ -86,12 +92,16 @@ This source is a part of the [*Educational Reform in Japan (19th c.)*](https://w
 
 ![An Encouragement of Learning](/images/Icons-Book-Excerpt-thumbnail_8.jpg)
 
+#### Annotation
+
 Fukuzawa Yukichi (1835-1901) is one of the most famous figures of modern Japan. He was an intellectual, journalist, and educator who was the most visible advocate of modernization and Western Learning in the 1870s and 1880s. In this excerpt from his 1872 An Encouragement of Learning, Fukuzawa rejects traditional social hierarchies and the classical mode of education practiced by those at the top of those hierarchies. In their place, Fukuzawa calls for a merit-based social hierarchy and, accordingly, a more practical approach to education that will equip individuals to succeed in the new meritocracy. The influence of enlightenment philosophy in Fukuzawa's thought is strong. In particular, he expresses a strong faith in the universality of human reason; cultivating those powers of reason, in turn, is the key to developing a spirit of liberty and freedom. Childhood is mentioned only rarely in Fukuzawa's writings on education. His own efforts as an educator were aimed at young adults. The school he founded, Keiō Gijuku, eventually became one of Japan's great universities.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
 
 ### [Terakoya vs. Meiji School](/terakoya-vs-meiji-school)
 
 ![Terakoya vs. Meiji School](/images/terakoya_for_girls_thumbnail.jpeg)
+
+#### Annotation
 
 Contrary to impression left by document #2, schools for commoners were plentiful prior to the Meiji Restoration in 1868. These schools are usually known by the term *terakoya*, which literally means "temple school." The first image is of one such *terakoya*, depicted here in an 18th-century woodblock print. The second image is of a Meiji-era elementary school classroom, found in a teacher training manual. The contrast is stark; in particular, the classroom arrangement, the behavior of the children, and the overall learning atmosphere seems drastically different. Of course, one shouldn't conclude from these pictures that children in pre-Meiji *terakoya* were out of control and those in modern elementary schools were orderly. However, bodily discipline and the regimentation of time and space within the school—which are depicted clearly in the second image—were indeed priorities for Meiji-era educators. The arrangement of the classroom—with a blackboard and the teacher's desk at the front, and student desks in straight lines all facing the same direction—reflected these new priorities.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
@@ -100,12 +110,16 @@ This source is a part of the [*Educational Reform in Japan (19th c.)*](https://w
 
 ![Meiji Era School Attendence](/images/meiji-era-school-attendance-thumbnail.png)
 
+#### Annotation
+
 Below are two tables that reveal both the accomplishments and the limitations of Meiji educational reforms. Table 1 shows an impressive increase in the number of schools and the enrollment rates for both girls and boys, one that culminates in 1905 with near-universal enrollment rates. Table 2, however, reveals the fact that enrollment rates and attendance rates were not identical. In this particular elementary school, the average daily attendance rate dropped sharply at two times: in winter, when severe weather made commuting difficult, and in summer, when children were expected to perform agricultural work for the family. While this table shows statistics for only one village, similar patterns prevailed throughout rural Japan well into the 1920s and 1930s. These patterns suggest the difficulties that governments encounter when they attempt to implement compulsory schooling. Schooling involves a basic change in the patterns of childhood and the family economy. For most families, sending children to school all day for most of the year involved a significant loss of available labor for household tasks, as well as a change in the schedules and rhythms of family life. Even when parents began to send their children to school, they often did so only insofar as it conformed to those schedules and rhythms.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
 
 ### [Kaichi and Mitsuke Schools](/kaichi-and-mitsuke-schools)
 
 ![Kaichi and Mitsuke Schools](/images/formermisukeschool_897dfa2006THUMB.jpg)
+
+#### Annotation
 
 While most pre-Meiji commoner schools were held either in temples or in the homes of the teachers, most teachers and officials associated with the Meiji education reforms emphasized the importance of having schools in new buildings created specifically for the purpose of education. While this goal took around three decades to accomplish, there were some early, ambitious efforts to erect school buildings modeled—albeit partially—on examples from contemporary European and American school architecture. Here are two such examples. The first is Kaichi Elementary School, built in 1873, and the second is Mitsuke Elementary School, built in 1875. In both cases, builders used existing construction techniques and materials to fashion buildings modeled closely on the designs of European and American schools. These new buildings were of great symbolic importance within their communities—for some, embodying the enlightenment ideals of the era, and for all, representing in concrete form the dramatic era of transformation that was unfolding during the Meiji era.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
@@ -114,12 +128,16 @@ This source is a part of the [*Educational Reform in Japan (19th c.)*](https://w
 
 ![Imperial Rescript: The Great Principles of Education](/images/Icons-Document-thumbnail_113.jpg)
 
+#### Annotation
+
 During the 1870s, the Meiji government established many institutions based on the examples from Europe and the U.S., and many intellectuals advocated a thoroughgoing transformation of Japanese society and culture patterned after the model of civilization they observed in the West. Others, however, were uncomfortable with the pace of change and the sudden influx of Western influences. They called instead for more moderate, limited changes, and urged the government to design reforms that were consistent with Japanese culture and tradition. What constituted "tradition" was always a matter of debate, of course. In this document, a Confucian ideologue and advisor to the Meiji emperor, Motoday Nagazane, attempts to define Japanese tradition as essentially Confucian. After accompanying the emperor on a tour of schools in the provinces and being alarmed by what he had observed, Motoda composed the following rescript. Notice that he affirms, like Mitsukuri Shuei in "On Education" and the author of the preamble to the Fundamental Code, the importance of childhood and the need for schooling; however, his vision of the content and goals of schooling is quite different.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
 
 ### [Two Girls Carrying Children](/two-girls-carrying-children)
 
 ![Two Girls Carrying Children](/images/two-girls-carrying-children_7f741aa954THUMB.jpg)
+
+#### Annotation
 
 One of the major obstacles to consistent attendance at the new elementary schools was the fact that children played an important role in the household economy. One such role was that of caregiver for younger children. In this picture, we see an image that was striking to many European and American observers in the 19th century: older daughters–perhaps no older than nine or ten themselves–with younger siblings strapped to their backs. Japanese officials and educational reformers of the Meiji era often complained that rural parents were unwilling to send girls to school because they were needed to care for younger siblings– or, that they arrived at school with infants on their backs. This picture, therefore, captures one of the conflicts between the ideal of compulsory schooling and the realities of rural life.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
@@ -128,9 +146,10 @@ This source is a part of the [*Educational Reform in Japan (19th c.)*](https://w
 
 ![Explanation of School Matters](/images/Icons-Document-thumbnail_110.jpg)
 
+#### Annotation
+
 This document was written one year after the "Imperial Rescript on Education" by Education Minister Oki Takato. In it he affirms some of the basic principles in the Imperial Rescript–morality, reverence for emperor, patriotism–and articulates more concretely the shifting emphasis within the educational system. For example, he discusses how schooling should not focus on practical skills alone, but also on cultivating a moral foundation among children that is "based on Japan's distinctive way." It also reveals anxieties about the potential of universal education for undermining traditional gender roles and social hierarchies–which was, in fact, a concern shared by elites throughout the world at this time. This document therefore reveals an important aspect of Japan's modern transformation. On one hand, the issues faced by the modernizing government were very similar to those faced by governments in Europe and the U.S. On the other hand, the threat of imperialism produced in Japan--and in other societies that faced this threat–a desire to establish a path to modernity that was somehow distinct from, and stood in opposition to, the experience of the West.
 This source is a part of the [*Educational Reform in Japan (19th c.)*](https://worldhistorycommons.org/long-teaching-module-educational-reform-japan-19th-c) teaching module.
-
 
 ## Teaching Strategies
 
@@ -175,10 +194,10 @@ Time Estimated: two to three 45-50-minute classes
 
 ##### Day One
 
-Hook  
+Hook<br>
 Compare the two images of Terakoya vs. Meiji School. Jot down a list of characteristics that describe the first school and th e second one. How does the nature of education seem to have changed? Which one would you rather attend, and why? What may have been lost and gained in the process of change?
 
-Making Sense of the Sources  
+Making Sense of the Sources<br>
 The most difficult task in using this teaching module is differentiating among similar ideas expressed in the written documents, and matching them with the various quarters of society in which they originated. It is necessary to identify the voice (traditional elements, progressive modernizers, state officials) and record their keywords and viewpoints, the outlines of debates and issues, tensions between the need to reform and the need to preserve, the social tensions and practical issues involved. Use the graphic organizer to collect and summarize ideas expressed in the documents about the nature and purpose of education in Meiji Japan, filling in the chart as an individual or small-group activity. Debrief after filling out the chart, discussing the change in the subjects, objects, and purposes of education these writers contemplated or realized. Finally, what evidence do the documents present concerning the sources of pressure to change the education system?
 
 Use the Kaichi and Mitsuke Schools image to describe the physical setting of the modernized schools, including the second and third of the series of classroom images in Terakoya vs. Meiji School. Discuss the change from traditional education to modern education in light of what the documents reflect of Japanese intellectuals' and officials' vision of a modernized Japanese society. How do the school buildings reflect both traditional Japanese and Western influences?
@@ -197,10 +216,10 @@ The culminating activity is writing the DBQ essay, which can be done as an outsi
 
 ##### Differentiation
 
-Advanced Students  
+Advanced Students<br>
 Students may research additional information on Japanese schooling during the Meiji period, such as curriculum and images of textbooks, narratives about school days from literature and film, for example.
 
-Less Advanced Students  
+Less Advanced Students<br>
 Remedial students can focus on a more limited range of documents and themes and could be given a modified question that of more limited scope. Alternatively, they can be given more time and scaffolding to help identify the issues. A small-group activity, for example, would have each student become very familiar with just one of the documents, and represent that voice and point of view in a panel discussion role-playing a debate among Japanese policy-makers on how to reform the schools. Their preparation could be supported by reading textbook summaries on the social history of Japan during that period, in order to identify the various interest groups and associate them with the positions taken in the documents.
 
 1 Texts include:
@@ -219,7 +238,7 @@ Remedial students can focus on a more limited range of documents and themes and 
 
 ## Document Based Question
 
-by Susan Douglass  
+by Susan Douglass<br>
 (Suggested writing time: 45-50 minutes)
 
 Using the images and texts in the documents provided, write a well-organized essay of at least five paragraphs in response to the following prompt.

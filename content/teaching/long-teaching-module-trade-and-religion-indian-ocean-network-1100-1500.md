@@ -29,6 +29,8 @@ related_sources:
   - link: "/navigational-charts-based-those-used-zheng-he"
     image: "/images/Stellardiagram-ZhenghoTHUMB.jpg"
     alt: "Stellar diagram features a drawing of a ship surrounded by Chinese characters"
+how_to_cite: |
+  "Long Teaching Module: Trade and Religion in the Indian Ocean Network, 1100-1500," in World History Commons, https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500 [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -69,12 +71,12 @@ The last four sources are objects that were carried around the Indian Ocean by r
 
 ##### Additional Resources:
 
-Janet Abu-Lughod, *Before European Hegemony: The World System, A.D.1250-1350* (Oxford: Oxford University Press, 1989).  
-Jerry H. Bentley, *Old World Encounters: Cross Cultural Contacts and Exchanges in Pre-Modern Times*  (New York: Oxford University Press, 1993).  
-Joan Celebi, “The Indian Ocean Trade: A Classroom Simulation” 1993 http://www.bu.edu/africa/outreach/teachingresources/history/indian/ Accessed May 12, 2021  
-Ross E. Dunn, *The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century* (University of California Press, 1994, newly issued 2004).  
-Louise Levathes, *When China Ruled the Seas: The Treasure Fleet of the Dragon Throne, 1405-1433* (New York: Oxford University Press, 1994).  
-Kenneth Pomeranz and Steven Topik, *The World that Trade Created: Society, Culture, and the World Economy*, 3rd. ed. (Armonk, NY: M.E. Sharpe, 2013).  
+Janet Abu-Lughod, *Before European Hegemony: The World System, A.D.1250-1350* (Oxford: Oxford University Press, 1989).<br>
+Jerry H. Bentley, *Old World Encounters: Cross Cultural Contacts and Exchanges in Pre-Modern Times*  (New York: Oxford University Press, 1993).<br>
+Joan Celebi, “The Indian Ocean Trade: A Classroom Simulation” 1993 http://www.bu.edu/africa/outreach/teachingresources/history/indian/ Accessed May 12, 2021<br>
+Ross E. Dunn, *The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century* (University of California Press, 1994, newly issued 2004).<br>
+Louise Levathes, *When China Ruled the Seas: The Treasure Fleet of the Dragon Throne, 1405-1433* (New York: Oxford University Press, 1994).<br>
+Kenneth Pomeranz and Steven Topik, *The World that Trade Created: Society, Culture, and the World Economy*, 3rd. ed. (Armonk, NY: M.E. Sharpe, 2013).<br>
 Richard L. Smith, *Premodern Trade in World History *(London: Routledge, 2008).**
 
 ## Primary Sources
@@ -83,12 +85,16 @@ Richard L. Smith, *Premodern Trade in World History *(London: Routledge, 2008).*
 
 ![Excerpt from Ibn Battuta's Travels in Asia and Africa 1325-1354](/images/Icons-Document-thumbnail_721_0_0.jpg)
 
+#### Annotation
+
 This source comes from the travel book of Ibn Battuta (1304-1369), a Moroccan Berber scholar and explorer. He began his travels with the pilgrimage to Mecca expected of observant Muslims, and then continued on to Persia, down the east coast of Africa to Kilwa on the Swahili Coast, back north through Syria to the Central Asian steppes, then south again to India, where he became an official of the sultan ruling there. The Delhi sultan sent him as a diplomat to China, and although he was shipwrecked he did make it to the Yuan emperor’s court in Beijing, with stops in Bengal, southern China, and various Southeast Asian ports on the way. He returned home to Morocco by way of Mecca, stopped for a bit, and then set out by camel caravan across the Sahara desert to Mali. When he returned from that trip the sultan of Morocco gave him a scribe, and the two together composed a travel book in Arabic, whose formal title reads A Gift to Those Who Contemplate the Wonders of Cities and the Marvels of Travelling. The book relied on memory rather than written notes and mixed in stories of foreign lands from the works of earlier travelers, so there has been some skepticism about it, but most historians think that he was actually in most of the places he said he was. This particular excerpt concerns his travels in southwest Asia and eastern Africa to Damascus, Basra, Mogadishu, Mombasa, and Kilwa.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module.
 
 ### [Kilwa Map Illustration](/kilwa-map-illustration)
 
 ![Kilwa Map Illustration](/images/KilwaMapTHUMB.jpg)
+
+#### Annotation
 
 This illustration shows the trading city state of Kilwa or Kilwa Kiswani on an island off the Swahili Coast in East Africa (modern Tanzania), which flourished between the 12th and 15th century. This engraving was printed in Georg Braun and Franz Hogenberg’s Civitates orbis terrarium (1572-1617), a six-volume work with hundreds of bird's-eye views and maps of cities from all around the world.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module.
@@ -97,12 +103,16 @@ This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1
 
 ![Excerpt from the Memoirs of Ma Huan](/images/Icons-Document-thumbnail_721_0_1.jpg)
 
+#### Annotation
+
 This excerpt is from the memoir of Ma Huan (1380-1460), a Chinese Muslim voyager and translator, who accompanied Admiral Zheng He on three of his seven voyages. The excerpt focuses on their time in Calicut (modern day Kozhikode, India) in the 1430s and highlights aspects of their experiences there. In this excerpt Ma Huan describes religious practices of Muslims and Hindus (who he mistakenly refers to as Buddhists), and trading practices of various groups in the area.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module.
 
 ### [Navigational Charts Based on Those Used by Zheng He](/navigational-charts-based-those-used-zheng-he)
 
 ![Navigational Charts Based on Those Used by Zheng He](/images/Stellardiagram-ZhenghoTHUMB.jpg)
+
+#### Annotation
 
 These two woodblock prints are part of a map printed in a seventeenth-century military treatise, and thought to be based on the maps used by Zheng He in his voyages. The map is therefore usually known as “Zheng He Map.” It depicts the coastline from China to the central eastern coast of Africa arranged as a long strip. The first of these prints shows Africa at the bottom and Ceylon at the upper right. (The Indian Ocean is not proportional in size to these, and the map has varying scale and orientation.) The second print is one of four stellar diagrams that were included along with the navigational charts, which shows the guiding stars en route from Hormuz to Calicut, the voyage described by Ma Huan [here](https://worldhistorycommons.org/excerpt-memoirs-ma-huan). At the top is the constellation known in the U.S. as the Big Dipper, long recognized as pointing toward the North Star. Navigators used the height of stellar constellations to determine latitude and help ensure correct navigation. In the middle of this stellar chart is an illustration of a ship similar to those on Zheng He’s voyages.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module, the [*Premodern Chinese Maps and the Global Maritime World*](https://worldhistorycommons.org/short-teaching-module-premodern-chinese-maps-and-global-maritime-world) teaching module, and the [*Primer: Oceans*](https://worldhistorycommons.org/primer-oceans) methods module.
@@ -111,12 +121,16 @@ This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1
 
 ![The Half-Male, Half-Female Form of Shiva (Shiva Ardhanarishvara)](/images/DT8683THUMB.jpg)
 
+#### Annotation
+
 This sculpture is of Shiva, originally found in Kerala, southwestern India, shows the importance of religious symbols in Hinduism. Shiva is a major Hindu god who is associated with the opposing ideas of destruction and regeneration. As evidence of Shiva's divine status, the god was often depicted as male and female at once indicating that Shiva was above and outside the physical world, beyond human limitations. As a result of the Indian Ocean trading network, sculptures such as these spread to Southeast Asia and to the east coast of Africa, showing the role of trade in the distribution of ideas and artifacts.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module.
 
 ### [Buddha Sheltered by a Naga](/buddha-sheltered-naga)
 
 ![Buddha Sheltered by a Naga](/images/DP102610THUMB.jpg)
+
+#### Annotation
 
 This small bronze statue made in Cambodia in the twelfth century shows the serpent king Muchilinda, a type of mythical half human and half cobra being known as a naga, protecting the Buddha. Images of this scene became popular in the twelfth century Khmer Kingdom of today’s Cambodia, sponsored by King Jayavarman VII (c. 1122–1218), a strong supporter of Buddhism. Buddhist ideas came into Southeast Asia from India in a long process that began in the third century. Buddhist objects came with them, but Southeast Asia also developed its own Buddhist traditions, and created devotional objects that reflected these, such as this statue. These were then taken wherever Southeast Asian Buddhists travelled, and sold my merchants as well.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module.
@@ -125,9 +139,10 @@ This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1
 
 ![Porcelain tankard, fifteenth century China](/images/porcelaintandardTHUMB.jpeg)
 
+#### Annotation
+
 This Ming dynasty porcelain tankard incorporates some Chinese elements, such as the peony flower design on the body and the dragon-shaped handle. Its shape was not Chinese, however, but based on Islamic metalwork, which indicates it was made for export. Porcelain formed a large share of the goods exported from China across the Indian Ocean, and, after the fifteenth century, beyond it to Europe.
 This source is a part of the [*Trade and Religion in the Indian Ocean Network, 1100-1500*](https://worldhistorycommons.org/long-teaching-module-trade-and-religion-indian-ocean-network-1100-1500) teaching module.
-
 
 ## Credits
 

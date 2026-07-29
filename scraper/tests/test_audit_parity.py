@@ -2,6 +2,8 @@ import sys
 import unittest
 from pathlib import Path
 
+from bs4 import BeautifulSoup
+
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
@@ -9,6 +11,7 @@ from audit_parity import (  # noqa: E402
     Target,
     compare_snapshots,
     discover_csv_targets,
+    element_text,
     parse_snapshot,
 )
 
@@ -114,6 +117,13 @@ REVIEW_HUGO_EMPTY_URL = REVIEW_DRUPAL.replace(
 
 
 class SnapshotTests(unittest.TestCase):
+    def test_text_nested_under_legacy_break_remains_visible(self):
+        soup = BeautifulSoup(
+            "<div>Before<br>After</br></div>",
+            "html.parser",
+        )
+        self.assertEqual(element_text(soup.div), "Before After")
+
     def test_source_reports_missing_translation(self):
         drupal = parse_snapshot(SOURCE_DRUPAL, "/example", "source")
         hugo = parse_snapshot(

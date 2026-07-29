@@ -33,6 +33,8 @@ related_sources:
   - link: "/saint-domingue-some-geography"
     image: "/images/Icons-Document-thumbnail_291.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Source Collection: Slavery and the Haitian Revolution," in World History Commons, https://worldhistorycommons.org/source-collection-slavery-and-haitian-revolution [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -67,11 +69,15 @@ Americans in the new United States followed the events in Saint Domingue with an
 
 ![Execrable Human Traffick, or The Affectionate Slaves](/images/painting-of-slave-sale-thumbnail.jpeg)
 
+#### Annotation
+
 This reproduction of a painting by George Morland (1789) has lurid colors and shows the sale of an enslaved person. The artist suggests that friends or relatives are being separated, as one of the slaves is being physically restrained as the other enslaved individual is being forced into a boat.
 
 ### [Enslaved and Free Blacks in Saint Domingue](/enslaved-and-free-blacks-saint-domingue)
 
 ![Enslaved and Free Blacks in Saint Domingue](/images/saint-domingue-thumbnail.jpeg)
+
+#### Annotation
 
 This engraving pairs images of enslaved people and free blacks in four categories: dress, deportment, entertainment, and access to water. Although there are differences between the pairs, these are not as great as they might be.
 
@@ -79,11 +85,15 @@ This engraving pairs images of enslaved people and free blacks in four categorie
 
 ![THE CODE NOIR (THE BLACK CODE)](/images/Icons-Document-thumbnail_290.jpg)
 
+#### Annotation
+
 The Code noir initially took shape in Louis XIV’s edict of 1685. Although subsequent decrees modified a few of the code’s provisions, this first document established the main lines for the policing of slavery right up to 1789. The very first article expels all Jews from the colonies; Jews played a significant but hardly dominant role in the Dutch colonies of the Caribbean region but were not allowed to own property or slaves in the French colonies. The edict also insisted that all slaves be instructed as Catholics and not as Protestants. For the most part, the code concentrated on defining the condition of slavery (passing the condition through the mother not the father) and establishing harsh controls over the conduct of those enslaved. Slaves had virtually no rights, though the code did enjoin masters to take care of the sick and old.
 
 ### [Saint Domingue: Some Geography](/saint-domingue-some-geography)
 
 ![Saint Domingue: Some Geography](/images/Icons-Document-thumbnail_291.jpg)
+
+#### Annotation
 
 Born in 1750, Mederic-Louis-Élie Moreau de Saint-Mery grew up in Fort Royal, Martinique as a white Creole and studied law in Paris, France. Moreau was a lawyer, philosopher, and Enlightenment polymath but is also remembered for his proslavery theories and writings that circulated in American and European countries. Moreau was known for his writings on the geography and culture of the French colony Saint Domingue (present-day Haiti) during his tenure as an administrator and member of Saint Domingue’s Superior Council on the eve of the French and Haitian Revolutions. After fleeing France to avoid arrest due to his prominence as a philosopher during the French Revolution, Moreau and his family settled in Philadelphia, Pennsylvania, where he published his most successful work, Description. In Description, Moreau described his theory of racial taxonomy, which separated race into 128 categories based on the percentage of “Black blood.” At this time, another well-known work, “Makandal, Historie vétable” (1787), was translated into English and circulated in the United States and Europe. A story that, by his own admission,was a romanticization of events because his young adulthood coincided with Makandal’s story, making it practically impossible for him to know the maroon leader personally.
 
@@ -93,6 +103,8 @@ Here Moreau de Saint–Méry describes the topography and peoples of the French 
 
 ![SAINT DOMINGUE: THE FREEDMEN](/images/Icons-Document-thumbnail_292.jpg)
 
+#### Annotation
+
 Born in 1750, Mederic-Louis-Élie Moreau de Saint-Mery grew up in Fort Royal, Martinique as a white Creole and studied law in Paris, France. Moreau was a lawyer, philosopher, and Enlightenment polymath but is also remembered for his proslavery theories and writings that circulated in American and European countries. Moreau was known for his writings on the geography and culture of the French colony Saint Domingue (present-day Haiti) during his tenure as an administrator and member of Saint Domingue’s Superior Council on the eve of the French and Haitian Revolutions. After fleeing France to avoid arrest due to his prominence as a philosopher during the French Revolution, Moreau and his family settled in Philadelphia, Pennsylvania, where he published his most successful work, Description. In Description, Moreau described his theory of racial taxonomy, which separated race into 128 categories based on the percentage of “Black blood.” At this time, another well-known work, “Makandal, Historie vétable” (1787), was translated into English and circulated in the United States and Europe. A story that, by his own admission,was a romanticization of events because his young adulthood coincided with Makandal’s story, making it practically impossible for him to know the maroon leader personally.
 
 As many as two–thirds of the enslaved people in Saint Domingue (now Haiti) in 1789 had been born in Africa, but by that time a significant number of Africans or children of Africans had become free. Here Moreau de Saint–Méry details the origins of this pivotal group.
@@ -100,6 +112,8 @@ As many as two–thirds of the enslaved people in Saint Domingue (now Haiti) in 
 ### [Voodoo](/voodoo)
 
 ![Voodoo](/images/Icons-Document-thumbnail_293.jpg)
+
+#### Annotation
 
 Born in 1750, Mederic-Louis-Élie Moreau de Saint-Mery grew up in Fort Royal, Martinique as a white Creole and studied law in Paris, France. Moreau was a lawyer, philosopher, and Enlightenment polymath but is also remembered for his proslavery theories and writings that circulated in American and European countries. Moreau was known for his writings on the geography and culture of the French colony Saint Domingue (present-day Haiti) during his tenure as an administrator and member of Saint Domingue’s Superior Council on the eve of the French and Haitian Revolutions. After fleeing France to avoid arrest due to his prominence as a philosopher during the French Revolution, Moreau and his family settled in Philadelphia, Pennsylvania, where he published his most successful work, Description. In Description, Moreau described his theory of racial taxonomy, which separated race into 128 categories based on the percentage of “Black blood.” At this time, another well-known work, “Makandal, Historie vétable” (1787), was translated into English and circulated in the United States and Europe. A story that, by his own admission,was a romanticization of events because his young adulthood coincided with Makandal’s story, making it practically impossible for him to know the maroon leader personally.
 
@@ -109,6 +123,8 @@ Among the African rituals and customs described by Moreau de Saint–Méry, none
 
 ![That Seductive Mulatto Woman](/images/Icons-Document-thumbnail_294.jpg)
 
+#### Annotation
+
 Born in 1750, Mederic-Louis-Élie Moreau de Saint-Mery grew up in Fort Royal, Martinique as a white Creole and studied law in Paris, France. Moreau was a lawyer, philosopher, and Enlightenment polymath but is also remembered for his proslavery theories and writings that circulated in American and European countries. Moreau was known for his writings on the geography and culture of the French colony Saint Domingue (present-day Haiti) during his tenure as an administrator and member of Saint Domingue’s Superior Council on the eve of the French and Haitian Revolutions. After fleeing France to avoid arrest due to his prominence as a philosopher during the French Revolution, Moreau and his family settled in Philadelphia, Pennsylvania, where he published his most successful work, Description. In Description, Moreau described his theory of racial taxonomy, which separated race into 128 categories based on the percentage of “Black blood.” At this time, another well-known work, “Makandal, Historie vétable” (1787), was translated into English and circulated in the United States and Europe. A story that, by his own admission,was a romanticization of events because his young adulthood coincided with Makandal’s story, making it practically impossible for him to know the maroon leader personally.
 
 Moreau de Saint–Méry painted a particularly negative portrait of mulatto women in Haiti. He paints Creole women as unduly promiscuous and a threat to morals and decency.
@@ -116,6 +132,8 @@ Moreau de Saint–Méry painted a particularly negative portrait of mulatto wome
 ### [The Maroons](/maroons)
 
 ![The Maroons](/images/Icons-Document-thumbnail_295.jpg)
+
+#### Annotation
 
 Born in 1750, Mederic-Louis-Élie Moreau de Saint-Mery grew up in Fort Royal, Martinique as a white Creole and studied law in Paris, France. Moreau was a lawyer, philosopher, and Enlightenment polymath but is also remembered for his proslavery theories and writings that circulated in American and European countries. Moreau was known for his writings on the geography and culture of the French colony Saint Domingue (present-day Haiti) during his tenure as an administrator and member of Saint Domingue’s Superior Council on the eve of the French and Haitian Revolutions. After fleeing France to avoid arrest due to his prominence as a philosopher during the French Revolution, Moreau and his family settled in Philadelphia, Pennsylvania, where he published his most successful work, Description. In Description, Moreau described his theory of racial taxonomy, which separated race into 128 categories based on the percentage of “Black blood.” At this time, another well-known work, “Makandal, Historie vétable” (1787), was translated into English and circulated in the United States and Europe. A story that, by his own admission,was a romanticization of events because his young adulthood coincided with Makandal’s story, making it practically impossible for him to know the maroon leader personally.
 
@@ -125,6 +143,8 @@ In this passage, Moreau de Saint–Méry explains that runaways in Haiti, known 
 
 ![The Slaves from Africa](/images/Icons-Document-thumbnail_296.jpg)
 
+#### Annotation
+
 Born in 1750, Mederic-Louis-Élie Moreau de Saint-Mery grew up in Fort Royal, Martinique as a white Creole and studied law in Paris, France. Moreau was a lawyer, philosopher, and Enlightenment polymath but is also remembered for his proslavery theories and writings that circulated in American and European countries. Moreau was known for his writings on the geography and culture of the French colony Saint Domingue (present-day Haiti) during his tenure as an administrator and member of Saint Domingue’s Superior Council on the eve of the French and Haitian Revolutions. After fleeing France to avoid arrest due to his prominence as a philosopher during the French Revolution, Moreau and his family settled in Philadelphia, Pennsylvania, where he published his most successful work, Description. In Description, Moreau described his theory of racial taxonomy, which separated race into 128 categories based on the percentage of “Black blood.” At this time, another well-known work, “Makandal, Historie vétable” (1787), was translated into English and circulated in the United States and Europe. A story that, by his own admission,was a romanticization of events because his young adulthood coincided with Makandal’s story, making it practically impossible for him to know the maroon leader personally.
 
 The African born enslaved people brought with them to Haiti their African rituals and customs, but the white planters also tried to get them to accept French manners and mores. This description written by Moreau de Saint–Méry demonstrates how whites had a deal of great curiosity about all parts of these Africans’ lives while also maintaining a pose of cultural superiority.
@@ -133,11 +153,15 @@ The African born enslaved people brought with them to Haiti their African ritual
 
 ![The Indigo Plant Farm](/images/indigo-thumbnail.jpeg)
 
+#### Annotation
+
 This print depicts and labels the essential components of a plantation producing indigo, a blue dye used for coloring cloth. Slaves are shown here working at different parts of the production process. In 1789, over 3,000 plantations in Saint Domingue produced indigo.
 
 ### [The Sugar Mill](/sugar-mill)
 
 ![The Sugar Mill](/images/sugar-mill-thumbnail.jpeg)
+
+#### Annotation
 
 This depiction of a sugar plantation in Saint Domingue emphasizes the grinding mill and refining vats. An overseer with a gun supervises the enslaved labor. By 1789 Saint Domingue excelled at sugar production, outpacing other French colonies and the British alike.
 
@@ -145,11 +169,15 @@ This depiction of a sugar plantation in Saint Domingue emphasizes the grinding m
 
 ![The Barnyard](/images/barnyard-thumbnail.jpeg)
 
+#### Annotation
+
 As shown in this print, numerous activities of plantation life were carried out by enslaved people. This scene includes women and children, who formed a relatively small part of the enslaved population.
 
 ### [The Coffee Planter of Saint Domingo (London, 1798)](/coffee-planter-saint-domingo-london-1798)
 
 ![The Coffee Planter of Saint Domingo (London, 1798)](/images/Icons-Document-thumbnail_297.jpg)
+
+#### Annotation
 
 Here Pierre Joseph Laborie provides the perspective of the planter. He gives a detailed description of the organization of enslaved labor in the production of coffee. Although he shared quite negative views of the African enslaved people, he was candid about the extreme brutality that they faced and admitted that it diminished their capacity to work.
 
@@ -157,11 +185,15 @@ Here Pierre Joseph Laborie provides the perspective of the planter. He gives a d
 
 ![Grievance List (September 1789)](/images/Icons-Document-thumbnail_298.jpg)
 
+#### Annotation
+
 The Haitian free blacks and creoles, many of them substantial property owners and slaveholders, sent delegates to the National Assembly in France with a list of their stated grievances and demands. This list of grievances—modeled on those sent from the various districts of France in the spring of 1789—demonstrates the power of the idea of rights but also the particular concerns of those living in the colonies; the free blacks wanted freedom and rights for themselves but assume the continuance of slavery.
 
 ### [Roster of Membership in the Society of Friends of Blacks, 1789](/roster-membership-society-friends-blacks-1789)
 
 ![Roster of Membership in the Society of Friends of Blacks, 1789](/images/Icons-Document-thumbnail_299.jpg)
+
+#### Annotation
 
 Jacques Brissot founded the Society of the Friends of Blacks in 1788 to agitate against the slave trade and slavery itself. Brissot modeled the Society on the London Committee for the Abolition of the Slave Trade established in 1787. He hoped that the groups might cooperate in an international effort to eliminate the slave trade. The French society, knowing that the colonial and commercial interests invested in slavery still exercised great power, cautiously advanced its proposals. This caution was well–founded, since some deputies faced personal attacks in the streets of Paris for their unpopular views. As the roster shows, the society included many leading intellectuals, politicians, and even aristocrats.
 
@@ -169,11 +201,15 @@ Jacques Brissot founded the Society of the Friends of Blacks in 1788 to agitate 
 
 ![Viefville des Essars, On the Emancipation of the Negroes (1790)](/images/Icons-Document-thumbnail_300.jpg)
 
+#### Annotation
+
 This project to free enslaved people in the French colonies was presented to the National Assembly. The defensive tone and rhetorical structure that emerge in the course of this document demonstrate the power of the interests opposed to even cautious steps toward emancipation.
 
 ### [Abbé Grégoire, "Memoir in Favor of the People of Color or Mixed–Race of Saint Domingue" (1789)](/abbe-gregoire-memoir-favor-people-color-or-mixed-race-saint-domingue-1789)
 
 ![Abbé Grégoire, "Memoir in Favor of the People of Color or Mixed–Race of Saint Domingue" (1789)](/images/Icons-Document-thumbnail_301.jpg)
+
+#### Annotation
 
 Baptiste–Henri Grégoire was a parish priest who was elected to the National Assembly by the clergy of Lorraine. He championed the rights of minorities both before the Revolution and in the legislature. The most noted beneficiaries of his attention were Jews and free blacks. He thought giving rights to Jews would encourage assimilation, while giving free blacks a greater stake in society would actually help maintain the institution of slavery because these blacks served in the militias that enforced the slave system. Nonetheless, on other occasions, Grégoire argued for the complete abolition of the institution of slavery.
 
@@ -181,11 +217,15 @@ Baptiste–Henri Grégoire was a parish priest who was elected to the National A
 
 ![A Left–Wing Newspaper Continues the Attack on Slavery (October 1790)](/images/Icons-Document-thumbnail_303.jpg)
 
+#### Annotation
+
 In this article, the influential newspaper The Revolutions of Paris asks if Africans and their descendants are "Born to Slavery?" as part of a general consideration of the situation in the French colonies.
 
 ### [A Left–Wing Newspaper Links the Revolution to the Abolition of Slavery (September 1790)](/left-wing-newspaper-links-revolution-abolition-slavery-september-1790)
 
 ![A Left–Wing Newspaper Links the Revolution to the Abolition of Slavery (September 1790)](/images/Icons-Document-thumbnail_302.jpg)
+
+#### Annotation
 
 During the explosion of newspaper publishing after 1789, the Revolutions of Paris consistently supported radical positions, including the abolition of slavery in articles like this one entitled "No Color Bar."
 
@@ -193,11 +233,15 @@ During the explosion of newspaper publishing after 1789, the Revolutions of Pari
 
 ![A Female Writer’s Response to the American Champion or a Well–Known Colonist](/images/Icons-Document-thumbnail_304.jpg)
 
+#### Annotation
+
 Better known for her defense of the rights of women, Olympe de Gouges defended the rights of the downtrodden in general. Here she points out the cruelty of slavery and expresses the hope that the slave trade will be abandoned.
 
 ### [Discontent Spreads from An Historical Account of the Black Empire of Hayti](/discontent-spreads-historical-account-black-empire-hayti)
 
 ![Discontent Spreads from An Historical Account of the Black Empire of Hayti](/images/Icons-Document-thumbnail_305.jpg)
+
+#### Annotation
 
 Rainsford wrote one of the first favorable accounts of the Haitian Revolution. He blamed the colonists for refusing to alter the slave system. Our excerpts begin with reactions to the revolution in mainland France in 1789 and continue through the death in prison in France of Toussaint L’Ouverture in 1803.
 
@@ -205,11 +249,15 @@ Rainsford wrote one of the first favorable accounts of the Haitian Revolution. H
 
 ![Declaration of the Independence of the Blacks of St. Domingo](/images/Icons-Document-thumbnail_306.jpg)
 
+#### Annotation
+
 This important and revealing document evokes both the contemporary situation in the colonies and the political developments taking place in Paris. It comes from Marcus Rainsford’s supportive account of the Haitian Revolution.
 
 ### [A Divided Elite from An Historical Account of the Black Empire of Hayti](/divided-elite-historical-account-black-empire-hayti)
 
 ![A Divided Elite from An Historical Account of the Black Empire of Hayti](/images/Icons-Document-thumbnail_307.jpg)
+
+#### Annotation
 
 In this excerpt, Rainsford describes the divisive effects of the Declaration of Rights of the Blacks among the various racial/social groupings.
 
@@ -217,11 +265,15 @@ In this excerpt, Rainsford describes the divisive effects of the Declaration of 
 
 ![Letter from Monseron de l’Aunay to the Marquis de Condorcet, President of the Society of Friends of the Blacks (24 December 1789)](/images/Icons-Document-thumbnail_308.jpg)
 
+#### Annotation
+
 This letter appears in the Journal of Paris as part of a debate over a performance of a play by Olympe de Gouges, the noted feminist, that concerns the abolition of the slave trade. The letter is written by a deputy of the Chamber of Commerce of the port city of Nantes, which had close ties to the Caribbean economy. He would like to protect French interests against potential British incursion.
 
 ### [Barnave, "Speech for the Colonial Committee of the National Assembly" (8 March 1790)](/barnave-speech-colonial-committee-national-assembly-8-march-1790)
 
 ![Barnave, "Speech for the Colonial Committee of the National Assembly" (8 March 1790)](/images/Icons-Document-thumbnail_309.jpg)
+
+#### Annotation
 
 Here Antoine–Pierre Barnave, a well–connected and influential lawyer from Grenoble, represented those interests that wanted to hold onto France’s rich colonial possessions. He wanted to treat the colonies separately from mainland France in order to exempt them from the Constitution as a means of maintaining the production of those colonial products that were such a large part of France’s commercial wealth. His proposals were adopted almost without debate.
 
@@ -229,11 +281,15 @@ Here Antoine–Pierre Barnave, a well–connected and influential lawyer from Gr
 
 ![Ogé’s Rebellion in An Historical Account of the Black Empire of Hayti](/images/Icons-Document-thumbnail_310.jpg)
 
+#### Annotation
+
 Rainsford’s sympathy for the revolt in Haiti did not seem to extend to the influence of ideas imported from revolutionary France, which appear to have been at the heart of Ogé’s rebellion.
 
 ### [The Revolt from An Historical Account of the Black Empire of Hayti](/revolt-historical-account-black-empire-hayti)
 
 ![The Revolt from An Historical Account of the Black Empire of Hayti](/images/Icons-Document-thumbnail_311.jpg)
+
+#### Annotation
 
 Rainsford’s detailed contemporary account of the revolt emphasizes the strenuous yet ultimately unsuccessful mobilization of colonial French resources.
 
@@ -241,11 +297,15 @@ Rainsford’s detailed contemporary account of the revolt emphasizes the strenuo
 
 ![Kersaint, "Discussion of Troubles in the Colonies" (28 March 1792)](/images/Icons-Document-thumbnail_312.jpg)
 
+#### Annotation
+
 This speech by a former noble who had served as a naval officer reveals the deep ambivalence of the deputies about moving too quickly to emancipate the slaves. Caught between the planters who threatened to rebel if emancipation was passed and the dangerous slave revolt that had already broken out, Kersaint hoped for a gradual process of emancipation that would help France hold onto its most valuable colony. He was later executed during the Terror.
 
 ### [The Cap Français Fire](/cap-francais-fire)
 
 ![The Cap Français Fire](/images/the-cap-thumbnail.jpeg)
+
+#### Annotation
 
 In June 1793, the French governor of Saint Domingue, Thomas–François Galbaud, tried to raise a revolt of the whites against republican commissioners sent from France. To defeat him, the commissioners promised freedom to the slaves who would fight on their behalf. Thousands of whites fled the northern town, which nearly burned to the ground. This incident marked the end of white domination of the island and the beginning of slave emancipation.
 
@@ -253,11 +313,15 @@ In June 1793, the French governor of Saint Domingue, Thomas–François Galbaud,
 
 ![Toussaint L’Ouverture in An Historical Account of the Black Empire of Hayti](/images/Icons-Document-thumbnail_313.jpg)
 
+#### Annotation
+
 Rainsford paints a glowing portrait of the abilities and accomplishments of L’Ouverture, the most noted leader of the rebellion and one of the key founders of the nation of Haiti.
 
 ### [Toussaint L’Ouverture](/toussaint-louverture)
 
 ![Toussaint L’Ouverture](/images/louverture-thumbnail.jpeg)
+
+#### Annotation
 
 A slave inspired by the French Revolution’s egalitarianism, Toussaint saw himself as French and struggled for French control of the island of Saint Domingue. Nonetheless, he had no intention of letting whites rule, for he wanted blacks to control their own destinies. By 1801 he had conquered the entire island for France and for his fellow slaves. His personal success would not last beyond the next year.
 
@@ -265,11 +329,15 @@ A slave inspired by the French Revolution’s egalitarianism, Toussaint saw hims
 
 ![The French Return from An Historical Account of the Black Empire of Hayti](/images/Icons-Document-thumbnail_314.jpg)
 
+#### Annotation
+
 In this excerpt, Rainsford continues to exhalt the qualities of L’Ouverture while criticizing French behavior in the attempted reconquest of the island under Napoleon.
 
 ### [The Mode of Training Blood Hounds in St. Domingo](/mode-training-blood-hounds-st-domingo)
 
 ![The Mode of Training Blood Hounds in St. Domingo](/images/mode-of-training-thumbnail.jpeg)
+
+#### Annotation
 
 This image reveals grotesque mistreatment of blacks even during training exercises. Here a French cavalryman (chasseur) plans to use someone as a live prey for hunting dogs.
 This source is a part of the [*The Napoleonic Experience*](https://worldhistorycommons.org/source-collection-napoleonic-experience) teaching module.
@@ -277,6 +345,8 @@ This source is a part of the [*The Napoleonic Experience*](https://worldhistoryc
 ### [The Mode of Exterminating the Black Army as Practised by the French](/mode-exterminating-black-army-practised-french)
 
 ![The Mode of Exterminating the Black Army as Practised by the French](/images/army-thumbnail.jpg)
+
+#### Annotation
 
 The fighting between the French and the Haitians was very bloody. When the French tried to put down Toussaint in 1802, it took them some five months with an expeditionary force of 23,000. Supplied by locals, the French seized the towns, gradually extending their control to the countryside. Eventually they even captured L’Ouverture but never could quell the uprising.
 The expeditionary force sent by Napoleon to reconquer Saint Domingue met great resistance. Both sides committed atrocities. Here the French are shown throwing their enemies overboard to a certain death. Such tactics ultimately failed, however, as the blacks established an independent republic of Haiti.
@@ -286,11 +356,15 @@ This source is a part of the [*The Napoleonic Experience*](https://worldhistoryc
 
 ![Revenge Taken by the Black Army for the Cruelties Practised on Them by the French](/images/revenge-taken-by-army-thumbnail.jpeg)
 
+#### Annotation
+
 This execution in Haiti simply suspends the French officer in the air, slowly strangling him to death. His struggles, emphasized by the convulsing legs, reveal the hatred visited on opponents, themselves guilty of so many atrocities.
 
 ### [The Pennsylvania Gazette: Magnitude of the Insurrection (12 October 1791)](/pennsylvania-gazette-magnitude-insurrection-12-october-1791)
 
 ![The Pennsylvania Gazette: Magnitude of the Insurrection (12 October 1791)](/images/Icons-Document-thumbnail_315.jpg)
+
+#### Annotation
 
 The magnitude of the Haitian insurrection quickly became clear as alarmed observers related that considerable armies were being raised to fight the rebels. It is noteworthy that such reports even to northern U.S. newspapers expressed little sympathy for the rebels.
 
@@ -298,11 +372,15 @@ The magnitude of the Haitian insurrection quickly became clear as alarmed observ
 
 ![The Pennsylvania Gazette: Blame Now Falls (16 May 1792)](/images/Icons-Document-thumbnail_316.jpg)
 
+#### Annotation
+
 The blame for the Haitian Revolution now falls, at least according to the author of this letter, on the "blood–thirsty aristocracy," which has created dissensions among the French. The author also expresses alarm at the thought of the revolt spreading to other islands in the Caribbean.
 
 ### [The Pennsylvania Gazette: White Refugees (17 July 1793)](/pennsylvania-gazette-white-refugees-17-july-1793)
 
 ![The Pennsylvania Gazette: White Refugees (17 July 1793)](/images/Icons-Document-thumbnail_317.jpg)
+
+#### Annotation
 
 This newspaper article reports sympathetically on the situation of the white refugees fleeing Haiti because of uprising. The articles details how the cities of Baltimore and Philadelphia met the influx of these refugees.
 
@@ -310,11 +388,15 @@ This newspaper article reports sympathetically on the situation of the white ref
 
 ![The Pennsylvania Gazette: Free blacks and mulattos flee (4 December 1793)](/images/Icons-Document-thumbnail_318.jpg)
 
+#### Annotation
+
 Along with whites, free blacks and mulattos were also among those who fled the Haitian uprising. Mulattos could own slaves and plantations, and many of them did. Free blacks often manned the militias used to hunt down runaway slaves. Like the white settlers, both groups therefore had reason to flee. But, as this source relates, states such as South Carolina feared the consequences of their influence on the state’s own slave population.
 
 ### [The Pennsylvania Gazette: Unrest Continues (28 September 1796)](/pennsylvania-gazette-unrest-continues-28-september-1796)
 
 ![The Pennsylvania Gazette: Unrest Continues (28 September 1796)](/images/Icons-Document-thumbnail_319.jpg)
+
+#### Annotation
 
 This newspaper details how despite the abolition of slavery in Haiti, turbulence continued in many parts of the colony. The French relied on local generals, including Toussaint L’Ouverture, to try to restore order.
 
@@ -322,8 +404,9 @@ This newspaper details how despite the abolition of slavery in Haiti, turbulence
 
 ![The Pennsylvania Gazette: U.S. Vigilance (13 December 1797)](/images/Icons-Document-thumbnail_320.jpg)
 
-The Haitian uprising stoked the fears of whites in the United States that a similar uprising would occur among enslaved populations in their country. This article relates how vigilance remained at a high pitch and rumors of rebellion were enough to cause a virtual panic as slaveowners dreaded the possible importation of rebellion from Saint Domingue.
+#### Annotation
 
+The Haitian uprising stoked the fears of whites in the United States that a similar uprising would occur among enslaved populations in their country. This article relates how vigilance remained at a high pitch and rumors of rebellion were enough to cause a virtual panic as slaveowners dreaded the possible importation of rebellion from Saint Domingue.
 
 ## Credits
 

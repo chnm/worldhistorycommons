@@ -15,6 +15,8 @@ related_sources:
   - link: "/puppeteers-painting"
     image: "/images/itcho_children_thumbnail.jpeg"
     alt: "Puppeteers Painting image thumbnail"
+how_to_cite: |
+  "Analyzing Primary Sources on the History of Children & Youth," in World History Commons, https://worldhistorycommons.org/analyzing-primary-sources-history-children-youth [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -31,6 +33,8 @@ Children spring into view in [this](https://worldhistorycommons.org/puppeteers-p
 
 ![Puppeteers Painting](/images/itcho_children_thumbnail.jpeg)
 
+#### Annotation
+
 This is an ink painting on a scroll by Hanabusa Itchô (born Taga Shinkô), a Japanese artist of the early Tokugawa period (1600–1868). Tokugawa artists typically used pen names and Itchô used several names at different times as an artist and poet. This black and white image, showing two puppeteers entertaining children, is a detail from one of 36 paintings in Itchô's *zatsu-gachô* or "miscellany sketchbook," many of which have been lost. Itchô is best known for his *genre paintings*, scenes of ordinary life on the streets of Edo. Children sometimes appear in these scenes, along with dogs, street vendors, traveling entertainers and other characters, often portrayed with a light, almost humorous touch.
 This source is a part of the [*Play in Tokugawa Japan*](https://worldhistorycommons.org/short-teaching-module-play-tokugawa-japan) teaching module and the [*Students’ Guide to “Reading” Primary Sources on the History of Children & Youth*](https://worldhistorycommons.org/students%E2%80%99-guide-%E2%80%9Creading%E2%80%9D-primary-sources-history-children-youth) methods module.
 
@@ -38,12 +42,13 @@ This source is a part of the [*Play in Tokugawa Japan*](https://worldhistorycomm
 
 ![Komori [Nursemaid] Songs (kazoe-uta)](/images/Icons-Document-thumbnail_167.jpg)
 
+#### Annotation
+
 During the modern Imperial period (1868-1945), daughters of poor Japanese families worked as komori taking care of their own siblings or working as indentured servants for other poor families. The state's efforts to foster Japanese citizenship and feminize the komori led to programs aimed at making them more maternal.
 The first song is one that was sung by a teacher who taught komori girls in the town of Matsumoto around the turn of the century. This song was part of the broader educational curriculum designed to replace the songs of the komori that were deemed "coarse" and "vulgar" by teachers and other adults who represented the interests of the modern state.
 The second counting song, typical of others by the komori, described exploitative working conditions and grave injustices. Based on peasant songs, those songs sung by the komori (of which there are many versions) enabled workers to express resistance to those who exploited them as well as those who sought to feminize them. Some songs mocked their mistresses and masters; other focused on the foods they were not allowed to eat as well as the inadequacies of their rations. The lyrics of others expressed hostility toward their charges: "What can we do with a naughty child?/Let's put him on the drum/and hit him with green bamboo sticks." The third song included here is representative of those that expressed the emotional pain of the komori and their need for their mothers. Not only did the komori sing about love but also lust, their bodies, sexual desire, and intercourse.
 These songs and others that describe their daily lives (working, playing, trysting, venting) are useful sources of information that shed light on the everyday experiences of the komori and the lyrical cultural practices that expressed their alienation and resistance. In what ways are the komori similar to and different from babysitters in other cultures and at different times?
 This source is a part of the [*Students’ Guide to “Reading” Primary Sources on the History of Children & Youth*](https://worldhistorycommons.org/students%E2%80%99-guide-%E2%80%9Creading%E2%80%9D-primary-sources-history-children-youth) methods module.
-
 
 ## Credits
 

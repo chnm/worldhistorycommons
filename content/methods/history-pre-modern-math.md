@@ -37,6 +37,8 @@ related_sources:
   - link: "/engraving-rechentisch-counting-board"
     image: "/images/WHC_rechentisch_thumbnail.png"
     alt: "A man sits in front of a counting board with a pile of counters in front of him and a counter in one hand."
+how_to_cite: |
+  "History of Pre-Modern Math ," in World History Commons, https://worldhistorycommons.org/history-pre-modern-math [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -67,6 +69,8 @@ The sources for this module include a selection of early modern images illustrat
 
 ![Adding and Subtracting with an Early Modern Counting Board](/images/Screen_Shot_2023-06-30_at_9.55.51_AM.png)
 
+#### Annotation
+
 Before the rise of literacy rates, counting boards such as the one featured in the video were the most common way to perform arithmetic. After pen-and-paper arithmetic replaced counting boards, Arabic numerals also became dominant throughout Europe.
 
 Students can make their own counting board and use pennies or other coins to solve math problems like those in the video. This will help students consider the development of mathematical practices and that culture and outside influences helped shape the way people perform arithmetic.
@@ -76,6 +80,8 @@ This source is part of the [History of Pre-Modern Math](https://worldhistorycomm
 ### [Division with an Early Modern Counting Board](/division-early-modern-counting-board)
 
 ![Division with an Early Modern Counting Board](/images/Screen_Shot_2023-06-30_at_9.44.54_AM.png)
+
+#### Annotation
 
 Before the rise of literacy rates, counting boards such as the one featured in the video were the most common way to perform arithmetic. After pen-and-paper arithmetic replaced counting boards, Arabic numerals also became dominant throughout Europe.
 
@@ -87,6 +93,8 @@ This source is part of the [History of Pre-Modern Math](https://worldhistorycomm
 
 ![Multiplication with an Early Modern Counting Board](/images/Screen_Shot_2023-06-30_at_9.47.51_AM.png)
 
+#### Annotation
+
 Before the rise of literacy rates, counting boards such as the one featured in the video were the most common way to perform arithmetic. After pen-and-paper arithmetic replaced counting boards, Arabic numerals also became dominant throughout Europe.
 
 Students can make their own counting board and use pennies or other coins to solve math problems like those in the video. This will help students consider the development of mathematical practices and that culture and outside influences helped shape the way people perform arithmetic.
@@ -97,10 +105,11 @@ This source is part of the [History of Pre-Modern Math](https://worldhistorycomm
 
 ![Engraving of a Rechentisch (Counting Board)](/images/WHC_rechentisch_thumbnail.png)
 
+#### Annotation
+
 This image of an engraving depicts a man using a rechentisch, or counting board, the earliest known counting device and a precursor the abacus. The earliest known counting board is the Salamis Tablet, dating from 300 BCE, but may have been used more for gaming than for calculating. There are few surviving counting boards due to the materials used for construction and their use in daily life. This engraving depicts the man using the board for calculating, demonstrated by the bag full of counters and the markings on the board. This engraving likely comes from Strasbourg, which is now in France.
 
 This source is part of the [History of Pre-Modern Math](https://worldhistorycommons.org/history-pre-modern-math) Methods module.
-
 
 ## Bibliography
 

@@ -27,6 +27,8 @@ related_sources:
   - link: "/excerpt-memoirs-glikl"
     image: "/images/Glikl-Pappenheim-thumbnail_0.jpeg"
     alt: "Thumbnail image of Glikl"
+how_to_cite: |
+  "Syllabus: Women and Gender in World History, 600-2000 ," in World History Commons, https://worldhistorycommons.org/syllabus-women-and-gender-world-history-600-2000 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -51,10 +53,10 @@ To create a sense of social presence, the sense that students are in a class tog
 
 **Week Two: Women in the Islamic World, 600-1500**
 
-Islamic Empire  
+Islamic Empire<br>
 https://worldhistorycommons.org/long-teaching-module-women-islamic-world-600-1600
 
-Analyzing Religious Texts  
+Analyzing Religious Texts<br>
 https://worldhistorycommons.org/analyzing-religious-texts
 
 The development and spread of world religions are essential aspects of world history, so beginning your course with women’s role in one of these allow you to start with a bang, making the point that the history of women and gender is not separate from “real” history. Starting with women in the Islamic world also counteracts views that some of your students may have about Islam.
@@ -65,10 +67,10 @@ There are nine sources in Islamic Empire, beginning with the Quran and including
 
 **Week Three: Women Writers in Asia, 700-1300**
 
-Bhakti Poets  
+Bhakti Poets<br>
 https://worldhistorycommons.org/long-teaching-module-bhakti-poets
 
-Women Writers of the Heian Era  
+Women Writers of the Heian Era<br>
 https://worldhistorycommons.org/long-teaching-module-writers-heian-era
 
 This week continues the theme of women in religious and cultural traditions, focusing first on female bhakti poets in South Asian Hindu traditions, and then on women writers in Heian Japan. The Essay in the Bhakti Poets unit, designed for students, has a good introduction to Hinduism in general, South Asian social structures, and a brief discussion of political developments. There are nine poems, and you may not want to use all of them, but they’re quite short, so you could. The Annotations introducing the poems all include the same opening paragraph, then specifics about the authors, so there’s less reading than there appears to be at first glance.
@@ -79,10 +81,10 @@ Both the Teaching Strategies and Lesson Plan in the units have excellent ideas t
 
 **Week Four: Women in the Early Modern World, 1400-1800**
 
-Early Modern Period  
+Early Modern Period<br>
 https://worldhistorycommons.org/long-teaching-module-women-early-modern-world-1500-1800
 
-Analyzing Personal Accounts  
+Analyzing Personal Accounts<br>
 https://worldhistorycommons.org/analyzing-personal-accounts
 
 The first two weeks have examined women in different regions, and this week will be comparative, with sources from Europe, China, and India found in two units in World History Commons. In the Early Modern Period unit, the Introduction includes a brief discussion of periodization (why is “early modern” called that?), and general information about ideas about women. The twelve sources include written and visual materials, and are arranged so that the ones by men appear first, and then the ones by women. Thus the unit is comparative by gender of the author/artist as well as by region. The Teaching Strategies includes discussion questions. The Lesson Plan includes useful ideas about what to convey to students in terms of historical background, but it also refers to two worksheets about interpreting sources that are no longer attached to the site. (These are not essential, so just ignore that part of the Lesson Plan.)
@@ -91,20 +93,20 @@ The second unit, Analyzing Personal Accounts, includes two personal accounts wri
 
 **Week Five: Gender in Aztec and Colonial Mexico, 1500-1800**
 
-Three sections of the Codex Mendoza:  
+Three sections of the Codex Mendoza:<br>
 https://worldhistorycommons.org/short-teaching-module-codex-mendoza-16th-c
 
 https://worldhistorycommons.org/birth-rituals-codex-mendoza
 
 https://worldhistorycommons.org/disciplining-children-codex-mendoza
 
-Advice of an Aztec Father to his Son  
+Advice of an Aztec Father to his Son<br>
 https://worldhistorycommons.org/advice-aztec-father-his-sons
 
-Analyzing Inquisition Documents  
+Analyzing Inquisition Documents<br>
 https://worldhistorycommons.org/analyzing-inquisition-documents
 
-Gender and Race in Colonial Latin America  
+Gender and Race in Colonial Latin America<br>
 https://worldhistorycommons.org/short-teaching-module-gender-and-race-colonial-latin-america
 
 In week four, students compared various societies, and here they look at one of the many places where people and cultures blended, a key aspect of the early modern world. There is no one unit in World History Commons that focuses directly on this in Latin America, so the materials for this week include sources from multiple units. Each of these has rich annotations for your students to read, and three have an Essay for you with information about how to introduce, contextualize, and help them understand the source. (The materials do not have a general introduction to exploration and colonialism in Latin America, so you will need to provide one for the students, just as you did for Islam.)
@@ -113,47 +115,47 @@ The first three units are sections from the Codex Mendoza, an indigenous account
 
 **Week Six: Women, Gender and the Family in Early Modern South Africa, 1650-1800**
 
-Cultural Contact in Southern Africa  
+Cultural Contact in Southern Africa<br>
 https://worldhistorycommons.org/long-teaching-module-cultural-contact-southern-africa
 
 This week focuses on another colonial setting, this time South Africa. The Overview provides a brief discussion of early European settlement and the indigenous groups that were already there, and the Essay discusses family patterns and gender structures in various groups. The eleven Sources include material objects as well as several different types of texts, some with illustrations, so they are especially varied. The Teaching Strategies are helpful; the Lesson Plan refers to worksheets and links that are not there, but still has some useful tips.
 
 **Week Seven: Women and the French Revolution, 1760-1800**
 
-Women and the Revolution  
+Women and the Revolution<br>
 https://worldhistorycommons.org/source-collection-women-and-revolution
 
 Women participated in many aspects of the Atlantic Revolutions of the late eighteenth century, including the French Revolution. This unit includes an essay designed for students that provides an overview; you should probably preface this with some general information about the French Revolution. It has 50 sources, which stretch from the pre-revolutionary period to the end of the century, so you may want to use just some of them, but many are visual, and the annotations are short, so you could use them all.
 
 **Week Eight: Women and Imperialism I: The British Empire 1820-1980**
 
-British Empire  
+British Empire<br>
 https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000
 
-Commission Records on the Women’s War in Nigeria  
+Commission Records on the Women’s War in Nigeria<br>
 https://worldhistorycommons.org/analyzing-commission-records
 
 This week focuses on British women and women from the colonies in the British Empire, and includes two units, one with a number of sources on the British Empire and one on what became known as the “Women’s War” in 1929-1930 Nigeria. The Essay in the British Empire unit, designed for students, includes general information on British imperialism, as well as on women in the empire. Teaching Strategies has good discussion questions, and the Lesson Plan is a very specific small group exercise that might not work in an online setting. The twelve sources include paintings, and a wide range of written works, some by British women and some by women from the empire. The second unit includes a multi-part video of the historian Meredith McKittrick talking about women in colonial Nigeria and the commission that investigated the Women’s War, with many photographs. The primary source is a photograph and one very short excerpt from the commission records.
 
 **Week Nine: Women and Imperialism II: The French North African Empire 1830-1970**
 
-Imperialism in North Africa  
+Imperialism in North Africa<br>
 https://worldhistorycommons.org/long-teaching-module-north-african-women-and-french-empire-1850-2000
 
 This unit focuses on women in the three North African states—Algeria, Tunisia, and Morocco—that were part of the French Empire. The Essay includes general information on French imperialism, designed for students, as well as on women in the empire. Both Teaching Strategies and the Lesson Plan have good discussion questions, and various other strategies. The ten sources include paintings and photographs, along with a wide range of written sources from French and North African authors, including interviews, songs, and autobiographies. The annotations are sometimes quite long, and provide plenty of context.
 
 **Week Ten: Women, Industrialization, and the Labor Movement, 1900-1940**
 
-Puerto Rican Labor Movement  
+Puerto Rican Labor Movement<br>
 https://worldhistorycommons.org/long-teaching-module-women-and-puerto-rican-labor-movement
 
 World History Commons does not have a unit on women or gender and industrialization per se, but this unit covers many of the major issues. It focuses on women in industrializing Puerto Rico in the early twentieth century, and especially on their role in the labor movement there. The Essay, designed for students, provides good background information, and the twelve sources include a range of visual and written materials.
 
-**Week Eleven: Women, Protest, and Political Change, 1900-1990**  
-Southeast Asian Politics  
+**Week Eleven: Women, Protest, and Political Change, 1900-1990**<br>
+Southeast Asian Politics<br>
 https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000
 
-Filipino Comfort Women  
+Filipino Comfort Women<br>
 https://worldhistorycommons.org/short-teaching-module-filipino-comfort-women
 
 This unit looks at the complex relationship between feminism and nationalism as nations gained independence from colonialism, and at women’s political leadership and activism in the twentieth century, with women from several nations within Southeast Asia as examples. Using the Filipino comfort women material along with that in the Southeast Asian Politics unit provides them with examples of political activism by women who are not heads of state or members of the elite. It also provides them with material about women’s experiences during war, about which there has not yet been much in other units.
@@ -162,24 +164,24 @@ You will need to provide some general background on several issues: anti-imperia
 
 **Week Twelve: Women in Communist and post-Communist Eastern Europe, 1930-2000**
 
-Soviet Dictatorship  
+Soviet Dictatorship<br>
 https://worldhistorycommons.org/long-teaching-module-women-and-stalinism-1929-1939
 
-Women in Romania  
+Women in Romania<br>
 https://worldhistorycommons.org/short-teaching-module-women-romania
 
 This week uses materials from two units, one on women in the Stalinist Soviet Union and the other on women in Romania after the fall of the Communist regime in 1989. The Essay on women in Soviet dictatorship provides fairly good contextualization, and the eleven sources include Soviet newspaper articles, graphs, drawings, and cartoons, with annotations. The Essay for the unit on Romania is instructor-facing, but has good background and could be read by your students. The sources for Romania are oral history interviews conducted in 2003 with women looking back at their lives under Communism and the changes that have taken place since then.
 
 **Week Thirteen: Sexuality, Gender, and Adulthood, 1600-2000**
 
-Age of Consent Laws  
+Age of Consent Laws<br>
 https://worldhistorycommons.org/long-teaching-module-sexuality-marriage-and-age-consent-laws-1700-2000
 
 This unit focuses on age of consent laws, and their implications for ideas about gender, sexuality, and other issues, over a long period, which encourages students to think about change over time. The Essay, designed for students, provides solid background on this issue since the Middle Ages, and the sources include a wide range: trial records, newspaper articles, laws, speeches, songs, legal decisions, and billboards.
 
 **Week Fourteen: Women, Health, Sexuality, and Reproduction, 1975-2000**
 
-Health in Latin America  
+Health in Latin America<br>
 https://worldhistorycommons.org/long-teaching-module-gender-and-health-latin-america-1980-2010
 
 This unit is titled “health,” and it does include sources on general issues regarding women’s health, but more of the sources concern issues related to sexuality and reproduction, including prostitution, domestic violence, birth control, abortion, and maternity leave. You could thus frame this week in a variety of ways: the diversity of women’s experiences in Latin America (which is how the author frames it); sexuality and reproductive rights, with Latin America as a case study; gender and health. The additional information you provide for your students will depend on how you frame it. If you decide to make the focus sexuality and reproduction, you may wish to find some sources from the U.S. that would allow students to make comparisons with the Latin American material. There will no doubt be challenges to (and thus sources about) women’s reproductive rights as you are teaching the course, as well as issues concerning sexuality and gender related to COVID-19. At any rate, it should not be hard to convince your students why health is an important issue.
@@ -188,7 +190,7 @@ This unit is titled “health,” and it does include sources on general issues 
 
 Here is the time for final discussions and summative assignments.
 
-Sample course goals:  
+Sample course goals:<br>
 In this course, you will examine world historical patterns and processes, with a focus on issues concerning women and gender. Using primary sources that present a variety of perspectives, along with secondary materials that accompany the primary sources, you will learn about the ideas and actions of women of the past. You will come to understand how gender has been shaped by historical developments into highly variable and historically changing systems of power relations. You will learn how gender has in turn shaped other events and structures. You will evaluate how gender intersects with other forms of identity and systems of power such as class and race, a concept described today as “intersectionality.” You will learn how and why the ideas and actions of individuals and groups have transformed gender over time. You will develop credible and effective narratives and analyses of women and gender in the past that show understanding of the contexts of different historical eras and cultures.
 
 [*Then add instructions relevant for your campus learning management system (lms). Your campus office overseeing the lms often has general guides to netiquette and study strategies to which you can link, along with tutorials for students about tech issues.*]
@@ -199,9 +201,10 @@ In this course, you will examine world historical patterns and processes, with a
 
 ![Excerpt from Memoirs by Glikl](/images/Glikl-Pappenheim-thumbnail_0.jpeg)
 
+#### Annotation
+
 The is a diary written by a Jewish merchant, Glikl of Hameln, a woman living in northern Germany in the 17th century.
 This source is a part of the [*Women and Gender in World History, 600-2000*](https://worldhistorycommons.org/syllabus-women-and-gender-world-history-600-2000) teaching module and the [*Analyzing Personal Accounts*](https://worldhistorycommons.org/analyzing-personal-accounts) methods module.
-
 
 ## Teaching Strategies
 

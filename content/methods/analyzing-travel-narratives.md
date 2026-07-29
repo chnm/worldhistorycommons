@@ -16,6 +16,8 @@ related_sources:
   - link: "/excerpt-ledyards-journal"
     image: "/images/journal-ledyard-thumbnail.jpeg"
     alt: "A Journal of Captain Cook's Last Voyage to the Pacific Ocean thumbnail image"
+how_to_cite: |
+  "Analyzing Travel Narratives," in World History Commons, https://worldhistorycommons.org/analyzing-travel-narratives [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -28,9 +30,10 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Excerpt from Ledyard's Journal](/images/journal-ledyard-thumbnail.jpeg)
 
+#### Annotation
+
 This is an excerpt from John Ledyard’s journal of his travels along the North American coast in the late 18th century. Ledyard, born a British subject, became an American citizen after Independence. He traveled with the British explorer Captain Cook to Alaska, Siberia, and the Pacific Islands. Along the way he encountered many cultures—indigenous and Russian—and left behind an entertaining account of his travels. Journals such as Ledyard’s often tell us as much about the traveler himself as they do about the places visited.
 This source is a part of the [*Analyzing Travel Narratives*](https://worldhistorycommons.org/analyzing-travel-narratives) methods module.
-
 
 ## Credits
 

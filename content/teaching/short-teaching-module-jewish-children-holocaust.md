@@ -16,6 +16,8 @@ related_sources:
   - link: "/children-accuse-testimony-eryk-holder"
     image: "/images/Icons-Document-thumbnail_5.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Short Teaching Module: Jewish Children & the Holocaust," in World History Commons, https://worldhistorycommons.org/short-teaching-module-jewish-children-holocaust [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -30,6 +32,8 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![The Children Accuse - The Testimony of Eryk Holder](/images/Icons-Document-thumbnail_5.jpg)
 
+#### Annotation
+
 In recent years, testimonies, diaries and memoirs of Holocaust victims (those who perished and those who survived) have gained belated recognition as essential (not auxiliary) data for historical reconstruction. Early postwar children's recollections, such as this testimony by Eryk Holder, shed light on individual children's experiences as well as on children's viewpoints and self-reflections formed after they had emerged from the conditions of war and genocide. They show how the children themselves conceived, remembered, and reflected on all constant change in their young lives.
 In his three-page testimony, Eryk Holder, who was born in 1937 into a comfortable middle-class family, describes in detail how his life dramatically changed as a result of the Nazi German occupation of Stanisławów, Eastern Poland, in the summer of 1941. His testimony gives insights into the gradual disintegration of a Jewish family as a result of brutal German policies of ghettoization. Eryk's testimony also sheds light on a child's life in hiding on the Aryan side. Thus, it is a document that allows a historian to fully reconstruct the rich and varied mosaic of relations between Jewish children and Christian Polish families during and immediately after the war.
 This source is a part of the [*Jewish Children & the Holocaust*](https://worldhistorycommons.org/short-teaching-module-jewish-children-holocaust) teaching module.
@@ -38,10 +42,11 @@ This source is a part of the [*Jewish Children & the Holocaust*](https://worldhi
 
 ![The Children Accuse - The Testimony of Łazarz Krakowski](/images/Icons-Document-thumbnail_6.jpg)
 
+#### Annotation
+
 In recent years, testimonies, diaries and memoirs of Holocaust victims have gained belated recognition as essential (not auxiliary) data for historical reconstruction. In spite of the sketchy nature of postwar children's testimonies, a critical analysis of this invaluable documentation provides a deeper understanding of the process of survival among Jewish children.
 This early postwar testimony of Łazarz Krakowski, born on March 23, 1935, in Katowice, Silesia, sheds insight on the complex nature of survival during the Holocaust. It reveals anxieties, frustrations, and fears characteristic of a child who lived "under the surface" and "above the surface." A main challenge of living "under the surface" was the loss of childhood, of the freedom to play freely. For the children who lived "above the surface," the key daily challenge was to convincingly pass as Christian Polish children, to become "Aryan Jewish children" who perfected the act of mimicry. Łazarz's testimony reveals how dangerous and challenging it was to pass as a Christian child in an environment in which some Christian Polish neighbors fired off uncomfortable questions at the hidden Jewish children and their dedicated Christian Polish rescuers.
 This source is a part of the [*Jewish Children & the Holocaust*](https://worldhistorycommons.org/short-teaching-module-jewish-children-holocaust) teaching module.
-
 
 ## Teaching Strategies
 

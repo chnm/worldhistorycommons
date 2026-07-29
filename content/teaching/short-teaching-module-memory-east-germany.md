@@ -20,6 +20,8 @@ related_sources:
   - link: "/russian-revolution-problem-dictatorship"
     image: "/images/Icons-Document-thumbnail_661.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Memory in East Germany," in World History Commons, https://worldhistorycommons.org/short-teaching-module-memory-east-germany [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -74,12 +76,16 @@ Using these sources within the context of leading up to the more well-known even
 
 ![The Russian Revolution: The Problem of Dictatorship](/images/Icons-Document-thumbnail_661.jpg)
 
+#### Annotation
+
 In January 1988, dissidents in East Germany mounted a counter-demonstration during the annual parade honoring the lives of Rosa Luxemburg and Karl Liebknecht. Luxemburg and Liebknecht were both killed by right-wing Freikorps vigilantes during the 1919 January revolution. The words that the protesters chose to display came from this 1918 essay written by Rosa Luxemburg critiquing Lenin and the Bolshevik revolution. The one phrase in particular that the dissidents used was "Freedom is always and exclusively freedom for the one who thinks differently."
 This source is a part of the [*Memory in East Germany*](https://worldhistorycommons.org/short-teaching-module-memory-east-germany) teaching module.
 
 ### [Excerpt from Freye Klier's Diary](/excerpt-freye-kliers-diary)
 
 ![Excerpt from Freye Klier's Diary](/images/Icons-Document-thumbnail_660.jpg)
+
+#### Annotation
 
 Freya Klier was a leading theatrical director in East Germany. She and her husband, Stephan Krawczyk, were outspoken critics of the East German regime and were among the leading organizers of the counter-demonstration during the annual Liebknecht-Luxemburg parade in January 1988. This is an excerpt from Klier's diary in which she records the events of that day.
 This source is a part of the [*Memory in East Germany*](https://worldhistorycommons.org/short-teaching-module-memory-east-germany) teaching module.
@@ -88,9 +94,10 @@ This source is a part of the [*Memory in East Germany*](https://worldhistorycomm
 
 ![Remembering the Dead](/images/Icons-Document-thumbnail_659.jpg)
 
+#### Annotation
+
 Professor Dr. Heinz Kamnitzer was the head of the East German writers group, PEN. In response to the counter-demonstration at the 1988 Liebknecht-Luxemburg parade, Kamnitzer wrote this op-ed essay, entitled “Remembering the Dead” as a way of distancing the East German Communist Party (SED) from the actions of the demonstrators. In this newspaper article, Kamnitzer accuses the demonstrators of blasphemy and compares the protesters to hooligans.
 This source is a part of the [*Memory in East Germany*](https://worldhistorycommons.org/short-teaching-module-memory-east-germany) teaching module.
-
 
 ## Credits
 

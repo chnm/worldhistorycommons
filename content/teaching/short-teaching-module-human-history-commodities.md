@@ -13,6 +13,8 @@ related_sources:
   - link: "/ginger-bread-recipe"
     image: "/images/RecipeTHUMB.jpeg"
     alt: "Handwritten black ink recipe written in a paragraph format."
+how_to_cite: |
+  "Short Teaching Module: A Human History of Commodities," in World History Commons, https://worldhistorycommons.org/short-teaching-module-human-history-commodities [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -41,12 +43,16 @@ Telling human-centered histories of commodities reminds us all that commodities 
 
 ![Ginger bread recipe](/images/RecipeTHUMB.jpeg)
 
+#### Annotation
+
 This late-seventeenth century recipe for gingerbread shows how colonization in the Atlantic world changed what men and women in England would have eaten. The recipe includes ginger and sugar. While both of these commodities were known by Europeans prior to Columbus’s journeys to the New World, they were often grown on Caribbean plantations for export to Europe. In turn, increasing supply of these and other crops altered the labor performed in kitchens by English housekeepers and revolutionized the diets of all Britons. Students can browse other early modern cookbooks digitized by the Folger Shakespeare Library in order to uncover their own histories of the global trade in foodstuffs.
 This source is a part of the [*A Human History of Commodities*](https://worldhistorycommons.org/short-teaching-module-human-history-commodities) teaching module.
 
 ### [The World: Map of N. & S. America](/world-map-n-s-america)
 
 ![The World: Map of N. & S. America](/images/08720-027.jpeg)
+
+#### Annotation
 
 Matthaeus Seutter was an acclaimed German mapmaker in the early eighteenth century. He published maps that introduced the geography of the Americas to many people who would never set foot on the continents themselves. The drawings on the upper left and lower left of this map represent many of the things that Seutter—and other Europeans—prized in the New World. Through these images, students can see where some of the colonizers’ priorities laid: precious metals, sugar, tobacco, and dyewoods mined, grown, or processed by Indigenous American and African people. Additionally, the parts of the map that are less accurate—such as the Great Lakes or California—invite interesting conversations about the incomplete nature of European geographic knowledge. The John Carter Brown Library’s collection of maps is also easily navigable online, making it possible for students to find other examples of mapmakers depicting commodity production on maps of recently explored lands.
 This source is a part of the [*A Human History of Commodities*](https://worldhistorycommons.org/short-teaching-module-human-history-commodities) teaching module.
@@ -55,9 +61,10 @@ This source is a part of the [*A Human History of Commodities*](https://worldhis
 
 ![Negro Slavery Described by a Negro](/images/Thumbnail_8.jpeg)
 
+#### Annotation
+
 Ashton Warner lived in the British Caribbean colony of Saint Vincent in the early 1800s. He was raised free before being re-enslaved at the age of ten. In this passage, he describes his experience laboring on a sugar plantation. Although Warner was not forced to labor in the cane fields, he describes his horror at the prospect that he might need to complete that work. And in greater detail than most other slave narratives, he describes the toll that harvesting and refining sugar took on male and female field hands. Warner’s account, as well as other narratives available through Documenting the American South, allow historians to understand slavery and commodity production through the words of enslaved people themselves.
 This source is a part of the [*A Human History of Commodities*](https://worldhistorycommons.org/short-teaching-module-human-history-commodities) teaching module.
-
 
 ## Credits
 

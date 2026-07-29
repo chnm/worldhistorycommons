@@ -26,6 +26,8 @@ related_sources:
   - link: "/peter-kolb-travel-narrative-2"
     image: "/images/caput-bonae-thumbnail_0.png"
     alt: "Title pages of travel narrative image thumbnail"
+how_to_cite: |
+  "Long Teaching Module: Women and Empire," in World History Commons, https://worldhistorycommons.org/long-teaching-module-women-and-empire [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -50,6 +52,8 @@ The last module, [Cultural Contact in Southern Africa](https://worldhistorycommo
 
 ![In Memoriam](/images/in-memoriam-thumbnail.jpeg)
 
+#### Annotation
+
 In 1857, British rule in India was challenged when Indian sepoy troops of the British Indian Army began a year-long insurrection against the British. To the British, the most shocking aspect of the events in India was the massacre of white women and children by Indian men. There was extensive coverage in the press and illustrated journals, which stimulated calls for revenge. Paton’s famous painting *In Memoriam* was dedicated by the artist to the Christian heroism of “British Ladies in India during the Mutiny of 1857.” In 1858, the first version of the painting, which depicted Indian sepoy troops bursting through the door, was exhibited at the Royal Academy of Art in London. The painting aroused immediate debate, as it was thought to suggest that British women were about to be raped by Indian soldiers. The review in *The Illustrated London News* on May, 15, 1858 stated: “The subject is too revolting . . .The picture is one which ought not to have been hung.” Although British women and children were known to have died during the insurrection, there was no evidence of rape. The artist painted out the Indian soldiers in the original painting, and substituted Scottish highlanders. It was this version that was engraved and sold, leaving intact the myth of the British woman as sexually inviolable by colonial men.
 This source is a part of the [*Women and Empire*](https://worldhistorycommons.org/long-teaching-module-women-and-empire?page=0%2C3) and the [*Women in the British Empire, 1800-2000*](https://worldhistorycommons.org/long-teaching-module-women-british-empire-1800-2000) teaching modules.
 
@@ -57,12 +61,16 @@ This source is a part of the [*Women and Empire*](https://worldhistorycommons.or
 
 ![Cortés Greets Xicotencatl in Mexican Manuscript](/images/lienzolarge-thumbnail.jpeg)
 
+#### Annotation
+
 A detail from a larger manuscript page in the *Lienzo de Tlaxcala*, this scene was created by an indigenous painter in central Mexico. Scenes from the *Lienzo de Tlaxcala*, now just fragments from a larger set of images, draw upon preconquest painting techniques and conventions. Like Malintzin herself, the *Lienzo* straddles a world of indigenous, preconquest practice and European intervention. In this fragment, Xicotencatl, the head of the indigenous state of Tlaxcala, greets Hernán Cortés, the leader of the Spanish conquistadors. The two men would become allies, banding together to defeat Motecuzoma and his capital city, Tenochtitlan. Below and at the center of the image stands doña Marina; her placement underscores the role she played as linguistic and cultural mediator.
 This source is a part of the [*Doña Marina, Cortés' Translator*](https://worldhistorycommons.org/long-teaching-module-do%C3%B1a-marina-cort%C3%A9s-translator) teaching module.
 
 ### [Beautiful Fatima](/beautiful-fatima)
 
 ![Beautiful Fatima](/images/beautiful-fatima-thumbnail.jpeg)
+
+#### Annotation
 
 Photography was critical to imperialism. The French army (and the British army in India) employed the camera’s lens to chronicle military exploits, first in Algeria during the 1850s, and later in Tunisia and Morocco. With advances in photographic technology, portrait studios were established in Europe and in European empires. Most studio photography in this period produced family portraits that were staged and arranged by the photographer. However, as the demand for images of non-Western exotic peoples, particularly of women, swelled in Europe and elsewhere, postcards illustrated with posed studio photographs were produced by the tens of thousands.
 By the late nineteenth century in Algeria and elsewhere, contrived photographic images of the “Arab woman” or “la Mauresque” [The Moorish woman]—who was provocatively presented either covered or uncovered—were widely produced. Many were done in studios in Algiers (or in France or Europe) and employed the same stage “props”—water pipes, oriental carpets, lavish “traditional” costumes, and allegedly “native” women and men. Often, however, the people posing were not even North African. This image of “Beautiful Fatima” was produced in a studio in Algiers and used as a postcard sent home by travelers or tourists to Algeria. This particular pose does not seem especially offensive, although the languid, fey pose assumed by the woman suggests indolence as well as sexual availability. Other postcards, however, were sexually suggestive or explicitly racist, showing men and women—supposedly Algerian—in a demeaning manner. Visually representing “the” Arab or Muslim or Algerian woman in strange, exotic, or erotic ways served to distance the colonized from modern, enlightened, Western societies, and thus to justify their subjugation under the colonial regime. Thus, images and representations of various kinds have always served imperial aims.
@@ -72,9 +80,10 @@ This source is a part of the [*Women and Empire*](https://worldhistorycommons.or
 
 ![Peter Kolb Travel Narrative 2](/images/caput-bonae-thumbnail_0.png)
 
+#### Annotation
+
 Peter Kolb was a German astronomer and mathematician who lived at the Cape from 1705 to 1713. He was initially sponsored by a German baron to make astronomical observations in pursuit of a way to calculate longitude accurately. When this project ended, Kolb stayed at the Cape and observed everything else. Kolb was writing for a European audience, and therefore often played to their expectations. In the case of the Khoikhoi, the assumption was that these people were among the most primitive on earth. Thus, his work had to be used with caution when trying to reconstruct the early history of the Khoikhoi. On the other hand, when Kolb’s observations are compared with those of modern anthropologists, significant overlaps may be found, so that it seems clear that Kolb spoke directly to Khoikhoi men and women about their beliefs and customs. In the following excerpts, Kolb discusses Khoikhoi practices during and after the birth of a child. Ask yourself how, as a European man, Kolb could have seen or heard about these rituals. Nevertheless, his account cannot be simply discounted, since it is known that Khoikhoi did consider water risky for expectant mothers and newborn infants, and cattle played major and significant roles in the economy and rituals of traditional Khoikhoi society.
 This source is a part of the [*Women and Empire*](https://worldhistorycommons.org/long-teaching-module-women-and-empire?page=0%2C3) teaching module.
-
 
 ## Credits
 

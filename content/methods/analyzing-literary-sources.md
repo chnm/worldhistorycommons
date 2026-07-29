@@ -18,6 +18,8 @@ related_sources:
   - link: "/excerpt-le-fresne"
     image: "/images/Marie_de_France_1-thumbnail_0.jpeg"
     alt: ""
+how_to_cite: |
+  "Analyzing Literary Sources," in World History Commons, https://worldhistorycommons.org/analyzing-literary-sources [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -30,9 +32,10 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Excerpt of Le Fresne](/images/Marie_de_France_1-thumbnail_0.jpeg)
 
+#### Annotation
+
 Lais are short, poetic romances written during the Middle Ages in Western Europe. These stories were written and shared orally among nobility. Click on the image of writing to read an excerpt from the lai entitled *Le Fresne*. You also see an image of the author, Marie de France. Marie de France (Marie of France) was literate, not uncommon among women of her class, but she was exceptional in part because she claimed authorship of her work.
 This source is a part of the [*Analyzing Literary Sources*](https://worldhistorycommons.org/analyzing-literary-sources) methods module.
-
 
 ## Credits
 

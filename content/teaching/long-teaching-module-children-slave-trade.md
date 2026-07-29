@@ -27,6 +27,8 @@ related_sources:
   - link: "/interesting-narrative-life-olaudah-equiano-slave-ship"
     image: "/images/olaudah-equiano-title-page-thumbnail.jpeg"
     alt: "Title page for The Interesting Narrative of the Life of Olaudah Equiano"
+how_to_cite: |
+  "Long Teaching Module: Children in the Slave Trade," in World History Commons, https://worldhistorycommons.org/long-teaching-module-children-slave-trade [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -69,6 +71,8 @@ By the middle of the 18th century, however, planters economically dependent on t
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Kidnapping](/images/olaudah-equiano-thumbnail.jpg)
 
+#### Annotation
+
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 In this excerpt, Equiano gives an account of his kidnapping. While it is not only a particularly detailed account of the kidnapping of a child into the slave trade, several things should be of interest to students. Equiano makes note of several precautions taken to protect African children from kidnapping, which tells us that kidnapping was prevalent enough to warrant such precautions. Of particular importance in this excerpt are the vivid emotions expressed by Equiano as he recounts not only the loss of his freedom, but also the loss of his sister who he never saw again.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) and the [*Childhood and Transatlantic Slavery*](https://worldhistorycommons.org/short-teaching-module-childhood-and-transatlantic-slavery) teaching modules.
@@ -76,6 +80,8 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 ### [The Interesting Narrative of the Life of Olaudah Equiano: Middle Passage](/interesting-narrative-life-olaudah-equiano-middle-passage)
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Middle Passage](/images/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano_thumbnail.jpeg)
+
+#### Annotation
 
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 This excerpt is particularly telling of the special treatment many children received while traveling the Middle Passage. Although it is short, it speaks volumes as to the lengths that some crew members went to assuage the children's fears and sadness.
@@ -85,6 +91,8 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Slave Auction](/images/Olaudah_Equiano_thumbnail.jpeg)
 
+#### Annotation
+
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 In this excerpt, Equiano gives an excellent description of the auction experience. Once slaves reached their final destinations, the mood aboard ship became more jovial. Many traders gave extra food, allowed the slaves in the hold of the ship to spend extra time aboard deck, and slaves were given hope. Yet, as Equiano shows below, the harsh realities of the auction centers separated slaves from their families and shipmates. Equiano's experience is given in such detail that one can not only feel the desperation in his narrative, but the fear and confusion he felt as well. For children who did not understand what was happening, this experience would be surreal. Although Equiano was only eleven when he was kidnapped into the slave trade, he never forgot his experience.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) and the [*Childhood and Transatlantic Slavery*](https://worldhistorycommons.org/short-teaching-module-childhood-and-transatlantic-slavery) teaching modules.
@@ -92,6 +100,8 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 ### [The Interesting Narrative of the Life of Olaudah Equiano: Slave Ship](/interesting-narrative-life-olaudah-equiano-slave-ship)
 
 ![The Interesting Narrative of the Life of Olaudah Equiano: Slave Ship](/images/olaudah-equiano-title-page-thumbnail.jpeg)
+
+#### Annotation
 
 From the 16th to the 18th centuries, an estimated 20 million Africans crossed the Atlantic to the Americas in the trans-Atlantic slave trade. Until recently, slave studies rarely discussed children's experiences, but it has been estimated that one quarter of the slaves who crossed the Atlantic were children. Olaudah Equiano, kidnapped at age 11, became one of the most prominent English abolitionists of the 18th century. His narrative is extremely valuable not only for the wealth of information it presents on children's experiences in the slave trade, but also for those examining the abolitionist movement in England during this period of time.
 Many Africans who survived the coffles and made their way to the coast had never seen a white man, let alone the ocean or a slave ship. For Equiano, a child of 11, this experience was one he could not understand. What is particularly important about this source, however, is Equiano's placement into the hold of the slave ship. As a child, he should have traveled the Middle Passage on deck, unfettered with the slave women and children. Yet, Equiano was put in the hold with the adults, giving him a different experience entirely.
@@ -101,12 +111,16 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![The Dolben's Act of 1788](/images/Icons-Document-thumbnail_0.jpg)
 
+#### Annotation
+
 The Dolben's Act of 1788 was proposed by noted abolitionist Sir William Dolben before the English Parliament. While it was meant to restrict the slave trade, it actually had an adverse effect on children. The act mandated that no more than two fifths of a ship's cargo be children, and it also limited the number of African men to 1 male per ship ton. With such restrictions threatening slave supply, planter demand began to change in response. Since this act did not define a 'child,' more children between the ages of 12 and 18 entered the trade. Furthermore, this act sparked an important debate on the benefits of breeding slaves rather than buying them. Consequently, this act was somewhat responsible for an increased number of girls and children in the trade.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
 
 ### [Request: Playden Onely to the Royal African Company, 1721](/request-playden-onely-royal-african-company-1721)
 
 ![Request: Playden Onely to the Royal African Company, 1721](/images/Icons-Document-thumbnail.jpg)
+
+#### Annotation
 
 This excerpt is of a request made by Playden Onely to the members of the Royal African Company in 1721 for 130 children to be taken from West Africa to the West Indies for sale as slaves. The RAC commissioned the slave ship Kent for the task, and the operation was a success. As a result, Onely contracted the RAC to deliver 500 children annually to specifically designated ports. What is particularly important about this request is the year that it was made. Abolitionist threats did not affect the slave trade until the 1780s. This request came some 60 years earlier, when planters preferred to purchase adult African males between the ages of 18 and 35. This request not only suggests that children were in minor demand much earlier than previously imagined, but the success of such a venture further supports changes in planter demand.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
@@ -115,12 +129,16 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![Advertisement for Sale of Newly Arrived Africans](/images/advertisement_slavery_0THUMB.jpg)
 
+#### Annotation
+
 This image is of an advertisement for a nearly equal number of adults and children from Sierra Leone at a Charleston Auction. This image is important for several reasons, namely because one should see what an auction advertisement looks like, but also because the number of boys and girls is nearly equal to that of the number of men and women imported. Other things that should be pointed out is the information given in an auction advertisement. The information given is meant to not only provide as much information as possible for buyers, but it is also an indicator of planter demand during the time of the auction. Lastly, the sketches of Africans on the advertisement are an indicator of how Africans are viewed at this time. Not only do the facial features of the Africans appear exaggerated and stereotypically 'African', but both figures are very muscular and imply that the Africans for sale are strong and physically fit. The artist was careful to include both adults and children in the sketches, so as to catch the eye of interested buyers looking to invest in younger slaves.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
 
 ### [Captured Africans Liberated from a Slaving Vessel](/captured-africans-liberated-slaving-vessel)
 
 ![Captured Africans Liberated from a Slaving Vessel](/images/captured-africans-liberated-from-a-slaving-vessel_-east-africa_-1884-_image__82057ae7ecTHUMB.jpg)
+
+#### Annotation
 
 The Graphic, a London periodical owned by liberal reformer William Luson Thomas, was not an abolitionist publication per se, but it did seek to inspire action against those causes that Thomas felt demanded immediate attention, such as poverty, crime, and slavery. What we see in this image is the cargo of the liberated slave ship Dhow, a vessel captured by the authorities after the slave trade was abolished. What is striking about it is the vast number of children present in the sketch. An image like this is undoubtedly meant to open society's eyes to the increased number of children that were being imported into the Americas.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
@@ -129,12 +147,16 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![Slave Coffle, Central Africa, 1861](/images/slave-coffle_-central-africa_-1861-_image__6a0ca85048THUMB.jpg)
 
+#### Annotation
+
 This image shows children and adults making their way from the African interior to the coast in a slave coffle. While some may think that children were given special treatment because of their age, and some may have, this image suggests that this was not always the case. Teachers should caution students that this is also an image commissioned by abolitionists, who often used children to make a point. This does not mean that children did not travel in coffles as is pictured here, but abolitionists used images like these to gain support for their cause.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
 
 ### [A Narrative of the Life and Adventures of Venture A Native of Africa](/narrative-life-and-adventures-venture-native-africa)
 
 ![A Narrative of the Life and Adventures of Venture A Native of Africa](/images/venture-smith-thumbnail.jpeg)
+
+#### Annotation
 
 In this excerpted source, Venture Smith recalls his experiences in the slave trade as a child. This source is especially important, as Smith gives a very vivid account of slave raiding, a common practice that took place during the peak years of the slave trade in the 18th century. Smith, the son of a Guinean Prince, was sold into slavery at the young age of three by his own mother. Unable to support the boy after a separation with his father, Smith was sold to a rich farmer. At the age of six, he was captured by a slave raiding party within the interior of Africa, traveling with them until he made his way to the coast two years later. This was not uncommon during the slave trade, as children were often sold to several parties before traveling the Middle Passage.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module and the [*Primer: Global Microhistory*](https://worldhistorycommons.org/primer-global-microhistory) methods module.
@@ -143,12 +165,16 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![Thoughts and Sentiments on the Evil of Slavery: Middle Passage](/images/Icons-Book-Excerpt-thumbnail_13.jpg)
 
+#### Annotation
+
 Born in present-day Ghana, young Ottobah Cugoano was kidnapped and sold into slavery at the young age of 13. Cugoano worked in the sugar fields of a Grenadan plantation until 1773. That year, Cugoano traveled to England with his owner where he obtained his freedom, inspired in part by the Somerset Case, an English legal case that declared slavery illegal in England. Cugoano then joined the Abolitionist movement and published one of the most critical accounts of slavery to date. In this excerpt, Cugoano only briefly described his experience during the Middle Passage while he provided a fuller account of the slave coffle. Given his age at the time of capture, it could be that these are his only memories of the experience. However, it could also be that the trauma of the Middle Passage caused him to block out all but the most horrible of his memories.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
 
 ### [Thoughts and Sentiments on the Evil of Slavery: Slave Coffle](/thoughts-and-sentiments-evil-slavery-slave-coffle)
 
 ![Thoughts and Sentiments on the Evil of Slavery: Slave Coffle](/images/Icons-Book-Excerpt-thumbnail_14.jpg)
+
+#### Annotation
 
 Born in present-day Ghana, young Ottobah Cugoano was kidnapped and sold into slavery at the young age of 13. Cugoano worked in the sugar fields of a Grenadan plantation until 1773. That year, Cugoano traveled to England with his owner where he obtained his freedom, inspired in part by the Somerset Case, an English legal case that declared slavery illegal in England. Cugoano then joined the Abolitionist movement and published one of the most critical accounts of slavery to date. In this excerpt, Cugoano gives an extremely detailed account of a slave coffle.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
@@ -157,10 +183,11 @@ This source is a part of the [*Children in the Slave Trade*](https://worldhistor
 
 ![Children in the Slave Trade Table](/images/transatlantic-slave-trade-thumbnail.png)
 
+#### Annotation
+
 *The Trans-Atlantic Slave Trade: A Database on CD-ROM*, edited by David Eltis, Stephen D. Behrendt, David Richardson, and Herbert S. Klein, contains the best quantitative evidence to date on the number of Africans sold into the slave trade. A collection of trader inventories, the CD-Rom serves as a searchable database of voyages that took place during from the 16th to 19th centuries. Information on points of embarkation and disembarkation, mortality rates, gender and age, captains and crew, instances of rebellion, and epidemics can all be found in the database. However, one should be aware that the information is not complete and that is drawn from the evidence recorded in slave ship logs by the captain and crew. Therefore, the quantitative data gleaned from such a source should be used carefully.
 In the chart on the left, the number of children recorded in the database by century is listed, as well as the region of embarkation. This data shows an increase in children traveling the Middle Passage, as well as changes in supply and demand from region of disembarkation. This not only gives an idea of changes in planter demand and child worth, but also regional preference as well. Furthermore, the data suggests changes in supply as well as demand.
 This source is a part of the [*Children in the Slave Trade*](https://worldhistorycommons.org/long-teaching-module-children-slave-trade) teaching module.
-
 
 ## Teaching Strategies
 
@@ -199,16 +226,16 @@ Enough half-sheets of paper to allow each student to write 10 responses.
 
 Three markers
 
-Preparation  
+Preparation<br>
 If possible, assign students to read as homework the primary sources in the Children in the Slave Trade Teaching Module. This activity will prepare students for writing an essay on the Document Based Question in this teaching module.
 
-Day One  
-Hook  
+Day One<br>
+Hook<br>
 Display the image Advertisement for Sale of Newly Arrived Africans, Charleston, July 24, 1769 [Advertisement]. Ask students to view, read, and reflect on this advertising poster by thinking for 2—3 minutes and jotting down some historical questions it raises, and what element in the source raises those questions. What does it tell us, and what does it make us curious to know, focusing especially on the element of child slavery?
 
 Responses might include: it tells us that children were being imported to the Americas for sale in significant quantities, that they were intended for use as laborers, and this trade began before a significant abolition movement was established. It raises historical questions such as: How many children were involved in the trade, and how did this change over time? How old were the children involved? How did slave owners and traders justify the increased risks and longer-term return on their "investment"?There are many other possibilities.
 
-Activity  
+Activity<br>
 Divide students into three groups. Each group is assigned two containers, and goes to a corner of the room where chairs are set up. Divide the groups in half to represent opposing sides of each issue listed in the bullets below in #4.
 
 Using the three bullet items of the DBQ, assign each group one issue to discuss using the documents. They will label the boxes per instructions that follow:
@@ -221,37 +248,37 @@ Working within the sub-groups, members will go over their findings on each side 
 
 Then the class comes together to present and discuss each group's findings on their issue. Part of the discussion could be to see if any of the documents a group DID NOT read are relevant to one of the three issues.
 
-Day Two  
+Day Two<br>
 The class will address the overarching document based question regarding the role of children in slavery during this period, putting all of the evidence together. The discussion is focused on analyzing the evidence as it illuminates the larger question. This discussion should include what the documents DO NOT reveal, and what type of information or documents might shed additional light on the question.
 
 The students then receive the assignment to draft a DBQ essay using the documents, which would address all of the issues as they relate to the larger question. This will be assigned for homework.
 
-Day Three (Optional)  
+Day Three (Optional)<br>
 The third class period could be devoted to reading student essays and critiquing their strategies, use of evidence, etc., first in small groups, and then as a class. Students use these critiques to revise their essays for completion of the assignment.
 
-Differentiation  
+Differentiation<br>
 Advanced Students
 
 * Assign the third discussion group in #4, above, since their task involves all of the primary sources, and requires a more subtle analysis of them.
 * Have students students search for additional documents and images from The Atlantic Slave Trade and Slave Life in the Americas: A Visual Record, compiled by Jerome S. Handler and Michael L. Tuite Jr. Have them locate other images in the collection that may be relevant to the issue of children in the slave trade, and evaluate these sources in terms of their creators' point of view and their use as evidence.
 
-Less Advanced Students  
+Less Advanced Students<br>
 These students can be given more time and team support, or they can be asked to master just one of the three major issues raised in the document based question and use it to write an essay.
 
-Texts include:  
-1  
-The Interesting Narrative of the Life of Olaudah Equiano: Kidnapping; Slave Ship; Middle Passage; and Slave Auction;  
-The Dolben's Act of 1788;  
-Request: Playden Onely to the Royal African Company, 1721;  
-Advertisement for Sale of Newly Arrived Africans, Charleston, July 24, 1769;  
-Captured Africans Liberated from a Slaving Vessel, East Africa, 1884;  
-Slave Coffle, Central Africa, 1861;  
-A Narrative of the Life and Adventures of Venture A Native of Africa, but Resident Above Sixty Years in the United States of America Related by Himself; and  
+Texts include:<br>
+1<br>
+The Interesting Narrative of the Life of Olaudah Equiano: Kidnapping; Slave Ship; Middle Passage; and Slave Auction;<br>
+The Dolben's Act of 1788;<br>
+Request: Playden Onely to the Royal African Company, 1721;<br>
+Advertisement for Sale of Newly Arrived Africans, Charleston, July 24, 1769;<br>
+Captured Africans Liberated from a Slaving Vessel, East Africa, 1884;<br>
+Slave Coffle, Central Africa, 1861;<br>
+A Narrative of the Life and Adventures of Venture A Native of Africa, but Resident Above Sixty Years in the United States of America Related by Himself; and<br>
 Thoughts and Sentiments on the Evil of Slavery: Slave Coffle, Middle Passage; and Children in the Slave Trade.
 
 ## Document Based Question
 
-by Susan Douglass  
+by Susan Douglass<br>
 (Suggested writing time: 50 minutes)
 
 Using the images and texts in the documents provided, write a well-organized essay of at least five paragraphs in response to the following question.
@@ -310,10 +337,10 @@ In this article, Vasconcellos examines slave childhood and youth in relation to 
 
 ## Credits
 
-About the Author  
+About the Author<br>
 Colleen Vasconcellos is an Associate Professor of History at the University of West Georgia in Carrollton, Georgia. Her research focuses on childhood in the Atlantic World, in particular colonial Jamaica. In addition to being an editor and advisory board member of several H-Net listservs, Dr. Vasconcellos is author of Slavery, Childhood, and Abolition in Jamaica, 1788-1838 (2015) and co-editor of Girls in the World: A Global Anthology with Jennifer Hillman Helgren (2012).
 
-About the Lesson Plan Author  
+About the Lesson Plan Author<br>
 Susan Douglass is a doctoral student in history at George Mason University, and also serves as education outreach consultant for the Al-Waleed Center for Muslim-Christian Understanding at Georgetown University. Publications include World Eras: Rise and Spread of Islam, 622-1500 (Thompson/Gale, 2002), the study Teaching About Religion in National and State Social Studies Standards (Freedom Forum First Amendment Center and Council on Islamic Education, 2000), and teaching resources, both online and in print, including and the curriculum project World History for Us All, The Indian Ocean in World History, and websites for documentary films such as Cities of Light: the Rise and Fall of Islamic Spain and Muhammad:Legacy of a Prophet.
 
 This teaching module was originally developed for the Children and Youth in History project.

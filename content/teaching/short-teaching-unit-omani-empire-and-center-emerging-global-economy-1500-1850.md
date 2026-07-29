@@ -23,6 +23,8 @@ related_sources:
   - link: "/letter-us-president-andrew-jackson-senate-dated-washington-may-30-1834"
     image: "/images/Jackson_Letter_1_Thumb.png"
     alt: "First page of a letter from President Andrew Jackson to the Senate in 1834 on the expansion of US trade."
+how_to_cite: |
+  "Short Teaching Unit: The Omani Empire and the Center of the Emerging Global Economy, 1500-1850," in World History Commons, https://worldhistorycommons.org/short-teaching-unit-omani-empire-and-center-emerging-global-economy-1500-1850 [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -61,11 +63,15 @@ Shortly after Said died, the empire was divided into two sections: one based in 
 
 ![A letter from U.S. President Andrew Jackson to the Senate Dated Washington, May 30, 1834](/images/Jackson_Letter_1_Thumb.png)
 
+#### Annotation
+
 A letter from President Andrew Jackson to the Senate where the President discusses the possibility of extending US trade. Jackson was particularly interested in the potential trade connections with areas around the Indian Ocean.
 
 ### [List of Foreign Arrivals in the Port of Zanzibar from the 16th September 1832 to 26th May 1835](/list-foreign-arrivals-port-zanzibar-16th-september-1832-26th-may-1835)
 
 ![List of Foreign Arrivals in the Port of Zanzibar from the 16th September 1832 to 26th May 1835](/images/List_of_Foreign_Arrivals_to_Zanzibar_thumb.png)
+
+#### Annotation
 
 This is an ostensibly mundane document that contains a tremendous amount of information for interpreting the global dynamics of this period of history, all while peering out into the world from the tiny island of Zanzibar. The first thing any historian using this document might consider doing is corroborating its general patterns and information with other similar documents – is this document an outlier, or do other similar documents corroborate what it contains? The answer, in this case, is the latter: countless similar documents corroborate many conclusions we can draw from this one. What are they?
 
@@ -75,8 +81,9 @@ First, we see that American shipping dominated the foreign commerce of East Afri
 
 ![Business contract between Richard P. Waters and his Omani-Zanzibari trading partner, Esau bin Abdul Rahman](/images/Roberts_source_thumb.png)
 
-This contract represents how business was typically transacted in Zanzibar and throughout the Omani Empire. It reflects how merchants throughout the region relied upon forging deals with each other, but it also serves as a lens through which we can peer to see how this space allows us to see just how tightly connected the world was becoming. This contract stipulated that Richard P. Waters would grant Esau bin Abdul Rahman a loan of $4,000. Esau would use this loan to mobilize his own networks to gather one-thousand frasilahs (a common unit of measure in the Indian Ocean, about 35 pounds) of gum copal. It stipulates that Esau must deliver the copal to Waters within four months. It also states that Esau’s “agents, heirs, and executors” were bound by the contract. We can interpret this single document as global capitalism in the making. Here was an American merchant from Salem, Massachusetts, on the East African island of Zanzibar, striking a deal with an Omani trader, who would have likely relied on enslaved Africans and Arab caravan porters to trek deep into the East African continent to secure the gum copal. Finalizing the deal, as always throughout the Omani Empire, would have been the Customs Master – an Indian from Gujarat. Moreover, however, if something had happened to Esau, his “agents, heirs, and executors” were legally bound by this contract, required to finish the deal. But there is more. What was gum copal? Gum copal was a tremendously popular commodity in this time, abundantly found in East Africa. It is a resin produced from the sap of certain trees that was used for many things, including as a glue or varnish for furniture making. It could also sometimes be used for certain medical practices. This document, then, allows us to see in the making the globally enmeshed chains of commercial interactions that characterize our present-day system of global capitalism in the making. This wasn’t just a contract between Richard and Esau: it also bound together within this commercial moment Esau’s heirs and executors, Richard’s business partners in Salem, and the countless consumers throughout New England who were eagerly awaiting that gum copal, to turn their own respective profits.
+#### Annotation
 
+This contract represents how business was typically transacted in Zanzibar and throughout the Omani Empire. It reflects how merchants throughout the region relied upon forging deals with each other, but it also serves as a lens through which we can peer to see how this space allows us to see just how tightly connected the world was becoming. This contract stipulated that Richard P. Waters would grant Esau bin Abdul Rahman a loan of $4,000. Esau would use this loan to mobilize his own networks to gather one-thousand frasilahs (a common unit of measure in the Indian Ocean, about 35 pounds) of gum copal. It stipulates that Esau must deliver the copal to Waters within four months. It also states that Esau’s “agents, heirs, and executors” were bound by the contract. We can interpret this single document as global capitalism in the making. Here was an American merchant from Salem, Massachusetts, on the East African island of Zanzibar, striking a deal with an Omani trader, who would have likely relied on enslaved Africans and Arab caravan porters to trek deep into the East African continent to secure the gum copal. Finalizing the deal, as always throughout the Omani Empire, would have been the Customs Master – an Indian from Gujarat. Moreover, however, if something had happened to Esau, his “agents, heirs, and executors” were legally bound by this contract, required to finish the deal. But there is more. What was gum copal? Gum copal was a tremendously popular commodity in this time, abundantly found in East Africa. It is a resin produced from the sap of certain trees that was used for many things, including as a glue or varnish for furniture making. It could also sometimes be used for certain medical practices. This document, then, allows us to see in the making the globally enmeshed chains of commercial interactions that characterize our present-day system of global capitalism in the making. This wasn’t just a contract between Richard and Esau: it also bound together within this commercial moment Esau’s heirs and executors, Richard’s business partners in Salem, and the countless consumers throughout New England who were eagerly awaiting that gum copal, to turn their own respective profits.
 
 ## Bibliography
 

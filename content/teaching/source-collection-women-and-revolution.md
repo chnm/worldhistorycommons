@@ -33,6 +33,8 @@ related_sources:
   - link: "/petition-women-third-estate-king-1-january-1789"
     image: "/images/Icons-Document-thumbnail_38.jpg"
     alt: ""
+how_to_cite: |
+  "Source Collection: Women and the Revolution," in World History Commons, https://worldhistorycommons.org/source-collection-women-and-revolution [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -93,11 +95,15 @@ Any educated person would therefore immediately recognize when a woman was an ab
 
 ![Vanguard of Women Going to Versailles](/images/vanguard-of-women-thumbnail.jpeg)
 
+#### Annotation
+
 Publicity about political machinations, coupled with the continued high price of bread, mobilized market women and encouraged many men to support them. They hoped to fetch the King and his family to end attempts against the Revolution and stabilize prices. This action was so threatening to the middle class elite that Lafayette, head of the Parisian National Guard, tried first to dissuade the marchers and then belatedly followed them to try to control the situation.
 
 ### [Jean–Jacques Rousseau, Emile (1762)](/jean-jacques-rousseau-emile-1762)
 
 ![Jean–Jacques Rousseau, Emile (1762)](/images/Icons-Document-thumbnail_349.jpg)
+
+#### Annotation
 
 Rousseau was the most controversial and paradoxical of the writers of the Enlightenment. Born in Switzerland, he published important works on politics, music, and in Emile, education. He also wrote one of the most widely read novels of the century, Julie or the New Heloise. Although an advocate of new educational practices that emphasized the natural development of children’s abilities, Rousseau put all his own children in a foundling home because he could not support them. In Emile, he gave most of his attention to the education of boys. His section on the education of girls, centered on the character of Sophie, proved to be one of his most controversial writings; it underlined the importance of mothers in educating their children, but encouraged teaching girls to be entirely subordinate and dependent on their husbands. Rousseau’s book provoked responses from women and men well into the 1800s.
 
@@ -105,11 +111,15 @@ Rousseau was the most controversial and paradoxical of the writers of the Enligh
 
 ![Madame de Beaumer, Editorial, Journal des Dames (March 1762)](/images/Icons-Document-thumbnail_206.jpg)
 
+#### Annotation
+
 Madame de Beaumer (d. 1766) was the first of three women editors of the Journal des Dames, a newspaper founded in Paris in 1759 to encourage women to write seriously. Little is known about her, perhaps because she was a Calvinist and Calvinists in France had to marry and baptize their children clandestinely. In this editorial and in many others, Beaumer defended her sex against its detractors.
 
 ### [Petition of Women of the Third Estate to the King (1 January 1789)](/petition-women-third-estate-king-1-january-1789)
 
 ![Petition of Women of the Third Estate to the King (1 January 1789)](/images/Icons-Document-thumbnail_38.jpg)
+
+#### Annotation
 
 Little is known about women’s grievances or feelings in the months leading up to the meeting of the Estates–General in November 1789. They did not have the right to meet as a group, draft grievances, or vote (except in isolated individual instances) in the preparatory elections. Nevertheless, some women did put their thoughts to paper, and though little evidence exists about the circumstances or the identities of those involved, the few documents offering their views bear witness to their concerns in this time of ferment. In this document working women addressed the King in respectful terms and carefully insisted that they did not wish to overturn men’s authority; they simply wanted the education and enlightenment that would make them better workers, better wives, and better mothers. The petitioners expressed their deep apprehensions about prostitution and the fear that they would be confused with them; like prostitutes, working women did not stay at home but necessarily entered the public sphere to make their livings. Most of all, however, the women wanted to be heard; they saw the opening created by the convocation of the Estates–General and hoped to make their own claims for inclusion in the promised reforms.
 
@@ -117,11 +127,15 @@ Little is known about women’s grievances or feelings in the months leading up 
 
 ![A Woman’s Cahier](/images/Icons-Document-thumbnail_207.jpg)
 
+#### Annotation
+
 This grievance was signed by a certain Madame B\*\*\* B\*\*\* whose identity is unknown. The provenance appears to be Normandy. Another version of this text, located and republished in the late nineteenth century, is signed by Marie, veuve de Vuigneras, also from Normandy. According to contextual evidence, this document followed the convocation of the Estates–General and the call for the collection and presentation of grievances, and its opening in early May 1789. In the royal edict of late January 1789, stipulating the conditions for elections, women of the First and Second Estates (clergy and nobility) were allowed to vote for representatives by proxy; but property–holding women of the Third Estate, widows or adult unmarried daughters, were not. Here Madame B\*\*\*B\*\*\* addresses men, at once praising their potential for vision and justice, but at the same time blaming them for their historical subordination and misuse of women. Her appeal for representation of women by women in the Estates–General is followed by a sharply worded protest against the double standard of sexual morality. For this writer, the personal is highly political.
 
 ### [Stanislas Maillard describes the Women’s March to Versailles (5 October 1789)](/stanislas-maillard-describes-womens-march-versailles-5-october-1789)
 
 ![Stanislas Maillard describes the Women’s March to Versailles (5 October 1789)](/images/Icons-Document-thumbnail_208.jpg)
+
+#### Annotation
 
 Stanislas Maillard was a national guardsman known for having taken a leading role in the attack on the Bastille. In 1790 he testified before a commission established by the court in Paris to investigate the events of October 1789. He exaggerates his role in the events but gives a vivid account of the women’s march, especially their insistence on petitioning the deputies in the National Assembly.
 
@@ -129,11 +143,15 @@ Stanislas Maillard was a national guardsman known for having taken a leading rol
 
 ![Women Testify Concerning Their Participation in the October Days (1789)](/images/Icons-Document-thumbnail_209.jpg)
 
+#### Annotation
+
 The commission investigating the events of October 1789 also interrogated many women who had participated. Most of them denied any role in the violence, but they did explain their mixture of political and economic motives, citing the high price of bread and their desire to explain their situation to the National Assembly.
 
 ### [Article from the Encyclopedia: "Woman"](/article-encyclopedia-woman)
 
 ![Article from the Encyclopedia: "Woman"](/images/Icons-Document-thumbnail_205.jpg)
+
+#### Annotation
 
 The article "Woman" was written by four contributors who considered the question from four angles: medicine and the history of opinions about women’s nature; writings about women’s place in the state and marriage; the social differences between men and women; and women’s legal status in different societies. Although the Encyclopedia, the fundamental compendium of the Enlightenment, repeated many traditional arguments for the subjugation of women, some of its authors argued that the subordination of women had its basis only in social convention and not in any natural differences between men and women.
 
@@ -141,11 +159,15 @@ The article "Woman" was written by four contributors who considered the question
 
 ![To Versailles, To Versailles!](/images/5dd4929b042d6bf5ab1540d48470ddbc_Thumbnail.jpg)
 
+#### Annotation
+
 The women who arrived, though lightly armed, were no shrinking violets. They insisted that the royal family return to Paris where, in fact, they would find themselves under virtual house arrest.
 
 ### [Memorable Day at Versailles, 5 October 1789](/memorable-day-versailles-5-october-1789)
 
 ![Memorable Day at Versailles, 5 October 1789](/images/memorable-day-thumbnail.jpeg)
+
+#### Annotation
 
 This engraving marks success and reconciliation among revolutionaries, as men and women, as well as soldiers and civilians, relax together.
 
@@ -153,11 +175,15 @@ This engraving marks success and reconciliation among revolutionaries, as men an
 
 ![Women's Petition to the National Assembly](/images/Icons-Document-thumbnail_210.jpg)
 
+#### Annotation
+
 This petition was addressed to the National Assembly sometime after the October 1789 march of women on Versailles. The authors were clearly well acquainted with the Declaration of the Rights of Man and Citizen, as well as with the many prior publications about the historical accomplishments of celebrated women. They were also conversant with the concept of "genre" (gender), understood as society’s construction of sexual difference.
 
 ### [Condorcet, "On the Admission of Women to the Rights of Citizenship," July 1790](/condorcet-admission-women-rights-citizenship-july-1790)
 
 ![Condorcet, "On the Admission of Women to the Rights of Citizenship," July 1790](/images/Icons-Document-thumbnail_143.jpg)
+
+#### Annotation
 
 Condorcet took the question of political rights to its logical conclusions. He argued that if rights were indeed universal, as the doctrine of natural rights and the Declaration of the Rights of Man and Citizen both seemed to imply, then they must apply to all adults. Condorcet consequently argued in favor of granting political rights to Protestants and Jews and advocated the abolition of the slave trade and slavery itself. He went further than any other leading revolutionary spokesman, however, when he insisted that women, too, should gain political rights. His newspaper article to that effect caused a sensation and stimulated those of like mind to publish articles of their own. But the campaign was relatively short–lived and ultimately unsuccessful; the prejudice against granting political rights to women would prove the most difficult to uproot.
 
@@ -165,11 +191,15 @@ Condorcet took the question of political rights to its logical conclusions. He a
 
 ![Etta Palm D’Aelders, "Discourse on the Injustice of the Laws in Favor of Men, at the Expense of Women" (30 December 1790)](/images/Icons-Document-thumbnail_211.jpg)
 
+#### Annotation
+
 Like many female activists, the Dutch woman Etta Palm D’Aelders did not explicitly articulate a program for equal political rights for women, though that would no doubt have been her ultimate aim. Instead she worked to bring about a change in morals and customs that would in turn foster a more egalitarian atmosphere for women. She gave this address at a meeting of the Confederation of the Friends of Truth, the first political club to admit women as full members.
 
 ### [Olympe de Gouges, The Declaration of the Rights of Woman (September 1791)](/olympe-de-gouges-declaration-rights-woman-september-1791)
 
 ![Olympe de Gouges, The Declaration of the Rights of Woman (September 1791)](/images/Icons-Document-thumbnail_144.jpg)
+
+#### Annotation
 
 Marie Gouze (1748–93) was a self–educated butcher’s daughter from the south of France who, under the name Olympe de Gouges, wrote pamphlets and plays on a variety of issues, including slavery, which she attacked as being founded on greed and blind prejudice. In this pamphlet she provides a declaration of the rights of women to parallel the one for men, thus criticizing the deputies for having forgotten women. She addressed the pamphlet to the Queen, Marie Antoinette, though she also warned the Queen that she must work for the Revolution or risk destroying the monarchy altogether. In her postscript she denounced the customary treatment of women as objects easily abandoned. She appended to the declaration a sample form for a marriage contract that called for communal sharing of property. De Gouges went to the guillotine in 1793, condemned as a counterrevolutionary and denounced as an "unnatural" woman.
 
@@ -177,11 +207,15 @@ Marie Gouze (1748–93) was a self–educated butcher’s daughter from the sout
 
 ![The Death of Marat](/images/death-of-marat-thumbnail.jpeg)
 
+#### Annotation
+
 This famous depiction of Marat’s assassination (1793) is by the unofficial (and sometimes official) artist of the French Revolution, Jacques–Louis David, a leading exponent of the neoclassical style. Scholars have seen this vision as a revolutionary pietà because of the repose of the corpse, so different from that of a normal body in a stage of rigor mortis. David also planned Marat’s funeral on behalf of the government.
 
 ### [Assassination of J. P. Marat](/assassination-j-p-marat)
 
 ![Assassination of J. P. Marat](/images/a1e18b799b73a2b97d6d92adb79179e9_Thumbnail.jpg)
+
+#### Annotation
 
 An arrested Corday is hustled out of the door, while the inquest begins. The expired Marat, ghastly pale, looks much more realistic than in the David rendition of his death. Also, the bath in the shape of a boot, which differs from most images, is apparently accurate.
 
@@ -189,11 +223,15 @@ An arrested Corday is hustled out of the door, while the inquest begins. The exp
 
 ![Women’s Participation in Riots over the Price of Sugar, February 1792](/images/Icons-Document-thumbnail_212.jpg)
 
+#### Annotation
+
 This fragment from a memoir by Charles Alexandre shows the anger of women when confronted by a sugar shortage. They readily attributed the shortage to hoarding by greedy merchants. This document also shows the new importance of colonial products such as sugar and coffee.
 
 ### [A Deputation of Women Citizens Demands Action on Food Prices (24 February 1793)](/deputation-women-citizens-demands-action-food-prices-24-february-1793)
 
 ![A Deputation of Women Citizens Demands Action on Food Prices (24 February 1793)](/images/Icons-Document-thumbnail_213.jpg)
+
+#### Annotation
 
 In the rioting over prices of February 1793, women appealed first to the authorities, showing that they intended to communicate directly with their representatives in the municipal government of Paris. By explicitly referring to themselves as "citizens," these women publicly claimed their right to be heard.
 
@@ -201,11 +239,15 @@ In the rioting over prices of February 1793, women appealed first to the authori
 
 ![Police Reports on Disturbances over Food Supplies (February 1793)](/images/Icons-Document-thumbnail_214.jpg)
 
+#### Annotation
+
 The reports of the Paris police provide firsthand information about conditions in the city and about the leading role of women in food disturbances.
 
 ### [Regulations of the Society of Revolutionary Republican Women (9 July 1793)](/regulations-society-revolutionary-republican-women-9-july-1793)
 
 ![Regulations of the Society of Revolutionary Republican Women (9 July 1793)](/images/Icons-Document-thumbnail_215.jpg)
+
+#### Annotation
 
 The regulations demonstrate that women wanted to be taken seriously as political participants; they wanted their club to be like the clubs set up by men.
 
@@ -213,11 +255,15 @@ The regulations demonstrate that women wanted to be taken seriously as political
 
 ![Account of a Session of the Society of Revolutionary Republican Women](/images/Icons-Document-thumbnail_216.jpg)
 
+#### Annotation
+
 Unfortunately the only first-hand account of the meetings of the women’s club comes from notes taken by Pierre–Joseph–Alexis Roussel, published in a volume of memoirs in 1802. His account makes fun of the women’s club for discussing the virtues of women as warriors and administrators. Some of the details, however, are accurate and give credibility to the overall account. The club did decide to demand a decree requiring all women to wear the national cockade (a tricolor ribbon decoration), just as he describes.
 
 ### [Prudhomme, "On the Influence of the Revolution on Women" (12 February 1791)](/prudhomme-influence-revolution-women-12-february-1791)
 
 ![Prudhomme, "On the Influence of the Revolution on Women" (12 February 1791)](/images/Icons-Document-thumbnail_217.jpg)
+
+#### Annotation
 
 Louis–Marie Prudhomme founded the Révolutions of Paris, one of the best–known radical newspapers of the French Revolution. In this editorial, he responds to women’s criticisms of the Revolution and outlines a theory of women’s "natural" domesticity. He stopped publication of his paper in 1794 in response to the growing violence of the Terror.
 
@@ -225,11 +271,15 @@ Louis–Marie Prudhomme founded the Révolutions of Paris, one of the best–kno
 
 ![Discussion of Citizenship under the Proposed New Constitution (29 April 1793)](/images/Icons-Document-thumbnail_218.jpg)
 
+#### Annotation
+
 In the discussion of a new constitution in April 1793, Jean–Denis Lanjuinais spoke for the constitutional committee. He admitted that the question of women’s rights had aroused controversy.
 
 ### [Guyomar, "The Partisan of Political Equality between Individuals" (April 1793)](/guyomar-partisan-political-equality-between-individuals-april-1793)
 
 ![Guyomar, "The Partisan of Political Equality between Individuals" (April 1793)](/images/Icons-Document-thumbnail_219.jpg)
+
+#### Annotation
 
 Pierre Guyomar wrote the pamphlet excerpted here during the war–torn and hungry spring of 1793, at the height of popular political mobilization that restated arguments made by Condorcet three years earlier. A political moderate, Guyomar supported equal political rights for women and compares the question of women’s rights to that of the rights of black slaves.
 
@@ -237,11 +287,15 @@ Pierre Guyomar wrote the pamphlet excerpted here during the war–torn and hungr
 
 ![Citoyenne Lacombe’s "Report to the Society of Revolutionary Republican Women Concerning What Took Place 16 September at the Jacobin Club"](/images/Icons-Document-thumbnail_49.jpg)
 
+#### Annotation
+
 Claire Lacombe, an actress and one of the leaders of the Society of Revolutionary Republican Women, published a pamphlet to counter charges made against her and the club. By September 1793 the revolutionary government had begun to harass the leaders of the club.
 
 ### [Discussion of Women’s Political Clubs and Their Suppression, 29–30 October 1793](/discussion-womens-political-clubs-and-their-suppression-29-30-october-1793)
 
 ![Discussion of Women’s Political Clubs and Their Suppression, 29–30 October 1793](/images/Icons-Document-thumbnail_145.jpg)
+
+#### Annotation
 
 On 29 October 1793, a group of women appeared in the National Convention to complain that female militants had tried to force them to wear the red cap of liberty as a sign of their adherence to the Revolution, but they also presented a petition demanding the suppression of the women’s club behind these actions. Their appearance provided the occasion for a discussion of women’s political activity more generally. Philippe Fabre d’Eglantine (1755–94) gave a speech denouncing both the agitation about dress and the women’s clubs. Fabre, a well–known poet and playwright, took an active role in the dechristianization movement that was getting under way in the fall of 1793. He went to the guillotine in April 1794, supposedly for financial fraud but really for opposing Robespierre’s policies. (Robespierre distrusted the dechristianization movement) The National Convention immediately passed a decree reaffirming liberty of dress but put off to the next day consideration of the clubs. On 30 October 1793, Jean–Baptiste Amar (1755–1816) spoke for the Committee of Public Security and proposed a decree suppressing all women’s political clubs, which passed with virtually no discussion. He outlined the government’s official policy on women: women’s proper place was in the home, not in politics. Broad agreement about the role of women did not prevent internal dissension among the men. Amar himself denounced Fabre a few months later and then joined the opposition to Robespierre in July 1794, which ended in Robespierre’s own execution. The club at issue in the October debate was the Society of Revolutionary Republican Women, founded in May 1793 to agitate for firmer measures against the country’s enemies. The club supported the establishment of companies of amazons, armed to fight internal enemies, but it did not advance specifically feminist demands such as the demand for the right to vote. Nonetheless, the deputies found any organized women’s political activity threatening and forbade it henceforth.
 
@@ -249,11 +303,15 @@ On 29 October 1793, a group of women appeared in the National Convention to comp
 
 ![Discussion of Women’s Political Clubs—Amar](/images/Icons-Document-thumbnail_220.jpg)
 
+#### Annotation
+
 In a follow–up to Fabre d’Eglantine’s speech on 29 October, Jean–Baptiste Amar proposed an official decree on 3 October forbidding women to join together in political associations. A deputy tried to argue that this notion ran contrary to the right of freedom of association, but he was shouted down by the other deputies.
 
 ### [The Trial of Olympe de Gouges](/trial-olympe-de-gouges)
 
 ![The Trial of Olympe de Gouges](/images/Icons-Document-thumbnail_221.jpg)
+
+#### Annotation
 
 The case against Olympe de Gouges is worth reading in detail because it is typical of the attacks on those who criticized the authority of the central government that gathered force in the fall of 1793 and continued up to July 1794, when Robespierre fell from power. Gouges, an advocate of increased popular consultation, criticized the National Convention, calling its members ambitious men. This criticism was a far greater factor in the decision to sentence her to death than was her public support of women’s rights.
 
@@ -261,11 +319,15 @@ The case against Olympe de Gouges is worth reading in detail because it is typic
 
 ![Chaumette, Speech at City Hall Denouncing Women’s Political Activism (17 November 1793)](/images/Icons-Document-thumbnail_222.jpg)
 
+#### Annotation
+
 When a group of women appeared at City Hall wearing red liberty caps, Pierre–Gaspard Chaumette denounced them and all political activism by women. He held out the examples of Madame Roland and Olympe de Gouges as warnings.
 
 ### [Image of the Queen’s Defense](/image-queens-defense)
 
 ![Image of the Queen’s Defense](/images/4aa347e936ab7e8e7ffea50b37232af5_0.jpg)
+
+#### Annotation
 
 The trial of the Queen is here depicted in a tinted engraving by Jean Duplessi–Bertaux as part of his series of Historical Scenes of the French Revolution. Although it refers to her as "Marie Antoinette, the Austrian," the etching portrays her somewhat sympathetically, showing her in a graceful pose with a concerned look on her face amid a hostile prosecutor, judge, and soldiers.
 
@@ -273,11 +335,15 @@ The trial of the Queen is here depicted in a tinted engraving by Jean Duplessi�
 
 ![How a Mother Survives](/images/Icons-Document-thumbnail_223.jpg)
 
+#### Annotation
+
 Madame Ducroquet wrote to her son in the spring of 1794 about the continuing shortage of food. She expressed her worries upon reading that someone with the same name had been arrested; in fact, it was her son, who went to the guillotine only a few weeks later.
 
 ### [An Ordinary Woman Faces Prison for her Comments](/ordinary-woman-faces-prison-her-comments)
 
 ![An Ordinary Woman Faces Prison for her Comments](/images/Icons-Document-thumbnail_224.jpg)
+
+#### Annotation
 
 This petition from the wife of a wigmaker in Paris demonstrates both the volatility of the political situation (she went to jail for badmouthing a local official while standing in line at a food market) and the conditions in prison.
 
@@ -285,11 +351,15 @@ This petition from the wife of a wigmaker in Paris demonstrates both the volatil
 
 ![Police Reports on Women’s Discontent (Spring 1795)](/images/Icons-Document-thumbnail_225.jpg)
 
+#### Annotation
+
 Agitation over the shortage of bread reached a breaking point in the spring of 1795. Women played critical roles in these disturbances, as they had before the Revolution.
 
 ### [Denunciation of a Woman Participant in the Uprising of May 1795](/denunciation-woman-participant-uprising-may-1795)
 
 ![Denunciation of a Woman Participant in the Uprising of May 1795](/images/Icons-Document-thumbnail_226.jpg)
+
+#### Annotation
 
 Once the uprising of May 1795 had been suppressed, the government set up a military tribunal, which gathered denunciations of presumed rioters. This one gives a good sense of the charges made and the kind of language used ("infernal sect of Jacobin terrorists, blood–drinkers, etc.").
 
@@ -297,11 +367,15 @@ Once the uprising of May 1795 had been suppressed, the government set up a milit
 
 ![Day 1 of Prairial of the Year III](/images/9e3d1a14301a755daf4cf2d032e09375_Thumbnail.jpg)
 
+#### Annotation
+
 Men and women threaten the deputies on 20 May 1795. They demand "Bread and the Constitution of 1793." This day marked one of the last interventions of ordinary women into national politics.
 
 ### [Interrogation of a Suspected Rioter (June 1795)](/interrogation-suspected-rioter-june-1795)
 
 ![Interrogation of a Suspected Rioter (June 1795)](/images/Icons-Document-thumbnail_227.jpg)
+
+#### Annotation
 
 The police interrogated those accused of participating in the May 1795 riots. This interrogation gives a good idea of the police’s concerns.
 
@@ -309,11 +383,15 @@ The police interrogated those accused of participating in the May 1795 riots. Th
 
 ![Sword Hilt with Revolutionary Icons—Liberty](/images/db61fb947cfdf2b8b6e58c068ba5a866_0.jpg)
 
+#### Annotation
+
 This sword, an actual artifact of the revolutionary wars, shows how strongly French officers and soldiers believed themselves to be fighting for the defense of liberty, which is represented by the woman holding the balance and by the Phrygian bonnet on a pike, both visible in the hilt. This example illustrates that even "masculine" objects such as swords depicted liberty as female.
 
 ### [An Example of Heroic Courage](/example-heroic-courage)
 
 ![An Example of Heroic Courage](/images/example-of-heroic-courage-thumbnail.jpeg)
+
+#### Annotation
 
 In this rendition of an incident from the Vendée rebellion, an ordinary woman is shown standing up to the rebels. It comes from a series of heroic images of the Revolution and shows that women could be heroines for the Republic.
 
@@ -321,11 +399,15 @@ In this rendition of an incident from the Vendée rebellion, an ordinary woman i
 
 ![Constance Pipelet, Review of a Book by Théremin, On the Condition of Women in a Republic](/images/Icons-Document-thumbnail_228.jpg)
 
+#### Annotation
+
 In this review of a book by an author favorable to women’s education, Pipelet argues that republics should demonstrate a different attitude toward women than monarchies. She restates the arguments for more education and more opportunities for women and rejects those positions that keep women in intellectual dependency and passivity.
 
 ### [Woman with a Basket in Front of a Door to the Prison](/woman-basket-front-door-prison)
 
 ![Woman with a Basket in Front of a Door to the Prison](/images/9b0e2b052b04befd92e4bff542edb8c8_Thumbnail.jpg)
+
+#### Annotation
 
 Despite the demure expression created by her huge eyes, this woman also shows adherence to the Revolution through her scarf, similar in shape and color to the Phrygian cap.
 
@@ -333,11 +415,15 @@ Despite the demure expression created by her huge eyes, this woman also shows ad
 
 ![The Triumph of Liberty](/images/86b3a24cd3a34e9e13e39822e50c5151_Thumbnail.jpg)
 
+#### Annotation
+
 In this extraordinary painting stands a formidable and powerful figure of liberty with her pike and cap. As the title of this work suggests, Liberty appears here as a warrior surveying the field of battle from a commanding height. Furthermore, the cock crowing at the dawn suggests the arrival of an entirely new day.
 
 ### [Liberty](/liberty)
 
 ![Liberty](/images/40383009e6c1273c8b8e5e4b6620a398_Thumbnail.jpg)
+
+#### Annotation
 
 In this spectacularly vivid rendition of Liberty, she holds the Phrygian cap of freed slaves on a pike. That, combined with her colorful pants, suggests aggressive liberty. Yet the scrolls in her right hand also underscore the role of legislation in defining her purview. Further, simply the use of a female figure balanced some of the aggressive pose.
 
@@ -345,11 +431,15 @@ In this spectacularly vivid rendition of Liberty, she holds the Phrygian cap of 
 
 ![Allegory of Truth](/images/allegory-of-truth.jpg)
 
+#### Annotation
+
 Female revolutionary figures stood for all kinds of qualities and virtues, in this case, "Truth." Women figures appeared so prominently in paintings and engravings because French nouns for the qualities and virtues were usually feminine (Truth = La Vérité). In other words, paintings such as this one did not represent real women; they used allegorical figures to make a more abstract point.
 
 ### [The Republic](/republic)
 
 ![The Republic](/images/569db6d8c3a9d2a3665b5263d1e4d566_Thumbnail.jpg)
+
+#### Annotation
 
 Under the monarchy, the king was the country’s symbolic center. Removing him and establishing a republic made necessary not only a new constitution but also a new set of symbols. Here the revolutionaries transformed "Liberty" into "the Republic." Without her pike and cap, she seems more matriarchal, framed by flourishing plants. Sometimes depicted in more aggressive posture, the Republic was always shown as a female figure, in part to avoid identification with any particular male politician or political group. The female Republic never appeared in contemporary dress; she was a symbol above politics, not a French woman involved in revolutionary action.
 
@@ -357,11 +447,15 @@ Under the monarchy, the king was the country’s symbolic center. Removing him a
 
 ![The Fountain of Regeneration](/images/5e05c71ad54359b51f466f576ef2c4b3_Thumbnail.jpg)
 
+#### Annotation
+
 In this engraving of the Festival of Reunion or Unity of 10 August 1793, a female statue of Nature in the form of the Egyptian goddess Isis represents the regeneration of the French people. It sits on the site of the Bastille prison, whose fall signaled the beginning of the Revolution. The engraving depicts the statue as made of stone, but in fact it was hastily constructed of papier mache. This engraving was printed in 1797 as part of a series of commemorative prints of events of the revolution.
 
 ### [Game of the Great Men, Minot the Elder](/game-great-men-minot-elder)
 
 ![Game of the Great Men, Minot the Elder](/images/GameGreatMen.jpg)
+
+#### Annotation
 
 Revolutionaries redesigned playing cards in order to eliminate references to royalty (kings, queens, jacks) and replace them with great men and abstract virtues.
 
@@ -369,14 +463,17 @@ Revolutionaries redesigned playing cards in order to eliminate references to roy
 
 ![The Fatherland in Danger](/images/b9c021e885587b4d92183e9aa3fa0ba9_Thumbnail.jpg)
 
+#### Annotation
+
 This painting of the period by Gillaume Guillon Lethière shows the emotion caused by the prospect of loved ones departing for the army. Women had to part with their families in order to support the nation in its time of need. Notice the female statue overlooking the scene. This female figure represents "the Fatherland" because in French the word for fatherland is gendered feminine (La Patrie).
 
 ### [Watch Yourself or You'll be a Product for Sale](/watch-yourself-or-youll-be-product-sale)
 
 ![Watch Yourself or You'll be a Product for Sale](/images/d1cf0eba727048355aba5dfaaa752409_Thumbnail.jpg)
 
-The women in this image appear to be tempted to a life of prostitution. The female figure in the left foreground gestures toward the door but remains modestly attired. Once inside, the women are there for the pleasure of men and wear revealing or little clothing. The contrast in this moralistic image also reveals how differently contemporaries could depict "real" women from allegorical ones. The engraving reflected a vision of life during the Thermidorian reaction and the Directory (1795–99).
+#### Annotation
 
+The women in this image appear to be tempted to a life of prostitution. The female figure in the left foreground gestures toward the door but remains modestly attired. Once inside, the women are there for the pleasure of men and wear revealing or little clothing. The contrast in this moralistic image also reveals how differently contemporaries could depict "real" women from allegorical ones. The engraving reflected a vision of life during the Thermidorian reaction and the Directory (1795–99).
 
 ## Credits
 

@@ -18,6 +18,8 @@ related_sources:
   - link: "/letter-birmingham-jail"
     image: "/images/Icons-Document-thumbnail_723.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Modern Racism in the U.S. and South Africa," in World History Commons, https://worldhistorycommons.org/short-teaching-module-modern-racism-us-and-south-africa [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -44,12 +46,12 @@ Next year, I will use the same assignment and make sure that I allow ample time 
 
 These sources and the questions posed about them in the text offer an accessible assignment for any teaching environment. My students were regular sophomores, as opposed to AP students, and their performance was respectable. If I had a longer class period (longer than 40 minutes), the whole exercise could have taken place at once and I suspect the results would have been even better.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
-  
-[1](#footnote1) Both appear in Alfred J. Andrea and James H. Overfield, *The Human Record: Sources of Global History, Volume 2*, 4th edition (Boston: Houghton Mifflin, 2001)  
-  
-[2](#footnote2) *satyagraha*: the form of nonviolent resistance initiated in India by Mahatma Gandhi in order to oppose British rule and to hasten political reforms; Gandhi said: “Satyagraha literally means insistence on truth. This insistence arms the votary with matchless power. This power or force is connoted by the word satyagraha. Satyagraha, to be genuine, may be offered against parents, against one’s wife or one’s children, against rulers, against fellow-citizens, even against the whole world.” “There is in it no room for violence. The only force of universal application can, therefore, be that of ahimsa or love. In other words, it is soul-force.” “Satyagraha is a weapon of the strong; it admits of no violence under any circumstance whatever; and it ever insists upon truth.”  
-  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+<br>
+[1](#footnote1) Both appear in Alfred J. Andrea and James H. Overfield, *The Human Record: Sources of Global History, Volume 2*, 4th edition (Boston: Houghton Mifflin, 2001)<br>
+<br>
+[2](#footnote2) *satyagraha*: the form of nonviolent resistance initiated in India by Mahatma Gandhi in order to oppose British rule and to hasten political reforms; Gandhi said: “Satyagraha literally means insistence on truth. This insistence arms the votary with matchless power. This power or force is connoted by the word satyagraha. Satyagraha, to be genuine, may be offered against parents, against one’s wife or one’s children, against rulers, against fellow-citizens, even against the whole world.” “There is in it no room for violence. The only force of universal application can, therefore, be that of ahimsa or love. In other words, it is soul-force.” “Satyagraha is a weapon of the strong; it admits of no violence under any circumstance whatever; and it ever insists upon truth.”<br>
+<br>
 [3](#footnote3) *A Time for Justice: Amerca’s Civil Rights Movement*, produced by Southern Poverty Law Center/Teaching Tolerance, Montgomery Alabama, 1991.
 
 ## Primary Sources
@@ -58,14 +60,17 @@ These sources and the questions posed about them in the text offer an accessible
 
 ![Letter from a Birmingham Jail](/images/Icons-Document-thumbnail_723.jpg)
 
+#### Annotation
+
 Martin Luther King Jr. wrote his "Letter from a Birmingham Jail" on April 16, 1963 as a response to a letter titled "A Call for Unity" which was written 4 days prior. "A Call for Unity" was signed by eight white clergymen who led churches in Birmingham, Alabama. Teachers might ask students what King’s responses were to the specific criticisms of his civil rights campaign in Birmingham, how King responds to these criticisms, how he describes his “nonviolent direct action” and what this term means. To connect to issues in world history, students can be asked about similarities King sees between the American Civil Rights movement and the efforts of Asians and Africans to end imperialism. This source is a part of the [*Modern Racism in the U.S. and South Africa*](https://worldhistorycommons.org/short-teaching-module-modern-racism-us-and-south-africa) teaching module which compares King's letter to Nelson Mandela's speech while on trial in 1964.
 
 ### [Rivonia Trial Speech](/rivonia-trial-speech)
 
 ![Rivonia Trial Speech](/images/Icons-Document-thumbnail_724.jpg)
 
-On April 20, 1964, Nelson Mandela gave what is now known as the Rivonia Trial Speech (also known as "I Am Prepared to Die") while on trial for crimes against the South African government. Mandela and several other leaders of the African National Congress (ANC) were arrested for their attempts to overthrow South African apartheid, a system of institutionalized racial segregation. Eventually sentenced to life in prison, Mandela would serve 27 years before being released in 1990 in the face of mounting domestic and international pressure. After students read the speech, teachers might ask why students think Mandela decided that the ANC had to resort to violence to achieve its goals, what distinctions he draws between sabotage and terrorism, why he and other ANC leaders were attracted to communism, and which aspects of apartheid Mandela found most degrading. This source is a part of the [*Modern Racism in the U.S. and South Africa*](https://worldhistorycommons.org/short-teaching-module-modern-racism-us-and-south-africa) teaching module which compares Mandela's speech to Martin Luther King's Letter from a Birmingham Jail.
+#### Annotation
 
+On April 20, 1964, Nelson Mandela gave what is now known as the Rivonia Trial Speech (also known as "I Am Prepared to Die") while on trial for crimes against the South African government. Mandela and several other leaders of the African National Congress (ANC) were arrested for their attempts to overthrow South African apartheid, a system of institutionalized racial segregation. Eventually sentenced to life in prison, Mandela would serve 27 years before being released in 1990 in the face of mounting domestic and international pressure. After students read the speech, teachers might ask why students think Mandela decided that the ANC had to resort to violence to achieve its goals, what distinctions he draws between sabotage and terrorism, why he and other ANC leaders were attracted to communism, and which aspects of apartheid Mandela found most degrading. This source is a part of the [*Modern Racism in the U.S. and South Africa*](https://worldhistorycommons.org/short-teaching-module-modern-racism-us-and-south-africa) teaching module which compares Mandela's speech to Martin Luther King's Letter from a Birmingham Jail.
 
 ## Document Based Question
 
@@ -73,26 +78,26 @@ Questions from Andrea & Overfield’s editorial introductions:1
 
 A. From Mandela
 
-1. Why did Mandela decide that the ANC must resort to violence to achieve  
+1. Why did Mandela decide that the ANC must resort to violence to achieve<br>
    its goals?
 2. What distinction does he draw between sabotage and terrorism?
 3. Why were Mandela and other ANC leaders attracted to communism?
 4. What aspects of apartheid does Mandela find most degrading?
-5. According to Mandela, how does apartheid affect the daily lives of the  
+5. According to Mandela, how does apartheid affect the daily lives of the<br>
    Africans?
 
 B. From King
 
-1. According to King, what specific criticisms have been made of his civil  
-   rights campaign in Birmingham? What alternatives have King’s critics  
+1. According to King, what specific criticisms have been made of his civil<br>
+   rights campaign in Birmingham? What alternatives have King’s critics<br>
    recommended?
 2. How does King respond to these criticisms?
-3. King describes his method as “nonviolent direct action.” What  
+3. King describes his method as “nonviolent direct action.” What<br>
    does he mean by this?
-4. According to King, what are the main obstacles preventing blacks from  
+4. According to King, what are the main obstacles preventing blacks from<br>
    achieving their goals in the civil rights movement?
-5. King sees similarities between the US civil rights movement and the efforts  
-   of Asians and Africans to throw off the bonds of imperialism. Is his analogy  
+5. King sees similarities between the US civil rights movement and the efforts<br>
+   of Asians and Africans to throw off the bonds of imperialism. Is his analogy<br>
    valid? Why or why not?
 
 1 Alfred J. Andrea & James H. Overfield, The Human Record: Sources of Global History : To 1700 (Boston: Houghton Mifflin Company, 2000)

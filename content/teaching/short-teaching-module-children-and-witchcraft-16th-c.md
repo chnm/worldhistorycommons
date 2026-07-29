@@ -19,6 +19,8 @@ related_sources:
   - link: "/examination-sarah-carrier"
     image: "/images/Icons-Document-thumbnail_32.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Short Teaching Module: Children and Witchcraft (16th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-children-and-witchcraft-16th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -33,6 +35,8 @@ This short teaching module includes guidance on introducing and discussing the t
 
 ![Examination of Sarah Carrier](/images/Icons-Document-thumbnail_32.jpg)
 
+#### Annotation
+
 Sarah Carrier: aged 7
 Thomas and Martha Carrier lived in Andover, MA, a town near Salem caught up in the turmoil of the Salem Witch Trials. Martha Carrier was accused of witchcraft and hung (one week after her children were examined by the Court) for her "crimes." The Carrier's had four children, two of whom, Sarah and Thomas, were also accused of witchcraft.
 Sarah's testimony contains several interesting details. For example, she relates that her mother brought her a book and commanded her to obedience, "baptizing" her (along with other children) to her service. She was given a spear to work her maleficia on others ("She said her mother baptized her, and her mother said when she baptized her, thou are mine for ever and ever and amen.”). This longest of the four testimonies, has several significant elements. First, the social dynamics of the Salem experience—all of these children note that they were "made" witches by their mothers (both of whom were accused themselves). Second, the source sheds light on the nature of Salem families and the relationships between children and parents. Third, Sarah's testimony (and those of the other children) also reflects a developed understanding of Puritan religious elements. Unpacking the source allows for a rich discussion of the agency of these (and other) Puritan children.
@@ -41,6 +45,8 @@ This source is a part of the [*Children and Witchcraft (16th c.)*](https://world
 ### [Examination of Thomas Carrier, Jr.](/examination-thomas-carrier-jr)
 
 ![Examination of Thomas Carrier, Jr.](/images/Icons-Document-thumbnail_31.jpg)
+
+#### Annotation
 
 Thomas Carrier: aged 9
 Thomas and Martha Carrier lived in Andover, MA , a town lying near to Salem and affected by the turmoil of the Salem Witch Trials. One week after Martha's children were examined by the Court, the accused witch was hung for her "crimes." Among the Carrier's four children, both Sarah and Thomas were also accused of witchcraft.
@@ -51,10 +57,11 @@ This source is a part of the [*Children and Witchcraft (16th c.)*](https://world
 
 ![Confessions of Dorothy and Abigail Faulkner, Jr.](/images/Icons-Document-thumbnail_30.jpg)
 
+#### Annotation
+
 Dorothy and Abigail Faulkner: aged 10 and 8
 Dorothy Faulkner and Abigail Faulkner, Jr. also lived in Andover, Massachusetts, and their mother was accused of witchcraft as well. While short testimonies, these two children’s stories include the same elements noted in the other children’s trials. Their case is similarly based on the direct implication of mothers in children's confessions. Abigail Faulkner Sr. was an accused witch whose daughters stated that "they were lead into that dreadfull sin of witchcraft by hir meanse." One of the most interesting aspects about these two children is that their grandfather, Reverend Francis Dane, was a vocal critic of the trials (perhaps not all that surprising). He and 23 other ministers wrote an open letter condemning the Salem trials on October 18, 1692. This petition argues that the children’s confession was not motivated by religious fear. Again, these sources convey the depth of Puritan belief even in the very young.
 This source is a part of the [*Children and Witchcraft (16th c.)*](https://worldhistorycommons.org/short-teaching-module-children-and-witchcraft-16th-c) teaching module.
-
 
 ## Teaching Strategies
 

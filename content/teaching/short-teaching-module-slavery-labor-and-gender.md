@@ -20,6 +20,8 @@ related_sources:
   - link: "/excerpt-history-mary-prince"
     image: "/images/slaverylaborgender_0.jpg"
     alt: "thumbnail of the history of mary prince"
+how_to_cite: |
+  "Short Teaching Module: Slavery, Labor, and Gender," in World History Commons, https://worldhistorycommons.org/short-teaching-module-slavery-labor-and-gender [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -92,12 +94,13 @@ Thornton, John. “Sexual Demography: The Impact of the Slave Trade on Family St
 
 ![Excerpt from The History of Mary Prince](/images/slaverylaborgender_0.jpg)
 
-“The History of Mary Prince, A West Indian Slave Related by Herself” is first-person account was written by British abolitionists and disseminated through the London Society for the Abolition of Slavery in 1831. The source covers the three distinct areas of work: plantation work; housework; and work for other enslaved people. Mary Prince was mainly involved in making salt on behalf of an owner. Both men and women (as well as young children) are indiscriminately used in gangs that bail water, turn a press, and shovel the end product. The enslaver directly supervises enslaved people and cruelly disciplines them. In reading this source, students are encouraged to think about how enslaved women (like Prince) and white abolitionists (like those who sponsored the publication of her history) might have had different investments in constructing women as being “naturally” unsuited for certain types of labor. This source is a part of the [*Slavery, Labor, and Gender*](https://worldhistorycommons.org/short-teaching-module-slavery-labor-and-gender) teaching module.
+#### Annotation
 
+“The History of Mary Prince, A West Indian Slave Related by Herself” is first-person account was written by British abolitionists and disseminated through the London Society for the Abolition of Slavery in 1831. The source covers the three distinct areas of work: plantation work; housework; and work for other enslaved people. Mary Prince was mainly involved in making salt on behalf of an owner. Both men and women (as well as young children) are indiscriminately used in gangs that bail water, turn a press, and shovel the end product. The enslaver directly supervises enslaved people and cruelly disciplines them. In reading this source, students are encouraged to think about how enslaved women (like Prince) and white abolitionists (like those who sponsored the publication of her history) might have had different investments in constructing women as being “naturally” unsuited for certain types of labor. This source is a part of the [*Slavery, Labor, and Gender*](https://worldhistorycommons.org/short-teaching-module-slavery-labor-and-gender) teaching module.
 
 ## Credits
 
 Ulrike Strasser is a Professor of History at the University of California, San Diego. She held previous appointments at the University of California at Irvine and as a Clark Professor at UCLA. Strasser is the author of the award-winning monograph State of Virginity: Gender, Politics, and Religion in a Catholic State (University of Michigan Press, 2004 and 2007 in paper). She co-edited Gender, Kinship and Power: A Comparative and Interdisciplinary History (Routledge, 1998), “Cultures of Communication, Theologies of Media” (University of Toronto Press, 2017) and Explorations and Entanglements: Germans in Pacific World the Early Modern Period to WWI (Berghahn Books, December 2018)
 
-Heidi Tinsman is Professor of History at the University of California Irvine, where she teaches courses on modern Latin America, gender, labor, race, and world history. Her work brings feminist paradigms to bear on the history of agricultural workers; and over the years it has become increasingly transnational.  
+Heidi Tinsman is Professor of History at the University of California Irvine, where she teaches courses on modern Latin America, gender, labor, race, and world history. Her work brings feminist paradigms to bear on the history of agricultural workers; and over the years it has become increasingly transnational.<br>
 University of California, Irvine

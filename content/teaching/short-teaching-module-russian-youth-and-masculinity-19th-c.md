@@ -17,6 +17,8 @@ related_sources:
   - link: "/alexander-herzens-my-past-and-thoughts"
     image: "/images/Icons-Book-Excerpt-thumbnail_11.jpg"
     alt: "thumbnail of the book excerpt"
+how_to_cite: |
+  "Short Teaching Module: Russian Youth and Masculinity (19th c.)," in World History Commons, https://worldhistorycommons.org/short-teaching-module-russian-youth-and-masculinity-19th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -31,10 +33,11 @@ This short teaching module includes guidance on introducing and discussing the o
 
 ![Alexander Herzen’s My Past and Thoughts](/images/Icons-Book-Excerpt-thumbnail_11.jpg)
 
+#### Annotation
+
 Autobiographical writing as a rich source for the exploration of European childhood and youth is self evident; in many cases, it is one of the most nuanced ways to understand historical actors' earliest experiences. Such is the case in Russia, where there emerged a new genre of writing on childhood and youth in the middle of the 19th century. Russian authors tended to paint bucolic portraits of their own childhood years on the gentry estate, often spent away from the tyrannical clutches of parental discipline and ensconced instead in the pleasures and freedoms of roaming through domestic corridors and wild gardens. These narratives of Russian childhood and youth often provide poignant examples of how individuals came of age amidst a backdrop of radical insurgence, peasant emancipation, and decades of repression. Many of these narratives, written by members of Russia's first generations of intelligentsia, include descriptions of rebellion against their elders and an attachment to their peers. My Past and Thoughts, written by Alexander Herzen—the first self-proclaimed Russian socialist—fits precisely into this genre of 19th-century Russian writing.
 This is a selection from an abridged version of Alexander Herzen's four-volume memoir on his childhood, youth, and adult years that spans the course of much of the 19th century. Alexander Herzen is known primarily for his writings in exile in the second half of the century (he is known as "the father of Russian socialism"), but his autobiography provides an unusually textured glimpse into the social world and formative moments of Russia's influential generation of radical youth.
 This source is a part of the [*Russian Youth and Masculinity (19th c.)*](https://worldhistorycommons.org/short-teaching-module-russian-youth-and-masculinity-19th-c) teaching module.
-
 
 ## Teaching Strategies
 

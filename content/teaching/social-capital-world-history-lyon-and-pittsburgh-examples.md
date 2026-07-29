@@ -34,6 +34,8 @@ related_sources:
   - link: "/picture-civil-rights-activist-djida-tazdait"
     image: "/images/Djida_Tazdai_t_thumb.jpg"
     alt: "Djida Tazdaït in Lyon, France, 1989."
+how_to_cite: |
+  "Social Capital in World History:  Lyon and Pittsburgh as Examples," in World History Commons, https://worldhistorycommons.org/social-capital-world-history-lyon-and-pittsburgh-examples [accessed July 28, 2026]
 ---
 
 ## Overview
@@ -66,11 +68,15 @@ These developments had varying degrees of success on both sides of the Atlantic.
 
 ![Construction drawing of a social housing high-rise in Duchère](/images/Construction_drawing_of_a_social_housing_thumb.jpg)
 
+#### Annotation
+
 This image shows the standardized framework of a social housing high-rise, dubbed une cité.  These manufactured housing units were constructed quickly in French suburbs to accommodate a rapidly growing population.  Between 1960 and 1980, more than nine million housing units were constructed throughout France.
 
 ### [Plans for Social Housing in France](/plans-social-housing-france)
 
 ![Plans for Social Housing in France](/images/Plans_for_La_Duchère_thumb.jpg)
+
+#### Annotation
 
 Most of the new housing was constructed on cities’ fringes, or on adjacent farmland just outside the central city, by a quasi-public company known by its French initials SCIC (Société central immobilière de la Caisse des dépôts, or Central Real Estate Company of the Deposits and Consignments Fund).  It was originally chartered in 1954 by the central government in Paris (at the time, only about 10% of housing was produced by the private sector).  By 1974, a total of 250,000 housing units were constructed by SCIC.  La Duchère, in Lyon’s western-most 9th arrondissement, contained 5,400 units built between 1957 and 1966 for 30,000 residents.
 
@@ -78,11 +84,15 @@ Most of the new housing was constructed on cities’ fringes, or on adjacent far
 
 ![Social Housing development in France](/images/Les_Minguettes_thumb.jpg)
 
+#### Annotation
+
 In addition to La Duchère, other social housing developments in greater Lyon included Les Minguettes in Vénissieux, where 9,200 units for 35,000 residents were constructed between 1966 and 1973, and the 8,300-unit Mas du Taureau, built between 1970 and 1980 (in addition to La Grappinière, with a population of approximately 30,000) in Vaulx-en-Velin, east of Lyon.  Taken together, the population of these three communities alone comprised nearly 100,000 low-income individuals surrounding Lyon.  Deemed a “failure” by 1983 due to impoverished conditions, they were demolished.  However, many of the same problems, such as a lack of jobs, stigmatization, and discrimination, persisted.  A renewed effort to physically reshape the banlieues continued into the early 2000s.
 
 ### [Picture of civil rights activist, Djida Tazdaït](/picture-civil-rights-activist-djida-tazdait)
 
 ![Picture of civil rights activist, Djida Tazdaït](/images/Djida_Tazdai_t_thumb.jpg)
+
+#### Annotation
 
 One of the realizations of the 1983 March for Equality and Against Racism was the election to the new European Parliament the Lyon-based civil rights activist, Djida Tazdaït (1957- ).  In 1989, she was elected as the first woman of North African descent to serve in that capacity until 1994.  In 1985 she was one of the founders of the association Young Arabs of Lyon and Suburbs (Jeunes Arabes de Lyon et banlieue).  In March 2014 Tazdaït was elected to the municipal council of Lyon.
 
@@ -90,11 +100,15 @@ One of the realizations of the 1983 March for Equality and Against Racism was th
 
 ![The mayor of Lyon, France drives a bulldozer to initiate construction of social housing](/images/The_mayor_of_Lyon_thumb.jpg)
 
+#### Annotation
+
 The headline reads, in English, “Aboard a bulldozer, Mr. Pradel officially opened the site of the future city.”  In October 1958, Lyon Mayor Louis Pradel was seen riding a bulldozer to break ground for a new social housing development called “La Duchère” in the city’s western-most ninth arrondissement.  A news article calls Pradel “Munatius Plancus”—Julius Caesar’s officer who established Lugdunum (Lyon) as the Roman capital of Gaul in 43 CE.  Construction of La Duchère created an entirely new city.  Built atop a former fourteenth-century castle and nineteenth-century fort, the site covers nearly a square mile.  In response to a severe housing shortage following World War II, the centralized French government sponsored the construction of thousands of new, affordable housing units on the fringes of major French cities during the 1950s through the1970s.  Between 1960 and 1980, more than nine million housing units were constructed throughout France.
 
 ### [SOS Avenir Minguettes President Toumi Djaïdja in Lyon, France](/sos-avenir-minguettes-president-toumi-djaidja-lyon-france)
 
 ![SOS Avenir Minguettes President Toumi Djaïdja in Lyon, France](/images/Toumi_Djai_dja_thumb.jpg)
+
+#### Annotation
 
 Toumi Djaïdja (third from right) in Lyon, 1983.  Source:  Le Progrès photo archives.
 
@@ -104,6 +118,8 @@ In 1983, Toumi Djaïdja (1962- ) served as the young president of the associatio
 
 ![Pittsburgh News Coverage of the Community Reinvestment Group](/images/PCRG_Clip_Thumb.jpg)
 
+#### Annotation
+
 "PCRG challenges financial institution lending practices,” Pittsburgh, Dec. 22, 1993.
 
 Stanley Lowe, center, organized the Pittsburgh Community Reinvestment Group (PCRG) to challenge financial institution lending practices that had ignored low-income and African American neighborhoods for years.  In this photo, he, along with fellow activists Harriet Henzon, left, and Aggie Brose, right, react to a new report that identifies home mortgage lending inequalities.  By the end of the 1990s, banks and community organizations were working together to increase African American homeownership in Pittsburgh.
@@ -112,10 +128,11 @@ Stanley Lowe, center, organized the Pittsburgh Community Reinvestment Group (PCR
 
 ![Pittsburgh Newspaper Article “Bank Gives Boost to Black Areas”](/images/Pitt_Bank_Give_Back_Thumb.png)
 
+#### Annotation
+
 “Bank Gives Boost to Black Areas,” New Pittsburgh Courier, Pittsburgh, July 2, 1988.
 
 In 1988, community activists in Pittsburgh negotiated a $109 million agreement with a local financial institution under the federal Community Reinvestment Act (CRA).  At the time, it was one of the largest CRA agreements in the United States.  These CRA agreements, negotiated with additional financial institutions in the city, set in motion new home mortgage lending products for African Americans and low-income neighborhoods in an attempt to reverse decades of redlining in urban neighborhoods.
-
 
 ## Bibliography
 

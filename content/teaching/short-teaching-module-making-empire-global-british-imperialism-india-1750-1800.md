@@ -23,6 +23,8 @@ related_sources:
   - link: "/cartoon-mocking-british-policy-toward-india-1788"
     image: "/images/Cartoon1788THUMB.jpeg"
     alt: "Cartoon of a giant man wearing a kilt and a turban straddling two land masses separated by water"
+how_to_cite: |
+  "Short Teaching Module: Making Empire Global - British Imperialism in India, 1750-1800," in World History Commons, https://worldhistorycommons.org/short-teaching-module-making-empire-global-british-imperialism-india-1750-1800 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -49,6 +51,8 @@ The print’s critique of Dundas’s outsize role implicitly alludes to the deli
 
 ![Cartoon Mocking British Policy toward India, 1788](/images/Cartoon1788THUMB.jpeg)
 
+#### Annotation
+
 This satirical print from 1788 constituted a cartoonist’s effort to make sense of and criticize growing governmental control over territories in South Asia. “Dun Shaw” or Henry Dundas, the British minister and leading member of the Board of Control for India Affairs is shown extending his leviathan-like self across Britain and Bengal. Dundas appears to have overcome the vast distance separating London and Calcutta. The English East India Company is invoked through the representation of Leadenhall Street, where the Company’s headquarters were located. Dundas’s costume reflects a suspicion of powerful Scots in government as well as the perceived despotism of Shahs or rulers in India. Importantly, this print at once documented the remaking of British governance in South Asia as well as contributed to ongoing debate about the right way to govern India.
 
 This source is part of the [Making Empire Global teaching module](https://worldhistorycommons.org/short-teaching-module-making-empire-global-british-imperialism-india-1750-1800).
@@ -56,6 +60,8 @@ This source is part of the [Making Empire Global teaching module](https://worldh
 ### [Cartoon Depicts Debate at Hasting's Impeachment Trial, 1788](/cartoon-depicts-debate-hastings-impeachment-trial-1788)
 
 ![Cartoon Depicts Debate at Hasting's Impeachment Trial, 1788](/images/HastingsCartoonTHUMB.jpeg)
+
+#### Annotation
 
 Printed in London in 1788, this satirical print was a response to the debate unleashed by the impeachment trial of Warren Hastings, the former and first Governor General of India, as well as the impeachment proceedings initiated against Elijah Impey, the former and first Chief Justice of the Supreme Court of Judicature in Calcutta, Bengal. While the titular “Bengal Butcher” referred to Warren Hastings, “Imp-Pie” referred to Elijah Impey. The tug of war shown in this cartoon highlights the partisan and ideological differences that instigated these trials as well as shaped their conduct. While important parliamentarians such as Edmund Burke are shown among Hastings and Impey’s critics, the Lord Chancellor Edward Thurlow and the Devil himself are presented as advocates. The speech bubble emanating from those pursuing the impeachments reads, “For the sake of Injured Millions, I and my worthy Friends and Colleagues demand these Wretches as Victims to Public Justice.” On the other hand, the defendants declare, “And – for the sake of Consigned Millions – I with the assistance of my old Friends and Colleague here am resolved to protect these worthy Gentlemen.” Both sides clearly saw an advantage in proclaiming their concern for the “injured millions” or indigenous inhabitants of Bengal. [Not unlike Dundas](https://worldhistorycommons.org/cartoon-mocking-british-policy-toward-india-1788), Hastings is depicted wearing a bejeweled turban. This print indicates the extent to which the governance of South Asia occupied a central place in British domestic politics.
 
@@ -65,10 +71,11 @@ This source is part of the [Making Empire Global teaching module](https://worldh
 
 ![Hicky's Bengal Gazette](/images/BengalGazetteTHUMB.jpg)
 
+#### Annotation
+
 *Hicky’s Bengal Gazette* was the first printed newspaper to be published in India. While the cartoon of Henry Dundas alluded to governmental control over the flow of information between Britain and Bengal, newspapers such as *Hicky’s Bengal Gazette* served as an alternative and public venue for the circulation of information and even the expression of anti-government views. Regular contests over the contents of *Hicky’s Bengal Gazette* even gave rise to discussions of censorship and press freedom in the late eighteenth century. Like many other English language as well as multilingual newspapers published in British settlements in India during the late eighteenth century, *Hicky’s Bengal Gazette* reported on major military, political, and economic events within the Indian subcontinent as well as further afield. In fact, such newspapers played an important role in connecting the global British Empire and making its globalism a reality for readers across distinct geographies. This particular issue, printed in March 1781, not only presented reports on developments across the Indian Ocean world but also offered “hints and observations” for the government’s consideration as they dealt with the French. Equally, it reproduced reports first published in London newspapers, covered the state of affairs in other South Asian states such as Mysore, and provided room for locals to advertise their wares.
 
 This source is part of the [Making Empire Global teaching module](https://worldhistorycommons.org/short-teaching-module-making-empire-global-british-imperialism-india-1750-1800).
-
 
 ## Bibliography
 

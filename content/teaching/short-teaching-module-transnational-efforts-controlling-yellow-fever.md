@@ -13,6 +13,8 @@ related_sources:
   - link: "/disinfection-dakar-houses-clayton-apparatus"
     image: "/images/DisinfectionTHUMB.jpeg"
     alt: "Photo shows three men in pith helmets with a device on a cart in the foreground. A small hut is in the background."
+how_to_cite: |
+  "Short Teaching Module: Transnational Efforts at Controlling Yellow Fever," in World History Commons, https://worldhistorycommons.org/short-teaching-module-transnational-efforts-controlling-yellow-fever [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -43,13 +45,19 @@ Histories of globalization are often described in terms of “flows”, “strea
 
 ![Disinfection of Dakar houses with a Clayton Apparatus](/images/DisinfectionTHUMB.jpeg)
 
+#### Annotation
+
 This is a photograph from the collections of the Rockefeller Archive Center depicting a Clayton apparatus disinfecting African houses during the yellow fever outbreak of 1927. The image illustrates a number of transnational linkages that shaped the epidemic. Clayton apparatuses were steam disinfection devices that used sulphuric gases to destroy pathogens in infected homes. They were originally designed to disinfect ships, and were used in port cities such as New Orleans, Hong Kong and Saigon during outbreaks of the plague and of yellow fever. Disinfection could be extremely unpleasant for the inhabitants of infected houses and often, when sulphuric disinfection was not possible, French authorities would simply burn infected houses to the ground, providing meager indemnities in return. Many of these draconian measures were developed in French Indochina during plague outbreaks in the 1890s, and imported to West Africa as part of a colonial public health toolkit.
 
-It is also remarkable that this photo was taken by someone working for the Rockefeller Foundation. In the 1920s, the Rockefeller Foundation’s International Health Division sought to set up a yellow fever research station in West Africa, where the disease was endemic. The IHD surveyed several possible sites: in French West Africa, Sierra Leone, and British Nigeria. They received a cool welcome from the French, who saw the IHD as a competitor to their own Pasteur Institute. The IHD ultimately established its field site in Nigeria, working with British authorities, and becoming a direct competitor with the Pasteur Institute. The yellow fever pandemic was shaped both by dynamics within the French empire and by interimperial competition.
+It is also remarkable that this photo was taken by someone working for the Rockefeller Foundation. In the 1920s, the Rockefeller Foundation’s International Health Division sought to set up a yellow fever research station in West Africa, where the disease was endemic. The IHD surveyed several possible sites: in French West Africa, Sierra Leone, and British Nigeria. They received a cool welcome from the French, who saw the IHD as a competitor to their own Pasteur Institute. The IHD ultimately established its field site in Nigeria, working with British authorities, and becoming a direct competitor with the Pasteur Institute. The yellow fever pandemic was shaped both by dynamics within the French empire and by interimperial competition.<br>
+<br>
+This source is part of the [teaching module on transnational effort to control yellow fever](https://worldhistorycommons.org/short-teaching-module-transnational-efforts-controlling-yellow-fever).
 
 ### ["Yellow fever in Dakar – There is no epidemic"](/yellow-fever-dakar-there-no-epidemic)
 
 !["Yellow fever in Dakar – There is no epidemic"](/images/DiagneInterviewTHUMB.JPG)
+
+#### Annotation
 
 This is an excerpt from an interview with Blaise Diagne, the Senegalese deputy to the National Assembly, published in *Le Matin*, one of the major national dailies in metropolitan France. The yellow fever outbreak of 1927-28 was quickly politicized by French and African commentators alike. Unlike in the rest of West Africa, African inhabitants of Dakar, one of the four “old colonies,” had voting rights and were, for all intents and purposes, equivalent to French citizens. Some French commentators suggested that it was precisely this “African emancipation” that prevented French health authorities, fearing a backlash in the polls, from imposing tough public health rules, and therefore allowing the epidemic to spread. In this interview, Diagne rejects this claim, noting that the disease is, in fact, spreading in the European quarter, and that Africans have been following public health regulations to the letter. This controversy over health measures, which became a scandal in France proper, prompted the Ministry of the Colonies to sponsor a Pastorian mission to West Africa, leading to the development of the yellow fever vaccine. As this newspaper excerpt illustrates, Africans were just a good as the French at leveraging their pan-imperial connections to achieve political advantages.
 
@@ -61,10 +69,11 @@ This source is part of the [teaching module on transnational effort to control y
 
 ![Rockefeller Foundation Report Concerning the Yellow Fever Vaccine](/images/StrodeDiaryTHUMB.jpeg)
 
-The creation of the yellow fever vaccine turned out to be quite controversial. Many of these controversies are revealed in documents such as this summary of correspondence between Georges Stefanopoulo, a Pastorian microbiologist, and his colleagues at the Rockefeller Foundation in New York. In section 3 of the report, it is noted that Stefanopoulo had concerns with Jean Laigret’s vaccine, which he believed to have caused cases of paralysis, contrary to official reports of trials in Africa, reporting unqualified success. The source also shows the changing landscape of international medical science. The Pasteur Institute, once a central hub of microbiological research, was having increasing difficulties retaining its scientists, while the Rockefeller Foundation was increasingly providing grants to European researchers, such as Stefanopoulo. The collaborative-competitive dynamic between the two institutions characterized much of their interactions in the 1920s and 1930s, including the development of the yellow fever vaccine, which, at least to some Pastorians, became a race to prove the French still held the upper hand in microbiological research.  
-  
-This source is part of the [teaching module on transnational effort to control yellow fever](https://worldhistorycommons.org/short-teaching-module-transnational-efforts-controlling-yellow-fever).
+#### Annotation
 
+The creation of the yellow fever vaccine turned out to be quite controversial. Many of these controversies are revealed in documents such as this summary of correspondence between Georges Stefanopoulo, a Pastorian microbiologist, and his colleagues at the Rockefeller Foundation in New York. In section 3 of the report, it is noted that Stefanopoulo had concerns with Jean Laigret’s vaccine, which he believed to have caused cases of paralysis, contrary to official reports of trials in Africa, reporting unqualified success. The source also shows the changing landscape of international medical science. The Pasteur Institute, once a central hub of microbiological research, was having increasing difficulties retaining its scientists, while the Rockefeller Foundation was increasingly providing grants to European researchers, such as Stefanopoulo. The collaborative-competitive dynamic between the two institutions characterized much of their interactions in the 1920s and 1930s, including the development of the yellow fever vaccine, which, at least to some Pastorians, became a race to prove the French still held the upper hand in microbiological research.<br>
+<br>
+This source is part of the [teaching module on transnational effort to control yellow fever](https://worldhistorycommons.org/short-teaching-module-transnational-efforts-controlling-yellow-fever).
 
 ## Credits
 

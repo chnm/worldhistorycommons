@@ -30,6 +30,8 @@ related_sources:
   - link: "/shocking-disaster-cambridge"
     image: "/images/Icons-Article-Excerpt-thumbnail_5.jpg"
     alt: "thumbnail of the article"
+how_to_cite: |
+  "Long Teaching Module: New Zealand Childhoods (18th–20th c.)," in World History Commons, https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th-20th-c [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -64,6 +66,8 @@ Schools in the main cities, Auckland and Wellington especially, soon reflected t
 
 ![The Ancient History of the Maori](/images/ancient-history-maori-thumbnail.png)
 
+#### Annotation
+
 In this excerpt, an adult Horeta Te Taniwha recounts childhood memories of a cultural encounter with Europeans for a Pakeha researcher. Te Taniwha, as an indigenous child of Aotearoa/New Zealand, participated in one of the first meetings between coastal tribes and the British maritime explorer, Captain James Cook, and his crew. These interactions were written up contemporaneously in Cook's journals and recorded by the artists and gentlemen of science on board *Endeavour* during its first voyage to New Zealand (November 1769 – March 1770). The published accounts and images would have influenced subsequent European perceptions of Maori people, just as later indigenous responses on island communities throughout the Pacific Ocean would have probably been affected by oral stories of earlier events. Early 19th-century missionaries and linguists successfully developed Maori as a written language but narratives such as this one by Te Taniwha would still be told in Maori and then translated, sometimes with a choice of English terms that had no Maori equivalent. Hence monsters (taniwha) and gods (atua) were part of traditional Maori cosmology but goblins were not. Horeta Te Taniwha recounted his boyhood experiences several times for different researchers with very little inconsistency.
 This source extract can invite discussion about the issues to be considered when using adult recollections of childhood, or the influence of a translator's choice of words. Primarily, though, it provides scope for analyzing a relatively rare glimpse of how an indigenous child of Aotearoa/New Zealand first experienced cultural encounter. His frame of reference is Polynesian, of the Pacific, not European. The norms against which he notices similarities and differences are those of his Maori culture (as it had evolved within Aotearoa) and his particular tribe. Auditory perceptions are noticeable: his was a society with no written language but great mastery of detail since the transmission of tribal knowledge and tradition was primarily through chants, oratory, and song.
 This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
@@ -71,6 +75,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 ### [Adventure in New Zealand, from 1839 to 1844](/adventure-new-zealand-1839-1844)
 
 ![Adventure in New Zealand, from 1839 to 1844](/images/adventureinnewzealand-thumbnail.jpeg)
+
+#### Annotation
 
 E. J. Wakefield was 19 years of age when he sailed from England, in 1839, on the New Zealand Company vessel, Tory, as secretary to his uncle, Colonel William Wakefield. Wakefield was to oversee the foundation of a Company settlement in the Cook Strait region, where the country's capital city, Wellington, is now located. Land purchases from tribal owners were a priority for the colonizing agency. In their exploration of possible sites on both sides of the Strait, the Wakefields made contact with European whalers whose shore-based communities reflected their years of personal liaison with local Maori. Adventure in New Zealand was based upon the detailed journals that the younger Wakefield kept meticulously during his first visit to the country.
 This source selection focuses on the ways in which children with European fathers and Maori mothers were perceived to be living a more civilized lifestyle as a consequence of European influences. Wakefield's comments are not overtly racist or judgmental. He simply reflects a contemporary British viewpoint that, of all known "native" people, Maori were the most capable of great "improvement"—providing, of course, that their exposure was to the more beneficial attributes of British society. The domesticity of Te Awaiti is in stark contrast to the widely-reported problems stemming from alcohol and licentiousness in the Bay of Islands, long a favorite harbor haven for deep-sea whaling crews.
@@ -80,6 +86,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 
 ![Annual Report on Native Affairs, 1874](/images/Icons-Document-thumbnail_70.jpg)
 
+#### Annotation
+
 This extract from an annual report on Native Affairs reflects two realities of the 1870s: the on-going disruption of indigenous communities caused by settler and state demand for land acquisition; and the diversity of Maori experience, even within one tribal territory. The colonial commentator is clearly critical of "Natives" who, acting as representatives for their tribe, squandered the proceeds of land sales, rather than sharing them. Traditionally, land was communally owned. Government legislation to encourage individualization of land tenure caused deep divisions within tribes between those in favor and those opposed to alienating their land. Moreover, the initial legislation did not recognize the rights of more than 12 owners for any block of land. The operations of the Native Land Court exacerbated a complicated and difficult situation, with Maori owners generally disadvantaged in the process.
 In the colonial context, progress was defined in terms of Maori adoption of European practices. Many observers believed that this was the only option facing the "dying race." Initiatives that promoted the "Europeanization" of Maori were therefore applauded by the colonial government, as is apparent here with the reference to the "industrious" group which has provided schooling for its children.
 This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
@@ -87,6 +95,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 ### [Shocking Disaster at Cambridge](/shocking-disaster-cambridge)
 
 ![Shocking Disaster at Cambridge](/images/Icons-Article-Excerpt-thumbnail_5.jpg)
+
+#### Annotation
 
 This particular news report is drawn from a collection gathered by a Waikato University undergraduate student, Pauline Hunt, when investigating the hazards of life for colonial children during the 1880s. Her unpublished study concentrated on two regional newspapers, the New Zealand Herald, published in Auckland; and the Waikato Times, printed in Hamilton. The types of accidents, fatal and non-fatal, reported during this decade included: drownings; injuries involving horses; burns from fire and scalding water; poisonings, frequently from youngsters chewing the phosphorus head on matches; falls from trees, over cliffs, into disused mine shafts, and off a house balcony; gunshot accidents; attacks by animals; and work-related injuries or death involving machinery or moving vehicles, such as tramcars or horse-drawn drays. Water, horses, and fire were the three most common causes of accidental injury or death for those under 15 years of age. (Disease, infanticide, neglect, cruelty, or assault were not included in the research project.)
 Only a very few reports made reference to Maori children; the majority dealt with Pakeha whose communities were, by the 1880s, becoming dominant in the region. Daily or weekly papers were the principal means of disseminating local, national, and international news. The columns devoted to accidents gave a wealth of medical detail, including explicit descriptions of the injuries, and sometimes concluded with an expression of sympathy for the family. Warnings or words of advice were frequently printed as well. Both language and content reflect contemporary attitudes concerning the need to keep children safe. Communities as well as parents needed to protect the "social capital" that their youngsters represented.
@@ -96,6 +106,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 
 ![Juvenile Depravity Suppression Bill](/images/Icons-Document-thumbnail_129.jpg)
 
+#### Annotation
+
 This Dunedin politician's speech could be analyzed for its tone as well as its (edited) content. Notions of morality and responsibility can be identified, along with an attitude that children should be protected from adverse influences. The proposed legislation would have given police the powers to apprehend young loiterers and return them to their parents. There was some debate in the House over a suggestion that police could be permitted to use a supple-jack in the process. Ironically, while the general position of politicians was one of opposition to that, corporal punishment was in constant use in the country's schools at the time and remained so until abolished in the early 1980s.
 Although neither the Juvenile Depravity Suppression Bill (1896) nor a subsequent Young Persons Protection Bill (1897) were passed into law, debates over how best to deal with youngsters not under "proper" parental care continued to surface regularly over the next century. Anti-social behavior could be defined in a number of ways: the "street larrikins" of the 1890s, congregating on street corners and behaving discourteously to adults transmuted into "milk-bar cowboys" by the 1950s, and "boy racers" and graffiti "taggers" at the end of the 20th century. Sexuality, latent or overt, was another key area of on-going concern for politicians and social commentators. A mid-century enquiry into "juvenile delinquency" (alleged immorality and depravity) in the post-war suburban development of the Hutt Valley (Wellington) resulted in some 300,000 copies of the 1954 Mazengarb Report being disseminated, one to every household in the country that received the family benefit and/or additional state welfare assistance for children. The Report's recommendations included advocacy of more suburban leisure and recreational facilities; better education for parents; and stricter censorship of comics and other potentially "harmful" publications. From the 1960s, the influence of more sexually explicit television programs and advertising became the focus of concern; and, by the end of the century, the Internet, computer games, and mobile telephone technologies.
 This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
@@ -103,6 +115,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 ### [Taranaki Education Office Report, 1898](/taranaki-education-office-report-1898)
 
 ![Taranaki Education Office Report, 1898](/images/Icons-Document-thumbnail_71.jpg)
+
+#### Annotation
 
 A state-funded, secular elementary education system was established in the colony of New Zealand in 1870, but the compulsory attendance provisions for 7 to 13-year-olds were not rigorously enforced, for Maori and Pakeha children alike, until the first decade of the 20th century. By then, complementary legislation, such as laws governing the minimum age for employment in factories and shops, helped to improve attendance, particularly amongst older children. There was no "social promotion"—every student had to demonstrate understanding and competence at each level before moving upwards through the primary school system. The annual visitation of the school inspector was generally a cause for widespread apprehension amongst pupils, most of whom failed to realize that their teachers were often far more worried than they were, since salaries were linked to attendance figures as well as examination results.
 The advent of refrigerated shipping in 1882 led to a transformation in the colonial economy. Exports of meat, butter, and cheese could now complement the former dependence on wool. The Liberal Government, sworn into office in 1890, strongly endorsed the notion of family farms and embarked upon an intensified Maori land purchase policy to open up land that was deemed suitable for dairying. The province of Taranaki became one of the principal dairy farming areas of the colony. Few small-scale farmers could afford to employ labor. Women and children helped with the herding and hand-milking of the cows. Teachers despaired. Many of their pupils would fall asleep at the uncomfortable desks. Others were so fatigued from the early morning rising and milking that they absorbed very little of their lessons. Education authorities railed against the problem yet also recognized its complexity.
@@ -112,6 +126,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 
 !["Dear Dot" Children's Letters](/images/Icons-Article-Excerpt-thumbnail_4.jpg)
 
+#### Annotation
+
 Designated children's pages became quite common in regional newspapers in the early 20th century, providing a range of stories, news items, illustrations, quizzes, poetry, and competitions, with occasional contributions from children themselves. Since 1886, however, pages written for and by children headed "Dot's Little Folk" had appeared in the weekly Otago Witness, under the editorship of William Fenwick (not to be confused with eminent older brother, George, who controlled the influential Otago Daily Times). Just over a decade later, in 1898, the popular New Zealand Farmer magazine, edited by Gerald Peacocke, developed a similar children's feature section entitled "Children's Post Office." Both Fenwick and Peacocke took a personal interest in the contributions of youthful correspondents and were successful in fostering a sense of club membership. "Dot's Little Folk" ("DLF") received badges, chose their own pseudonyms (but had to supply their full names and addresses), and frequently acknowledged each other at community functions. As with "Uncle Ned" of the "Children's Post Office" page in the Farmer, "Dot" would often print a short response at the end of a correspondent's letter. It was not commonly known at the time that Fenwick and Peacocke were the first "Dot" and "Uncle Ned" respectively. After the Otago Witness ceased publication in 1932, the Otago Daily Times carried on the "DLF" tradition until the end of that decade.
 "DLF" contributors wrote in from all over the country, though the majority of correspondents came from farms and small settlements in the lower South Island. The "Children's Post Office" also had colony-wide input. Very few correspondents were Maori. The costs of paper and postage, shyness, and the challenges of writing in a second language may have been some of the reasons for the cultural imbalance.
 This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
@@ -120,11 +136,15 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 
 ![Colonial Childhoods Oral History Project](/images/colonial-childhood-thumbnail.png)
 
+#### Annotation
+
 The Colonial Childhoods Oral History Project (CCOHP) comprises recorded interviews with 165 New Zealanders, male and female, Maori and Pakeha, the majority of whom were born before 1903. Interviews focus on the period before an individual’s 15th birthday. Participants discussed a wide range of topics relating to the culture of childhood, including home life, sibling influences, school and church activities, leisure, chores, friends, hobbies, values, clothes, parents, favorite foods, and special occasions. They also responded to questions concerning sexuality, drink, and violence. Interviews generally lasted for two or three hours and were always preceded by a preliminary meeting with the interviewer during which ethical issues were covered and permission forms processed. Not all interviewees felt comfortable in talking about every topic, and CCOHP interviewers were sensitive in respecting their preferences. Those who did discuss sexuality were frank and forthright. While a diversity of childhood experience was one very obvious finding of the project, some Pakeha patterns were apparent from the accumulated evidence. Wearing "hand-me-down" clothes was commonplace, particularly in larger families, as was sharing beds and bedrooms. Few informants felt that they had been well-instructed about sexuality, a topic that parents were generally reluctant to discuss. Those who grew up on farms tended to reach their own conclusions from observation of animal behavior. Town-dwellers relied more heavily on hearsay and, in the case of one boy, some straight talking from the local Scoutmaster. This was an era where pregnancy outside of marriage was very strongly condemned. Only one male interviewee alluded to tales of experimentation by a classmate. This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
 
 ### [Code of Honour](/code-honour)
 
 ![Code of Honour](/images/Icons-Book-Excerpt-thumbnail_2.jpg)
+
+#### Annotation
 
 The overt moral tone of the advice reproduced on page 51 of this particular diary was neither unusual nor exceptional for the period. Similar sentiments were to be found in the schoolbooks of the era, many of which were produced and distributed by Whitcombe and Tombs, the country's largest publishing house at the time. Their standard history text for primary schools during the 1930s, Our Nation's Story, was essentially about British and Imperial history, and contained constant reference to the public school values which were thought to underpin Britain's greatness. Similarly, the state-funded and universally-distributed School Journal, begun in 1907 (and continuing still), promoted literacy and a love of literature while also emphasizing, in the interwar years, the obligations of citizenship.
 Immediately following the Code of Honour, Pocket Diary users were challenged to test themselves. The headline read: "What is your moral worth?" Several of the questions – and 'yes' was the answer expected for all of them – were essentially an unsubtle rephrasing of parts of the Code. Hence: "Do you prefer fresh air to tobacco smoke, pure water to alcohol, good plain food to rich sweet rubbish, wholesome books, plays and pictures to filthy ones?" Yet, despite the emphasis on Christian doctrine apparent in two of the first three questions, the fourth promoted an inclusive and tolerant approach. "Are you prepared to allow others perfect freedom in religious belief, however much they may differ from you?" The Reading Lists that followed included Robert Louis Stevenson, Charles Dickens, Edmund Burke, Walter Scott, and Jane Austen. The Book of Job, Isaiah, Psalms, and Ecclesiastes were key recommendations from the Bible. Few of the 40 authors listed were not British.
@@ -134,6 +154,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 
 ![New Zealand School Photographs, 1950 and 1964](/images/new-zealand-school.jpg)
 
+#### Annotation
+
 Going to school was a universal experience for New Zealand children during the 20th century. Most attended locally if they were not at a boarding school, and the Special and Correspondence Schools served those who were disabled, ill or, living in isolated conditions. By 1910, the numbers of Maori children in public schools outnumbered those enrolled in the country's Native schools. The two systems merged in 1969, though church-run institutions, for Maori and Pakeha, continued to be independent of the state for some time. Education was therefore the core means by which the state could have an influence on children's lives. Linked school medical and dental services worked in all communities and school buildings and facilities were often utilized for neighborhood events.
 With a secondary education becoming freely available after 1936, increasing numbers of children had the required minimum two years at a high school. In country areas, one such institution would draw pupils from all of the elementary schools in the district; in urban areas, with a greater density of population, high schools served as a centre for adult education classes after hours. Urbanization of the Maori population opened up access to higher education. Many of the young leaders of the Maori protest movements of the 1960s were the first members of their families to attend a university. Yet the Maori cultural renaissance of the following decades also developed from "flax root" educational initiatives, especially the formation of pre-school kohanga reo (language nests). By the end of the 20th century, students could choose to receive all of their education in the Maori language, in contrast to the beginning of the century, when Maori could not be used in a classroom. (Authorities had maintained that total immersion in English during school hours was the only way for Maori language speakers to master the curriculum.)
 This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
@@ -141,6 +163,8 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 ### [1996 New Zealand Census Information](/1996-new-zealand-census-information)
 
 ![1996 New Zealand Census Information](/images/causes-of-mortality-thumbnail.jpg)
+
+#### Annotation
 
 These tables give details on three health-related facets of young New Zealanders' lives as interpreted from data recorded in the 1996 Census: levels of educational qualification in school leavers, unemployment rates, and youth mortality. The selection reflects a particular area of public concern, namely the high number of deaths, among young males especially, from suicide, self-inflicted injury, and motor vehicle accidents. In 1996, the suicides of young people aged 15-24 years, represented 26.6% of total suicide deaths, yet that age group was only 15.6% of the total population. Although the number and rate of youth suicide declined between 1995 and 2000, the Maori youth suicide rate continued to be approximately 50% higher than the non-Maori rate. (See: Youth Suicide Prevention Information New Zealand.) The definition of young New Zealanders reflects social and political changes over recent decades, most noticeably the expectation of a longer period of financial dependency. The calculations for tertiary student allowances, for example, initially took parental income into account until a student turned 25. Yet the legal drinking age was reduced from 20 to 18 in 1999, and youth can apply for a restricted driving license at the age of 15. There is some inconsistency in defining the ages of transition from child to youth to young adult.
 Cultural contexts are significant when considering the links between education, employment and the health of young New Zealanders in the second half of the 20th century. Ethnically, New Zealand society became more diverse in this period, with two major changes being the migration of Pacific Island peoples during the 1960s, and new immigrants from Asian countries from the 1980s onwards. While the different levels of educational attainment account for some of the disparities, diffidence and difference also influence employment rates for cultural minorities.
@@ -150,10 +174,11 @@ This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https:/
 
 ![Sanitarium Weet-Bix Packet](/images/weetbix-packet-horizontal_03da1b137aTHUMB.jpg)
 
+#### Annotation
+
 The only such product endorsed by world famous mountaineer and humanitarian, Sir Edmund Hillary, Sanitarium's sugar-free wholegrain wheat biscuit, Weet-Bix, has long been the country's most preferred breakfast cereal. Since 1992, the company has actively sought to promote children's sport, holding Tryathlons (the spelling is deliberate) at 11 centers throughout the country. (See http://www.sanitarium.co.nz/). Taking this source as an example of targeting the child as consumer, students might explore a range of contemporary and historical advertisements in relation to food, clothing, toys, sports, and entertainment options. Examples from early 20th-century newspapers, http://paperspast.natlib.govt.nz, tend to appeal to adults purchasing for children's needs or interests. In the later decades of the 20th century, however, the advertising is generally focused on youth as consumers, with younger children often "conditioned" by television jingles and images to make requests for goods and services (as in the case of fast food outlets). Ethical issues relating to advertising may also be discussed.
 In the 19th and early 20th centuries, there were obvious links between essential life skills and sporting pursuits, such as horse riding, fishing, hunting, running, walking, and cycling. High levels of physical activity were also connected with routine domestic chores, especially scrubbing and clothes washing. Being overweight was not a common problem. Fast foods scarcely existed save for fish and chips, popularly purchased on Fridays. Most meals were prepared at home; few Maori or Pakeha families were without access to a productive vegetable garden, neighborhood poultry, and fruit trees. Fish, fresh or smoked, was commonly eaten; lamb and beef were cheap and readily available, given the country's economic dependence on outdoor livestock farming. Diets were strongly seasonal, relatively free of preservatives and additives and, until the 1960s, most New Zealand children grew up with some basic knowledge of cooking. Urbanization, smaller housing sections, more married women in the workforce, and the rapid expansion of fast food outlets in the later decades of the 20th century, all contributed to significant changes in diets, those of low-income earners especially.
 This source is a part of the [*New Zealand Childhoods (18th–20th c.)*](https://worldhistorycommons.org/long-teaching-module-new-zealand-childhoods-18th%E2%80%9320th-c) teaching module.
-
 
 ## Teaching Strategies
 
@@ -368,7 +393,7 @@ Time Estimated: one 50-minute class
 
 Grade Level: 10th through 12th grades
 
-Objectives  
+Objectives<br>
 Students will learn to:
 
 1. Identify tone words and connotations;
@@ -379,14 +404,14 @@ Materials
 * Projection of online images, if possible (if not available, make transparencies of two photos listed below in Hook activity)
 * Copies of primary source documents for each student in the class:
 
-1. Adventure in New Zealand from 1839 to 1844 (document 72)  
+1. Adventure in New Zealand from 1839 to 1844 (document 72)<br>
 2. Annual Report on Native Affairs, 1874 (document 91)
 
 * Paper, pencils/pens
 
 ##### Strategies
 
-Hook  
+Hook<br>
 Project image of Apache children as they arrived at Carlisle Indian Industrial School and image after they had become acculturated.
 
 Ask students to quickly brainstorm descriptive words for the first picture and then the second picture.
@@ -395,7 +420,7 @@ Ask students to categorize their impressions, looking for the specific words the
 
 Discuss the meaning of "tone," "connotation," and "attitude."
 
-Group Activity  
+Group Activity<br>
 Next, divide class into small groups (three to five students) and pass out copies of the two primary sources from New Zealand. Each group should choose a recorder to write down the group's responses.
 
 Students should go through the documents, underlining all words that reflect tone or connotation.
@@ -412,12 +437,12 @@ The recorders for each group should write their group's final statements on the 
 
 Have the class discuss the similarities and differences between the statements, checking for validity and for appropriate support for each statement's opinion from the tone words cited.
 
-Homework:  
+Homework:<br>
 Students will write a paragraph trying to identify underlying reasons for the attitudes expressed by the authors by relating those attitudes to broader 19th-century European social and cultural beliefs.
 
 ##### Differentiation
 
-Advanced Students  
+Advanced Students<br>
 For more able students, direct them to the website of the Carlisle Indian Industrial School at http://home.epix.net/~landis/histry.html.
 
 List examples of tone words from the primary source documents embedded in the site. How are these similar to the words used in the primary sources from New Zealand?
@@ -428,7 +453,7 @@ Ask students to write a letter from Mr. Locke (document 91) describing the Carli
 
 ## Document Based Question
 
-by Ryba L. Epstein  
+by Ryba L. Epstein<br>
 (Suggested writing time: 50 minutes)
 
 Societies try to pass on their basic beliefs and values to their children through both official and unofficial channels. The ideals about what children should be taught, how they should be raised, and how they should behave vary greatly from one group to another and over time.
@@ -471,7 +496,7 @@ A verdict of accidental death by burning was returned.
 
 6. Code of Honour from The New Zealand Boys' Diary. 1936.
 
-QUALITIES OF A REAL MAN OR WOMAN  
+QUALITIES OF A REAL MAN OR WOMAN<br>
 Are you one or only an overgrown baby? Are you faithful in your duties to God? Are you pure in thought, word and action? Do you study to imitate the greatest men or women of the world? Have you the strength of will to eat, drink and play in moderation and such forms of each as will make you better morally, intellectually and physically? Are you determined to work for the betterment of your fellow men?
 
 As a New Zealander, proud of the privilege, yet humble in the enjoyment of it:
@@ -525,7 +550,7 @@ A highly respected Pakeha journalist, Archie has had extensive experience coveri
 
 **Ryba Epstein** teaches World History, Advanced Placement World History, Advanced Placement European History, Humanities, and Advanced Placement English Literature at Rich East High School in Park Forest, Illinois. She is a consultant and table leader for AP World History and has also read for AP European History. Her M.A. and Ph.D. are from the University of Illinois in Urbana-Champaign, and she received her A.B. from UCLA. Her dissertation was on African oral epic poetry.
 
-Credits  
+Credits<br>
 Grateful acknowledgment is made to the following institutions for primary sources:
 
 * Australasian Conference Association Ltd.

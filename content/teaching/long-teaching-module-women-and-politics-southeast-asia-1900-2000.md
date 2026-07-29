@@ -29,6 +29,8 @@ related_sources:
   - link: "/southeast-asian-politics-newspaper-unofficial-power"
     image: "/images/Icons-Document-thumbnail_356.jpg"
     alt: "thumbnail of the text"
+how_to_cite: |
+  "Long Teaching Module: Women and Politics in Southeast Asia, 1900-2000," in World History Commons, https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000 [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -61,6 +63,8 @@ This module focuses on analyzing the contradictions in the traditional gendering
 
 ![Southeast Asian Politics: Nonfiction, Javanese Education](/images/Icons-Document-thumbnail_353.jpg)
 
+#### Annotation
+
 Raden Ajeng Kartini is hailed in Indonesia as that country’s first feminist. She was born in April 21, 1879, in North Central Java, the daughter of a Javanese official serving the Dutch colonial government. During this time, women were secluded from the age of 14 until marriage. This did not stop Kartini from aspiring for higher education. She received a scholarship to study, but succumbed to family pressure not to continue her education. And despite her written pronouncements that she would never marry, she consented to be the consort (fourth wife) of a man 25 years her senior. A year after her marriage, shortly after the birth of her son, Kartini passed away at the age of 25. Prior to her marriage, Kartini founded a school for young girls.
 Influenced by Dutch feminists, Kartini wrote passionately for the improvement of education, public health, economic welfare, and traditional arts in her country. The following source is an excerpt from a memorandum she wrote in January 1903 in response to a request from an official of the Dutch Ministry of Justice during a visit to Batavia. In it, Kartini makes two main points. First, Kartini argues that women should be educated because they are the mothers of the future nation’s leaders. She wanted Westernization and instruction in the Dutch language, something which in today’s parlance is seen as “un-nationalistic.” “Modernization” at that time, however, was associated with “Westernization.” Thus, the desire to modernize her country and access the language of knowledge could be interpreted as a “nationalist” move. Second, in Kartini’s view, given the resources and the Javanese population of 27 million, educational policy should first be directed to elite women who could then open schools for the rest of the “masses.” She did not believe grass cutters should be taught Dutch, but she did criticize the Javanese culture’s hierarchical nature, where younger siblings had to grovel to older ones and where norms dictated elaborate rituals of hierarchy. Overall, she wanted to alter relations between Indonesians and the Dutch a decade before the flowering of the nationalist movement.
 This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*](https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000) teaching module.
@@ -68,6 +72,8 @@ This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*]
 ### [Southeast Asian Politics: Nonfiction, Philippine Suffrage](/southeast-asian-politics-nonfiction-philippine-suffrage)
 
 ![Southeast Asian Politics: Nonfiction, Philippine Suffrage](/images/Icons-Document-thumbnail_354.jpg)
+
+#### Annotation
 
 This is an essay written by suffragist Trinidad Fernandez Legarda, editor of The Woman’s Outlook and President of the National Federation of Women’s Clubs (NFWC). NFWC led the campaign for suffrage in the Philippines in 1921. The essay presents a summary of the Filipino suffragists’ argument for the vote.
 The Philippines were an American colony from 1901 to 1935 and a Commonwealth from 1935 to 1941. The American government promised independence after a period of democratic tutelage, so Filipino men were allowed to participate in local and national politics. American colonial powers were willing to grant Filipino women the franchise, but Filipino men opposed the idea. In 1912, American suffragist Carrie Chapman Catt visited Manila in the hopes of starting a suffrage movement, but there was not much interest before NFWC activity began in 1921.
@@ -78,12 +84,16 @@ This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*]
 
 ![Southeast Asian Politics: Court Records, Imelda Marcos](/images/Icons-Document-thumbnail_355.jpg)
 
+#### Annotation
+
 Unofficial power is difficult to document, yet the martial law years in the Philippines were often described in the media as the “conjugal dictatorship of Ferdinand and Imelda Marcos” (1972-1986). This epithet articulates succinctly the perception of the First Lady’s power behind the scenes. Assistant U.S. Attorney Debra Livingston, of the government prosecution panel, gave this opening statement at the start of Imelda Marcos’s 1990 trial in New York for corruption and racketeering. In July 1990, Imelda Marcos was acquitted on all corruption charges against her. The statement provides insight into the unofficial power Marcos reportedly held, presenting it in a negative light. Unofficial power is prone to abuse, in part because it is largely unaccountable. It is not, however, invisible. Since the women politicians are a minority (11%), they still have to abide by male rules. In recognition of the existence of women’s unofficial power, wives of congressmen in the Philippines were asked to take an oath of office to the current president in 1992.
 This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*](https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000) teaching module.
 
 ### [Southeast Asian Politics: Newspaper, Unofficial Power](/southeast-asian-politics-newspaper-unofficial-power)
 
 ![Southeast Asian Politics: Newspaper, Unofficial Power](/images/Icons-Document-thumbnail_356.jpg)
+
+#### Annotation
 
 Unofficial power is often exercised in private, far from public view. This newspaper exposé discusses the power (real and perceived) of Rosemarie Arenas, an alleged former mistress of Philippine President Fidel Ramos, during a democratic regime (1992-1998). The basis of Arenas’s power was the fact that she was a major fundraiser in the presidential campaign of Fidel Ramos. Arenas’s use of power is portrayed as negative, in part because she exercised it to its maximum potential. Unofficial power is prone to abuse, in part because it is largely unaccountable. It is not, however, invisible. Since women are the support system in kinship politics (women run election campaigns and raise funds), this becomes the source of their power later on.
 This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*](https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000) teaching module.
@@ -92,12 +102,16 @@ This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*]
 
 ![Southeast Asian Politics: Speech, Philippine State of The Nation](/images/Icons-Document-thumbnail_357.jpg)
 
+#### Annotation
+
 When opposition Senator Benigno (“Ninoy”) Aquino was assassinated in August 1983, Filipinos rallied around the widow Corazon Aquino who symbolized all those who were victimized by the Marcos dictatorship. The housewife with no political experience found herself elected president of the Philippines after the overthrow of Marcoses’ authoritarian rule. As the Philippines’s first female president, she presided over the transition to democracy facing the challenges of no less than seven military coups attempting to topple her government. In this 1991 speech, her last State of the Nation Address, she reviewed her term of office, focusing on her husband’s ideas and the image of women as “moral guardians.” Aquino constantly refers to her Catholic religiosity. Note that her speech does not reflect a feminist perspective. Corazon Aquino presided over the transition of government from an authoritarian regime to a democratic one and she did not express an interest in women’s issues. After six years in office, she still focuses on her husband and his ideas. Though politically prominent in her own right, Corazon Aquino was perceived to be the alter ego of her husband, a Filipino hero.
 This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*](https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000) teaching module.
 
 ### [Southeast Asian Politics: Speech, Burmese Democracy](/southeast-asian-politics-speech-burmese-democracy)
 
 ![Southeast Asian Politics: Speech, Burmese Democracy](/images/Icons-Document-thumbnail_358.jpg)
+
+#### Annotation
 
 This speech, given in 1988 by Aung San Suu Kyi of Burma, marked the beginning of her staunch campaign against the Burmese military regime. Aung San Suu Kyi is the daughter of Burmese nationalist hero Aung San. She spent much of her adult life overseas and married an English academic named Michael Aris. When she visited her mother in Burma in 1988, she witnessed massive student demonstrations and the massacre of demonstrators. She decided to lead the democratic opposition to the regime and has since been placed under house arrest. In 1991, she received the Noble Peace Prize. In this speech, as leader of the National League for Democracy, she called for the restoration of democratic institutions and “freedom from fear.” She delivered the speech in Burmese and later translated it into English.
 Note that her speech does not reflect a feminist perspective. Aung San Suu Kyi conforms to Southeast Asian constructions of the feminine as “moral guardian.” She delivered her first speech in the Schewedagon Pagoda, a Buddhist temple (Theravada Buddhism) believed to house the guardian spirits (nats) of the nation. In addition, she agitates for the restoration of democratic rights in Burma and fights for the human rights of both men and women victims of tatmadaw (Burmese army) rule. Aung San Suu Kyi’s first speech declaring opposition to Burmese army rule repeatedly mentioned her father, a legend whose photograph is carried by Burmese students during demonstrations. She justified her decision to speak out against human rights violations by the military dictatorship with the words, “I could not as my father’s daughter remain indifferent to all that was going on.” Though politically prominent in her own right, Aung San Suu Kyi was perceived to be the alter ego of her father, a Burmese hero.
@@ -107,6 +121,8 @@ This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*]
 
 ![Painting of Imelda Marcos, Philippine First Lady](/images/marcoslarge-thumbnail.jpeg)
 
+#### Annotation
+
 Politicians are astute experts on the symbols and meaning of dress as part of self-representation. For women, the politics of dress are highly significant. This painting depicts a powerful woman, Former First Lady Imelda Romualdez Marcos and shows her use of national dress in the Southeast Asian political context. Marcos popularized the *terno*, the Philippine national dress for women with butterfly sleeves, when she became First Lady. She used the national dress to craft a self-representation of herself as embodying the nation, presenting herself as a nationalist subject. Marcos was conscious of Southeast Asian cultural constructions of woman as bearer and wearer of national tradition, and tapped into these notions to achieve her political agenda. She stated during her trial that she wanted to be seen as a nationalist. Since she could not wear the Filipino flag, the *terno* became her flag. Filipinos, however, identified the *terno* with her personally and with her frivolousness. The *terno* became a symbol of Imelda Marcos rather than a metaphor for nation.
 This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*](https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000) teaching module.
 
@@ -114,12 +130,16 @@ This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*]
 
 ![Photograph of Aung San Suu Kyi, Burmese Activist](/images/kyi-thumbnail.jpeg)
 
+#### Annotation
+
 This photograph of a powerful woman, Burmese activist Aung San Suu Kyi, shows her use of national dress in a Southeast Asian political context. Aung San Suu Kyi was educated overseas and married to an Englishman. Yet she always wears Burmese national dress complete with a flower in her hair. This choice of clothing downplays her Western education and stresses her image as a nationalist fighting for the restoration of democratic institutions in Burma. Aung San’s dress demonstrates her awareness of Southeast Asian cultural constructions of women as bearers of national tradition. In addition, she appears frail, but this is most likely intentional. The “woman as martyr” can be a powerful symbol in Southeast Asia. Her image serves as a stark contrast to the machismo of army rulers who wear Western military attire.
 This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*](https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000) teaching module.
 
 ### [Southeast Asian Politics: Song, Philippine Feminist Movement](/southeast-asian-politics-song-philippine-feminist-movement)
 
 ![Southeast Asian Politics: Song, Philippine Feminist Movement](/images/Icons-Song-thumbnail_13.jpg)
+
+#### Annotation
 
 This song, entitled Maria and sung in Tagalog (a Philippine language), challenges cultural constructions of women as passive, as sex objects or domestic cooks. “Maria” is used as a generic term for woman. The song identifies heroines such as Lorena Barros, Gabriela Silang, and Tandang Sora. Barros founded MAKIBAKA in 1971, the first second-wave feminist organization. The organization was forced underground during the martial law regime of President Marcos (1972-1986) and Barros was killed by the military. Gabriela Silang led the revolt against Spanish colonizers in the 18th century and Tandang Sora helped the Filipino revolutionaries against Spain in 1896-1898.
 Maria is performed by Sining Lila, a performing group of GABRIELA (General Assembly Binding Women for Reforms, Integrity, Equality, Leadership, and Action), an umbrella organization of about 200 grass roots women’s organizations in the Philippines. Sining Lila performs songs during the demonstrations, workshops, and other public events where GABRIELA is a participant or organizer.
@@ -130,10 +150,11 @@ This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*]
 
 ![Southeast Asian Politics: Website, Sisters In Islam](/images/Icons-Document-thumbnail_473.jpg)
 
+#### Annotation
+
 The women’s movement has always been inherently global, but by the end of the 20th century there was a new burst of transnational women’s organizing as women used new technologies to network at home and abroad. Women’s movements are studied in the context of globalization, and Southeast Asian women’s “positioning” within this global context. The Southeast Asian women’s diaspora (for example, the significant number of Filipino domestic workers overseas) and the effect of globalization on women, has inspired the contemporary women’s movement to work in a transnational rather than a local context. At the same time, Islamic revivalism has made Southeast Asian Muslim women more conscious of their transnational Muslim identity. Sisters in Islam, based in Malaysia, reinterprets the Koran from a feminist perspective, focusing on issues faced by the “modern” Muslim woman in Malaysia and in the global Muslim community.
 Sisters in Islam (SIS) was founded in 1988 to promote the rights of Muslim women. A group of feminist, professional women organized SIS because men, as ulama (Islamic scholars), were the only ones permitted to interpret the text of the Koran (Qur’an). SIS presented a more egalitarian interpretation of the Koran, especially regarding women. In the 1970s, as women began to enter the labor force, Malaysia experienced a rise of Islamic revivalism (dakwa movement). Dakwa encouraged a more pious practice of Islam and veiling became popular (veiling is a relatively modern phenomenon associated with elite, university educated, middle-class women). SIS argued that one could be both a feminist and a Muslim. An examination of the titles of SIS publications (listed on the homepage) and seminars topics reveals a distinct interest in women’s rights, particularly in Shari’a Law or Muslim Law (Hudud) based on the Qu’ran and the Hadith (the traditions of the Prophet written down by his followers).
 This source is a part of the [*Women and Politics in Southeast Asia, 1900-2000*](https://worldhistorycommons.org/long-teaching-module-women-and-politics-southeast-asia-1900-2000) teaching module.
-
 
 ## Teaching Strategies
 

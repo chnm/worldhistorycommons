@@ -28,6 +28,8 @@ related_sources:
   - link: "/gin-lane-1751"
     image: "/images/gin-lane_ab79c4ea97_thumbnail2.jpg"
     alt: "Thumbnail of drawing of gin lane"
+how_to_cite: |
+  "Long Teaching Module: Children’s Health in Early Modern England," in World History Commons, https://worldhistorycommons.org/long-teaching-module-childrens-health-early-modern-england [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -62,12 +64,16 @@ Starting in the 1960s several scholars have argued that early modern parents tri
 
 ![Boke of Chyldren by Thomas Phaer](/images/book-of-children-thumbnail.jpeg)
 
+#### Annotation
+
 Phaer was a lawyer and a physician who wrote the first work in English devoted solely to the health of children. It was first published in 1544 and went through many editions. The audience for the book according to Phaer was everyone who cared about children. It is a small book of only 56 pages but it covers most of the common conditions that children suffered – from agues or colds to parasitic worms. This section is on head lice and comes at the very end of the book. Lice, like fleas, were endemic in early modern society. Phaer advises the afflicted to avoid certain foods and offers several longer receits or prescriptions. They are not to eat figs and dates (hardly the diet of the poor) and to wash in salty water or brine. A longer receit concerns wearing a cloth around the waist that has been first soaked in pig’s grease and quicksilver, or mercury. Phaer confidently states that lice cannot bear the smell of quicksilver.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
 
 ### ["On Scarlet Fever"](/scarlet-fever)
 
 !["On Scarlet Fever"](/images/observationes-thumbnail.jpeg)
+
+#### Annotation
 
 There are many fevers listed as the cause of death in early modern England that do not translate well into modern diseases (worm, spotted, pining, nervous) but scarlet fever is still with us. The Puritan Dr. Thomas Sydenham (1624-89) is often referred to as the "English Hippocrates" because of his emphasis on the need to observe the course of diseases and not just theorize about them. His two major works, Methodis Curandis Febres (1666) and Observationes Medicae (1676), are thought to have been written in English and translated by a Latin scholar for publication. From sitting at the bedsides of his patients Sydenham argued, controversially at the time, that fevers were connected to the weather and the seasons and occurred in cycles. Here he describes scarlet fever as a summer disease that especially affects infants. Sydenham believes that the cause of the disease may be overheated blood from the hot summer weather. He recommends keeping patients indoors out of the sun, not giving them meat (a hot substance), using a mild laxative, and if the child has fits from the fever to use a hot iron to blister the skin on the back of the neck and give opium. The idea was that the blister would allow bad fluids to drain from the body. Sydenham probably advised blistering the neck as it was close to the skull, and physicians believed fits were caused by too much fluid/humor in the brain.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
@@ -76,12 +82,16 @@ This source is a part of the [*Children’s Health in Early Modern England*](htt
 
 ![Lady Mary Wortley Montagu on Small Pox in Turkey](/images/lettersofmontague-thumbnail.jpeg)
 
+#### Annotation
+
 Lady Mary Wortley Montagu (1689-1762) was the wife of the British Ambassador to Turkey. In 1715 she had survived but been terribly scarred by smallpox while her brother had died from the disease. She was fascinated by the culture of the Ottoman Empire and in 1717 described the Turkish practice of inoculating healthy children with a weakened strain of smallpox to confer immunity from the more virulent strains of the disease. She immediately had her seven-year old son inoculated in Turkey and on her return to England, she had her daughter publicly inoculated at the royal court of George I to popularize the technique. In this she was only partially successful as inoculation continued to be dangerous and often resulted in death and scarring of infected children.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
 
 ### [Gin Lane (1751)](/gin-lane-1751)
 
 ![Gin Lane (1751)](/images/gin-lane_ab79c4ea97_thumbnail2.jpg)
+
+#### Annotation
 
 This is one of the best-known prints by the famous artist, William Hogarth. He designed it to support the British government's attempt to regulate the price and popularity of drinking gin (known as Geneva) in the Gin Act of 1751. The print is accompanied by the following verse:
 Gin, cursed Fiend, with Fury fraught,
@@ -103,11 +113,15 @@ This source is a part of the [*Children’s Health in Early Modern England*](htt
 
 ![London's Bill of Mortality](/images/bill-of-mortality-front_09e0c05008THUMB.jpg)
 
+#### Annotation
+
 During the great outbreak of bubonic plague or black death in the hot summer of 1665 in London, special bills of mortality were issued that listed causes of death. By mid-July over a thousand deaths a week were reported on handbills that were stuck up in public places to warn people that the plague was growing. The rich fled the city but the poor did not have that option and died in droves. Shown is the front of a bill that lists the final count for the year of 1665 with memento mori or remember you will die, written across the top of it and skeletons representing death around the edges. The second bill lists the number of deaths in London for just one week in September 1665. It shows that 7,165 people died from plague. Other deaths recorded point to the high infant mortality of early modern England; 17 chrisomes, or infants who died in the first month of life; 121 teeth, or infants who died when still teething. Fifteen children died from worms or parasites in the body. Several fevers are also mentioned – 42 women died from childbed fever, or bacterial infection after giving birth, and 101 people succumbed to spotted fever (probably typhus). This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-childrens-health-early-modern-england) teaching module.
 
 ### [John Evelyn's Diary](/john-evelyns-diary)
 
 ![John Evelyn's Diary](/images/Icons-Book-Excerpt-thumbnail_12.jpg)
+
+#### Annotation
 
 The English lawyer John Evelyn (1620-1706) kept a diary for nearly 50 years and in it recorded his grief at the death of four of his children. John and Mary Evelyn had eight children altogether: Richard (1652–8), John Standsfield (1653–4), John (1655–99), George (1657–8), Richard (1664), Mary (1665–85), Elizabeth (1667–85) and Susanna (1669–1754). Only Susanna outlived her parents. In January 1658 the eldest son Dick (Richard) fell ill from a quartan ague or fever, had sweats and fits, and finally died. Physicians were sent for from London but the bitterly cold weather prevented them from arriving in time to help little Dick. Evelyn's devastation at the loss of his son shows all too well when he painfully records Dick's age as 5 years, 5 months, and 3 days. He angrily blames the death on the servants keeping Dick too hot with a great fire and blankets. Evelyn was an educated man interested in science or natural philosophy as it was called in the 17th century. This may have led to his somewhat unusual decision to attend the autopsy of Dick. The findings of liver growne and a large spleen, suggest possibly rickets or malaria as the cause of Dick's death. The following month Evelyn recorded the death of yet another son – his youngest, George, aged only seven weeks.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
@@ -116,12 +130,16 @@ This source is a part of the [*Children’s Health in Early Modern England*](htt
 
 ![Rubeola Vulgaris - Measles](/images/measles-thumbnail.jpeg)
 
+#### Annotation
+
 Robert Willan (1757-1812) was a physician who practiced in London. Like Sydenham he was fascinated by the relation of weather to epidemics and kept strict records on when they occurred over several years. He was particularly interested in the diseases of children and carefully observed rashes and pustules as they developed in stages on the skin. The first volume of his book, *On Cutaneous Diseases*, was published between 1798-1808 and widely admired by the medical world. Historians generally agree that it was this book that launched the modern specialty of dermatology. The volume is notable for its' beautiful and graphic colored plates. Willan closely supervised the creation of these. In 1812 as he was preparing a second volume for publication, Willan sadly died from tuberculosis. Plate 20 shows a young child's face and arm covered in the rash characteristic of measles. It was often a severe and disfiguring disease in early modern England and could result in death as the infection spread to the tissue and bone, resulting in gangrene.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
 
 ### [Infanticide Trial Transcript from the Old Bailey of Elizabeth Taylor of Clerkenwell](/infanticide-trial-transcript-old-bailey-elizabeth-taylor-clerkenwell)
 
 ![Infanticide Trial Transcript from the Old Bailey of Elizabeth Taylor of Clerkenwell](/images/Icons-Document-thumbnail_127.jpg)
+
+#### Annotation
 
 Infanticide or the killing of a baby was punishable by hanging in early modern England. Unlike married women accused of infanticide, the mere fact that single women had tried to conceal the death of their babies was considered proof of murder under the Infanticide Act of 1624. A single woman's only recourse was to try and prove that the baby had been born dead and that she had not killed it. This was difficult as many of these women gave birth with no witnesses. In the mid-18th century from research by historians, we know that 70% of the women indicted for infanticide were servants by occupation and under the age of 16. We also know that the trend as the century progressed was for juries to find more women innocent than guilty of the crime of infanticide unless there was clear proof that they had murdered their baby. Perhaps they were beginning to see these young women as victims rather than criminals.
 The case of Elizabeth Taylor shows the fear and shame single women felt when they became pregnant and the lack of privacy in their lives as servants. Elizabeth does not speak at her trial, instead witnesses for the prosecution are called first before the judge and jury who ask them questions about whether Elizabeth hid her pregnancy and the baby. Then Dinah Beaven testifies that the baby does not appear to have been murdered. She was probably a midwife and here acts as an expert witness. Finally, a prisoner in Newgate with Elizabeth states that they found baby items sewn in Elizabeth's coat when the prisoners took it from her. (New prisoners were often fleeced by inmates who used money and goods to bribe gaolers into providing more than just the basics of bad bread, foul water, and old straw for bedding.) The fact that Elizabeth had made provision for the baby was the strongest proof that she did not intend to kill it and the court let her go.
@@ -131,6 +149,8 @@ This source is a part of the [*Children’s Health in Early Modern England*](htt
 
 ![The Graham Children](/images/the-graham-children_bb2950a7b0THUMB.jpg)
 
+#### Annotation
+
 This beautiful life-size painting of four children is by William Hogarth, who also specialized in engravings such as Gin Lane. It was commissioned by Daniel Graham, a rich apothecary (pharmacist) to the royal family and to Chelsea Hospital in London. It shows Daniel's three children by his second wife, Mary Crisp, and Mary's daughter, Henrietta, by her first marriage. The children are (from left to right) the infant Thomas sitting in a gold-leaf gilded go-cart (age 2); Henrietta in a blue dress holding two cherries (age 9); Anna Maria in a flower-print dress (age 5); and Richard who plays the sérinette or bird organ (age 7). Hogarth was a patron of the Foundling Hospital in London and painted portraits of many of the children there. His skill led to commissions such as this one.
 At first glance Hogarth literally paints childhood as a time of innocence and happiness. But there are clues that point to the fragility of children's lives. The clock on the mantelpiece is decorated with a figure of Cupid holding a scythe, a symbol of death. Standing beside it is an hourglass, yet another symbol of mortality. The cat gazes greedily at the caged bird to remind us that there are predators even in such a happy scene as this. In fact Thomas died while Hogarth was completing the portrait and what we have here is a posthumous representation of the infant, as if he was still alive at the age of two. The crossed carnations at Thomas's feet symbolize that like flowers, his life faded quickly, while the dove on the go-cart may represent his soul flying to heaven.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
@@ -139,6 +159,8 @@ This source is a part of the [*Children’s Health in Early Modern England*](htt
 
 ![Transplanting Teeth](/images/transplanting-teeth-thumbnail.jpeg)
 
+#### Annotation
+
 This print is by Thomas Rowlandson (1756-1827) and is dated 1787. It is a satirical comment upon the real practice of rich gentlemen and ladies of the 18th century paying for teeth to be pulled from poor children and transplanted in their gums. The dentist present is portrayed as a quack. There are even two quacking ducks on the placard advertising his fake credentials. He is busy pulling teeth from the mouth of a poor young chimney sweep. Covered in soot and exhausted, he slumps in a chair. Meanwhile the dentist's assistant transplants a tooth into a fashionably dressed young lady's mouth. Two children can be seen leaving the room clutching their faces and obviously in pain from having their teeth extracted. As people lost most of their teeth by age 21 due to gum disease, teeth transplants were popular for some time in England although they rarely worked.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
 
@@ -146,9 +168,10 @@ This source is a part of the [*Children’s Health in Early Modern England*](htt
 
 ![An Inquiry into the Causes and Effects of the Variolae Vaccinae](/images/Variolae-Vaccinae-thumbnail.jpeg)
 
+#### Annotation
+
 Edward Jenner (1749-1823) was a physician in rural Gloucestershire. Like Lady Mary Wortley Montagu he learnt of a widely known folk remedy to protect against smallpox. Smallpox cases were increasing in the 18th century and had a mortality rate of 40%. At least 30% of those who survived were left horribly scarred. Smallpox was a disease of children and youth in particular. However, dairymaids and farmers believed that those who had contracted cowpox, a mild infection often found on the udders of cows, would not get smallpox. Jenner's interviews with local farmers led him to carry out a series of experiments using cowpox matter, or lymph (fluid), taken from the vesicles of cowpox on the hands of the dairymaid Sarah Nelmes. In May 1796 he inserted the lymph in the arm of a young boy called James Phipps who promptly came down with cowpox. In July Jenner inoculated Phipps with smallpox matter but he remained healthy and did not get the disease. Jenner carried out several of these experiments on villagers and the children of his servants before he published his findings. He called this new method of using cowpox to protect against smallpox, vaccination from vacca, the Latin word for cow. In fact historians now have evidence that local farmers had carried out this procedure before but Jenner was the first medical man to publish his findings on cowpox as a preventive remedy against smallpox in *An Inquiry into the Cause and Effects of the Variolae Vaccinae, a Disease Discovered in Some of the Western Counties of England, Particularly Gloucestershire, and Known by the Name of the Cow-pox*. Vaccination was not accepted quickly by all but it gradually became more popular as it was less risky than inoculation. The watercolor drawing shows the profound difference in the severity of infection caused by inoculation with smallpox as recommended by Lady Montagu versus vaccination with cowpox as recommended by Edward Jenner. Vaccination became compulsory in Britain in 1853.
 This source is a part of the [*Children’s Health in Early Modern England*](https://worldhistorycommons.org/long-teaching-module-children%E2%80%99s-health-early-modern-england) teaching module.
-
 
 ## Teaching Strategies
 
@@ -177,10 +200,10 @@ Students will be able to debate the extent to which parents demonstrated attachm
 
 ##### Day One
 
-Hook  
+Hook<br>
 Ask students to imagine life without modern conveniences such as electricity, sewers, and clean water by listing ten possible effects on health, hygiene, and illness. Then, with a partner, have them predict which of those effects were common among children in early modern England. Make a class list of these predictions to post for comparison later.
 
-Activity  
+Activity<br>
 Students will read the primary sources looking for any connections between the lack of modern conveniences and health, hygiene, and illness among children. One strategy to help with close reading is to help the students generate lists of typical words they might find in the text, and then encouraging them to underline or highlight the words associated with a lack of conveniences (such as lack of clean water for drinking or washing) and circle or highlight the words associated with symptoms of illness (complexion, fever, fits, pain, sweat, swollen, shivers, blisters) and treatments (ointment, medicine, bloodletting, fasting, bed rest). Have the students turn in their annotated sources. Check to make sure they found most of the key words. If not, show them to the students the next day.
 
 ##### Day Two: Debate Prep
@@ -198,7 +221,7 @@ Students prepare for a debate on whether parents in early modern England tried n
 
 ##### Day Three: The Debate
 
-Debate Directions  
+Debate Directions<br>
 Divide the class into two groups (pro and con).
 
 Assign each student a specific speaking role in the debate.

@@ -20,6 +20,8 @@ related_sources:
   - link: "/remarks-east-west-relations-brandenburg-gate-west-berlin"
     image: "/images/Icons-Document-thumbnail_621.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Reagan at the Brandenburg Gate," in World History Commons, https://worldhistorycommons.org/short-teaching-module-reagan-brandenburg-gate [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -69,12 +71,16 @@ Although I have primarily used this source in a U.S. history survey, it would al
 
 ![Remarks on East-West Relations at the Brandenburg Gate in West Berlin](/images/Icons-Document-thumbnail_621.jpg)
 
+#### Annotation
+
 On June 12, 1987, President Ronald Reagan delivered a major speech on the Cold War with the Brandenburg Gate and the Berlin Wall as a back drop. In staging this speech, President Reagan hoped to draw a parallel with the historic speech delivered in Berlin by President John F. Kennedy in July 1963. It was in this speech that President Kennedy spoke the famous phrase: "All free men, wherever they may live, are citizens of Berlin, and, therefore, as a free man, I take pride in the words Ich bin ein Berliner "I am a Berliner]." In Reagan's 1987 talk, he recalled this famous speech and added his own historic phrase: "Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!"
 This source is a part of the [*Reagan at the Brandenburg Gate*](https://worldhistorycommons.org/short-teaching-module-reagan-brandenburg-gate) teaching module.
 
 ### [Reagan at the Brandenburg Gate](/reagan-brandenburg-gate)
 
 ![Reagan at the Brandenburg Gate](/images/reagan-thumbnail.png)
+
+#### Annotation
 
 On June 12, 1987, President Ronald Reagan delivered a major speech on the Cold War with the Brandenburg Gate and the Berlin Wall as a back drop. Since the end of World War II, Berlin had been one of the main symbols of the Cold War. In staging this speech, President Reagan hoped to draw a parallel with the historic speech delivered in Berlin by President John F. Kennedy in July 1963. It was in this speech that President Kennedy spoke the famous phrase: "All free men, wherever they may live, are citizens of Berlin, and, therefore, as a free man, I take pride in the words "Ich bin ein Berliner." In Reagan's speech, he not only identified himself as a fellow Berliner, but challenged Mikhail Gorbachev, who was seen by the West increasingly as the driving force behind reform in Eastern Europe, saying: "Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!"
 To view just the excerpt of the speech in which President Reagan makes his famous statement about tearing down the Berlin Wall, click [here.](https://worldhistorycommons.org/tear-down-wall)
@@ -84,14 +90,15 @@ This source is a part of the [*Reagan at the Brandenburg Gate*](https://worldhis
 
 ![Tear Down this Wall](/images/reagan-thumbnail_0.png)
 
+#### Annotation
+
 On June 12, 1987, President Ronald Reagan delivered a major speech on the Cold War with the Brandenburg Gate and the Berlin Wall as a back drop. In staging this speech, President Reagan hoped to draw a parallel with the historic speech delivered in Berlin by President John F. Kennedy in July 1963. It was in this speech that President Kennedy spoke the famous phrase: "All free men, wherever they may live, are citizens of Berlin, and, therefore, as a free man, I take pride in the words "Ich bin ein Berliner [I am a Berliner]." In this segment of Reagan's speech, he repeats this famous phrase and added his own--in particular the phrase "Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!"
 To view the entire speech, click [here](https://worldhistorycommons.org/reagan-brandenburg-gate).
 This source is a part of the [*Reagan at the Brandenburg Gate*](https://worldhistorycommons.org/short-teaching-module-reagan-brandenburg-gate) teaching module.
 
-
 ## Bibliography
 
-**Notes:**  
+**Notes:**<br>
 (1) Eric Foner, Give Me Liberty! An American History. Volume I. (New York: W.W. Norton, 2005): pp. 1061-1064.
 
 ## Credits

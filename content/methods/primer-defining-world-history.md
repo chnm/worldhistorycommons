@@ -13,6 +13,8 @@ related_sources:
   - link: "/hobo-dyer-projection-worldmap"
     image: "/images/hobodyer_thumb.png"
     alt: ""
+how_to_cite: |
+  "Primer: Defining World History," in World History Commons, https://worldhistorycommons.org/primer-defining-world-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -29,10 +31,10 @@ In the twenty-first century, world historians are building on different national
 
 People have actually been doing world history for a long time. The ancient Greek historian Herodotus set his story of the war between the Persians and the Greeks within the context of the world as he knew it, and the ancient Chinese historian Sima Qian told history through an encyclopedic presentation of events, activities, and biographies of emperors, officials, and other important people. Medieval chroniclers in India, Europe, and the Muslim world devised “universal histories” that began with the creation of the world, and from the fifteenth through the nineteenth centuries scholars, poets, nuns, physicians, obscure officials, former slaves, and others wrote histories with a broad scope. In the nineteenth century and into the twentieth century, however, the focus of most professional history—that is, history written by men trained at universities—became the nation-state, which fit with the rising importance of nations as political units and with growing nationalism. Western professional history joined the nation-centric histories of China, Japan, and other countries with long historiographic traditions to influence scholars in the new nations that were being formed through decolonization in the twentieth century; they also wrote national histories and developed courses in universities.
 
-But after World War II, scholars and teachers began to challenge nationally-organized histories. In the United States, area studies programs at universities increasingly trained people to study many parts of the world, some professional historians began to write works with a broad scope, and college instructors and high school teachers created courses in world history. In Europe, the study of diplomacy gradually widened into imperial, international, and what was termed “overseas” history. Beginning in the 1980s, scholars in Asia, Africa, and Latin America critiqued much existing world and international history as overly centered on Europe, and posited different centers or called for a more polycentric world history. The 1990s brought other new directions, including transnational history, histoire croisée, Transfergeschichte, Atlantic World history, borderlands histories, connected history, world systems history, diasporic history, and many others. Some historians began to describe their field as global history, to reflect the increasing integration of world regions into a single system through globalization, though other historians see world and global history as the same.  
+But after World War II, scholars and teachers began to challenge nationally-organized histories. In the United States, area studies programs at universities increasingly trained people to study many parts of the world, some professional historians began to write works with a broad scope, and college instructors and high school teachers created courses in world history. In Europe, the study of diplomacy gradually widened into imperial, international, and what was termed “overseas” history. Beginning in the 1980s, scholars in Asia, Africa, and Latin America critiqued much existing world and international history as overly centered on Europe, and posited different centers or called for a more polycentric world history. The 1990s brought other new directions, including transnational history, histoire croisée, Transfergeschichte, Atlantic World history, borderlands histories, connected history, world systems history, diasporic history, and many others. Some historians began to describe their field as global history, to reflect the increasing integration of world regions into a single system through globalization, though other historians see world and global history as the same.<br>
 Today world history has many shapes: the ball that is the planet, long thin trade routes, the barbells of comparative studies, the fuzzy lines of borderlands, the triangles of three-part comparisons, the daisy-like shapes of the spread of an idea in multiple directions, the borderless cosmos, the knotted webs of networks, the tangles of migration and trade. All of these enable a deeper understanding of the past and the complex processes of change, development, and transformation that human beings have generated and driven through time.
 
-**For Further Reading:**   
+**For Further Reading:**<br>
 Doug Northrup, Blackwell Companion to World History.
 
 ## Primary Sources
@@ -41,9 +43,10 @@ Doug Northrup, Blackwell Companion to World History.
 
 ![Hobo-Dyer Projection Worldmap](/images/hobodyer_thumb.png)
 
+#### Annotation
+
 On a typical world map, such as the classic Mercator projection, Greenland appears misleadingly enormous – yet few observers pause to note the inaccuracies. Mapmakers rarely question other basic assumption, such as drawing north at the top. But if the Earth resembles ball spinning through space, are ‘up’ and ‘down’ so self-evident? Better maps can provide fresh perspective, and make viewers aware of unspoken assumptions. The Hobo-Dyer projection shows accurately the relative size of different land areas, while preserving north/south and east/west lines of bearing. It also gives the Southern Hemisphere visual prominence, imagining a globe that has been re-centred Down Under.
 This source is a part of the [*Primer: Defining World History*](https://worldhistorycommons.org/primer-defining-world-history) methods module.
-
 
 ## Credits
 

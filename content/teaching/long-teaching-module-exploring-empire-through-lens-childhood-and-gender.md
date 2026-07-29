@@ -34,6 +34,8 @@ related_sources:
   - link: "/video-indian-boy-scouts-1929-world-jamboree"
     image: "/images/IndianScoutsTHUMB.png"
     alt: "Video still showing a boy scout sitting and eating."
+how_to_cite: |
+  "Long Teaching Module: Exploring Empire through the Lens of Childhood and Gender," in World History Commons, https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -44,8 +46,8 @@ As European empires expanded at the end of the end of the nineteenth century, im
 
 At the turn of the twentieth century, Britain faced an imperial crisis. While it had emerged victorious at the end of the brutal and costly South African War (1899-1902), it had not been left unscathed. The prolonged nature of the conflict and the poor performance of the British army against smaller Afrikaner (or Boer) forces led Britons to question their imperial might. Robert Baden-Powell (1857-1941), who had returned from the South Africa War after becoming a national hero during the Siege of Mafeking in 1900, was just one of many Britons who feared for the future of not only the British Empire but also the British race. For Baden-Powell, the crisis was rooted in endemic social problems, and its solution lay in the reassertion of proper gender roles and traditional masculine values, which could be achieved through the reformation of boyhood. To this end, in 1907-1908, he formed the Boy Scouts to stem the tide of racial degeneration and effeminacy that he saw plaguing British society, and especially the working classes, and increase boys’ fitness and efficiency through the promotion of a healthy lifestyle and enthusiasm for the outdoors and “frontier” life. Baden-Powell viewed the strength and health of children as indicative of the vitality of Britain and its empire. He was not alone in such a view. During times of imperial uncertainty, children—as the future empire builders—became the focus of broader anxieties and the targets of educational and reform efforts, which sought to reaffirm traditional ideas of masculinity and femininity and the gendered hierarchical order. The creation of the Boy Scouts provides just one example of the deeply entwined nature of imperialism, gender, and childhood.
 
-While girls wanted to join the Scouts, Baden-Powell rejected this idea, fearing girls’ femininizing influence on boys and that girls would turn into tomboys. He instead advocated for the development of a separate organization, the Girl Guides, to provide girls with distinctive training that centered around their future roles as wives and mothers. While the Boy Scouts and Girl Guides were the most popular youth organizations, similar groups also reinforced European gender ideals and a sense of imperial duty through activities and various forms of entertainment. For instance, the Girls’ Friendly Society, a less popular organization but one that was active in the decades around the turn of the century, produced pageants and plays, like the “Indian Tableaux” included here as one of the primary sources, which served as spaces where girls could perform gender and racial roles.   
-   
+While girls wanted to join the Scouts, Baden-Powell rejected this idea, fearing girls’ femininizing influence on boys and that girls would turn into tomboys. He instead advocated for the development of a separate organization, the Girl Guides, to provide girls with distinctive training that centered around their future roles as wives and mothers. While the Boy Scouts and Girl Guides were the most popular youth organizations, similar groups also reinforced European gender ideals and a sense of imperial duty through activities and various forms of entertainment. For instance, the Girls’ Friendly Society, a less popular organization but one that was active in the decades around the turn of the century, produced pageants and plays, like the “Indian Tableaux” included here as one of the primary sources, which served as spaces where girls could perform gender and racial roles. <br>
+ <br>
 Youth organizations, like the Boy Scouts and Girl Guides, provide a valuable way of studying and teaching about childhood and gender in the empire, since they had a global reach and thus acted as an important vehicle in exporting European gender ideals to various parts of the empire. The worldwide influence of the scouting movement is evidenced by the Boy Scout World Jamboree, which was first held in London in 1920. The jamboree epitomizes how the Boy Scouts affirmed traditional masculine ideas, like militarism, and also how ceremonies, parades, and other displays of pageantry encouraged its young members to think of themselves as an imperial community. Like other youth organizations, the Boy Scouts and Girl Guides imparted notions of what constituted “proper” masculinity and femininity while simultaneously serving as a means of consolidating the British Empire by teaching imperial citizenry and loyalty to boys and girls not only in Britain but also in Africa, India, Australia, New Zealand, Canada, and other parts of the empire.
 
 Like youth organizations, schools serve as a productive means to analyze the intersections of gender, childhood, and imperialism, since schools—both in the metropole and colonies—transmitted imperial ideologies and values but also importantly gendered prescriptions. Schools in Britain taught children necessary skills to keep their country internationally competitive and also instill in them a sense of duty to the nation and empire. Girls’ education centered around their domestic roles. As future wives and mothers, girls had the responsibility of ensuring the success of their empire and race by producing healthy children and properly raising them to be future citizens, soldiers, and settlers. Consequently, for girls, a greater emphasis was placed on education in domestic science, hygiene, cooking, and sewing.
@@ -60,8 +62,8 @@ The legacies of imperialism continue to inform the global politics of childhood 
 
 ---
 
-1See for instance, Shenila Khoja-Moolji’s’s *Forging the Ideal Educated Girl: The Production of Desirable Subjects in Muslim South Asia* (Berkley: University of California Press, 2018) and her article, “Why is Malala such a polarizing figure in Pakistan?,” Al Jazeera, April 1, 2018, https://www.aljazeera.com/opinions/2018/4/1/why-is-malala-such-a-polarising-figure-in-pakistan. See also Chitra Nagarajan, “Focusing on schoolgirl abductions distorts the view of life in Nigeria,” *The Guardian*, March 2, 2018, https://www.theguardian.com/commentisfree/2018/mar/02/nigeria-boko-haram-abductions-chitra-nagarajan.   
-2“Canada: 751 unmarked graves found at residential school,” BBC, June 24, 2021, https://www.bbc.com/news/world-us-canada-57592243. For more information and resources on residential schools in the United States, see the “Away from Home: American Indian Boarding School Stories” at https://heard.org/boardingschool/.   
+1See for instance, Shenila Khoja-Moolji’s’s *Forging the Ideal Educated Girl: The Production of Desirable Subjects in Muslim South Asia* (Berkley: University of California Press, 2018) and her article, “Why is Malala such a polarizing figure in Pakistan?,” Al Jazeera, April 1, 2018, https://www.aljazeera.com/opinions/2018/4/1/why-is-malala-such-a-polarising-figure-in-pakistan. See also Chitra Nagarajan, “Focusing on schoolgirl abductions distorts the view of life in Nigeria,” *The Guardian*, March 2, 2018, https://www.theguardian.com/commentisfree/2018/mar/02/nigeria-boko-haram-abductions-chitra-nagarajan. <br>
+2“Canada: 751 unmarked graves found at residential school,” BBC, June 24, 2021, https://www.bbc.com/news/world-us-canada-57592243. For more information and resources on residential schools in the United States, see the “Away from Home: American Indian Boarding School Stories” at https://heard.org/boardingschool/. <br>
 3See for instance, Kelly Condit-Shrestha, “IHRC Symposium Commentary on Migration Across Global Regimes of Childhood,” SHCY Commentary, Society for the History of Childhood and Youth, September 28, 2018, https://www.shcy.org/features/commentaries/ihrc-symposium-commentary-on-migration-across-global-regimes-of-childhood/.
 
 ## Primary Sources
@@ -69,6 +71,8 @@ The legacies of imperialism continue to inform the global politics of childhood 
 ### [Photograph of “Indian Tableaux at Endon”](/photograph-indian-tableaux-endon)
 
 ![Photograph of “Indian Tableaux at Endon”](/images/TableauTHUMB.jpg)
+
+#### Annotation
 
 This photograph, which was originally published in the *G.F.S. Magazine* in September 1923, is from a tableau performed by members of the Girls’ Friendly Society (GFS), which was a youth organization akin to the more popular Girl Guides. Tableaus, pageants, and plays were popular forms of entertainment, especially in the opening decades of the twentieth century, and important fundraisers and instruments for publicity for organizations like the GFS. Importantly, pageants and plays also served as spaces where children could enact gender and racial roles and rehearse future roles, in this case as missionaries. Missionaries—and by extension girls—occupied a central place in the imperial story. In this tableau, girls not only acted as nurses and doctors to Indian women but also assumed the role of Indian women. Performances like this one contrasted the seemingly lowly status of Indian girls and women with the more elevated position of European girls and women and underscored the responsibility of girls to rectify this situation, reinforcing the notions that Indian women needed to be saved by white women. Sources like this photograph provide a useful means to examine the representations of European girls, their idealized roles in the imperial project, and how the imperial context informs constructions of femininity and girlhood.
 
@@ -78,57 +82,70 @@ This source is part of the [exploring empire through the lens of childhood and g
 
 ![Photograph of the Boy Scout World Jamboree in 1929](/images/ScoutsTHUMB.jpg)
 
-This photograph shows the South African contingent at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. The photograph provide insights into the core ideals of the Boy Scouts and, more broadly, representations of masculinity and boys’ roles as future empire builders. It reflects the heavy emphasis on militarism, rugged masculinity, and having boys experience “frontier” or outdoors life.   
+#### Annotation
+
+This photograph shows the South African contingent at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. The photograph provide insights into the core ideals of the Boy Scouts and, more broadly, representations of masculinity and boys’ roles as future empire builders. It reflects the heavy emphasis on militarism, rugged masculinity, and having boys experience “frontier” or outdoors life. <br>
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
 
 ### [Video: March of Flags from 1929 Boy Scout World Jamboree](/video-march-flags-1929-boy-scout-world-jamboree)
 
 ![Video: March of Flags from 1929 Boy Scout World Jamboree](/images/ScoutsMarchingTHUMB.png)
 
-This video shows the opening ceremony at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. In the video, Scouts are marching with the flags of their respective countries. Such exercises could easily be mistaken for a military parade and shows the importance of ceremonies and pageantry to the Scouting movement. The videos and others in the teaching module provide insights into the core ideals of the Boy Scouts and, more broadly, representations of masculinity and boys’ roles as future empire builders.   
+#### Annotation
+
+This video shows the opening ceremony at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. In the video, Scouts are marching with the flags of their respective countries. Such exercises could easily be mistaken for a military parade and shows the importance of ceremonies and pageantry to the Scouting movement. The videos and others in the teaching module provide insights into the core ideals of the Boy Scouts and, more broadly, representations of masculinity and boys’ roles as future empire builders. <br>
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
 
 ### [Video: Indian Boy Scouts at 1929 World Jamboree](/video-indian-boy-scouts-1929-world-jamboree)
 
 ![Video: Indian Boy Scouts at 1929 World Jamboree](/images/IndianScoutsTHUMB.png)
 
-This video features film footage of events at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. The footage reveals the importance of militarism and representations of masculinity to the Boy Scout movement. The jamboree also manifested the imperial reach of the Boy Scout movement. For example, boys from throughout the world attended as can be seen by the Boy Scouts from India in this video. While there was an emphasis on international brotherhood, the events also demonstrated how cultural appropriation was central to the Boy Scouts, with boys dressing as Native Americans as seen in [another video](https://worldhistorycommons.org/video-boy-scouts-1929-world-jamboree-perform-native-americans) from the jamboree.   
+#### Annotation
+
+This video features film footage of events at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. The footage reveals the importance of militarism and representations of masculinity to the Boy Scout movement. The jamboree also manifested the imperial reach of the Boy Scout movement. For example, boys from throughout the world attended as can be seen by the Boy Scouts from India in this video. While there was an emphasis on international brotherhood, the events also demonstrated how cultural appropriation was central to the Boy Scouts, with boys dressing as Native Americans as seen in [another video](https://worldhistorycommons.org/video-boy-scouts-1929-world-jamboree-perform-native-americans) from the jamboree. <br>
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
 
 ### [Video: Boy Scouts at 1929 World Jamboree Perform as Native Americans](/video-boy-scouts-1929-world-jamboree-perform-native-americans)
 
 ![Video: Boy Scouts at 1929 World Jamboree Perform as Native Americans](/images/ScoutsincanoesTHUMB.png)
 
-This video features film footage of events at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. As seen in the [two](https://worldhistorycommons.org/video-march-flags-1929-boy-scout-world-jamboree) [other](https://worldhistorycommons.org/video-indian-boy-scouts-1929-world-jamboree) videos from the event, the world jamboree featured military-like marching under flags of various nations while also proclaiming a spirit of international brotherhood. As this video shows, cultural appropriation and an endorsement of colonialism was also a central aspect of the Scout movement as the boys performed in costumes meant to evoke Native Americans.   
+#### Annotation
+
+This video features film footage of events at the Boy Scouts’ third World Jamboree, held in England in 1929. The jamboree was known as the “Coming of Age” Jamboree, since it marked twenty-one years since the foundation of the Boy Scouts. As seen in the [two](https://worldhistorycommons.org/video-march-flags-1929-boy-scout-world-jamboree) [other](https://worldhistorycommons.org/video-indian-boy-scouts-1929-world-jamboree) videos from the event, the world jamboree featured military-like marching under flags of various nations while also proclaiming a spirit of international brotherhood. As this video shows, cultural appropriation and an endorsement of colonialism was also a central aspect of the Scout movement as the boys performed in costumes meant to evoke Native Americans. <br>
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
 
 ### [“Maori Girls School”](/maori-girls-school)
 
 ![“Maori Girls School”](/images/MaoriGirlsSchoolTHUMB.png)
 
-This article, which was published in the newspaper *Manawatu Times* on April 14, 1905, announces the opening of a school for Māori girls. As described in the article, while missionaries and the colonial state originally focused on educating youth, by which it meant only boys, they gradually realized the necessity of girls’ education. Schools acted as a primary vehicle in the transmission of imperial ideology and European gender ideals. These educational efforts were framed in humanitarian terms, as aiding the progress of the Māori people, but in many cases, such institutions served as a tool of assimilation and “civilization,” as it was envisioned that children would help “reform” these societies with their acquired European habits, values, and culture.  
+#### Annotation
+
+This article, which was published in the newspaper *Manawatu Times* on April 14, 1905, announces the opening of a school for Māori girls. As described in the article, while missionaries and the colonial state originally focused on educating youth, by which it meant only boys, they gradually realized the necessity of girls’ education. Schools acted as a primary vehicle in the transmission of imperial ideology and European gender ideals. These educational efforts were framed in humanitarian terms, as aiding the progress of the Māori people, but in many cases, such institutions served as a tool of assimilation and “civilization,” as it was envisioned that children would help “reform” these societies with their acquired European habits, values, and culture.<br>
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
 
 ### [South African Native Affairs Commission report on education](/south-african-native-affairs-commission-report-education)
 
 ![South African Native Affairs Commission report on education](/images/NACRTHUMB.png)
 
-In 1903, Alfred Milner, the British High Commissioner for South Africa, appointed the South African Native Affairs Commission to examine “the status and condition of the Natives” and to provide recommendations “on questions concerning Native policy” (1-2). When the Commission published its report in 1905, education formed a central theme. The section on education, which begins on page 66 of the report, makes it clear that the priority was on “industrial and manual training” as opposed to “literary education,” since this training means that “the Native is more useful and contented.” For boys, this training meant that they could then be “constantly employed on farms, railways and public works, and in mines and workshops” (66), and for girls, this training prepared them to be domestic servants (45). This emphasis on industrial over literary training underscores how the colonial state’s interests drove educational policy. In addition to making Africans “useful” to the state, education—which is referred to as one of the “great powers” in addition to Christianity (52)—also served as a means of reforming African society and culture. For instance, the report states “education and contact with Europeans are beginning to effect a change in the family life and habits of that large section of the Native population who have not formally adopted Christianity or civilised ways of life” (51). As mentioned in the essay, one of the challenges posed by sources produced by colonial governments is that they rarely contain the perspectives of children and, in this case, Africans. Moreover, official reports like this one contain information that only presents the colonial state in a favorable light, as it wishes to be seen. Yet within the lines of the report, one can find examples of resistance. For instance, it refers to an ongoing “great struggle” over education and also addresses criticisms about education (52). Such references indicate the colonial state’s control over education, children, and African societies was never as absolute or seamless as envisioned. The full report can be found [here](http://ia800905.us.archive.org/15/items/southafricannati00sout/southafricannati00sout.pdf).  
+#### Annotation
+
+In 1903, Alfred Milner, the British High Commissioner for South Africa, appointed the South African Native Affairs Commission to examine “the status and condition of the Natives” and to provide recommendations “on questions concerning Native policy” (1-2). When the Commission published its report in 1905, education formed a central theme. The section on education, which begins on page 66 of the report, makes it clear that the priority was on “industrial and manual training” as opposed to “literary education,” since this training means that “the Native is more useful and contented.” For boys, this training meant that they could then be “constantly employed on farms, railways and public works, and in mines and workshops” (66), and for girls, this training prepared them to be domestic servants (45). This emphasis on industrial over literary training underscores how the colonial state’s interests drove educational policy. In addition to making Africans “useful” to the state, education—which is referred to as one of the “great powers” in addition to Christianity (52)—also served as a means of reforming African society and culture. For instance, the report states “education and contact with Europeans are beginning to effect a change in the family life and habits of that large section of the Native population who have not formally adopted Christianity or civilised ways of life” (51). As mentioned in the essay, one of the challenges posed by sources produced by colonial governments is that they rarely contain the perspectives of children and, in this case, Africans. Moreover, official reports like this one contain information that only presents the colonial state in a favorable light, as it wishes to be seen. Yet within the lines of the report, one can find examples of resistance. For instance, it refers to an ongoing “great struggle” over education and also addresses criticisms about education (52). Such references indicate the colonial state’s control over education, children, and African societies was never as absolute or seamless as envisioned. The full report can be found [here](http://ia800905.us.archive.org/15/items/southafricannati00sout/southafricannati00sout.pdf).<br>
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
 
 ### [Sewing Classes at Mount Margaret Mission](/sewing-classes-mount-margaret-mission)
 
 ![Sewing Classes at Mount Margaret Mission](/images/SewingMMMTHUMB.jpg)
 
+#### Annotation
+
 These two photographs, from the State Library of Western Australia, show Aboriginal girls learning to sew from Dorothy Lovick at the Mount Margaret Mission in Laverton, Australia, in the 1930s. The first photograph shows a middle school class, while the second one features a senior class. As reflected in these photographs, domesticity remained the cornerstone of girls’ education in colonial and missionary schools through at least the mid-twentieth century. Like schools for indigenous children in other parts of the empire, Mount Margaret Mission sought to assimilate Aboriginal girls and break their bonds with their homes and communities.
 
-As noted in the above essay, understanding the experiences of Aboriginal and other indigenous girls under colonialism remains difficult because of the nature of the colonial archive. Written records from their perspectives are rarely preserved in the archive, which makes visual sources like these photographs especially valuable. These photographs, like all sources, must be approached with caution, since they were created with a specific purpose and audience and meant to convey a certain picture of colonial girlhood. Nevertheless, they provide a glimpse into their lives under colonialism.   
+As noted in the above essay, understanding the experiences of Aboriginal and other indigenous girls under colonialism remains difficult because of the nature of the colonial archive. Written records from their perspectives are rarely preserved in the archive, which makes visual sources like these photographs especially valuable. These photographs, like all sources, must be approached with caution, since they were created with a specific purpose and audience and meant to convey a certain picture of colonial girlhood. Nevertheless, they provide a glimpse into their lives under colonialism. <br>
 This source is part of the [exploring empire through the lens of childhood and gender teaching module](https://worldhistorycommons.org/long-teaching-module-exploring-empire-through-lens-childhood-and-gender).
-
 
 ## Bibliography
 
-Alexander, Kristine. *Guiding Modern Girls: Girlhood, Empire, and Internationalism in the 1920s and 1930s*. Vancouver: UBC Press, 2017.  
+Alexander, Kristine. *Guiding Modern Girls: Girlhood, Empire, and Internationalism in the 1920s and 1930s*. Vancouver: UBC Press, 2017.<br>
 Boucher, Ellen. Empire’s Children: Child Emigration, Welfare, and the Decline of the British World, 1869-1967. Cambridge: Cambridge University Press, 2014.
 
 ---
@@ -211,12 +228,12 @@ Proctor, Tammy M. “(Uni)Forming Youth: Girl Guides and Boy Scouts in Britain, 
 
 ---
 
-Saada, Emmanuelle. *Empire’s Children: Race, Filiation and Citizenship in the French Colonies*. Chicago: University of Chicago Press, 2012.  
+Saada, Emmanuelle. *Empire’s Children: Race, Filiation and Citizenship in the French Colonies*. Chicago: University of Chicago Press, 2012.<br>
 Sen, Satadru. Colonial Childhoods: The Juvenile Periphery of India, 1850-1945. New York: Anthem, 2005.
 
 ---
 
-Smith, Michelle. *Empire in British Girls’ Literature and Culture: Imperial Girls 1880-1915.* New York: Palgrave Macmillan, 2010.   
+Smith, Michelle. *Empire in British Girls’ Literature and Culture: Imperial Girls 1880-1915.* New York: Palgrave Macmillan, 2010. <br>
 Smith, Michelle. “Be(ing) Prepared: Girl Guides, Colonial Life, and National Strength,” in Limina 12 (2006): 52-63.
 
 ---
@@ -259,7 +276,7 @@ Paterson, Lachy and Angela Wanhalla, “Introduction: Voice, Text and the Coloni
 
 ---
 
-Spivak, Gayatri Chakravorty. “The Rani of Sirmur: An Essay in Reading the Archives,” History and Theory 24, no. 3 (1985): 247-272.   
+Spivak, Gayatri Chakravorty. “The Rani of Sirmur: An Essay in Reading the Archives,” History and Theory 24, no. 3 (1985): 247-272. <br>
 Spivak, Gayatri Chakravorty. “Can the Subaltern Speak?,” in *Marxism and the Interpretation of Culture*, eds. Cary Nelson and Lawrence Grossberg (Basingstoke: Macmillan Education, 1988).
 
 ---

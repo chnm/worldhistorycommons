@@ -15,6 +15,8 @@ related_sources:
   - link: "/mercator-projection"
     image: "/images/mercator-projection-thumbnail.jpg"
     alt: "Mercator projection"
+how_to_cite: |
+  "Analyzing Maps," in World History Commons, https://worldhistorycommons.org/analyzing-maps [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -27,6 +29,8 @@ The modules in Methods present case studies that demonstrate how scholars interp
 
 ![Mercator Projection](/images/mercator-projection-thumbnail.jpg)
 
+#### Annotation
+
 The map is a Mercator projection and is among the most common in use today. It places North America at the center.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps) methods module.
 
@@ -34,9 +38,10 @@ This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/
 
 ![Mercator Projection, Eurasia Centered](/images/mercatoreurasia-thumbnail.jpeg)
 
+#### Annotation
+
 The map is a Mercator projection that has been altered. Instead of placing North America in the center, the Eurasian land mass is in the middle. This map of the world suggests some of the ways the choices made by mapmakers have a significant impact on our understanding of the world.
 This source is a part of the [*Analyzing Maps*](https://worldhistorycommons.org/analyzing-maps) methods module.
-
 
 ## Credits
 
@@ -44,5 +49,5 @@ Gerald A. Danzer is Professor of History, Emeritus at the University of Illinois
 
 Grateful Acknowledgement is made to the following institutions and individuals for permission to publish material from their collections:
 
-Rand McNally Map - Used with permission © RMcN, www.randmcnally.com R.L. S-2003  
+Rand McNally Map - Used with permission © RMcN, www.randmcnally.com R.L. S-2003<br>
 Alabama Maps Site - http://alabamamaps.ua.edu/

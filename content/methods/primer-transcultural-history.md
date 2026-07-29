@@ -22,6 +22,8 @@ related_sources:
   - link: "/islamic-carpets"
     image: "/images/TM_Thumbnail.png"
     alt: "Close-up image of an early modern Islami Carpet"
+how_to_cite: |
+  "Primer: Transcultural History," in World History Commons, https://worldhistorycommons.org/primer-transcultural-history [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -42,14 +44,15 @@ One might ask how the transcultural approach is different from the [transnationa
 
 ![Islamic Carpets](/images/TM_Thumbnail.png)
 
+#### Annotation
+
 These three carpets made in the period between the 16th and 18th centuries show two distinct types of carpets produced in the Islamic World for particular culture-specific uses. While carpets in the Islamic World were made for export and global consumption, the type of carpets seen here - one with Persian inscriptions and the other two that with colonnaded designs that were used for the purposes of worship were particular to the Islamic cultures that produced them. In this period, Islamic carpets, across cultures, both in Asia and Europe were highly valued luxury objects that were used for both decorative and utilitarian purposes, and sometimes had symbolic values associated with them.
 This source is a part of the [*Primer: Transcultural History*](https://worldhistorycommons.org/primer-transcultural-history) methods module.
 
-
 ## Bibliography
 
-Herren-Oesch, Madeleine, Martin Rueesch, and Christiane Sibille. 2012. *Transcultural History: Theories, Methods, Sources.* Berlin: Springer.  
-Ortiz, Fernando, Bronislaw Malinowski, Fernando Coronil, and Harriet De Onís. 2003. *Cuban Counterpoint: Tobacco and Sugar.* Durham: Duke Univ. Press.  
+Herren-Oesch, Madeleine, Martin Rueesch, and Christiane Sibille. 2012. *Transcultural History: Theories, Methods, Sources.* Berlin: Springer.<br>
+Ortiz, Fernando, Bronislaw Malinowski, Fernando Coronil, and Harriet De Onís. 2003. *Cuban Counterpoint: Tobacco and Sugar.* Durham: Duke Univ. Press.<br>
 Welsch, Wolfgang. 2001. *"Transculturality: The Changing Form of Cultures Today."* Filozofski Vestnik. (22): 59-86.
 
 ## Credits

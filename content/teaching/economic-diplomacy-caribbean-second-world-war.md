@@ -36,6 +36,8 @@ related_sources:
   - link: "/solidarity-expressions-puerto-rican-diaspora"
     image: "/images/WHC_facebook_screenshot_thumbnail.png"
     alt: "A screenshot of a Facebook post in Spanish with multiple images of people fro"
+how_to_cite: |
+  "Economic Diplomacy in the Caribbean Since the Second World War," in World History Commons, https://worldhistorycommons.org/economic-diplomacy-caribbean-second-world-war [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -90,6 +92,8 @@ To historicize these processes of economic diplomacy for the Caribbean region, t
 
 ![Popular World Development Indicators for Four Caribbean Countries](/images/Screen_Shot_2023-06-12_at_9.41.25_PM.png)
 
+#### Annotation
+
 Raw numerical data may be pursued to track historical behavior through socioeconomic and demographic indicators. This data might be the basis to identify and understand socioeconomic challenges and potential solutions that should be addressed through economic diplomacy. This information might be useful to understand historical trends in specific products grown, produced, or manufactured (from bananas and sugar to hospitality and financial services); the evolution of specific economic activities; and indicators such as population, literacy rates, income per capita, or gross domestic product (GDP) as a measure of a country’s productivity.
 
 As an example of this kind of data, the information in the table above was obtained from the World Bank databases for four Caribbean countries: Cuba, Puerto Rico, Haiti, and Trinidad & Tobago. They are country population measured in millions and the percentage of the country’s total production (GDP) for three economic activities: agriculture, industry, and services. The numbers are provided for about every ten years between 1972 and 2010.
@@ -112,6 +116,8 @@ This source is part of the [Economic Diplomacy in the Caribbean Since the Second
 
 ![Transcript of the Treaty of Basseterre of 1981](/images/Icons-Document-thumbnail_713_0.jpeg)
 
+#### Annotation
+
 To capture the diplomatic side of Caribbean economic history from the point of view of the governments, official documents describing economic policies, joint strategies, and related decision-making processes in the Caribbean region could be pursued. The virtual document collections of CARICOM (2022a, 2022b, 2022c), OECS (2022), and ACS (2022) constitute an excellent historical archive or repository for this purpose.
 
 One key event in Caribbean economic diplomacy was the constitution in 1981 of the Organization of Eastern Caribbean States (OECS) among seven countries: Antigua & Barbuda, St. Vincent & the Grenadines, St. Kitts & Nevis, Dominica, St. Lucia, Grenada, and Montserrat. The new entity adopted the common market that had already been taking shape since 1968 among the member countries, in a breakthrough process that predated the common market activated in 1993 by the European Union. A common market is a free trade area with no tariffs for goods and relatively free movement of capital, workers, and services.
@@ -124,6 +130,8 @@ This source is part of the [Economic Diplomacy in the Caribbean Since the Second
 
 ![OECS Treaty Publication Fragments](/images/WNC_thumbnail_Economic_Integration_Source_0.png)
 
+#### Annotation
+
 The OECS published in 1988 a booklet explaining the treaty that founded it (OECS 1988). A fragment is included in the photos here. This piece of the document focuses on explaining the integration provisions of the treaty, including the common market. The full version of the booklet may be downloaded from OECS virtual collection at <https://www.oecs.org/en/component/edocman/economic-integration-march-1988opt-pdf>.
 
 This source is part of the [Economic Diplomacy in the Caribbean Since the Second World War](https://worldhistorycommons.org/economic-diplomacy-caribbean-second-world-war) teaching module.
@@ -131,6 +139,8 @@ This source is part of the [Economic Diplomacy in the Caribbean Since the Second
 ### [Solidarity Expressions from the Puerto Rican Diaspora](/solidarity-expressions-puerto-rican-diaspora)
 
 ![Solidarity Expressions from the Puerto Rican Diaspora](/images/WHC_facebook_screenshot_thumbnail.png)
+
+#### Annotation
 
 An event in Puerto Rico that captured world attention and motivated the interest of many Puerto Ricans in the diaspora to participate was the Summer of 2019 movement. In this event, at least a third of the population of Puerto Rico took to the streets to demand political and economic change. Individuals and groups in the worldwide diaspora showed their solidarity with the demands of the movement through social networks and through public protests from a distance. Images of these displays of solidarity from the diaspora in the United States, the rest of North America, Latin America, the Caribbean, Europe, Africa, Asia, and Australia can be seen in the press (for example, <http://resumen.elnuevodia.com/2019/deade-miami-hasta-madrid-gritan-ricky-renuncia>), the Puerto Rico Syllabus website (<https://puertoricosyllabus.com/syllabus/verano-boricua-ricky-renuncia/#section8-unit7>) and compilations on social networks like the ones shown here.
 
@@ -142,12 +152,13 @@ This source is part of the [Economic Diplomacy in the Caribbean Since the Second
 
 ![One Voice SOMOS Live! A Concert for Disaster Relief](/images/WHC_play_audio_0.png)
 
+#### Annotation
+
 Several Caribbean public figures (Puerto Rican artists Jennifer López and Marc Anthony and baseball player Alex Rodríguez) served as ambassadors of the Greater Caribbean before the world, to raise funds to address the immediate needs of the 2017 disaster victims in Puerto Rico and many other parts of the regions around the Caribbean. This is an example on how civil society engages into intersocietal economic relations, i.e., international relations between societies forgoing governments.
 
 A generally common element that is perceived and confirmed in the documented histories of the Caribbean diaspora or any diaspora is a desire by those abroad to contribute to the well-being of their places of origin and the people there. In the case of Puerto Rico, this concern was reflected in the local and global media (although perhaps not enough) when a large number of Puerto Rican and non-Puerto Rican individuals and groups responded to the needs of those on the Island after the massive destruction caused by Hurricane Maria. One of many efforts to raise resources for Puerto Rico's post-hurricane recovery was the concert organized by Jennifer López and Marc Anthony under the name One Voice SOMOS Live: Concert for Disaster Relief. This event was broadcast nationally in the US and internationally. Funds were raised primarily for Puerto Rico, but also for the victims during those days of the hurricanes in other parts of the Caribbean, Florida, and Texas; the earthquakes in Mexico; and the fires in California.
 
 This source is part of the [Economic Diplomacy in the Caribbean Since the Second World War](https://worldhistorycommons.org/economic-diplomacy-caribbean-second-world-war) teaching module.
-
 
 ## Bibliography
 

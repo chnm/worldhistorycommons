@@ -18,6 +18,8 @@ related_sources:
   - link: "/shame-loafer-and-drunkard"
     image: "/images/thumb_1972_progulshchikam_a7e9b86ac9_copy.jpeg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Soviet Health Posters," in World History Commons, https://worldhistorycommons.org/short-teaching-module-soviet-health-posters [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -48,6 +50,8 @@ While quality of health care declined and environmental toxins increased, these 
 
 ![Shame to the loafer and the drunkard](/images/thumb_1972_progulshchikam_a7e9b86ac9_copy.jpeg)
 
+#### Annotation
+
 Before the era of the Gorbachev reforms, social and health problems could not be easily discussed in the Soviet Union. The emphasis for public health was on keeping people healthy so that they could work better and more productively. Alcoholism, for example, was not a health problem, but instead a poor excuse for failing to work productively. This poster makes this point clear as it addresses the issue. Its slogan: "Shame to the loafer and the drunkard" associates alcohol abuse with unproductiveness ("loafing"). The image reinforces this idea, where the hand of the state identifies the loafer, who has failed all of society. Without a concept of alcoholism as a medical issue, developing a treatment to a public health crisis was not even possible.
 This source is a part of the [*Soviet Health Posters*](https://worldhistorycommons.org/short-teaching-module-soviet-health-posters) teaching module.
 
@@ -55,16 +59,17 @@ This source is a part of the [*Soviet Health Posters*](https://worldhistorycommo
 
 ![Drug Abuse is Suicide](/images/thumb_1988_narkomaniia_c41d1f6743_copy.jpeg)
 
+#### Annotation
+
 One of Mikhail Gorbachev's most famous reform movements was glasnost' (openness), which allowed partial freedom of the press to address social problems and corruption within the Soviet Union. Among the issues raised during the glasnost' era of the Soviet Union were public health concerns, which became a prominent issue by the late 1980s. Drug abuse, for example, could be publicly discussed for the first time inside the Soviet Union as a result of glasnost'. This poster directly addresses the social crisis created by drug abuse with its simple slogan ("Drug Abuse is Suicide") and its clear picture depicting a needle. The new ideas of the glasnost' era allowed social reformers to represent drug abuse as a personal problem (note the use of "suicide") rather than as a state problem. Drug abuse was a crime against yourself, not against the Communist Party.
 This source is a part of the [*Soviet Health Posters*](https://worldhistorycommons.org/short-teaching-module-soviet-health-posters) teaching module.
-
 
 ## Teaching Strategies
 
 Students could be asked the following:
 
 1. What does health care mean for the average citizen?
-2. How does the early commitment to health care show the Soviet concept of state power?  
+2. How does the early commitment to health care show the Soviet concept of state power?<br>
    How does this differ from capitalist ideas of citizens' rights and duties?
 3. What do the different figures in these posters represent?
 4. How are the actions of the different figures explained?
@@ -74,7 +79,7 @@ Students could be asked the following:
 8. Does this reflect the political system from which the poster came, or are there similarities to health marketing campaigns in the west?
 9. Do you think the messages would be convincing or counterproductive?
 
-**Reflections:**  
+**Reflections:**<br>
 In the first poster, ["Shame to the loafer and the drunkard," (1972)](https://worldhistorycommons.org/shame-loafer-and-drunkard) a pantheon of the politically-conscious workers look directly at the viewer – a female laborer (signified by her kerchief tied behind her neck), male worker, and male laborer in coverall (either farm or foundry). While they top the poster, in their red-enhanced background, attention is brought down, through the shaming gesture, to the figure below. Slouching near an idle drill press is the drunkard. Not only is his appearance slovenly, he sports a bandage on his left cheek that could connote either his injury at the bench or his engagement in uncommunal activities (brawling or wife-beating – both associated with drunkenness in earlier anti-alcohol posters).
 
 The image is striking and the use of color intentional. The red-hand represents not just an image of power, but also a political attack. The individual choice of drinking to a stupor is connected here with an offense to the three healthy, strong-eyed faces above. The slogan of the poster also makes a connection to the communal harm done by the single drinker. The "loafer" or "*progul'shchik*" is one who misses work and slows the pace of the entire factory by taking an extra day off to recover from a drunken weekend or starts the holiday a day early at the expense of the factory quota. His idle drill itself stands in silent protest.

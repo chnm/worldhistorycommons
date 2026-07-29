@@ -30,6 +30,8 @@ related_sources:
   - link: "/after-wende-gdr-jokes-d"
     image: "/images/Icons-Document-thumbnail_572.jpg"
     alt: ""
+how_to_cite: |
+  "Short Teaching Module: Humor as Resistance," in World History Commons, https://worldhistorycommons.org/short-teaching-module-humor-resistance [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -54,12 +56,16 @@ This lesson is part of a unit on cold war history in a 10th grade New York State
 
 ![The Danger of Humor: GDR Jokes A](/images/Icons-Document-thumbnail_569.jpg)
 
+#### Annotation
+
 George Orwell once wrote, "Every joke is a tiny revolution." In state-socialist societies that had (or have) totalitarian characteristics, individuals found clever ways to carve out areas of freedom for themselves. These may have been areas of social freedom (with family and close friends), physical freedom (at one's small garden cottage), or mental freedom (through humor). There were risks associated with telling and listening to jokes that ridiculed the party or politicians, or criticized the failures of state socialism. Thus, cautious individuals shared jokes only within small circles of trusted friends. The risk associated with jokes intensified the pleasure gained from hearing and sharing them. This joke highlights one of the risks associated with political jokes, namely the possibility of arrest. This joke references Erich Honecker, General Secretary of the Socialist Unity Party in the German Democratic Republic, and Erich Mielke, head of the State Security Service from 1957 to 1989.
 This source is a part of the [*Humor as Resistance*](https://worldhistorycommons.org/short-teaching-module-humor-resistance) teaching module.
 
 ### [Humor for All Occasions: GDR Jokes B](/humor-all-occasions-gdr-jokes-b)
 
 ![Humor for All Occasions: GDR Jokes B](/images/Icons-Document-thumbnail_570.jpg)
+
+#### Annotation
 
 George Orwell once wrote, "Every joke is a tiny revolution." In state-socialist societies that had (or have) totalitarian characteristics, individuals found clever ways to carve out areas of freedom for themselves. These may have been areas of social freedom (with family and close friends), physical freedom (at one's small garden cottage), or mental freedom (through humor). There were risks associated with telling and listening to jokes that ridiculed the party or politicians, or criticized the failures of state socialism. Thus, cautious individuals shared jokes only within small circles of trusted friends. The risk associated with jokes intensified the pleasure gained from hearing and sharing them. These jokes reference the dangers associated with jokes in the GDR, East-West German relations, the Stasi (State Security Service), the alleged stupidity of the police, and the futility of factory work.
 This source is a part of the [*Humor as Resistance*](https://worldhistorycommons.org/short-teaching-module-humor-resistance) teaching module.
@@ -68,6 +74,8 @@ This source is a part of the [*Humor as Resistance*](https://worldhistorycommons
 
 ![Miscellaneous Jokes: GDR Jokes C](/images/Icons-Document-thumbnail_571.jpg)
 
+#### Annotation
+
 George Orwell once wrote, "Every joke is a tiny revolution." In state-socialist societies that had (or have) totalitarian characteristics, individuals found clever ways to carve out areas of freedom for themselves. These may have been areas of social freedom (with family and close friends), physical freedom (at one's small garden cottage), or mental freedom (through humor). There were risks associated with telling and listening to jokes that ridiculed the party or politicians, or criticized the failures of state socialism. Thus, cautious individuals shared jokes only within small circles of trusted friends. The risk associated with jokes intensified the pleasure gained from hearing and sharing them. These jokes reference a variety of political, material, and social characteristics of GDR society. Necessary prerequisite knowledge precedes each joke.
 This source is a part of the [*Humor as Resistance*](https://worldhistorycommons.org/short-teaching-module-humor-resistance) teaching module.
 
@@ -75,9 +83,10 @@ This source is a part of the [*Humor as Resistance*](https://worldhistorycommons
 
 ![After the Wende: GDR Jokes D](/images/Icons-Document-thumbnail_572.jpg)
 
+#### Annotation
+
 George Orwell once wrote, "Every joke is a tiny revolution." In state-socialist societies that had (or have) totalitarian characteristics, individuals found clever ways to carve out areas of freedom for themselves. These may have been areas of social freedom (with family and close friends), physical freedom (at one's small garden cottage), or mental freedom (through humor). There were risks associated with telling and listening to jokes that ridiculed the party or politicians, or criticized the failures of state socialism. Thus, cautious individuals shared jokes only within small circles of trusted friends. The risk associated with jokes intensified the pleasure gained from hearing and sharing them. The 1989 Wende (the "turn" that led to the end of the GDR) freed East Germans from the constraints of dictatorship, however there was an ironic consequence which is articulated in the short quote below.
 This source is a part of the [*Humor as Resistance*](https://worldhistorycommons.org/short-teaching-module-humor-resistance) teaching module.
-
 
 ## Teaching Strategies
 
@@ -87,27 +96,27 @@ This source is a part of the [*Humor as Resistance*](https://worldhistorycommons
 
 I lead a discussion of the Orwell quote introducing this lesson. In what way(s) can a joke be revolutionary? Students are often stumped, as there are essentially no risks or dangers associated with telling jokes in American society. It helps students it you lead them to think of different kinds of speech that are risky (e.g. insults) and the kinds of consequences people may experience. They can then extend that thinking to risks and consequences of jokes in a totalitarian society, particularly given the control of information and the dangers of dissent in such settings.
 
-**Document A**  
+**Document A**<br>
 I have the whole class read and reflect on [Document A](https://worldhistorycommons.org/danger-humor-gdr-jokes) (be sure they are familiar with the identities of Honecker and Mielke). What does the joke say about the practice of telling jokes in the GDR?
 
-**Document B**  
+**Document B**<br>
 I have students work in pairs or small groups to read and discuss the jokes in [Document B](https://worldhistorycommons.org/humor-all-occasions-gdr-jokes-b). Each joke is preceded with its "domain," or the area of GDR society the joke pokes fun at, and any pre-requisite knowledge needed to "get" the joke. I ask students to identify the opinions East Germans express through these jokes.
 
-**Document C**  
+**Document C**<br>
 Once I am sure students are successfully reading and interpreting the jokes, I have them move onto those in [Document C](https://worldhistorycommons.org/miscellaneous-jokes-gdr-jokes-c#). These jokes may be approached in the same way as those in [Document B](https://worldhistorycommons.org/humor-all-occasions-gdr-jokes-b), however the "domain" is not identified. I have students identify the subject of the jokes in general (e.g. politics, work, relationship with the Russians) and the particular opinion expressed by the joke. (E.g. joke 1: political, ridicules the idea that the GDR was as "great" as the powerful USA and USSR). Students sometimes need help "getting" the joke. They don't laugh much, but as they "get" the jokes their understanding of GDR society enlarged. Joke 12, in particular, requires that students reverse their thinking about hostages. Normally, a society would want its hostages to be freed. This jokes suggests that the GDR Central Committee wants it hostages kept as hostages! What does this say about the attitude of the GDR government toward its citizens?
 
 ##### Conclusion:
 
-**Document D**  
+**Document D**<br>
 I have students re-think their responses to the Orwell quote. They discuss ways in which their analysis of these jokes supports and/or alters their point of view. We return to the difference between telling jokes in a totalitarian society, and telling jokes in a "free" society like that of the United States. This difference is supported by the quote in [Document D](https://worldhistorycommons.org/after-wende-gdr-jokes-d). I also ask students to extrapolate from this lesson and imagine what it would be like if they lived in a totalitarian society. In what settings would they risk telling jokes like these? Where would they not take that risk? With whom would they share this humor—and with whom would they not? Students often begin to think of the invisible social boundaries that intersect their own lives. For example, they suggest that people tell racist, sexist, or dirty jokes only to certain friends, in some settings, but not to other people, elsewhere.
 
 Overall, this lesson helps students develop a richer, more nuanced understanding of the power of thought and speech in general, and the ways in which thought and speech are subjected to different kinds of voluntary (and involuntary) controls in different kinds of societies.
 
 **Documents**
 
-Document A: [The Danger of Humor](https://worldhistorycommons.org/danger-humor-gdr-jokes)  
-Document B: [Humor for All Occasions](https://worldhistorycommons.org/humor-all-occasions-gdr-jokes-b)  
-Document C: [Miscellaneous Jokes](https://worldhistorycommons.org/miscellaneous-jokes-gdr-jokes-c#)  
+Document A: [The Danger of Humor](https://worldhistorycommons.org/danger-humor-gdr-jokes)<br>
+Document B: [Humor for All Occasions](https://worldhistorycommons.org/humor-all-occasions-gdr-jokes-b)<br>
+Document C: [Miscellaneous Jokes](https://worldhistorycommons.org/miscellaneous-jokes-gdr-jokes-c#)<br>
 Document D: [After the Wende](https://worldhistorycommons.org/after-wende-gdr-jokes-d)
 
 ## Credits

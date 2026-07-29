@@ -28,6 +28,8 @@ related_sources:
   - link: "/bone-comb"
     image: "/images/NeolithicCombTHUMB.jpg"
     alt: "A Stone Age comb with a horse head carved into the handle"
+how_to_cite: |
+  "Analyzing Material Objects," in World History Commons, https://worldhistorycommons.org/analyzing-material-objects [accessed July 29, 2026]
 ---
 
 ## Overview
@@ -48,6 +50,8 @@ Historians studying material objects also examine other kinds of evidence, such 
 
 Historical analysis of material objects requires careful description. Look around your home or classroom. Objects are everywhere—jeans, coffee mugs, computers. You know what most of these are because they are part of your familiar environment. A person who lived a century ago, though, especially from a different part of the world, would have a difficult time understanding your material culture. Imagine visiting an archaeological excavation of a building erected 5,000 years ago in central Turkey. How easy would it be to understand the building's purpose and the function of the various objects, such as bone fragments and potsherds?
 
+![](/images/2767648656_561d48e7d1_k.jpg)
+
 To analyze material evidence is to write an object's biography. Each object has a story to tell, a story shaped by human use. When historians analyze material objects, they begin by recording basic “facts,” starting with a verbal description and, if possible, photographs. The description might include measurements, material, and distinguishing features, such as ornamentation. This kind of information provides material for generalization about technology, economy, or social relations within a given society and how they changed over time. The material of the object (e.g., clay used to make a particular pot) may make it possible to specify where it was produced, especially if we have other evidence about centers of production.
 
 When studying an object, start with these basic descriptions:
@@ -57,6 +61,7 @@ When studying an object, start with these basic descriptions:
 * Turn the object over if possible, examining from multiple angles and perspectives.
 * Note what the descriptive label (from a book, website, or museum) tells you, but do not let that description limit your questions.
 
+![](/images/NeolithicComb.jpg)<br>
 These details are the first step to determining what an object is. But beware your assumptions! You are familiar with the fact that a comb has teeth, so you recognize a 5,000-year-old comb. What you may not know, however, is whether it had meaning beyond untangling hair, such as status for the wearer. A small, cylindrical piece of wood 2.5 cm. in height, slightly tapered from a base, with a diameter of 1.5 cm., might remind you of a chess piece. Such an object was found and so described in the ancient Russian city of Novgorod, but through extended study, archaeologists concluded that it was the blunt head of an arrow used to stun birds. All analysis begins with basic description.
 
 ##### Where is it now and how did it get there?
@@ -67,6 +72,8 @@ A stone cylinder by itself may not mean much, but one found along with a flat st
 
 To use objects for research, start by asking how and where they were found. Where are they now? How are they presented? This information can be rich and layered. For example, the inlaid metal tray you use as a coffee table may have been purchased by your grandmother from a craftsman who made it in Damascus, Syria, 60 years ago. A gold coin with an image of the Byzantine emperor Justinian I may have been found in a 6th-century Chinese tomb. Each object has a story. Your grandmother's tray may tell about her enthusiasm for travel or her taste, but little about the history of Damascus. The Byzantine coin found in China may provide vital evidence about trade or other contact between East and West and may provide new insights into Chinese burial rituals.
 
+![](/images/JustinianCoin.jpg)
+
 Many objects used to understand the past were uncovered by archaeologists. Only in the late 19th century, however, did archaeologists begin to record exact object locations—not a town or a site but the exact place within the site and in reference to other objects. The relative positions of objects often allow for the most meaningful interpretation. Archaeologists try to understand what objects are grouped together and what appears in the same chronological layer. An undatable object may be dated by its proximity to other objects whose dates are known. The layers in an archaeological site begin with the earliest at the bottom and the most recent near the surface. Yet when archaeologists remove objects, they destroy the sites, leaving only their record and the objects.
 
 How can you begin to answer such questions about an object? Start by gathering as much information as possible. Are there identifying marks on the object—a date, a location, the creator's name, inscribed words? If there are such marks, can you tell what language they are written in? If all you have to work with is a picture, when was that picture created and by whom? You may end up with more questions than answers, but this important first step may lead you to the answers you seek.
@@ -75,11 +82,12 @@ How can you begin to answer such questions about an object? Start by gathering a
 
 All objects were created on a particular date, but the date of origin may not be the most important date in an object's biography. For example, I live in Seattle and use my grandmother's china that was made in Boston about 80 years ago. It came from my mother's house in New Hampshire. There are multiple dates of significance in the life of this china. Determining such dates allows us to consider change in human society over time. Some objects have dates written on them, revealing when they were made. Other objects may have names of identifiable historical figures, such as a ruler under whom a coin was minted, which allow fairly precise dating. Or perhaps a later owner added an inscription. Some objects were inventoried by owners on dated records that indicate when and how the object was acquired.
 
-Unfortunately, many objects come without such information. These objects are more challenging, but still may be dated by surroundings or historical events. A layer of ashes in a town site may correspond with a volcanic eruption or to the town's destruction by an invader. The city of Pompeii (near Naples, Italy), in a rare example, was buried by an eruption of Mt. Vesuvius in 79 CE. Life in Pompeii stopped, and objects found under those layers of ash were there prior to 79 CE.
+Unfortunately, many objects come without such information. These objects are more challenging, but still may be dated by surroundings or historical events. A layer of ashes in a town site may correspond with a volcanic eruption or to the town's destruction by an invader. The city of Pompeii (near Naples, Italy), in a rare example, was buried by an eruption of Mt. Vesuvius in 79 CE. Life in Pompeii stopped, and objects found under those layers of ash were there prior to 79 CE.<br>
+![](/images/Pompeii_Temple_of_Vespasian_altar_closeup.jpg)
 
 More commonly, archaeologists must use other techniques for dating, some of them involving sophisticated modern technology. Where significant amounts of wood have been preserved, a dating scale based on the widths between tree rings allows us to date newly discovered pieces of wood. Much less precise, with a margin of error of several centuries, is dating by measuring the decay of radioactive carbon 14 found in organic material.
 
-Fortunately, you do not have to cut down trees or invest in high tech dating devices. Unless the object you are studying is one you yourself have found, there is likely already a history of the object that you can work from. An archaeologist or historian has probably already dated the object with some degree of certainty for you. Thus, your task is often to situate your object within a society at a particular moment and to use it, along with other objects from that society, as a way of understanding change and development over time. Start by looking at available records and try to map out various owners in different times, thinking of the possible significance for each owner.  
+Fortunately, you do not have to cut down trees or invest in high tech dating devices. Unless the object you are studying is one you yourself have found, there is likely already a history of the object that you can work from. An archaeologist or historian has probably already dated the object with some degree of certainty for you. Thus, your task is often to situate your object within a society at a particular moment and to use it, along with other objects from that society, as a way of understanding change and development over time. Start by looking at available records and try to map out various owners in different times, thinking of the possible significance for each owner.<br>
 Interpretation of who produced or used an object can be controversial. For example, in the absence of written sources, it is tempting to identify as direct ancestors humans who left nameless artifacts in the territory where we now live. Thus, many Russians have identified as their Slavic ancestors "peoples of the forest" whose ancient settlements generally contain objects that reveal nothing about the ethnicity or language of those who made or used them. Many Chinese wish to demonstrate that areas now part of China were inhabited by Chinese from early times. Thus they have had difficulty accepting evidence of ancient burials in Western China of people whose ethnic characteristics (hair color, facial features) seem to be European. Even written sources may use vague or unrecognizable ways of naming people and rarely reflect ethnic or linguistic categories used today.
 
 In some instances, archaeology has confirmed oral tradition. In other cases, there is no correlation or even outright contradiction. One of the most controversial recent examples is “Kennewick man,” a skeleton several thousand years old found in the state of Washington. Native American tradition claims him as their ancestor, but the skull type suggests a different ethnic origin.
@@ -92,12 +100,16 @@ As with the process of dating an object, begin to answer questions about who mad
 
 ![Excavation at Çatalhöyük, Turkey](/images/ExcavationTHUMB.jpg)
 
+#### Annotation
+
 The excavation at Çatalhöyük in southern Turkey began in 1958 and scholars continue to actively search for artifacts at the site. Items found at Çatalhöyük have shown that the site has been inhabited since Neolithic times beginning in approximately 7100 BCE. Artifacts found at Çatalhöyük include a rich collection of art including sculptures and wall paintings. Mirrors made of obsidian and textile fragments have also been uncovered by archeologists.
 This source is a part of the [*Analyzing Material Objects*](https://worldhistorycommons.org/analyzing-material-objects?page=0%2C5) methods module.
 
 ### [Gold Solidus of Justinian I (527–65)](/gold-solidus-justinian-i-527-65)
 
 ![Gold Solidus of Justinian I (527–65)](/images/JustinianCoinTHUMB.jpg)
+
+#### Annotation
 
 Coins like this one from the Byzantine Empire can reveal a great deal. Coins found in a well can tell historians and archeologists the range of dates people settled in a given area. Coins can also help date other artifacts that researchers find near the coins. Finally coins tell historians the extent and reach of various trading networks. This coin features Byzantine Emperor Justinian I and is the first such coin to depict a frontal portrait of the emperor which would be the standard depiction for the rest of Byzantine history. A coin similar this this one was found in the tomb of Tian Hong (d. 575) in Guyuan, China over 4,000 miles (6400 km) away.
 This source is a part of the [*Analyzing Material Objects*](https://worldhistorycommons.org/analyzing-material-objects?page=0%2C5) methods module.
@@ -106,12 +118,16 @@ This source is a part of the [*Analyzing Material Objects*](https://worldhistory
 
 ![Temple of Vespasian altar](/images/Pompeii_Temple_of_Vespasian_altar_close-upTHUMB.jpg)
 
+#### Annotation
+
 This stone alter found in Pompeii, Italy was part of temple dedicated to the Roman Emperor Vespasian who ruled from 69 to 79 CE. The alter depicts a scene of a bull being led to a religious sacrifice, a common practice in ancient Rome. Objects from the past that have been preserved can tell scholars a lot about the people who created them. Pompeii is a notable example of preserved objects due to the disaster of Mount Vesuvius's explosion in 79 CE which buried the city under several feet of ash. This process preserved objects normally destroyed over time including wooden structures and even graffiti.
 This source is a part of the [*Analyzing Material Objects*](https://worldhistorycommons.org/analyzing-material-objects?page=0%2C5) methods module.
 
 ### [Bone comb](/bone-comb)
 
 ![Bone comb](/images/NeolithicCombTHUMB.jpg)
+
+#### Annotation
 
 Historians and archeologists can learn a great deal from artifacts such as this comb that may date from the Neolithic or Late Stone Age. Items found near the artifact can help provide context such as when the artifact was created and what it might have been used for. This comb, carved from bone, was found on the island of Gotland which is presently part of Sweden. It may have been used to comb nits (fleas eggs) out of someone's hair.
 This source is a part of the [*Analyzing Material Objects*](https://worldhistorycommons.org/analyzing-material-objects?page=0%2C5) methods module.
@@ -120,6 +136,8 @@ This source is a part of the [*Analyzing Material Objects*](https://worldhistory
 
 ![Gold dinar depicting Caliph Abd al-Malik](/images/First_Umayyad_gold_dinar_Caliph_Abd_al-Malik__695_CE_THUMB.jpg)
 
+#### Annotation
+
 Coins are objects that can help historians see change over time. This Dinar coined in 695 likely depicts Abd al-Malik ibn the caliph or leader of the Umayyad Caliphate. Several aspects of the coin make it an interesting object for study. For one, the coin's design was likely influenced by coins [like this one](https://worldhistorycommons.org/gold-solidus-justinian-i-527) produced by the Byzantine Empire. This indicates a cultural link between the two empires. Another interesting feature is the fact an image appears on the coin at all. The Muslim rule against of graven images of humans had not yet formed in this early history. [Coins minted only two to three years later](https://worldhistorycommons.org/gold-dinar-abd-al-malik-minted-damascus-69798) would feature just the inscription with no image.
 This source is a part of the [*Analyzing Material Objects*](https://worldhistorycommons.org/analyzing-material-objects?page=0%2C5) methods module.
 
@@ -127,9 +145,10 @@ This source is a part of the [*Analyzing Material Objects*](https://worldhistory
 
 ![A gold dinar of Abd al-Malik minted in Damascus in 697/98](/images/DinarNoImageTHUMB.png)
 
+#### Annotation
+
 Historians use coins to find evidence of change over time. This dinar coined in 697 or 698 was minted in Damascus by the Umayyad Caliph Abd al-Malik ibn. Compared to [a coin minted by the same state only a few years earlier](https://worldhistorycommons.org/gold-dinar-depicting-caliph-abd-al-malik) we notice an interesting difference. Whereas the earlier coin features an image of the caliph, this one has only an inscription in Arabic. The Muslim rule against graven images of humans was in the process of forming in this early history.
 This source is a part of the [*Analyzing Material Objects*](https://worldhistorycommons.org/analyzing-material-objects?page=0%2C5) methods module.
-
 
 ## Sample Analysis
 
@@ -152,6 +171,8 @@ These Byzantine coins provide one kind of evidence about China's contacts with t
 The Byzantine gold solidus was the “dollar” of its day in western Eurasia. From its creation in the 4th century, the weight and purity remained constant, guaranteeing its value for commercial transactions. With the rise of Islam in the 7th century, new Arab rulers wished to distinguish themselves from the Byzantines, whom they had conquered. Coins provided one way of doing so. Evidence from Caliph Abd al-Malik (685-705), who ruled in Damascus, offers interesting insight into this issue.
 
 The obverse of one example from the rule of Abd al-Malik, shows a ruler dressed in traditional Arab headdress and robes, standing with a sword. The reverse has a stepped platform with a pole or pillar. The inscriptions, in Arabic, include the Muslim declaration of faith and the date in the Muslim calendar AH 76. A second coin of Abd al-Malik the following year is strikingly different. Images have been replaced by Arabic inscriptions, and the coin weighs less than the Byzantine standard.
+
+![](/images/First_Umayyad_gold_dinar__Caliph_Abd_al-Malik__695_CE.jpg)
 
 Human images on early Arab coins are remarkable because Islam prohibits human representations. In this period, however, the restrictions were still being formed, and these coins imitate contemporary Byzantine ones with a picture of the ruler. The platform and pillar are also revealing. Byzantine coins have a platform with a cross; in these coins, the crossbar has been removed, changing a religious Christian symbol into a pillar.
 
